@@ -1,0 +1,3536 @@
+[
+  {
+    "source_idiom": "(hävitä kuin) pieru Saharaan",
+    "target_idiom": "jak kamień w wodę",
+    "source_meaning": "(to disappear) without a trace Cf. English \"like a fart in the wind\"",
+    "target_meaning": "into thin air, without a trace"
+  },
+  {
+    "source_idiom": "(ja) lehmät lentää",
+    "target_idiom": "śmiem wątpić",
+    "source_meaning": "Expressing doubt, skepticism.",
+    "target_meaning": "I dare doubt it (used when the speaker wants to politely question the validity or truthfulness of something)"
+  },
+  {
+    "source_idiom": "(joko) hyvällä tai pahalla",
+    "target_idiom": "chcąc nie chcąc",
+    "source_meaning": "Willingly or by force.",
+    "target_meaning": "willy-nilly, like it or not"
+  },
+  {
+    "source_idiom": "(jollain on) lepakoita tapulissa",
+    "target_idiom": "bystry jak woda w klozecie",
+    "source_meaning": "A slow-witted or mentally handicapped person",
+    "target_meaning": "dull-witted; dumb"
+  },
+  {
+    "source_idiom": "Antaa/Ala heittää/vetää!",
+    "target_idiom": "fora ze dwora",
+    "source_meaning": "To tell someone to leave immediately, \"Get out/off!/Buzz off! /Take a hike!\".",
+    "target_meaning": "out!, get out!"
+  },
+  {
+    "source_idiom": "Jobin kärsivällisyys",
+    "target_idiom": "uzbroić się w cierpliwość",
+    "source_meaning": "patience of Job",
+    "target_meaning": "to be patient"
+  },
+  {
+    "source_idiom": "Jumalan selän takana",
+    "target_idiom": "psy dupami szczekają",
+    "source_meaning": "in the middle of nowhere, in a godforsaken place",
+    "target_meaning": "this place is the boonies; Bumfuck; middle of nowhere"
+  },
+  {
+    "source_idiom": "Jumalan selän takana",
+    "target_idiom": "wieś zabita deskami",
+    "source_meaning": "in the middle of nowhere, in a godforsaken place",
+    "target_meaning": "middle of nowhere, Nowheresville"
+  },
+  {
+    "source_idiom": "Luojan lykky",
+    "target_idiom": "chwała Bogu",
+    "source_meaning": "thank God",
+    "target_meaning": "thank God"
+  },
+  {
+    "source_idiom": "aataminaikainen",
+    "target_idiom": "trącić myszką",
+    "source_meaning": "(Of an object) very old, old-fashioned",
+    "target_meaning": "to be fusty, to be old hat (to be old-fashioned or out of date)"
+  },
+  {
+    "source_idiom": "aikainen lintu madon nappaa",
+    "target_idiom": "ranny ptaszek",
+    "source_meaning": "the early bird gets the worm",
+    "target_meaning": "early bird"
+  },
+  {
+    "source_idiom": "ajaa pois",
+    "target_idiom": "złożyć z urzędu",
+    "source_meaning": "to force someone or something to leave, to drive away",
+    "target_meaning": "to remove from office (to force someone out of an official position)"
+  },
+  {
+    "source_idiom": "ajan hammas",
+    "target_idiom": "ząb czasu",
+    "source_meaning": "the passing of time as it has affected the validity or longevity of something; the test of time",
+    "target_meaning": "test of time (natural decay happening over long time scales)"
+  },
+  {
+    "source_idiom": "ajan merkki",
+    "target_idiom": "znak czasów",
+    "source_meaning": "sign of the times (symbol of an era)",
+    "target_meaning": "sign of the times"
+  },
+  {
+    "source_idiom": "ajan pitkään",
+    "target_idiom": "prędzej czy później",
+    "source_meaning": "in the long run",
+    "target_meaning": "sooner or later"
+  },
+  {
+    "source_idiom": "ajatella suuria",
+    "target_idiom": "mierzyć wysoko",
+    "source_meaning": "to think big",
+    "target_meaning": "to aim high, to play big, to think big"
+  },
+  {
+    "source_idiom": "ajautua karille",
+    "target_idiom": "sięgać bruku",
+    "source_meaning": "to hit the rocks, fall through",
+    "target_meaning": "to hit rock bottom (to change from being high quality to being low quality)"
+  },
+  {
+    "source_idiom": "alta aikayksikön",
+    "target_idiom": "w okamgnieniu",
+    "source_meaning": "at once, in no time, in a heartbeat, at the drop of a hat",
+    "target_meaning": "in the blink of an eye, in a flash, in no time"
+  },
+  {
+    "source_idiom": "alta pois",
+    "target_idiom": "na bok",
+    "source_meaning": "out of the way (taken or being taken care of)",
+    "target_meaning": "aside, to one side (towards one side or out of the way)"
+  },
+  {
+    "source_idiom": "alusta alkaen",
+    "target_idiom": "od początku",
+    "source_meaning": "from the very beginning, from the outset, from the inception, from the word go, from the get-go",
+    "target_meaning": "from the beginning, from the start"
+  },
+  {
+    "source_idiom": "ampua itseään jalkaan",
+    "target_idiom": "strzelić sobie w kolano",
+    "source_meaning": "to shoot oneself in the foot",
+    "target_meaning": "to shoot oneself in the foot (to act against one's own interests)"
+  },
+  {
+    "source_idiom": "ampua tykillä kärpästä",
+    "target_idiom": "strzelać z armaty do muchy",
+    "source_meaning": "to use a sledgehammer to crack a nut (to use disproportionate or significantly excessive force to carry out an action)",
+    "target_meaning": "to use a sledgehammer to crack a nut, to use excessive or inappropriate means to an end, sometimes counterproductively so"
+  },
+  {
+    "source_idiom": "anna olla",
+    "target_idiom": "niech będzie",
+    "source_meaning": "let it be (let something follow its natural course)",
+    "target_meaning": "so be it (indicates acceptance of a situation)"
+  },
+  {
+    "source_idiom": "antaa piupaut",
+    "target_idiom": "mieć wyjebane",
+    "source_meaning": "to not give a toss; to not care, to not mind [ allative ]",
+    "target_meaning": "to not give a fuck [ (+ accusative) ]"
+  },
+  {
+    "source_idiom": "arkipäivä",
+    "target_idiom": "druga natura",
+    "source_meaning": "of things that are or have become part of normal life",
+    "target_meaning": "second nature"
+  },
+  {
+    "source_idiom": "asettaa kyseenalaiseksi",
+    "target_idiom": "podać w wątpliwość",
+    "source_meaning": "to call into question (to cause to be questioned, to introduce doubt regarding)",
+    "target_meaning": "to call into question"
+  },
+  {
+    "source_idiom": "asettua taloksi",
+    "target_idiom": "wić gniazdko",
+    "source_meaning": "to settle down in, nest, settle (to settle into a home)",
+    "target_meaning": "to set up a home (of one's own)"
+  },
+  {
+    "source_idiom": "asia erikseen",
+    "target_idiom": "inkszŏ inkszość",
+    "source_meaning": "another matter, a different matter",
+    "target_meaning": "a different world; an entirely different matter"
+  },
+  {
+    "source_idiom": "astua jonkun varpaille",
+    "target_idiom": "następować na odcisk",
+    "source_meaning": "to step on someone's toes",
+    "target_meaning": "to hit a sore point"
+  },
+  {
+    "source_idiom": "autuaaksitekevä",
+    "target_idiom": "i po herbacie",
+    "source_meaning": "that brings happiness or satisfaction to all concerned; used especially of a solution or proposal that is presented as the only feasible one",
+    "target_meaning": "used to emphasize that what is being discussed is the best solution in a given situation and is not worth talking about any more"
+  },
+  {
+    "source_idiom": "avoin kirja",
+    "target_idiom": "na rozcież",
+    "source_meaning": "open book (naively open person)",
+    "target_meaning": "wide open"
+  },
+  {
+    "source_idiom": "dagen efter",
+    "target_idiom": "tupot białych mew",
+    "source_meaning": "hangover",
+    "target_meaning": "hangover, morning after (illness caused by heavy drinking)"
+  },
+  {
+    "source_idiom": "ehdoin tahdoin",
+    "target_idiom": "z miłą chęcią",
+    "source_meaning": "willingly, deliberately, intentionally, on purpose",
+    "target_meaning": "willingly, gladly"
+  },
+  {
+    "source_idiom": "ehjin nahoin",
+    "target_idiom": "cały i zdrowy",
+    "source_meaning": "in one piece, safe and sound (unhurt, unharmed)",
+    "target_meaning": "safe and sound, in one piece"
+  },
+  {
+    "source_idiom": "ei enää käkeä kukuta",
+    "target_idiom": "na łożu śmierci",
+    "source_meaning": "to be close to dying, be in very poor health",
+    "target_meaning": "at death's door, on one's deathbed"
+  },
+  {
+    "source_idiom": "ei hätä ole tämän näköinen",
+    "target_idiom": "spokojna głowa",
+    "source_meaning": "Don't worry. We'll make through this (in a distress/stressful situation)",
+    "target_meaning": "rest assured (used to tell the listener not to worry)"
+  },
+  {
+    "source_idiom": "ei ihme",
+    "target_idiom": "nic dziwnego",
+    "source_meaning": "no wonder",
+    "target_meaning": "it is small wonder that"
+  },
+  {
+    "source_idiom": "ei kauan nokka tuhissut",
+    "target_idiom": "krótka piłka",
+    "source_meaning": "Something happened that was over very quickly.",
+    "target_meaning": "used to emphasize that a given situation does not need to be discussed, as everything was quickly resolved"
+  },
+  {
+    "source_idiom": "ei millään pahalla",
+    "target_idiom": "bez urazy",
+    "source_meaning": "not for nothing (used to soften the impact of what is said next, implying that it is important)",
+    "target_meaning": "no hard feelings, no offense (used to make it clear that the intention of one's statement is not to offend the listener or criticize their views, even though it could be perceived that way)"
+  },
+  {
+    "source_idiom": "ei ole eilisen teeren poika",
+    "target_idiom": "z niejednego pieca chleb jeść",
+    "source_meaning": "have (accumulated) experience or wisdom, to not be born yesterday",
+    "target_meaning": "to be very experienced and familiar with many different life situations"
+  },
+  {
+    "source_idiom": "ei päätä eikä häntää",
+    "target_idiom": "siedzieć jak na tureckim kazaniu",
+    "source_meaning": "no head or tail of",
+    "target_meaning": "to not make head or tail of"
+  },
+  {
+    "source_idiom": "ei ristin sielua",
+    "target_idiom": "pies z kulawą nogą",
+    "source_meaning": "not a soul (not even a single person)",
+    "target_meaning": "no one, nobody"
+  },
+  {
+    "source_idiom": "ei sitä koskaan tiedä",
+    "target_idiom": "nigdy nie mów nigdy",
+    "source_meaning": "you never know",
+    "target_meaning": "never say never"
+  },
+  {
+    "source_idiom": "ei tekisi pahaa kärpäsellekään",
+    "target_idiom": "korona z głowy nie spadnie",
+    "source_meaning": "wouldn't hurt a fly",
+    "target_meaning": "something won't kill someone (something will not be a big problem)"
+  },
+  {
+    "source_idiom": "eilisen teeren poika",
+    "target_idiom": "frajer pompka",
+    "source_meaning": "Inexperienced, gullible (usually used with a negative, \"nobody's fool\", cf. \"born yesterday\")",
+    "target_meaning": "sucker (naive and clumsy person)"
+  },
+  {
+    "source_idiom": "eksynyt sielu",
+    "target_idiom": "żywa dusza",
+    "source_meaning": "lost soul (a person lacking direction or motivation in life)",
+    "target_meaning": "living soul (anybody)"
+  },
+  {
+    "source_idiom": "eläinten kuningas",
+    "target_idiom": "król zwierząt",
+    "source_meaning": "king of beasts (lion)",
+    "target_meaning": "king of beasts (lion)"
+  },
+  {
+    "source_idiom": "elää kädestä suuhun",
+    "target_idiom": "żyć od pierwszego do pierwszego",
+    "source_meaning": "to live hand-to-mouth, live paycheck to paycheck",
+    "target_meaning": "to live paycheck to paycheck"
+  },
+  {
+    "source_idiom": "elää leveästi",
+    "target_idiom": "król życia",
+    "source_meaning": "to live large",
+    "target_meaning": "someone who lives large"
+  },
+  {
+    "source_idiom": "enemmän tai vähemmän",
+    "target_idiom": "plus minus",
+    "source_meaning": "more or less (approximately or almost)",
+    "target_meaning": "approximately, more or less"
+  },
+  {
+    "source_idiom": "ennen aikojaan",
+    "target_idiom": "z wyprzedzeniem",
+    "source_meaning": "ahead of time (prior to the expected time; early)",
+    "target_meaning": "in advance, ahead of time"
+  },
+  {
+    "source_idiom": "ennen ajanlaskun alkua",
+    "target_idiom": "przed naszą erą",
+    "source_meaning": "before Common Era",
+    "target_meaning": "before the Common Era"
+  },
+  {
+    "source_idiom": "erottaa jyvät akanoista",
+    "target_idiom": "oddzielić ziarno od plew",
+    "source_meaning": "To separate the wheat from the chaff (to select only that which is of value).",
+    "target_meaning": "to separate the wheat from the chaff"
+  },
+  {
+    "source_idiom": "haihtua savuna ilmaan",
+    "target_idiom": "pójść z dymem",
+    "source_meaning": "to go up in smoke",
+    "target_meaning": "to go up in smoke (to catch fire and burn)"
+  },
+  {
+    "source_idiom": "haju",
+    "target_idiom": "mieć blade pojęcie",
+    "source_meaning": "clue, idea",
+    "target_meaning": "to have a clue, to have the foggiest, to have the faintest idea"
+  },
+  {
+    "source_idiom": "halkoa hiuksia",
+    "target_idiom": "dzielić włos na czworo",
+    "source_meaning": "To split hairs.",
+    "target_meaning": "to split hairs"
+  },
+  {
+    "source_idiom": "hangata vastaan",
+    "target_idiom": "wypowiedzieć posłuszeństwo",
+    "source_meaning": "to resist, refuse to cooperate",
+    "target_meaning": "to rebel (to stop performing requested tasks)  "
+  },
+  {
+    "source_idiom": "harva se päivä",
+    "target_idiom": "na porządku dziennym",
+    "source_meaning": "almost daily, quite often",
+    "target_meaning": "on a daily basis, on the daily (regular and normal, not strange)"
+  },
+  {
+    "source_idiom": "haudata sotakirves",
+    "target_idiom": "zakopywać topór wojenny",
+    "source_meaning": "to bury the hatchet",
+    "target_meaning": "to bury the hatchet"
+  },
+  {
+    "source_idiom": "haukata liian iso pala",
+    "target_idiom": "porywać się z motyką na słońce",
+    "source_meaning": "to bite off more than one can chew",
+    "target_meaning": "to bite off more than one can chew, to overestimate one's capabilities"
+  },
+  {
+    "source_idiom": "haukkua pystyyn",
+    "target_idiom": "przemówić do słuchu",
+    "source_meaning": "to tell off, haul over the coals, give hell to, give a piece of one's mind to",
+    "target_meaning": "to give what for, to give a piece of one's mind  "
+  },
+  {
+    "source_idiom": "heikompi astia",
+    "target_idiom": "słaba płeć",
+    "source_meaning": "weaker vessel (woman; women collectively)",
+    "target_meaning": "fair sex, weaker sex"
+  },
+  {
+    "source_idiom": "heittämällä",
+    "target_idiom": "bez trudności",
+    "source_meaning": "With little or no effort required.",
+    "target_meaning": "easily, effortlessly, readily"
+  },
+  {
+    "source_idiom": "heittää ensimmäinen kivi",
+    "target_idiom": "źdźbło w oku bliźniego widzisz, a belki w swoim nie dostrzegasz",
+    "source_meaning": "to cast the first stone",
+    "target_meaning": "judge not, that ye be not judged, people who live in glass houses shouldn't throw stones"
+  },
+  {
+    "source_idiom": "heittää helmiä sikojen eteen",
+    "target_idiom": "rzucić perły przed wieprze",
+    "source_meaning": "to cast pearls before swine",
+    "target_meaning": "to cast pearls before swine"
+  },
+  {
+    "source_idiom": "heittää henkensä",
+    "target_idiom": "wyzionąć ducha",
+    "source_meaning": "to give up the ghost, to die",
+    "target_meaning": "to give up the ghost (to die)"
+  },
+  {
+    "source_idiom": "heittää huiviin",
+    "target_idiom": "na hejnał",
+    "source_meaning": "to gulp down, scarf (to eat or drink quickly)",
+    "target_meaning": "chugalug (in continuous gulps)"
+  },
+  {
+    "source_idiom": "heittää hyvästit",
+    "target_idiom": "do widzenia",
+    "source_meaning": "to say goodbye",
+    "target_meaning": "goodbye"
+  },
+  {
+    "source_idiom": "heittää hyvää rahaa huonon perään",
+    "target_idiom": "wyrzucić pieniądze w błoto",
+    "source_meaning": "to throw good money after bad",
+    "target_meaning": "to throw money away, to throw money down the drain"
+  },
+  {
+    "source_idiom": "heittää kapuloita rattaisiin",
+    "target_idiom": "wsadzić kij w szprychy",
+    "source_meaning": "to throw a spanner in the works, throw a wrench in the works",
+    "target_meaning": "to put a spoke in someone's wheel"
+  },
+  {
+    "source_idiom": "heittää leijonille",
+    "target_idiom": "rzucić lwom na pożarcie",
+    "source_meaning": "to throw to the lions",
+    "target_meaning": "to throw to the lions"
+  },
+  {
+    "source_idiom": "heittää löylyä kiukaalle",
+    "target_idiom": "dolać oliwy do ognia",
+    "source_meaning": "to add fuel to the fire (worsen a conflict)",
+    "target_meaning": "to add fuel to the fire (to make matters worse)"
+  },
+  {
+    "source_idiom": "heittää pyyhe kehään",
+    "target_idiom": "dawać za wygraną",
+    "source_meaning": "to throw in the towel",
+    "target_meaning": "to back down, to fink out, to give up, to throw in the towel"
+  },
+  {
+    "source_idiom": "heittää veivinsä",
+    "target_idiom": "iść do piachu",
+    "source_meaning": "to bite the dust, to die",
+    "target_meaning": "to bite the dust, to kick the bucket (to die)"
+  },
+  {
+    "source_idiom": "helppo nakki",
+    "target_idiom": "bułka z masłem",
+    "source_meaning": "piece of cake, snap (easy task)",
+    "target_meaning": "piece of cake, walk in the park"
+  },
+  {
+    "source_idiom": "helvetti pääsee valloilleen",
+    "target_idiom": "dupa blada",
+    "source_meaning": "all hell breaks loose",
+    "target_meaning": "shit's hit the fan"
+  },
+  {
+    "source_idiom": "henkeen ja vereen",
+    "target_idiom": "pełnokrwisty",
+    "source_meaning": "dyed-in-the-wool, diehard",
+    "target_meaning": "full-blooded, purebred, thoroughbred (having genuine parents of the same breed)"
+  },
+  {
+    "source_idiom": "herran elämä",
+    "target_idiom": "życie jak w Madrycie",
+    "source_meaning": "life of Riley",
+    "target_meaning": "life of Riley"
+  },
+  {
+    "source_idiom": "heti paikalla",
+    "target_idiom": "w tych tropach",
+    "source_meaning": "right away (at this very moment; used often to strengthen a demand)",
+    "target_meaning": "immediately, right now"
+  },
+  {
+    "source_idiom": "hevosmiesten uutistoimisto",
+    "target_idiom": "poczta pantoflowa",
+    "source_meaning": "grapevine ‎(informal means of circulating gossip‎)",
+    "target_meaning": "grapevine, word of mouth"
+  },
+  {
+    "source_idiom": "hieraista silmiään",
+    "target_idiom": "zrobić wielkie oczy",
+    "source_meaning": "to be surprised or in disbelief",
+    "target_meaning": "to be very surprised"
+  },
+  {
+    "source_idiom": "hieroa käsiään yhteen",
+    "target_idiom": "bić brawo",
+    "source_meaning": "to rub one's hands together",
+    "target_meaning": "to applaud, to clap, to put one's hands together  "
+  },
+  {
+    "source_idiom": "hinnalla millä hyvänsä",
+    "target_idiom": "za wszelką cenę",
+    "source_meaning": "at all costs, no matter what",
+    "target_meaning": "at all costs"
+  },
+  {
+    "source_idiom": "hukka perii",
+    "target_idiom": "umarł w butach",
+    "source_meaning": "to be doomed",
+    "target_meaning": "used to indicate that the situation is hopeless and nothing can be done about it"
+  },
+  {
+    "source_idiom": "hukkareissu",
+    "target_idiom": "szukać wiatru w polu",
+    "source_meaning": "wild-goose chase",
+    "target_meaning": "to go on a wild goose chase (search for something fruitlessly)"
+  },
+  {
+    "source_idiom": "huomiohuora",
+    "target_idiom": "parcie na szkło",
+    "source_meaning": "attention whore",
+    "target_meaning": "craving for media attention; media whoring"
+  },
+  {
+    "source_idiom": "hyppiä silmille",
+    "target_idiom": "dać w kość",
+    "source_meaning": "to act aggressive and/or arrogant, push around, give trouble, come at one",
+    "target_meaning": "to give a hard time, to beat up (to cause physical or psychological discomfort)  "
+  },
+  {
+    "source_idiom": "hyppy tuntemattomaan",
+    "target_idiom": "skok wiary",
+    "source_meaning": "leap in the dark",
+    "target_meaning": "act of faith, leap of faith (act of believing in something despite lack of proof of its truth or existence, or the attempt of something without being sure of its possible outcome)"
+  },
+  {
+    "source_idiom": "hyvä suustaan",
+    "target_idiom": "mowa jest srebrem, a milczenie złotem",
+    "source_meaning": "silver-tongued",
+    "target_meaning": "speech is silver, silence is golden"
+  },
+  {
+    "source_idiom": "hyvän sään aikana",
+    "target_idiom": "ostatni dzwonek",
+    "source_meaning": "before it's too late, while one still can",
+    "target_meaning": "last call (moment when one can still perform an activity, and later it will no longer be possible)"
+  },
+  {
+    "source_idiom": "hyvää päivää",
+    "target_idiom": "w pizdę jeża",
+    "source_meaning": "as a very mild expletive, expressing disbelief, exasperation etc.",
+    "target_meaning": "fuck, whoa; expression of surprise, frustration or disappointment"
+  },
+  {
+    "source_idiom": "hyvää vauhtia",
+    "target_idiom": "w biegu",
+    "source_meaning": "at a good pace, at a good speed, fast",
+    "target_meaning": "at a run, on the double, running, on the go"
+  },
+  {
+    "source_idiom": "hävetä silmät päästään",
+    "target_idiom": "spłonąć ze wstydu",
+    "source_meaning": "to feel ashamed enough to drop one's eyes out (feeling so ashamed about what is happening that one would rather even lose the ability to see it)",
+    "target_meaning": "to feel extremely embarrassed"
+  },
+  {
+    "source_idiom": "ilman rihman kiertämää",
+    "target_idiom": "na golasa",
+    "source_meaning": "without a stitch on (naked)",
+    "target_meaning": "in one's birthday suit, in the nude, stark naked, starkers (completely nude)"
+  },
+  {
+    "source_idiom": "iskeä kirveensä kiveen",
+    "target_idiom": "zesrać się metr przed kiblem",
+    "source_meaning": "to make a terrible mistake, screw the pooch",
+    "target_meaning": "to make a mistake on the home stretch and fail to achieve the goal"
+  },
+  {
+    "source_idiom": "iso poika",
+    "target_idiom": "przy kości",
+    "source_meaning": "big boy",
+    "target_meaning": "big-boned, chunky"
+  },
+  {
+    "source_idiom": "istua kahdella tuolilla",
+    "target_idiom": "Panu Bogu świeczkę i diabłu ogarek",
+    "source_meaning": "to run with the hare and hunt with the hounds (support both sides of an argument, conflict, etc.), to straddle",
+    "target_meaning": "said when someone wants to satisfy two opposing parties for their own interest; run with the hare and hunt with the hounds"
+  },
+  {
+    "source_idiom": "isältä pojalle",
+    "target_idiom": "jaki ojciec, taki syn",
+    "source_meaning": "from father to son",
+    "target_meaning": "like father, like son"
+  },
+  {
+    "source_idiom": "itkeä silmät päästään",
+    "target_idiom": "śmiać się do łez",
+    "source_meaning": "to cry one's eyes out",
+    "target_meaning": "to cry-laugh, to laugh one's head off"
+  },
+  {
+    "source_idiom": "itse teossa",
+    "target_idiom": "na gorącym uczynku",
+    "source_meaning": "in the act",
+    "target_meaning": "in flagrante delicto, in the act, red-handed (in the act of committing a misdeed)"
+  },
+  {
+    "source_idiom": "itsepintaisesti",
+    "target_idiom": "z uporem maniaka",
+    "source_meaning": "insistently.",
+    "target_meaning": "stubbornly, obstinately"
+  },
+  {
+    "source_idiom": "ja niin edelleen",
+    "target_idiom": "i tak dalej",
+    "source_meaning": "et cetera, and so on, and so forth",
+    "target_meaning": "and so on"
+  },
+  {
+    "source_idiom": "jalat maassa",
+    "target_idiom": "trzymać się ziemi",
+    "source_meaning": "feet on the ground",
+    "target_meaning": "to have both feet on the ground"
+  },
+  {
+    "source_idiom": "jalkojen juuressa",
+    "target_idiom": "u stóp",
+    "source_meaning": "at the feet of (as a disciple, student, subordinate or worshiper of)",
+    "target_meaning": "at the foot of, at the bottom of, below, in the shadow of [ genitive]"
+  },
+  {
+    "source_idiom": "jatkaa sukua",
+    "target_idiom": "robić dzieci",
+    "source_meaning": "to procreate, reproduce, (of animals) to continue the species",
+    "target_meaning": "to make children (to breed)"
+  },
+  {
+    "source_idiom": "johtaa harhaan",
+    "target_idiom": "wprowadzić w błąd",
+    "source_meaning": "to mislead, misinform, deceive, lead astray (to cause someone to believe an untruth)",
+    "target_meaning": "to mislead (to deceive by lies or other false impression)"
+  },
+  {
+    "source_idiom": "joka iikka",
+    "target_idiom": "każda potwora znajdzie swojego amatora",
+    "source_meaning": "everyone; every man Jack",
+    "target_meaning": "every Jack has his Jill"
+  },
+  {
+    "source_idiom": "jos siltä näyttää",
+    "target_idiom": "jak sobie chcesz",
+    "source_meaning": "if the shoe fits, wear it",
+    "target_meaning": "suit yourself"
+  },
+  {
+    "source_idiom": "jos tahtoa on",
+    "target_idiom": "dla chcącego nic trudnego",
+    "source_meaning": "where there is a will",
+    "target_meaning": "where there is a will there is a way"
+  },
+  {
+    "source_idiom": "jos vanhat merkit pitävät paikkansa",
+    "target_idiom": "historia zatacza koło",
+    "source_meaning": "if the past is anything to go by",
+    "target_meaning": "history repeats itself"
+  },
+  {
+    "source_idiom": "juoda suruun",
+    "target_idiom": "zaglądać do kieliszka",
+    "source_meaning": "to drown one's sorrows",
+    "target_meaning": "to hit the bottle (to drink alcohol steadily and in excess, particularly in response to a setback)"
+  },
+  {
+    "source_idiom": "juopon napit",
+    "target_idiom": "założyć tyłem na przód",
+    "source_meaning": "When someone buttons up his/her shirt wrong.",
+    "target_meaning": "to put on backwards (to don an article of clothing the wrong way)"
+  },
+  {
+    "source_idiom": "juosta pää kolmantena jalkana",
+    "target_idiom": "ile tchu",
+    "source_meaning": "to run head over heels; at top speed, frantically",
+    "target_meaning": "at full tilt, as quickly as possible"
+  },
+  {
+    "source_idiom": "juttusille",
+    "target_idiom": "chodzić od drzwi do drzwi",
+    "source_meaning": "used of going to talk to someone",
+    "target_meaning": "to go door to door"
+  },
+  {
+    "source_idiom": "jymyhitti",
+    "target_idiom": "rozłożyć na łopatki",
+    "source_meaning": "smash hit",
+    "target_meaning": "to smash, to destroy"
+  },
+  {
+    "source_idiom": "jälkeen ajanlaskun alun",
+    "target_idiom": "nasza era",
+    "source_meaning": "Common Era",
+    "target_meaning": "Common Era"
+  },
+  {
+    "source_idiom": "jättää jälkensä",
+    "target_idiom": "wycisnąć piętno",
+    "source_meaning": "to leave one's mark",
+    "target_meaning": "to leave one's mark, to make one's mark, to stamp (to leave a lasting effect) [ (+ locative) ]"
+  },
+  {
+    "source_idiom": "jättää pulaan",
+    "target_idiom": "puszczać kantem",
+    "source_meaning": "to leave someone in the lurch, to leave somebody holding the bag (to abandon somebody and leave him or her in a difficult situation)",
+    "target_meaning": "to ditch, to run out on [ accusative ]"
+  },
+  {
+    "source_idiom": "jättää toivomisen varaa",
+    "target_idiom": "pozostawić wiele do życzenia",
+    "source_meaning": "to leave a lot to be desired, leave much to be desired",
+    "target_meaning": "to leave a lot to be desired"
+  },
+  {
+    "source_idiom": "jäädä alle",
+    "target_idiom": "paść ofiarą",
+    "source_meaning": "to be run over or hit [ genitive ]",
+    "target_meaning": "to fall victim [ genitive ]"
+  },
+  {
+    "source_idiom": "jäädä luu käteen",
+    "target_idiom": "nie mieć nic do stracenia",
+    "source_meaning": "to be left with nothing",
+    "target_meaning": "to have nothing to lose"
+  },
+  {
+    "source_idiom": "kaataa maailma",
+    "target_idiom": "tylko siąść i płakać",
+    "source_meaning": "to be the end of the world (be catastrophic or devastating)",
+    "target_meaning": "used to describe a situation that is so hopeless that nothing can be done to fix it anymore, so the speaker feels devastated"
+  },
+  {
+    "source_idiom": "kaatua kuolleena maahan",
+    "target_idiom": "paść trupem",
+    "source_meaning": "to drop dead (to die suddenly)",
+    "target_meaning": "to fall dead (to die suddenly)"
+  },
+  {
+    "source_idiom": "kahden tulen välissä",
+    "target_idiom": "między młotem a kowadłem",
+    "source_meaning": "between a rock and a hard place, between the devil and the deep blue sea",
+    "target_meaning": "between a rock and a hard place, between the hammer and the anvil"
+  },
+  {
+    "source_idiom": "kaikella kunnioituksella",
+    "target_idiom": "z całym szacunkiem",
+    "source_meaning": "with all due respect, with respect (mild apology used before disagreeing with someone)",
+    "target_meaning": "with all due respect, respectfully"
+  },
+  {
+    "source_idiom": "kaikin mokomin",
+    "target_idiom": "droga wolna",
+    "source_meaning": "by all means, be my guest",
+    "target_meaning": "all clear, be my guest, good to go"
+  },
+  {
+    "source_idiom": "kaikki munat samaan koriin",
+    "target_idiom": "postawić wszystko na jedną kartę",
+    "source_meaning": "all one's eggs in one basket",
+    "target_meaning": "to put all one's eggs in one basket"
+  },
+  {
+    "source_idiom": "kaivaa omaa hautaansa",
+    "target_idiom": "kręcić sznur na własną szyję",
+    "source_meaning": "to dig one's own grave",
+    "target_meaning": "to dig a hole for oneself"
+  },
+  {
+    "source_idiom": "kaivaa verta nenästään",
+    "target_idiom": "szukać guza",
+    "source_meaning": "to ask for it, beg for it, ask for trouble",
+    "target_meaning": "to ask for trouble, to be cruising for a bruising (to be following a course of action likely to result in injury or other trouble for oneself)"
+  },
+  {
+    "source_idiom": "kaksipa päätä makkarassa",
+    "target_idiom": "druga strona medalu",
+    "source_meaning": "Two sides of a thing, cf. \"two sides of a coin\"",
+    "target_meaning": "flip side, other side of the coin"
+  },
+  {
+    "source_idiom": "kaksiteräinen",
+    "target_idiom": "każdy kij ma dwa końce",
+    "source_meaning": "double-edged",
+    "target_meaning": "it cuts both ways, something is a double-edged sword"
+  },
+  {
+    "source_idiom": "kallella kypärin",
+    "target_idiom": "z ciężkim sercem",
+    "source_meaning": "Downhearted",
+    "target_meaning": "with a heavy heart, heavy-heartedly"
+  },
+  {
+    "source_idiom": "kallella kypärin",
+    "target_idiom": "mieć doła",
+    "source_meaning": "down, depressed, sad, blue (feeling low)",
+    "target_meaning": "to feel down, to be in low spirits (to feel unhappy)"
+  },
+  {
+    "source_idiom": "kanan muisti",
+    "target_idiom": "dziurawa pamięć",
+    "source_meaning": "memory of a goldfish",
+    "target_meaning": "mind like a sieve (very poor memory)"
+  },
+  {
+    "source_idiom": "kantaa kaunaa",
+    "target_idiom": "mieć wąty",
+    "source_meaning": "to hold a grudge, bear/have hard feelings",
+    "target_meaning": "to be resentful [ (+ genitive)]"
+  },
+  {
+    "source_idiom": "kantaa oma taakkansa",
+    "target_idiom": "dźwigać na barkach",
+    "source_meaning": "to carry one's weight",
+    "target_meaning": "to carry a weight on one's shoulders, to carry the weight of the world"
+  },
+  {
+    "source_idiom": "kantaa vettä kaivoon",
+    "target_idiom": "wozić drewno do lasu",
+    "source_meaning": "to carry coals to Newcastle",
+    "target_meaning": "to bring owls to Athens, to carry coals to Newcastle (to do something that is not needed)"
+  },
+  {
+    "source_idiom": "kantapään kautta",
+    "target_idiom": "na własnej skórze",
+    "source_meaning": "the hard way (from experience, sometimes tough)",
+    "target_meaning": "on one's own, the hard way"
+  },
+  {
+    "source_idiom": "kanto kaskessa",
+    "target_idiom": "próg wejścia",
+    "source_meaning": "obstacle, hindrance, someone resisting an idea, etc.",
+    "target_meaning": "barrier to entry (impediment that prohibits the use, adoption, application, etc., of something)"
+  },
+  {
+    "source_idiom": "karjan kynteen",
+    "target_idiom": "w obrosę",
+    "source_meaning": "of a brief rain shower in the morning, originally as the cows are going to pasture",
+    "target_meaning": "after or during dew (after or during moisture condensing on e.g. plants)"
+  },
+  {
+    "source_idiom": "kasvaa tynnyrissä",
+    "target_idiom": "ciemny jak tabaka w rogu",
+    "source_meaning": "to have lived under a rock",
+    "target_meaning": "dumb as a rock (of someone who is ignorant or primitive)"
+  },
+  {
+    "source_idiom": "katkaista napanuora",
+    "target_idiom": "wejść w słowo",
+    "source_meaning": "to cut the umbilical cord",
+    "target_meaning": "to cut off, to interrupt  "
+  },
+  {
+    "source_idiom": "katkaista siivet",
+    "target_idiom": "podcinać skrzydła",
+    "source_meaning": "to clip someone's wings [ genitive (possibly with possessive suffix for siivet); ablative (without possessive suffix)]",
+    "target_meaning": "to clip someone's wings (to restrict someone's freedom) [ instrumental]"
+  },
+  {
+    "source_idiom": "katsoa kieroon",
+    "target_idiom": "patrzeć wilkiem",
+    "source_meaning": "to look askance, to dislike",
+    "target_meaning": "to scowl (to look with hostility and distrustfulness)"
+  },
+  {
+    "source_idiom": "katsoa vierestä",
+    "target_idiom": "stanąć na uboczu",
+    "source_meaning": "to stand back (to maintain a safe distance from a hazard)",
+    "target_meaning": "to stand aside, to stand on the sidelines"
+  },
+  {
+    "source_idiom": "kauan sitten",
+    "target_idiom": "dawno temu",
+    "source_meaning": "long ago",
+    "target_meaning": "long ago, long since, many moons ago"
+  },
+  {
+    "source_idiom": "kauhistuksen kanahäkki",
+    "target_idiom": "na wszystkie świętości",
+    "source_meaning": "holy ravioli",
+    "target_meaning": "by all that's holy (very honestly)"
+  },
+  {
+    "source_idiom": "kaveria ei jätetä",
+    "target_idiom": "w pień",
+    "source_meaning": "no man left behind",
+    "target_meaning": "so that no one is left alive"
+  },
+  {
+    "source_idiom": "keikuttaa venettä",
+    "target_idiom": "wsadzić kij w mrowisko",
+    "source_meaning": "to rock the boat",
+    "target_meaning": "to put the cat among the pigeons, to stir the pot"
+  },
+  {
+    "source_idiom": "keinolla millä hyvänsä",
+    "target_idiom": "jak by nie było",
+    "source_meaning": "by hook or by crook (by any means possible; one way or another)",
+    "target_meaning": "any way one slices it; no matter what (regardless of any or most possible adverse circumstances)"
+  },
+  {
+    "source_idiom": "keksiä pyörä uudelleen",
+    "target_idiom": "wynajdować koło na nowo",
+    "source_meaning": "to reinvent the wheel",
+    "target_meaning": "to reinvent the wheel"
+  },
+  {
+    "source_idiom": "keskellä kirkasta päivää",
+    "target_idiom": "na widoku",
+    "source_meaning": "in broad daylight",
+    "target_meaning": "in plain sight"
+  },
+  {
+    "source_idiom": "kestää viinaa",
+    "target_idiom": "mieć słabą głowę",
+    "source_meaning": "to hold one's liquor",
+    "target_meaning": "to be unable to hold one's liquor"
+  },
+  {
+    "source_idiom": "ketunhäntä kainalossa",
+    "target_idiom": "dla niepoznaki",
+    "source_meaning": "with a hidden agenda, with an ulterior motive",
+    "target_meaning": "as a disguise (so as to cover one's tracks to avoid recognition)"
+  },
+  {
+    "source_idiom": "kiehua omassa liemessään",
+    "target_idiom": "jak sobie pościelesz, tak się wyśpisz",
+    "source_meaning": "to endure a difficult situation that one has brought upon oneself; to (make one's bed and) lie in it",
+    "target_meaning": "as you make your bed, so you must lie in it; as you sow, so shall you reap; success depends on foresight and preparation"
+  },
+  {
+    "source_idiom": "kielen päällä",
+    "target_idiom": "na końcu języka",
+    "source_meaning": "on the tip of one's tongue (known but not quite remembered)",
+    "target_meaning": "on the tip of one's tongue"
+  },
+  {
+    "source_idiom": "kieli keskellä suuta",
+    "target_idiom": "po jubilersku",
+    "source_meaning": "very cautiously, especially when talking of a sensitive subject or performing a task that requires precision",
+    "target_meaning": "surgically (very exactly or precisely)"
+  },
+  {
+    "source_idiom": "kieli solmussa",
+    "target_idiom": "ani be, ani me, ani kukuryku",
+    "source_meaning": "tongue-tied, at a loss for words (unable to express oneself clearly or fluently)",
+    "target_meaning": "unable or unwilling to say anything, not a word"
+  },
+  {
+    "source_idiom": "kiertää ympyrää",
+    "target_idiom": "zataczać koło",
+    "source_meaning": "to go round in circles",
+    "target_meaning": "to come full circle"
+  },
+  {
+    "source_idiom": "kiireestä kantapäähän",
+    "target_idiom": "od czubka głowy do pięt",
+    "source_meaning": "from top to toe",
+    "target_meaning": "from head to toe, from top to toe"
+  },
+  {
+    "source_idiom": "kiitos tyhjästä",
+    "target_idiom": "łaski bez",
+    "source_meaning": "thanks for nothing (unhappy for actual unhelpfulness)",
+    "target_meaning": "thanks for nothing"
+  },
+  {
+    "source_idiom": "kiittää onneaan",
+    "target_idiom": "urodzić się w czepku",
+    "source_meaning": "to thank one's lucky stars [ elative ]",
+    "target_meaning": "to be born under a lucky star"
+  },
+  {
+    "source_idiom": "kilometritehtailija",
+    "target_idiom": "na piechotę",
+    "source_meaning": "long-distance runner or walker",
+    "target_meaning": "on foot (walking, jogging, running)"
+  },
+  {
+    "source_idiom": "kimpsut ja kampsut",
+    "target_idiom": "stare pudło",
+    "source_meaning": "bag and baggage",
+    "target_meaning": "old bag"
+  },
+  {
+    "source_idiom": "kiristää nälkävyötään",
+    "target_idiom": "zaciskać pasa",
+    "source_meaning": "to tighten one's belt (be more frugal, especially to eat less)",
+    "target_meaning": "to tighten one's belt (to be more frugal; to make difficult economic savings due to a lowering of expected income)"
+  },
+  {
+    "source_idiom": "kissanristiäiset",
+    "target_idiom": "wejście smoka",
+    "source_meaning": "opening of an envelope (kind of event or activity perceived to be contributing to one's self-promotion or visibility in society)",
+    "target_meaning": "grand entrance (causing a big sensation with an act or just by appearing in a certain place)"
+  },
+  {
+    "source_idiom": "kiven alla",
+    "target_idiom": "z trudem",
+    "source_meaning": "Difficult to obtain",
+    "target_meaning": "with difficulty"
+  },
+  {
+    "source_idiom": "koira haudattuna",
+    "target_idiom": "coś tu nie gra",
+    "source_meaning": "An implication that there's something foul behind the scenes, the situation is not what it appears to be.",
+    "target_meaning": "something's off, something's not right here, something is wrong, something doesn't add up, something's up"
+  },
+  {
+    "source_idiom": "koiranilma",
+    "target_idiom": "pieska pogoda",
+    "source_meaning": "bad weather, awful weather",
+    "target_meaning": "bad weather"
+  },
+  {
+    "source_idiom": "koirankorva",
+    "target_idiom": "ośle ucho",
+    "source_meaning": "folded or worn-out corner of a page of a book, such as caused by frequent flipping of the pages",
+    "target_meaning": "dog-ear (the folded corner of the page of a book or other publication)"
+  },
+  {
+    "source_idiom": "kolme varttia",
+    "target_idiom": "godzina zegarowa",
+    "source_meaning": "three-quarters (45 minutes)",
+    "target_meaning": "clock hour (full sixty-minute period as opposed to a scheduled length of time that is called an \"hour\" but not equivalent to sixty minutes, such as a student hour)"
+  },
+  {
+    "source_idiom": "korottaa ääntään",
+    "target_idiom": "podnosić głos",
+    "source_meaning": "to raise one's voice",
+    "target_meaning": "to raise one's voice [ (+ accusative) ]"
+  },
+  {
+    "source_idiom": "korsi, joka katkaisee kamelin selän",
+    "target_idiom": "kropla, która przelała czarę",
+    "source_meaning": "the straw that broke the camel's back",
+    "target_meaning": "the straw that broke the camel's back"
+  },
+  {
+    "source_idiom": "kreivin aikaan",
+    "target_idiom": "w porę",
+    "source_meaning": "At the best possible moment; at the most appropriate time; right when needed.",
+    "target_meaning": "in time, on time, timelily (so that something happens or is done at the right time)"
+  },
+  {
+    "source_idiom": "kuin Euroopan/maailman omistaja",
+    "target_idiom": "ą-ę",
+    "source_meaning": "Acting excessively posh and snobby. Usually an implication of misplacen superiority towards others.",
+    "target_meaning": "hoity-toity, la-di-da, posh, snobbish"
+  },
+  {
+    "source_idiom": "kuin paita ja peppu",
+    "target_idiom": "jak dwie krople wody",
+    "source_meaning": "like two peas in a pod, thick as thieves",
+    "target_meaning": "like two peas in a pod"
+  },
+  {
+    "source_idiom": "kuin palmun alta",
+    "target_idiom": "na glans",
+    "source_meaning": "very smoothly and/or quickly (in verb phrases describing starting up, especially in reference to vehicles or machines)",
+    "target_meaning": "very cleanly, glossily, shinily, smoothly"
+  },
+  {
+    "source_idiom": "kuin tervan juontia",
+    "target_idiom": "jak krew z nosa",
+    "source_meaning": "Extremely slow, difficult, or arduous.",
+    "target_meaning": "very slowly, with great difficulty"
+  },
+  {
+    "source_idiom": "kuin täi tervassa",
+    "target_idiom": "jak mucha w smole",
+    "source_meaning": "Extremely slow",
+    "target_meaning": "slow as molasses in January"
+  },
+  {
+    "source_idiom": "kukonlaulu",
+    "target_idiom": "do dnia",
+    "source_meaning": "cockcrow (time of day at which the first crow of a cockerel is heard; dawn or daybreak; first light)",
+    "target_meaning": "very early in the morning"
+  },
+  {
+    "source_idiom": "kulkea omaa tietään",
+    "target_idiom": "chodzić własnymi drogami",
+    "source_meaning": "to go one's own way",
+    "target_meaning": "to do one's own thing"
+  },
+  {
+    "source_idiom": "kultainen hanhi",
+    "target_idiom": "kura znosząca złote jajka",
+    "source_meaning": "golden goose",
+    "target_meaning": "golden goose, gold mine, lucky strike, sweet deal (very profitable economic venture)"
+  },
+  {
+    "source_idiom": "kultainen häkki",
+    "target_idiom": "wieża z kości słoniowej",
+    "source_meaning": "gilded cage",
+    "target_meaning": "ivory tower"
+  },
+  {
+    "source_idiom": "kummin kaima",
+    "target_idiom": "siódma woda po kisielu",
+    "source_meaning": "A distant relative.",
+    "target_meaning": "very distant family member"
+  },
+  {
+    "source_idiom": "kuollut kirjain",
+    "target_idiom": "bubel prawny",
+    "source_meaning": "dead letter, sleeper (law, measure, doctrine or similar that is no longer enforced despite still being formally in force)",
+    "target_meaning": "defective law; an act or bill that is ineffective or has obvious loopholes"
+  },
+  {
+    "source_idiom": "kurkkua myöten täynnä",
+    "target_idiom": "mieć dość",
+    "source_meaning": "fed up, fed up to the back teeth (frustrated, annoyed, tired)",
+    "target_meaning": "to have had enough, to be fed up"
+  },
+  {
+    "source_idiom": "kusemiskilpailu",
+    "target_idiom": "konkurs piękności",
+    "source_meaning": "pissing contest (pointless competition)",
+    "target_meaning": "dick-measuring contest, pissing contest, beauty pageant, beauty contest (pointless competition, dispute, or conflict, often over some trivial matter)"
+  },
+  {
+    "source_idiom": "kuuma peruna",
+    "target_idiom": "gorący kartofel",
+    "source_meaning": "hot potato",
+    "target_meaning": "hot potato (awkward or delicate problem)"
+  },
+  {
+    "source_idiom": "kylillä",
+    "target_idiom": "w sąsiedztwie",
+    "source_meaning": "in one or more villages or neighbourhoods nearby (especially the central one of) one's residence area",
+    "target_meaning": "in the neighbourhood of, near, close to [ genitive]"
+  },
+  {
+    "source_idiom": "kylä",
+    "target_idiom": "domowe pielesze",
+    "source_meaning": "Any private place, typically someone else's home, which one is visiting.",
+    "target_meaning": "one's own home as a familiar, comfortable, and cosy place"
+  },
+  {
+    "source_idiom": "kynsin hampain",
+    "target_idiom": "co sił",
+    "source_meaning": "tooth and nail; with all the strength and means at one's disposal",
+    "target_meaning": "with all one's might"
+  },
+  {
+    "source_idiom": "kynsin ja hampain",
+    "target_idiom": "kłaść się Rejtanem",
+    "source_meaning": "tooth and nail (viciously; with all one's strength or power; without holding back)",
+    "target_meaning": "to fight tooth and nail against something, to oppose intensely"
+  },
+  {
+    "source_idiom": "kärpänen katossa",
+    "target_idiom": "ściany mają uszy",
+    "source_meaning": "fly on the wall",
+    "target_meaning": "walls have ears"
+  },
+  {
+    "source_idiom": "käsitellä silkkihansikkain",
+    "target_idiom": "stąpać po kruchym lodzie",
+    "source_meaning": "to handle with kid gloves, to walk on eggshells (handle very delicately or carefully)",
+    "target_meaning": "to be walking on thin ice (to take a risky action)"
+  },
+  {
+    "source_idiom": "käydä ilmi",
+    "target_idiom": "wyjść na jaw",
+    "source_meaning": "to come to light, emerge, arise",
+    "target_meaning": "to come to light"
+  },
+  {
+    "source_idiom": "käydä kalpaten",
+    "target_idiom": "mieć przejebane",
+    "source_meaning": "to be in trouble, to have something bad happen to one, to be screwed",
+    "target_meaning": "to be fucked, to be screwed (to be in an extremely difficult situation)"
+  },
+  {
+    "source_idiom": "käydä kateeksi",
+    "target_idiom": "zzielenieć z zazdrości",
+    "source_meaning": "to envy, be envious [ partitive nominative ]",
+    "target_meaning": "to be green with envy"
+  },
+  {
+    "source_idiom": "käydä kierroksilla",
+    "target_idiom": "szewska pasja",
+    "source_meaning": "to be in an agitated or aggressive state",
+    "target_meaning": "fury; extreme anger or agitation"
+  },
+  {
+    "source_idiom": "käydä päälle",
+    "target_idiom": "na ręce",
+    "source_meaning": "to attack, assail, assault, come at, go for [ genitive and/or possessive form]",
+    "target_meaning": "to; towards (used to indicate the target or recipient of an action) [ genitive]"
+  },
+  {
+    "source_idiom": "käydä toteen",
+    "target_idiom": "dojść do skutku",
+    "source_meaning": "to come true, to realize, to become real",
+    "target_meaning": "to come off, to come through (come to fruition)"
+  },
+  {
+    "source_idiom": "kääntyä haudassaan",
+    "target_idiom": "przewrócić się w grobie",
+    "source_meaning": "to turn in one's grave",
+    "target_meaning": "to turn in one's grave"
+  },
+  {
+    "source_idiom": "kääntyä jonkun puoleen",
+    "target_idiom": "zasięgać języka",
+    "source_meaning": "to turn to, consult (to consult for advice)",
+    "target_meaning": "to ask around, to consult"
+  },
+  {
+    "source_idiom": "kääntää maat ja taivaat nurin",
+    "target_idiom": "poruszać wszystkie sprężyny",
+    "source_meaning": "to move heaven and earth",
+    "target_meaning": "to move heaven and earth"
+  },
+  {
+    "source_idiom": "kääntää selkänsä",
+    "target_idiom": "przymykać oko",
+    "source_meaning": "to turn one's back",
+    "target_meaning": "to look the other way, to shut one's eyes, to turn a blind eye"
+  },
+  {
+    "source_idiom": "kääntää toinenkin poski",
+    "target_idiom": "nadstawić drugi policzek",
+    "source_meaning": "to turn the other cheek",
+    "target_meaning": "to turn the other cheek"
+  },
+  {
+    "source_idiom": "käärmeissään",
+    "target_idiom": "w dupie szczypie",
+    "source_meaning": "annoyed, angry, pissed off",
+    "target_meaning": "something pisses someone off"
+  },
+  {
+    "source_idiom": "köyhä sukulainen",
+    "target_idiom": "ubogi krewny",
+    "source_meaning": "poor relation",
+    "target_meaning": "poor relation"
+  },
+  {
+    "source_idiom": "laitapuoli",
+    "target_idiom": "drugi garnitur",
+    "source_meaning": "fringe or margin of the society",
+    "target_meaning": "small fry (group of less important, insignificant people representing a given environment)"
+  },
+  {
+    "source_idiom": "laittaa hanskat/rukkaset naulaan",
+    "target_idiom": "nie powiedzieć jeszcze ostatniego słowa",
+    "source_meaning": "give up",
+    "target_meaning": "to not give up"
+  },
+  {
+    "source_idiom": "laittaa kylmäksi",
+    "target_idiom": "położyć trupem",
+    "source_meaning": "to ice, kill, slay, do in, knock off, bump off",
+    "target_meaning": "to kill"
+  },
+  {
+    "source_idiom": "lakki kourassa",
+    "target_idiom": "na kolanach",
+    "source_meaning": "hat in hand",
+    "target_meaning": "hat in hand, humbly"
+  },
+  {
+    "source_idiom": "lapsenkengissä",
+    "target_idiom": "w powijakach",
+    "source_meaning": "in its infancy, at an early stage",
+    "target_meaning": "aborning, in diapers (in its initial stages)"
+  },
+  {
+    "source_idiom": "laskea rimaa",
+    "target_idiom": "obniżyć poprzeczkę",
+    "source_meaning": "to lower the bar",
+    "target_meaning": "to lower the bar, to reduce standards or expectations"
+  },
+  {
+    "source_idiom": "laskea yhden käden sormin",
+    "target_idiom": "policzyć na palcach jednej ręki",
+    "source_meaning": "to count on the fingers of one hand",
+    "target_meaning": "to count on the fingers of one hand"
+  },
+  {
+    "source_idiom": "latvasta laho",
+    "target_idiom": "niespełna rozumu",
+    "source_meaning": "nutty, barmy; mad, insane",
+    "target_meaning": "feeble-minded, off one's chump, off one's nut, off one's rocker"
+  },
+  {
+    "source_idiom": "lehmän hermot",
+    "target_idiom": "brytyjska flegma",
+    "source_meaning": "very calm nerves, cool head, patience of a saint",
+    "target_meaning": "sangfroid, self-possession, stiff upper lip (especially when in a dangerous situation)"
+  },
+  {
+    "source_idiom": "leikkiä tulella",
+    "target_idiom": "igrać z ogniem",
+    "source_meaning": "to play with fire",
+    "target_meaning": "to play with fire"
+  },
+  {
+    "source_idiom": "lennossa",
+    "target_idiom": "łapu-capu",
+    "source_meaning": "on the fly",
+    "target_meaning": "on the fly (quickly and without thinking)"
+  },
+  {
+    "source_idiom": "levätä laakereillaan",
+    "target_idiom": "spoczywać na laurach",
+    "source_meaning": "to rest on one's laurels (to rely on a past success instead of trying to improve oneself further)",
+    "target_meaning": "to rest on one's laurels"
+  },
+  {
+    "source_idiom": "liata kätensä",
+    "target_idiom": "ubrudzić sobie ręce",
+    "source_meaning": "to get one's hands dirty",
+    "target_meaning": "to get one's hands dirty (to get involved with the unpleasant parts of a task, such as manual labour or unethical activities)"
+  },
+  {
+    "source_idiom": "lievästi sanottuna",
+    "target_idiom": "dość powiedzieć",
+    "source_meaning": "to say the least",
+    "target_meaning": "suffice it to say"
+  },
+  {
+    "source_idiom": "liian hyvä ollakseen totta",
+    "target_idiom": "baśń z tysiąca i jednej nocy",
+    "source_meaning": "too good to be true",
+    "target_meaning": "something too good to be true"
+  },
+  {
+    "source_idiom": "loppusuora",
+    "target_idiom": "ostatnia prosta",
+    "source_meaning": "home stretch, home straight, short strokes (final part of a distance or effort needed)",
+    "target_meaning": "home stretch, final portion of something"
+  },
+  {
+    "source_idiom": "lukea kuin piru Raamattua",
+    "target_idiom": "litera prawa",
+    "source_meaning": "To deliberately look for loopholes, in order to follow the letter without following the spirit. Note: Based on the Bible (Luke 4:1-13, Matthew 4:1-11 and Psalms 91:11-12). English equivalent: The devil can cite scripture for his purpose. (Shakespeare, The Merchant of Venice act 1, scene 3)",
+    "target_meaning": "letter of the law (strict interpretation of the law or rules)"
+  },
+  {
+    "source_idiom": "lukea rivien välistä",
+    "target_idiom": "czytać między wierszami",
+    "source_meaning": "to read between the lines",
+    "target_meaning": "to read between the lines"
+  },
+  {
+    "source_idiom": "lukkarinrakkaus",
+    "target_idiom": "czuła struna",
+    "source_meaning": "soft spot (sentimental fondness or affection)",
+    "target_meaning": "soft spot (topic which is close to someone and can evoke strong emotions)"
+  },
+  {
+    "source_idiom": "luopua aseista",
+    "target_idiom": "składać oręż",
+    "source_meaning": "to lay down one's arms",
+    "target_meaning": "to lay down one's arms"
+  },
+  {
+    "source_idiom": "luuta ja nahkaa",
+    "target_idiom": "chudy jak patyk",
+    "source_meaning": "skin and bones (very skinny, as from lack of nutrition)",
+    "target_meaning": "thin as a rail"
+  },
+  {
+    "source_idiom": "luvata yhdeksän hyvää ja kymmenen kaunista",
+    "target_idiom": "obiecywać złote góry",
+    "source_meaning": "to promise the moon, to promise heaven and earth",
+    "target_meaning": "to promise the moon (to promise something impossible; to make a promise which one does not intend to fulfill; to make wildly exaggerated, unrealistic promises)"
+  },
+  {
+    "source_idiom": "lyhyesti sanottuna",
+    "target_idiom": "w kilku słowach",
+    "source_meaning": "in short (as a summary; as a shortened version of what has been told or what would have been told)",
+    "target_meaning": "in short (used as a summary)"
+  },
+  {
+    "source_idiom": "lyödä kortit pöytään",
+    "target_idiom": "wyłożyć wszystkie karty na stół",
+    "source_meaning": "to put one's cards on the table",
+    "target_meaning": "to put one's cards on the table"
+  },
+  {
+    "source_idiom": "lyödä ällikällä",
+    "target_idiom": "zbijać z pantałyku",
+    "source_meaning": "to strike with awe, knock back, awestrike",
+    "target_meaning": "to knock for a loop, to throw off (to astonish, overwhelm, confuse)"
+  },
+  {
+    "source_idiom": "läheltä piti",
+    "target_idiom": "mało brakowało",
+    "source_meaning": "it was close, it was a close shave",
+    "target_meaning": "that was a close call"
+  },
+  {
+    "source_idiom": "lähteä kuin telkkä pöntöstä",
+    "target_idiom": "wyjść po angielsku",
+    "source_meaning": "To leave quickly",
+    "target_meaning": "to take French leave (to take a sudden or unannounced departure)"
+  },
+  {
+    "source_idiom": "läpi harmaan kiven",
+    "target_idiom": "droga przez mękę",
+    "source_meaning": "through (extreme) toil or hardship",
+    "target_meaning": "ordeal, purgatory (series of events that are difficult or painful for someone)"
+  },
+  {
+    "source_idiom": "läpi helvetin",
+    "target_idiom": "z piekła rodem",
+    "source_meaning": "through hell",
+    "target_meaning": "from hell"
+  },
+  {
+    "source_idiom": "maailman napa",
+    "target_idiom": "perła w koronie",
+    "source_meaning": "center of the universe, that which the world revolves around",
+    "target_meaning": "person or thing of extreme importance and uniqueness in some respect or in some field"
+  },
+  {
+    "source_idiom": "maalata pirua seinälle",
+    "target_idiom": "wywołać wilka z lasu",
+    "source_meaning": "to expect a misfortune to happen by speaking about it and the chance of it happening",
+    "target_meaning": "to make something that was previously feared happen by saying it out loud or thinking about it"
+  },
+  {
+    "source_idiom": "maata näkyvissä",
+    "target_idiom": "witamy na pokładzie",
+    "source_meaning": "land ahoy!",
+    "target_meaning": "welcome on board!"
+  },
+  {
+    "source_idiom": "maistaa omaa lääkettään",
+    "target_idiom": "nie czyń drugiemu, co tobie niemiłe",
+    "source_meaning": "to get a taste of one's own medicine",
+    "target_meaning": "give as good as one gets, measure for measure, tit for tat, what goes around comes around"
+  },
+  {
+    "source_idiom": "maksaa mansikoita",
+    "target_idiom": "uderzać po kieszeni",
+    "source_meaning": "to cost an arm and a leg, to cost the earth (to be a huge expense)",
+    "target_meaning": "to be hard on the pocket, to burn a hole in one's pocket [ accusative ]"
+  },
+  {
+    "source_idiom": "maksaa samalla mitalla",
+    "target_idiom": "w odwecie",
+    "source_meaning": "to pay back (to exact revenge)",
+    "target_meaning": "in reprisal"
+  },
+  {
+    "source_idiom": "matkan varrella",
+    "target_idiom": "po drodze",
+    "source_meaning": "down the track, down the line, down the road (further along, in terms of time or progress)",
+    "target_meaning": "along the way, en route, on the way"
+  },
+  {
+    "source_idiom": "melaa mekkoon",
+    "target_idiom": "te sprawy",
+    "source_meaning": "Used in expressions relating to sex",
+    "target_meaning": "sex (sexual activity)"
+  },
+  {
+    "source_idiom": "menneen talven lumia",
+    "target_idiom": "stare dzieje",
+    "source_meaning": "yesterday's news, history, bygones",
+    "target_meaning": "yesterday's news"
+  },
+  {
+    "source_idiom": "mennä asioiden edelle",
+    "target_idiom": "dzielić skórę na niedźwiedziu",
+    "source_meaning": "to get ahead of oneself",
+    "target_meaning": "to count one's chickens before they hatch"
+  },
+  {
+    "source_idiom": "mennä itseensä",
+    "target_idiom": "w skrytości serca",
+    "source_meaning": "to search one's heart",
+    "target_meaning": "in one's heart of hearts"
+  },
+  {
+    "source_idiom": "mennä naimisiin",
+    "target_idiom": "brać ślub",
+    "source_meaning": "to marry, get married [reciprocal ] (to take someone as husband or wife; to be joined in marriage)",
+    "target_meaning": "to get married"
+  },
+  {
+    "source_idiom": "mennä niin kuin Strömsössä",
+    "target_idiom": "pójść jak z płatka",
+    "source_meaning": "to go as planned, go according to plan, go smoothly",
+    "target_meaning": "to go like clockwork (to happen exactly as planned, without any trouble)"
+  },
+  {
+    "source_idiom": "mennä pipariksi",
+    "target_idiom": "w drebiezgi",
+    "source_meaning": "Something goes completely wrong. Could be translated as \"Shatters as gingerbread\".",
+    "target_meaning": "to pieces, into smithereens"
+  },
+  {
+    "source_idiom": "mennä päin mäntyä",
+    "target_idiom": "spełznąć na niczym",
+    "source_meaning": "to go wrong, to fall through",
+    "target_meaning": "to come to nought, to fail"
+  },
+  {
+    "source_idiom": "mennä päin prinkkalaa",
+    "target_idiom": "schodzić na psy",
+    "source_meaning": "to go wrong",
+    "target_meaning": "to go to the dogs (to become worse)"
+  },
+  {
+    "source_idiom": "mennä retkuun",
+    "target_idiom": "wziąć pod bajer",
+    "source_meaning": "to get fooled, to fall for (a trap, scam, etc.)",
+    "target_meaning": "to take for a ride, to pull a fast one (to deceive)"
+  },
+  {
+    "source_idiom": "mennä sukset ristiin",
+    "target_idiom": "pójść na udry",
+    "source_meaning": "to cross swords (to have a dispute)",
+    "target_meaning": "to oppose (to have an intense conflict with someone) [ (+ instrumental) ]"
+  },
+  {
+    "source_idiom": "mennä syyhyttä saunaan",
+    "target_idiom": "wcinać się między wódkę a zakąskę",
+    "source_meaning": "to get involved in something troublesome that one has no business getting involved in",
+    "target_meaning": "to intermeddle, to interfere in things not of one's concern"
+  },
+  {
+    "source_idiom": "mennä tunteisiin",
+    "target_idiom": "z bijącym sercem",
+    "source_meaning": "to affect emotionally, cause (someone) to get emotional",
+    "target_meaning": "experiencing strong emotions"
+  },
+  {
+    "source_idiom": "mennä virran mukana",
+    "target_idiom": "pójść z prądem",
+    "source_meaning": "To go with the flow (same meaning).",
+    "target_meaning": "to go with the tide (to go along or agree with the prevailing or popularly held opinion or perspective)"
+  },
+  {
+    "source_idiom": "mennä yli",
+    "target_idiom": "przeciągnąć strunę",
+    "source_meaning": "to go overboard, go too far",
+    "target_meaning": "to cross the line, to go too far, to overstep the mark"
+  },
+  {
+    "source_idiom": "mennä yli hilseen",
+    "target_idiom": "nie do pojęcia",
+    "source_meaning": "To be too difficult for one to comprehend.",
+    "target_meaning": "beyond comprehension, beyond belief, that beggars belief, mind-boggling, unconceivable, incomprehensible"
+  },
+  {
+    "source_idiom": "mennä yli siitä mistä aita on matalin",
+    "target_idiom": "iść na łatwiznę",
+    "source_meaning": "to do something the easy way, cut corners",
+    "target_meaning": "to cut corners, to take the easy way out (to choose a course of action that is easier and that requires less effort or that costs less)"
+  },
+  {
+    "source_idiom": "mielin määrin",
+    "target_idiom": "do woli",
+    "source_meaning": "as much as one wants, at will, all that one wants",
+    "target_meaning": "ad libitum, at will, to one's heart's content"
+  },
+  {
+    "source_idiom": "miettiä päänsä puhki",
+    "target_idiom": "zachodzić w głowę",
+    "source_meaning": "to rack one's brain (to struggle to think of or remember something)",
+    "target_meaning": "to rack one's brain, to scratch one's head"
+  },
+  {
+    "source_idiom": "minäkin sinua",
+    "target_idiom": "kocham cię",
+    "source_meaning": "I love you too.",
+    "target_meaning": "I love you"
+  },
+  {
+    "source_idiom": "missä pippuri kasvaa",
+    "target_idiom": "w diabły",
+    "source_meaning": "faraway (most remote)",
+    "target_meaning": "far away"
+  },
+  {
+    "source_idiom": "moolokinkita",
+    "target_idiom": "czarny jak smoła",
+    "source_meaning": "bottomless pit, black hole",
+    "target_meaning": "black as coal, pitch-black"
+  },
+  {
+    "source_idiom": "moukan tuuri",
+    "target_idiom": "łut szczęścia",
+    "source_meaning": "devil's luck",
+    "target_meaning": "stroke of luck"
+  },
+  {
+    "source_idiom": "muissa maailmoissa",
+    "target_idiom": "oderwany od rzeczywistości",
+    "source_meaning": "away with the fairies, out of touch with reality, not with it, dreaming, not all there",
+    "target_meaning": "out of touch with reality"
+  },
+  {
+    "source_idiom": "muistua mieleen",
+    "target_idiom": "obijać się o uszy",
+    "source_meaning": "to spring to mind, come to mind",
+    "target_meaning": "to come to one's attention"
+  },
+  {
+    "source_idiom": "mukiinmenevä",
+    "target_idiom": "szału nie ma",
+    "source_meaning": "decent, passable, tolerable, nothing special",
+    "target_meaning": "nothing special (the thing in question is not stunning and remarkably good but simply mediocre)"
+  },
+  {
+    "source_idiom": "munata itsensä",
+    "target_idiom": "prać brudy",
+    "source_meaning": "to make a spectacle of oneself, make an exhibition of oneself, make a show of oneself (embarrass oneself and possibly others in the same group)",
+    "target_meaning": "to wash one's dirty laundry in public, to wash one's dirty linen in public"
+  },
+  {
+    "source_idiom": "musta lammas",
+    "target_idiom": "czarna owca",
+    "source_meaning": "black sheep (nonconformist; disliked person)",
+    "target_meaning": "black sheep (person who is not wholesome)"
+  },
+  {
+    "source_idiom": "mustaa valkoisella",
+    "target_idiom": "na gębę",
+    "source_meaning": "something written, a written record, a written contract or agreement as opposed to an oral one",
+    "target_meaning": "implicitly, informally, orally, verbally (as opposed to having a formal contract in writing)"
+  },
+  {
+    "source_idiom": "myllykirje",
+    "target_idiom": "wujek Dobra Rada",
+    "source_meaning": "a letter of disapproval or reprimand written by an authority, although often in a personal capacity",
+    "target_meaning": "person who instructs or admonishes others uninvited"
+  },
+  {
+    "source_idiom": "myrkyttää kaivo",
+    "target_idiom": "niedźwiedzia przysługa",
+    "source_meaning": "to poison the well",
+    "target_meaning": "disservice, poisoned chalice"
+  },
+  {
+    "source_idiom": "myydä esikoisoikeutensa hernerokasta",
+    "target_idiom": "za miskę soczewicy",
+    "source_meaning": "to sell one's birthright for a mess of pottage",
+    "target_meaning": "for a song, for a mess of pottage, very cheaply"
+  },
+  {
+    "source_idiom": "myötäkarvaan",
+    "target_idiom": "dobra wola",
+    "source_meaning": "favorably, sympathetically",
+    "target_meaning": "goodwill (favorably disposed attitude toward someone or something)"
+  },
+  {
+    "source_idiom": "mätäkuun juttu",
+    "target_idiom": "kaczka dziennikarska",
+    "source_meaning": "canard (false or misleading report or story)",
+    "target_meaning": "canard, hoax (misleading news report)"
+  },
+  {
+    "source_idiom": "nappiin",
+    "target_idiom": "w punkt",
+    "source_meaning": "successfully, spot on",
+    "target_meaning": "on point, spot-on (excellent; bold; performing well)"
+  },
+  {
+    "source_idiom": "neula heinäsuovassa",
+    "target_idiom": "szukać igły w stogu siana",
+    "source_meaning": "needle in a haystack",
+    "target_meaning": "to look for a needle in a haystack"
+  },
+  {
+    "source_idiom": "niellä purematta",
+    "target_idiom": "na wznak",
+    "source_meaning": "to take lying down",
+    "target_meaning": "on one's back, supine"
+  },
+  {
+    "source_idiom": "niellä ylpeytensä",
+    "target_idiom": "schować dumę do kieszeni",
+    "source_meaning": "to swallow one's pride",
+    "target_meaning": "to swallow one's pride"
+  },
+  {
+    "source_idiom": "niin kauan kuin",
+    "target_idiom": "jako że",
+    "source_meaning": "so long as, as long as, assuming, provided that, if (depending upon some condition or requirement)",
+    "target_meaning": "as, because, for, given that"
+  },
+  {
+    "source_idiom": "niskat nurin",
+    "target_idiom": "łabędzia szyja",
+    "source_meaning": "with a broken neck",
+    "target_meaning": "long and slender neck"
+  },
+  {
+    "source_idiom": "nostaa hattua",
+    "target_idiom": "chylić czoła",
+    "source_meaning": "to tip one's hat (express or acknowledge respect)",
+    "target_meaning": "to bow to, to take one's hat off to, to tip one's hat to (to honor, to praise, to show respect) [ (+ instrumental) ]"
+  },
+  {
+    "source_idiom": "nostaa rimaa",
+    "target_idiom": "podnieść poprzeczkę",
+    "source_meaning": "to raise the bar",
+    "target_meaning": "to raise the bar, to raise standards or expectations"
+  },
+  {
+    "source_idiom": "nousta kusi päähän",
+    "target_idiom": "obrosnąć w piórka",
+    "source_meaning": "to get full of oneself (start acting arrogant and/or egotistical)",
+    "target_meaning": "to become big, to become swollen-headed, to become too big for one's boots, to feather one's nest"
+  },
+  {
+    "source_idiom": "nousta sängystä väärällä jalalla",
+    "target_idiom": "wstawać lewą nogą",
+    "source_meaning": "to get up on the wrong side of the bed",
+    "target_meaning": "to get up on the wrong side of the bed"
+  },
+  {
+    "source_idiom": "nukkua toinen silmä auki",
+    "target_idiom": "spać z jednym okiem otwartym",
+    "source_meaning": "to sleep with one eye open",
+    "target_meaning": "to sleep with one eye open"
+  },
+  {
+    "source_idiom": "nuolla huuliaan",
+    "target_idiom": "ostrzyć sobie apetyt",
+    "source_meaning": "to lick one's chops",
+    "target_meaning": "to whet one's appetite (to become excited for something)"
+  },
+  {
+    "source_idiom": "nähdä Napoli ja kuolla",
+    "target_idiom": "zobaczyć Neapol i umrzeć",
+    "source_meaning": "to see Naples and die",
+    "target_meaning": "see Naples and die (nothing compares to the beauty of Naples, so you can die after you've seen it)"
+  },
+  {
+    "source_idiom": "nähdä metsä puilta",
+    "target_idiom": "połączyć kropki",
+    "source_meaning": "to see the forest for the trees (to discern an overall pattern from a mass of detail; to see the big picture, or the broader, more general situation)",
+    "target_meaning": "to connect the dots (to make connections in one's mind, arriving at a more holistic understanding of a situation)"
+  },
+  {
+    "source_idiom": "nähdä naamasta",
+    "target_idiom": "wyraz twarzy",
+    "source_meaning": "to be written all over someone's face",
+    "target_meaning": "facial expression"
+  },
+  {
+    "source_idiom": "näin on närhen munat",
+    "target_idiom": "fakt faktem",
+    "source_meaning": "that's right, it's a fact, absolutely",
+    "target_meaning": "the fact is, the fact remains, the fact of the matter is"
+  },
+  {
+    "source_idiom": "näyttää kaapin paikka",
+    "target_idiom": "utrzeć nosa",
+    "source_meaning": "to put someone in their place; to exert dominance or superiority over someone",
+    "target_meaning": "to cut down to size (to humble or humiliate, especially someone or something that is perceived as overly domineering or too proud)"
+  },
+  {
+    "source_idiom": "näyttää miten heränneet veisaa",
+    "target_idiom": "uczyć ojca dzieci robić",
+    "source_meaning": "To show someone how to properly do a thing they are attempting to do.",
+    "target_meaning": "to teach grandma how to suck eggs (to tell an expert how to do things)"
+  },
+  {
+    "source_idiom": "näyttää pitkää nenää",
+    "target_idiom": "kręcić nosem",
+    "source_meaning": "to thumb one's nose",
+    "target_meaning": "to turn up one's nose, to sniff at (to show dissatisfaction or displeasure with something)"
+  },
+  {
+    "source_idiom": "näytön paikka",
+    "target_idiom": "chwila prawdy",
+    "source_meaning": "time for action, time to prove oneself, showtime",
+    "target_meaning": "moment of truth"
+  },
+  {
+    "source_idiom": "odottaa kun kuuta nousevaa",
+    "target_idiom": "z zapartym tchem",
+    "source_meaning": "To wait for something very anxiously, to the point of desperation.",
+    "target_meaning": "with bated breath (eagerly; with great anticipation)"
+  },
+  {
+    "source_idiom": "ojasta allikkoon",
+    "target_idiom": "wpaść z deszczu pod rynnę",
+    "source_meaning": "out of the frying pan, into the fire",
+    "target_meaning": "to jump out of the frying pan, into the fire"
+  },
+  {
+    "source_idiom": "oksat pois",
+    "target_idiom": "że głowa mała",
+    "source_meaning": "used to describe almost anything (mostly anger) in excessive quantity. also used in conjunction with the subject of immediate action",
+    "target_meaning": "used to emphasize the inconvenience or excessive intensity of some action or phenomenon"
+  },
+  {
+    "source_idiom": "olla homma hanskassa",
+    "target_idiom": "trzymać w szachu",
+    "source_meaning": "to have something covered or taken care of, have a handle on, have something under control (particularly some kind of problem)",
+    "target_meaning": "to have in the palm of one's hand (to have control over)"
+  },
+  {
+    "source_idiom": "olla huulilla",
+    "target_idiom": "pod bokiem",
+    "source_meaning": "to be close (to happen), to be at reach",
+    "target_meaning": "close, nearby, at hand, at one's fingertips"
+  },
+  {
+    "source_idiom": "olla hätää kärsimässä",
+    "target_idiom": "mieć nóż na gardle",
+    "source_meaning": "to be in trouble or in distress, be in a dire situation",
+    "target_meaning": "to be in a tight spot"
+  },
+  {
+    "source_idiom": "olla jonkun kintereillä",
+    "target_idiom": "następować na pięty",
+    "source_meaning": "to be at one's heels, to be on one's heels",
+    "target_meaning": "to be hot on someone's heels ‎(to start to equal in competition‎)"
+  },
+  {
+    "source_idiom": "olla jäniksen selässä",
+    "target_idiom": "nie mieć chwili do stracenia",
+    "source_meaning": "to be in a hurry",
+    "target_meaning": "to have no time to lose (to be in a big hurry because of the need to do something quickly while having very little time to do it)"
+  },
+  {
+    "source_idiom": "olla järjiltään",
+    "target_idiom": "postradać zmysły",
+    "source_meaning": "to be out of one's mind",
+    "target_meaning": "to be out of one's mind, to lose one's mind"
+  },
+  {
+    "source_idiom": "olla kana kynittävänä",
+    "target_idiom": "mieć na pieńku",
+    "source_meaning": "to have a bone to pick [reciprocal ]",
+    "target_meaning": "to have a bone to pick, to have a beef, to be at odds, to be at loggerheads with someone [ (+ instrumental)]"
+  },
+  {
+    "source_idiom": "olla kujalla",
+    "target_idiom": "bez flaszki nie rozbierzesz",
+    "source_meaning": "to be completely confused, for example (but not necessarily) as a result of being under the influence or intoxicated by either alcohol or drugs",
+    "target_meaning": "used when the speaker feels that something is so confusing that it is impossible to understand when sober"
+  },
+  {
+    "source_idiom": "olla kukkona tunkiolla",
+    "target_idiom": "wejść na głowę",
+    "source_meaning": "to rule the roost",
+    "target_meaning": "to dominate, to get control  "
+  },
+  {
+    "source_idiom": "olla kärryillä",
+    "target_idiom": "poczuć bluesa",
+    "source_meaning": "to know the score, know what is going on",
+    "target_meaning": "to be aware of the situation (to sense the mood and know how to adapt to it)"
+  },
+  {
+    "source_idiom": "olla laitaa",
+    "target_idiom": "mieć rację",
+    "source_meaning": "to be fair, right or fitting",
+    "target_meaning": "to be right"
+  },
+  {
+    "source_idiom": "olla lammas",
+    "target_idiom": "łagodny jak baranek",
+    "source_meaning": "a person who is like a lamb does nothing alone. the person does everything that for example the clique he/she belongs to.",
+    "target_meaning": "lamblike, meek as a lamb"
+  },
+  {
+    "source_idiom": "olla lätkässä",
+    "target_idiom": "zakochany po uszy",
+    "source_meaning": "to be infatuated, enamoured, to have a crush",
+    "target_meaning": "madly in love, head over heels in love"
+  },
+  {
+    "source_idiom": "olla mielin kielin",
+    "target_idiom": "włazić w dupę",
+    "source_meaning": "to suck up (to), to brownnose, to be a yes man (to)",
+    "target_meaning": "to brownnose, to fawn, to lickspittle (to flatter someone (especially a superior) in an obsequious manner, and to support their every opinion)  "
+  },
+  {
+    "source_idiom": "olla monta rautaa tulessa",
+    "target_idiom": "mieć pełne ręce roboty",
+    "source_meaning": "to have many irons in the fire",
+    "target_meaning": "to have one's hands full"
+  },
+  {
+    "source_idiom": "olla otsaa",
+    "target_idiom": "miedziane czoło",
+    "source_meaning": "to have the nerve [ first infinitive ] (do something that the speaker considers impudent)",
+    "target_meaning": "brass, brass neck (impudence, shamelessness)"
+  },
+  {
+    "source_idiom": "olla pulla uunissa",
+    "target_idiom": "zachodzić w ciążę",
+    "source_meaning": "to have a bun in the oven (be pregnant, expecting a child)",
+    "target_meaning": "to fall pregnant (to become pregnant)"
+  },
+  {
+    "source_idiom": "olla pää sitä varten, ettei selkäranka valu housuihin",
+    "target_idiom": "głupich nie sieją",
+    "source_meaning": "To be helplessly stupid.",
+    "target_meaning": "used to express helplessness in the face of somebody's unwise behavior"
+  },
+  {
+    "source_idiom": "olla ruuvi löysällä",
+    "target_idiom": "mieć zryty beret",
+    "source_meaning": "to have a screw loose",
+    "target_meaning": "to have a screw loose"
+  },
+  {
+    "source_idiom": "olla sanomattakin selvää",
+    "target_idiom": "rozumieć się samo przez się",
+    "source_meaning": "to go without saying",
+    "target_meaning": "to go without saying (to be so obvious as to not need to be said)"
+  },
+  {
+    "source_idiom": "olla tosi kyseessä",
+    "target_idiom": "nie na żarty",
+    "source_meaning": "to be serious, be for real, be the real deal",
+    "target_meaning": "in earnest, seriously"
+  },
+  {
+    "source_idiom": "olla väliä",
+    "target_idiom": "mieć znaczenie",
+    "source_meaning": "to matter, to make a difference",
+    "target_meaning": "to matter"
+  },
+  {
+    "source_idiom": "ollut ja mennyt",
+    "target_idiom": "było, minęło",
+    "source_meaning": "gone, water under the bridge (that happened in the past and cannot be controlled or undone, but must be accepted, forgiven, or forgotten)",
+    "target_meaning": "it's water under the bridge; it's water over the dam"
+  },
+  {
+    "source_idiom": "oma lehmä ojassa",
+    "target_idiom": "po znajomości",
+    "source_meaning": "Having a personal interest or investment in the matter.",
+    "target_meaning": "happening due to or in connection with the fact that someone personally knows a certain person whose function, position, or action is relevant to the situation in question"
+  },
+  {
+    "source_idiom": "omaa luokkaansa",
+    "target_idiom": "cuda niewidy",
+    "source_meaning": "something else, exceptional, special",
+    "target_meaning": "something unusual, unique, and overly fancy"
+  },
+  {
+    "source_idiom": "oman menestyksensä uhri",
+    "target_idiom": "sukces ma wielu ojców, a porażka jest sierotą",
+    "source_meaning": "victim of one's own success",
+    "target_meaning": "success has many fathers, failure is an orphan"
+  },
+  {
+    "source_idiom": "omasta taskustaan",
+    "target_idiom": "własnym sumptem",
+    "source_meaning": "out of one's own pocket",
+    "target_meaning": "at one's own cost"
+  },
+  {
+    "source_idiom": "omine lupineen",
+    "target_idiom": "sam z siebie",
+    "source_meaning": "on one's own authority, without any additional courtesy",
+    "target_meaning": "of one's own volition (without the participation or interference of others)"
+  },
+  {
+    "source_idiom": "omissa maailmoissaan",
+    "target_idiom": "błądzić myślami",
+    "source_meaning": "in a world of one's own (unaware of one's surroundings because of being focused in one's thoughts)",
+    "target_meaning": "to zone out, to be lost in thought"
+  },
+  {
+    "source_idiom": "onnellisena elämänsä loppuun asti",
+    "target_idiom": "po grób",
+    "source_meaning": "happily ever after (happily until one's death; typically used to finish a fairy tale)",
+    "target_meaning": "forever, to the end of the chapter, until death (to the very end)"
+  },
+  {
+    "source_idiom": "onnensa kukkuloilla",
+    "target_idiom": "złapać Pana Boga za nogi",
+    "source_meaning": "over the moon (delighted, overjoyed)",
+    "target_meaning": "to be on cloud nine (said when something very auspicious has happened to someone)"
+  },
+  {
+    "source_idiom": "osata hommansa",
+    "target_idiom": "znać jak własną kieszeń",
+    "source_meaning": "to know one's stuff, know one's business, know one's way around",
+    "target_meaning": "to know like the back of one's hand"
+  },
+  {
+    "source_idiom": "ottaa annettuna",
+    "target_idiom": "wziąć za pewnik",
+    "source_meaning": "to take as a given",
+    "target_meaning": "to take for granted"
+  },
+  {
+    "source_idiom": "ottaa asiakseen",
+    "target_idiom": "brać na barki",
+    "source_meaning": "to take it upon oneself [ first-person infinitive ]",
+    "target_meaning": "to take on (to assume or take responsibility for)"
+  },
+  {
+    "source_idiom": "ottaa asiat omiin käsiinsä",
+    "target_idiom": "brać sprawy w swoje ręce",
+    "source_meaning": "to take matters into one's own hands",
+    "target_meaning": "to take matters into one's own hands"
+  },
+  {
+    "source_idiom": "ottaa asiat sellaisina kuin ne tulevat",
+    "target_idiom": "żyć z dnia na dzień",
+    "source_meaning": "to take things as they come (accept and deal with events as they occur, with a composed state of mind)",
+    "target_meaning": "to take one day at a time"
+  },
+  {
+    "source_idiom": "ottaa eteen",
+    "target_idiom": "sikać po nogach",
+    "source_meaning": "(of one's penis) to get hard, to become erect",
+    "target_meaning": "to be in a state of sexual arousal [ (+ genitive) ]"
+  },
+  {
+    "source_idiom": "ottaa huomioon",
+    "target_idiom": "wziąć pod uwagę",
+    "source_meaning": "to take into account, consider; to cater to; to factor in",
+    "target_meaning": "to take into account"
+  },
+  {
+    "source_idiom": "ottaa ilo irti",
+    "target_idiom": "mieć coś z życia",
+    "source_meaning": "to take pleasure in, make the most of [ elative]",
+    "target_meaning": "to enjoy what life has to offer"
+  },
+  {
+    "source_idiom": "ottaa jalat alleen",
+    "target_idiom": "wziąć nogi za pas",
+    "source_meaning": "to run away, to flee, to beat a retreat",
+    "target_meaning": "to take to one's heels, to run away"
+  },
+  {
+    "source_idiom": "ottaa kantaa",
+    "target_idiom": "stanąć na stanowisku",
+    "source_meaning": "to take a stance [ illative ]",
+    "target_meaning": "to be in a position, to be of the opinion that, to maintain that"
+  },
+  {
+    "source_idiom": "ottaa sydämelleen",
+    "target_idiom": "brać sobie do serca",
+    "source_meaning": "to take to heart",
+    "target_meaning": "to take to heart (to take something seriously; to internalize or live according to something)"
+  },
+  {
+    "source_idiom": "ottaa syyt niskoilleen",
+    "target_idiom": "wziąć pełną odpowiedzialność",
+    "source_meaning": "to take the blame",
+    "target_meaning": "to take responsibility"
+  },
+  {
+    "source_idiom": "ottaa tilaisuudesta vaari",
+    "target_idiom": "łapać wiatr w żagle",
+    "source_meaning": "To take a chance when an opportunity strikes.",
+    "target_meaning": "to catch a wave (to derive benefit from a fortunate opportunity)"
+  },
+  {
+    "source_idiom": "ottaa täydestä",
+    "target_idiom": "wziąć za dobrą monetę",
+    "source_meaning": "to take at face value",
+    "target_meaning": "to take at face value (to accept something is true despite doubts)"
+  },
+  {
+    "source_idiom": "outolintu",
+    "target_idiom": "ni pies, ni wydra",
+    "source_meaning": "strange bird, neither fish nor fowl",
+    "target_meaning": "neither fish nor fowl (something or someone not easily categorized or not rightly belonging or fitting well in a given group or situation)"
+  },
+  {
+    "source_idiom": "pahan päivän varalle",
+    "target_idiom": "czarna godzina",
+    "source_meaning": "for a rainy day",
+    "target_meaning": "rainy day (period of need or difficulty)"
+  },
+  {
+    "source_idiom": "painaa muistiin",
+    "target_idiom": "na pamięć",
+    "source_meaning": "to memorize",
+    "target_meaning": "by heart, by rote"
+  },
+  {
+    "source_idiom": "painonsa arvoinen kultaa",
+    "target_idiom": "na wagę złota",
+    "source_meaning": "worth one's weight in gold",
+    "target_meaning": "worth one's weight in gold"
+  },
+  {
+    "source_idiom": "painua jorpakkoon",
+    "target_idiom": "chodzić jak błędna owca",
+    "source_meaning": "to get lost",
+    "target_meaning": "to walk about aimlessly; to be lost and confused"
+  },
+  {
+    "source_idiom": "paiskia töitä",
+    "target_idiom": "orka na ugorze",
+    "source_meaning": "to work hard, toil",
+    "target_meaning": "drudgery, toil"
+  },
+  {
+    "source_idiom": "palata maankamaralle",
+    "target_idiom": "schodzić z obłoków",
+    "source_meaning": "to come down to earth",
+    "target_meaning": "to get one's head out of the clouds (to stop dreaming about impossible things)"
+  },
+  {
+    "source_idiom": "paljas pinta",
+    "target_idiom": "film przyrodniczy",
+    "source_meaning": "skin (bare or exposed human skin, particularly in a sexual or sexually suggestive context)",
+    "target_meaning": "skin flick, adult film; pornography"
+  },
+  {
+    "source_idiom": "paljon melua tyhjästä",
+    "target_idiom": "góra urodziła mysz",
+    "source_meaning": "much ado about nothing",
+    "target_meaning": "much ado about nothing (hype announcements of major changes and improvements have yielded poor results)"
+  },
+  {
+    "source_idiom": "panna hanttiin",
+    "target_idiom": "stawić opór",
+    "source_meaning": "to resist, fight back, counteract, stand up to [ allative]",
+    "target_meaning": "to put up a fight (to offer some form of resistance to an attack) [ dative]"
+  },
+  {
+    "source_idiom": "panna päänsä pantiksi",
+    "target_idiom": "dać sobie rękę uciąć",
+    "source_meaning": "to bet one's bottom dollar, to bet one's boots, to not have the slightest doubt",
+    "target_meaning": "to bet one's life, to bet the farm, to be absolutely sure about something"
+  },
+  {
+    "source_idiom": "panna riita halki",
+    "target_idiom": "wyjść naprzeciw",
+    "source_meaning": "to split the difference (make a compromise)",
+    "target_meaning": "to accommodate, to reach out to, to meet halfway  "
+  },
+  {
+    "source_idiom": "panna sanoja jonkun suuhun",
+    "target_idiom": "włożyć w usta",
+    "source_meaning": "to put words in someone's mouth",
+    "target_meaning": "to put words in someone's mouth"
+  },
+  {
+    "source_idiom": "panna toimeksi",
+    "target_idiom": "wziąć się w garść",
+    "source_meaning": "to get started, get one's act together, get a move on",
+    "target_meaning": "to get ahold of oneself, to get one's act together, to get a grip, to get it together, to suck it up, to pull oneself together"
+  },
+  {
+    "source_idiom": "parantaa tapansa",
+    "target_idiom": "dać bobu",
+    "source_meaning": "to mend one's ways",
+    "target_meaning": "to fix someone's wagon  "
+  },
+  {
+    "source_idiom": "parhain terveisin",
+    "target_idiom": "moje uszanowanie",
+    "source_meaning": "best regards (used as a polite closing of a letter)",
+    "target_meaning": "regards"
+  },
+  {
+    "source_idiom": "pata kattilaa soimaa",
+    "target_idiom": "przyganiał kocioł garnkowi, a sam smoli",
+    "source_meaning": "Used to claim that a person is guilty of the very thing of which they accuse another. Cf. English \"pot calling kettle black\".",
+    "target_meaning": "the pot is calling the kettle black (situation in which somebody comments on or accuses someone else of a fault which the accuser shares)"
+  },
+  {
+    "source_idiom": "patalaiska",
+    "target_idiom": "godzina sapoty, godzina roboty",
+    "source_meaning": "bone-idle, bone-lazy (utterly lazy)",
+    "target_meaning": "used in reference to a lazy worker"
+  },
+  {
+    "source_idiom": "pelastaa kasvonsa",
+    "target_idiom": "tracić twarz",
+    "source_meaning": "to save face",
+    "target_meaning": "to lose face"
+  },
+  {
+    "source_idiom": "pelastaa nahkansa",
+    "target_idiom": "uchodzić z życiem",
+    "source_meaning": "to save one's skin",
+    "target_meaning": "to get out alive, to escape with one's life"
+  },
+  {
+    "source_idiom": "pelata aikaa",
+    "target_idiom": "grać na zwłokę",
+    "source_meaning": "to play for time",
+    "target_meaning": "to play for time, to buy time, to stall (to delay a situation until one is prepared)"
+  },
+  {
+    "source_idiom": "pelata varman päälle",
+    "target_idiom": "dmuchać na zimne",
+    "source_meaning": "to play it safe",
+    "target_meaning": "to play it safe"
+  },
+  {
+    "source_idiom": "pelkkänä korvana",
+    "target_idiom": "zamienić się w słuch",
+    "source_meaning": "all ears",
+    "target_meaning": "to be all ears (to be ready to listen)"
+  },
+  {
+    "source_idiom": "perin pohjin",
+    "target_idiom": "na wskroś",
+    "source_meaning": "thoroughly; radically",
+    "target_meaning": "through and through, thoroughly, completely, entirely"
+  },
+  {
+    "source_idiom": "perua sanansa",
+    "target_idiom": "wypluj to",
+    "source_meaning": "to take back one's words",
+    "target_meaning": "used when the speaker is afraid that what someone has said may come true just by saying it out loud and therefore wants to ward off this danger with his words; take that back!"
+  },
+  {
+    "source_idiom": "peukalo keskellä kämmentä",
+    "target_idiom": "mieć dwie lewe ręce",
+    "source_meaning": "all thumbs (clumsy; awkward; not dextrous)",
+    "target_meaning": "to be all thumbs, to have two left hands"
+  },
+  {
+    "source_idiom": "pienestä pitäen",
+    "target_idiom": "od małego",
+    "source_meaning": "since one was child, since one's childhood",
+    "target_meaning": "since childhood (from an early age)"
+  },
+  {
+    "source_idiom": "pieniin päin",
+    "target_idiom": "w ciąży",
+    "source_meaning": "Pregnant. Cf. English \"with child\"",
+    "target_meaning": "pregnant"
+  },
+  {
+    "source_idiom": "pientä kauraa",
+    "target_idiom": "małe piwo",
+    "source_meaning": "small beer",
+    "target_meaning": "small beer (something that is of relatively little importance)"
+  },
+  {
+    "source_idiom": "piikki lihassa",
+    "target_idiom": "wrzód na dupie",
+    "source_meaning": "thorn in the flesh (persistent annoyance)",
+    "target_meaning": "pain in the ass, a troublesome irritation"
+  },
+  {
+    "source_idiom": "piilosta",
+    "target_idiom": "grać w kotka i myszkę",
+    "source_meaning": "(playing) hide and seek",
+    "target_meaning": "to play cat and mouse [ (+ instrumental) ]"
+  },
+  {
+    "source_idiom": "pilkka osuu omaan nilkkaan",
+    "target_idiom": "cierp ciało, skoroś chciało",
+    "source_meaning": "the chickens come home to roost; when one's mockery of something backfires and leads to unwanted consequences for them",
+    "target_meaning": "the chickens come home to roost"
+  },
+  {
+    "source_idiom": "pilvin pimein",
+    "target_idiom": "do wyboru, do koloru",
+    "source_meaning": "A huge (often excessive) amount of something.",
+    "target_meaning": "abundance, plethora, loads, tons"
+  },
+  {
+    "source_idiom": "pilvin pimein",
+    "target_idiom": "od groma",
+    "source_meaning": "hand over fist, in abundance",
+    "target_meaning": "in droves, in spades (to excess)"
+  },
+  {
+    "source_idiom": "pilvissä",
+    "target_idiom": "z kosmosu",
+    "source_meaning": "sky-high, through the roof (very high, particularly of prices)",
+    "target_meaning": "outlandish, absurd, outrageously high"
+  },
+  {
+    "source_idiom": "pisara meressä",
+    "target_idiom": "kropla w morzu",
+    "source_meaning": "drop in the bucket",
+    "target_meaning": "drop in the bucket, drop in the ocean"
+  },
+  {
+    "source_idiom": "piste i:n päällä",
+    "target_idiom": "wisienka na torcie",
+    "source_meaning": "the cherry on top, the icing on the cake",
+    "target_meaning": "cherry on top, icing on the cake"
+  },
+  {
+    "source_idiom": "pistää pyörät pyörimään",
+    "target_idiom": "nadać bieg",
+    "source_meaning": "to set things in motion",
+    "target_meaning": "to set in motion"
+  },
+  {
+    "source_idiom": "pistää päänsä pensaaseen",
+    "target_idiom": "chować głowę w piasek",
+    "source_meaning": "to bury one's head in the sand (to deliberately ignore the reality of a situation)",
+    "target_meaning": "to bury one's head in the sand"
+  },
+  {
+    "source_idiom": "pistää silmään",
+    "target_idiom": "rzucić się w oczy",
+    "source_meaning": "to stand out, to catch someone's eye [ genitive and/or possessive form ]",
+    "target_meaning": "to catch the eye, to stand out"
+  },
+  {
+    "source_idiom": "pitkä penni",
+    "target_idiom": "grosik za twoje myśli",
+    "source_meaning": "pretty penny",
+    "target_meaning": "penny for your thoughts"
+  },
+  {
+    "source_idiom": "pitää matalaa profiilia",
+    "target_idiom": "siedzieć cicho jak mysz pod miotłą",
+    "source_meaning": "to keep a low profile",
+    "target_meaning": "to be as quiet as a mouse"
+  },
+  {
+    "source_idiom": "pitää mykkäkoulua",
+    "target_idiom": "ciche dni",
+    "source_meaning": "to give someone the silent treatment (to refuse to speak to someone for an extended period of time)",
+    "target_meaning": "silent treatment (form of social sanction that consists of ignoring a particular individual, neither speaking to that person nor responding to his or her words)"
+  },
+  {
+    "source_idiom": "pitää peukkua",
+    "target_idiom": "trzymać kciuki",
+    "source_meaning": "to cross one's fingers (to wish someone good luck)",
+    "target_meaning": "to keep one's fingers crossed [ (+ accusative) ]"
+  },
+  {
+    "source_idiom": "pitää puheensa",
+    "target_idiom": "przejść od słów do czynów",
+    "source_meaning": "to walk the talk (US) (to do what one said one could do, or would do, not just making empty promises)",
+    "target_meaning": "to walk the talk (to start implementing what was previously discussed)"
+  },
+  {
+    "source_idiom": "pitää puolensa",
+    "target_idiom": "pójść w zaparte",
+    "source_meaning": "to hold up, stand up, stick to one's guns, stand one's ground",
+    "target_meaning": "to hold firm, to hold one's ground, to lean into"
+  },
+  {
+    "source_idiom": "pitää pää kylmänä",
+    "target_idiom": "zachować zimną krew",
+    "source_meaning": "to keep one's cool",
+    "target_meaning": "to keep one's cool (to remain composed, calm, and even-tempered, especially in a provocative situation)"
+  },
+  {
+    "source_idiom": "pitää sanansa",
+    "target_idiom": "dawać słowo",
+    "source_meaning": "to keep one's word",
+    "target_meaning": "to give one's word  "
+  },
+  {
+    "source_idiom": "pitää varansa",
+    "target_idiom": "mieć oczy szeroko otwarte",
+    "source_meaning": "to watch out, watch one's step, be on one's guard, keep one's eyes open",
+    "target_meaning": "to be alert, to be on guard, to be on the qui vive, to be wary, to keep one's eyes peeled"
+  },
+  {
+    "source_idiom": "pitää varpaillaan",
+    "target_idiom": "trzymać rękę na pulsie",
+    "source_meaning": "to keep someone on their toes",
+    "target_meaning": "to keep one's finger on the pulse"
+  },
+  {
+    "source_idiom": "poiketa rivistä",
+    "target_idiom": "iść na żywioł",
+    "source_meaning": "to break ranks",
+    "target_meaning": "to go rogue"
+  },
+  {
+    "source_idiom": "poikineen",
+    "target_idiom": "jak psów",
+    "source_meaning": "many, lots of",
+    "target_meaning": "aplenty, loads, lots [ genitive ]"
+  },
+  {
+    "source_idiom": "polkea paikallaan",
+    "target_idiom": "stać w miejscu",
+    "source_meaning": "to stagnate, to tread water",
+    "target_meaning": "to tread water, to make no headway, to not make any progress"
+  },
+  {
+    "source_idiom": "pomminvarma",
+    "target_idiom": "na mur beton",
+    "source_meaning": "safe as houses, bulletproof, foolproof (very certain, very sure)",
+    "target_meaning": "for sure, concrete, solid"
+  },
+  {
+    "source_idiom": "potkaista tyhjää",
+    "target_idiom": "kopnąć w kalendarz",
+    "source_meaning": "to kick the bucket, buy the farm, bite the dust (to die)",
+    "target_meaning": "to kick the bucket (to die)"
+  },
+  {
+    "source_idiom": "pudota jaloilleen",
+    "target_idiom": "spaść na cztery łapy",
+    "source_meaning": "to land on one's feet",
+    "target_meaning": "to land on one's feet"
+  },
+  {
+    "source_idiom": "puheen ollen",
+    "target_idiom": "co się tyczy",
+    "source_meaning": "speaking of, regarding, concerning, apropos",
+    "target_meaning": "apropos, speaking of (regarding or concerning) [ genitive ]"
+  },
+  {
+    "source_idiom": "puhjeta itkuun",
+    "target_idiom": "mówić przez łzy",
+    "source_meaning": "to burst into tears",
+    "target_meaning": "to talk while crying"
+  },
+  {
+    "source_idiom": "puhjeta nauruun",
+    "target_idiom": "śmiać się do rozpuku",
+    "source_meaning": "to burst into laughter",
+    "target_meaning": "to crack up, to laugh one's head off, to split one's sides"
+  },
+  {
+    "source_idiom": "puhua joutavia",
+    "target_idiom": "bredzić jak Piekarski na mękach",
+    "source_meaning": "to talk nonsense, to waste breath",
+    "target_meaning": "to babble, to blather (to talk nonsense)"
+  },
+  {
+    "source_idiom": "puhua muiden päälle",
+    "target_idiom": "wyskoczyć jak filip z konopi",
+    "source_meaning": "to talk out of turn",
+    "target_meaning": "to say something unexpected, inappropriate, untimely, or out of the blue"
+  },
+  {
+    "source_idiom": "puhua pahaa",
+    "target_idiom": "wieszać psy",
+    "source_meaning": "to speak ill of, badmouth, say bad things about [ elative]",
+    "target_meaning": "to talk trash (to slander) [ (+ locative) ]"
+  },
+  {
+    "source_idiom": "puhua rumia",
+    "target_idiom": "rzucić mięsem",
+    "source_meaning": "to swear, have a foul mouth, talk dirty (use inappropriate or profane language)",
+    "target_meaning": "to hurl insults, to swear"
+  },
+  {
+    "source_idiom": "puhua seinille",
+    "target_idiom": "rzucać grochem o ścianę",
+    "source_meaning": "to preach to deaf ears, to talk to a wall",
+    "target_meaning": "to preach to deaf ears"
+  },
+  {
+    "source_idiom": "puhua suunsa puhtaaksi",
+    "target_idiom": "przemówić własnym głosem",
+    "source_meaning": "to speak one's mind",
+    "target_meaning": "to speak one's mind, to say one's piece"
+  },
+  {
+    "source_idiom": "puilla paljailla",
+    "target_idiom": "w plecy",
+    "source_meaning": "down and out (penniless, bankrupt)",
+    "target_meaning": "down, behind, having lost"
+  },
+  {
+    "source_idiom": "pukea sanoiksi",
+    "target_idiom": "dać wyraz",
+    "source_meaning": "to put into words (to express using words, either written or spoken)",
+    "target_meaning": "to give voice (to externalize with one's words or behavior one's own feeling, position on an issue, or view on something)"
+  },
+  {
+    "source_idiom": "pukeutua säkkiin ja tuhkaan",
+    "target_idiom": "posypywać sobie głowę popiołem",
+    "source_meaning": "to wear sackcloth and ashes",
+    "target_meaning": "to wear sackcloth and ashes (to publicly express regret for something)"
+  },
+  {
+    "source_idiom": "pukki kaalimaan vartijana",
+    "target_idiom": "wilk w jagnięcej skórze",
+    "source_meaning": "fox in the henhouse, fox guarding the henhouse (someone untrustworthy placed in a position of trust in which they will be harmful, damaging or detrimental to benefit themselves)",
+    "target_meaning": "wolf in sheep's clothing"
+  },
+  {
+    "source_idiom": "puolivillainen",
+    "target_idiom": "na odwal się",
+    "source_meaning": "shoddy, effortless, half-hearted, half-ass",
+    "target_meaning": "shoddily (in a least-effort way)"
+  },
+  {
+    "source_idiom": "puristaa vettä kivestä",
+    "target_idiom": "serce z kamienia",
+    "source_meaning": "to get blood out of a stone",
+    "target_meaning": "heart of stone"
+  },
+  {
+    "source_idiom": "purkaa kiukkuaan",
+    "target_idiom": "dawać folgę",
+    "source_meaning": "to vent one's spleen",
+    "target_meaning": "to give vent to (to allow oneself to express)"
+  },
+  {
+    "source_idiom": "purra hammasta",
+    "target_idiom": "zacisnąć zęby",
+    "source_meaning": "to bite the bullet, grit one's teeth",
+    "target_meaning": "to grit one's teeth (to face up to a difficult or disagreeable situation, and deal with it)"
+  },
+  {
+    "source_idiom": "puukottaa selkään",
+    "target_idiom": "wbijać nóż w plecy",
+    "source_meaning": "to backstab, to stab in the back",
+    "target_meaning": "to stab in the back  "
+  },
+  {
+    "source_idiom": "puun takaa",
+    "target_idiom": "ni z tego, ni z owego",
+    "source_meaning": "out of nowhere",
+    "target_meaning": "out of the blue"
+  },
+  {
+    "source_idiom": "puuta heinää",
+    "target_idiom": "duby smalone",
+    "source_meaning": "malarkey, rubbish, poppycock",
+    "target_meaning": "bunkum, poppycock"
+  },
+  {
+    "source_idiom": "pysyä housuissaan",
+    "target_idiom": "brać na wstrzymanie",
+    "source_meaning": "to hold one's horses",
+    "target_meaning": "to take it easy, to use some reining in"
+  },
+  {
+    "source_idiom": "pyörällä päästään",
+    "target_idiom": "zabić klina",
+    "source_meaning": "baffled, bewildered, confused, perplexed",
+    "target_meaning": "to baffle, to perplex, to stump  "
+  },
+  {
+    "source_idiom": "pähkinä",
+    "target_idiom": "twardy orzech do zgryzienia",
+    "source_meaning": "puzzle, riddle; difficult problem, tough nut to crack",
+    "target_meaning": "hard nut to crack (problem that is challenging to solve)"
+  },
+  {
+    "source_idiom": "päin helvettiä",
+    "target_idiom": "nie tak",
+    "source_meaning": "very wrongly, totally wrongly.",
+    "target_meaning": "not so, incorrectly, bad, wrong (bad in some respect)"
+  },
+  {
+    "source_idiom": "pää on kuin Haminan kaupunki",
+    "target_idiom": "uderzyć do głowy",
+    "source_meaning": "to be confused, disoriented or light-headed",
+    "target_meaning": "to go to someone's head, to fuddle (to cause someone to become excited, agitated, and to reduce their ability to think and reason logically)"
+  },
+  {
+    "source_idiom": "päästä pukille",
+    "target_idiom": "uprawiać seks",
+    "source_meaning": "to get laid",
+    "target_meaning": "to have sex"
+  },
+  {
+    "source_idiom": "päästää kärsimyksistä",
+    "target_idiom": "skrócić męki",
+    "source_meaning": "to put someone out of their misery",
+    "target_meaning": "to put someone out of their misery (to euthanise)"
+  },
+  {
+    "source_idiom": "raaka voima",
+    "target_idiom": "na chama",
+    "source_meaning": "brute force (method of solving problems)",
+    "target_meaning": "by brute force"
+  },
+  {
+    "source_idiom": "rakennella pilvilinnoja",
+    "target_idiom": "budować zamki na lodzie",
+    "source_meaning": "to build castles in the air",
+    "target_meaning": "to build castles in the air"
+  },
+  {
+    "source_idiom": "rapiat",
+    "target_idiom": "z deka",
+    "source_meaning": "a bit more (than)",
+    "target_meaning": "a little, a bit, slightly"
+  },
+  {
+    "source_idiom": "repiä pelihousunsa",
+    "target_idiom": "tracić głowę",
+    "source_meaning": "to lose one's rag (get angry)",
+    "target_meaning": "to lose one's head (to behave irrationally or lose self-control)"
+  },
+  {
+    "source_idiom": "riitakapula",
+    "target_idiom": "kość niezgody",
+    "source_meaning": "bone of contention",
+    "target_meaning": "bone of contention, apple of discord (something that continues to be disputed)"
+  },
+  {
+    "source_idiom": "rikkana rokassa",
+    "target_idiom": "wyjątek potwierdza regułę",
+    "source_meaning": "As the bad exception in an otherwise good company. More commonly used in a positive way, c.f. \"every little bit helps\".",
+    "target_meaning": "exception proves the rule"
+  },
+  {
+    "source_idiom": "rikkinäinen levy",
+    "target_idiom": "jak zdarta płyta",
+    "source_meaning": "broken record (someone or something that constantly repeats itself, causing annoyance)",
+    "target_meaning": "like a broken record (saying or doing the same thing repeatedly)"
+  },
+  {
+    "source_idiom": "ripustaa pelikenkänsä naulaan",
+    "target_idiom": "składać legitymację",
+    "source_meaning": "to hang up one's boots",
+    "target_meaning": "to hand in one's badge (to quit working at some organization)"
+  },
+  {
+    "source_idiom": "ruista ranteessa",
+    "target_idiom": "chłop jak dąb",
+    "source_meaning": "Physically strong.",
+    "target_meaning": "tall, strong, well-built man"
+  },
+  {
+    "source_idiom": "ruista ranteessa",
+    "target_idiom": "silny jak wół",
+    "source_meaning": "Physically strong.",
+    "target_meaning": "strong as an ox"
+  },
+  {
+    "source_idiom": "ruokahalu kasvaa syödessä",
+    "target_idiom": "apetyt rośnie w miarę jedzenia",
+    "source_meaning": "appetite comes with eating (when one gets something good one wants more)",
+    "target_meaning": "appetite comes with eating (once you start, you don't want to stop)"
+  },
+  {
+    "source_idiom": "ruskean reiän ritari",
+    "target_idiom": "kochający inaczej",
+    "source_meaning": "fag (homosexual male)",
+    "target_meaning": "gay, homosexual (sexually attracted solely or primarily to the same sex)"
+  },
+  {
+    "source_idiom": "ruudinkeksijä",
+    "target_idiom": "łeb jak sklep",
+    "source_meaning": "rocket scientist (capable of understanding complex things)",
+    "target_meaning": "mind like a steel trap, smarts (great knowledge or intelligence)"
+  },
+  {
+    "source_idiom": "ruutupaperi",
+    "target_idiom": "rząd wielkości",
+    "source_meaning": "back-of-the-envelope",
+    "target_meaning": "order of magnitude"
+  },
+  {
+    "source_idiom": "rähmä",
+    "target_idiom": "kurczę blade",
+    "source_meaning": "mild expletive",
+    "target_meaning": "slightly vulgar swearword"
+  },
+  {
+    "source_idiom": "räjäyttää pankki",
+    "target_idiom": "rozbić bank",
+    "source_meaning": "to break the bank (win more money than is available to be paid)",
+    "target_meaning": "to break the bank (to win all the money that is available to be paid)"
+  },
+  {
+    "source_idiom": "räpäyttää silmäänsä",
+    "target_idiom": "bez mrugnięcia okiem",
+    "source_meaning": "to bat an eyelid (to react in any slight way; to respond)",
+    "target_meaning": "without batting an eye"
+  },
+  {
+    "source_idiom": "saada alkunsa",
+    "target_idiom": "przyjść na świat",
+    "source_meaning": "to come into being (to form; to start to exist)",
+    "target_meaning": "to come into the world"
+  },
+  {
+    "source_idiom": "saada jalka oven väliin",
+    "target_idiom": "stanąć w szranki",
+    "source_meaning": "to get one's foot in the door",
+    "target_meaning": "to enter the fray, to throw one's hat in the ring"
+  },
+  {
+    "source_idiom": "saada kenkää",
+    "target_idiom": "wyrzucić na bruk",
+    "source_meaning": "to get the boot",
+    "target_meaning": "to kick to the curb (to evict a person that has no other dwelling; to make someone homeless)"
+  },
+  {
+    "source_idiom": "saada kohtuuttomat mittasuhteet",
+    "target_idiom": "zrobić z igły widły",
+    "source_meaning": "to be blown out of proportion",
+    "target_meaning": "to make a mountain out of a molehill"
+  },
+  {
+    "source_idiom": "saada käsiinsä",
+    "target_idiom": "położyć rękę",
+    "source_meaning": "to get hold of, get one's hands on, lay hands on (to find, obtain or procure)",
+    "target_meaning": "to get one's hands on (to obtain) [ (+ locative) ]"
+  },
+  {
+    "source_idiom": "saada selkäänsä",
+    "target_idiom": "stłuc na kwaśne jabłko",
+    "source_meaning": "to be battered, get thrashed",
+    "target_meaning": "to beat to a pulp, to marmalize (to beat someone very hard)"
+  },
+  {
+    "source_idiom": "saada selville",
+    "target_idiom": "poznawać od podszewki",
+    "source_meaning": "to find out, get to know, learn, unearth, uncover",
+    "target_meaning": "to get to know inside and out"
+  },
+  {
+    "source_idiom": "saada suunniltaan",
+    "target_idiom": "pójść w pięty",
+    "source_meaning": "to infuriate, to upset",
+    "target_meaning": "to get to (to upset or annoy)"
+  },
+  {
+    "source_idiom": "saada sätky",
+    "target_idiom": "strzelić focha",
+    "source_meaning": "to throw a fit, to freak out, to blow a fuse",
+    "target_meaning": "to throw a hissy fit (to behave capriciously and be easily offended)"
+  },
+  {
+    "source_idiom": "saada tahtonsa läpi",
+    "target_idiom": "postawić na swoim",
+    "source_meaning": "to get one's way, have one's way",
+    "target_meaning": "to carry one's point, to get one's own way"
+  },
+  {
+    "source_idiom": "saada vettä myllyynsä",
+    "target_idiom": "woda na młyn",
+    "source_meaning": "to get something to talk about from someone's actions (usually unintentionally), to get further reason to support something, to get fuel, to get grist for the mill",
+    "target_meaning": "grist for the mill (something conducive to someone's plans or expectations)"
+  },
+  {
+    "source_idiom": "salainen pahe",
+    "target_idiom": "małe conieco",
+    "source_meaning": "guilty pleasure (something that brings pleasure but is considered taboo, unadvisable or lowbrow)",
+    "target_meaning": "a little something (small amount of something pleasurable, such as food, alcohol, or sex)"
+  },
+  {
+    "source_idiom": "salvata henki",
+    "target_idiom": "zapierać dech",
+    "source_meaning": "to take someone's breath away [ genitive possessive form]",
+    "target_meaning": "to take someone's breath away"
+  },
+  {
+    "source_idiom": "samalla aaltopituudella",
+    "target_idiom": "nadawać na tych samych falach",
+    "source_meaning": "on the same wavelength (same meaning)",
+    "target_meaning": "to be on the same wavelength"
+  },
+  {
+    "source_idiom": "samasta puusta veistetty",
+    "target_idiom": "ulepiony z tej samej gliny",
+    "source_meaning": "cut from the same cloth, of the same stripe",
+    "target_meaning": "cut from the same cloth"
+  },
+  {
+    "source_idiom": "sanalla sanottuna",
+    "target_idiom": "krótko mówiąc",
+    "source_meaning": "in a word, frankly (briefly, concisely)",
+    "target_meaning": "briefly speaking, in a word, in short, in sum"
+  },
+  {
+    "source_idiom": "sanoa suoraan",
+    "target_idiom": "nie owijać w bawełnę",
+    "source_meaning": "to cut to the chase, get to the point",
+    "target_meaning": "to not beat around the bush, to not mince words"
+  },
+  {
+    "source_idiom": "sanopa muuta",
+    "target_idiom": "nic dodać, nic ująć",
+    "source_meaning": "you can say that again (in response to another person: that is very true)",
+    "target_meaning": "amen to that (used when the speaker believes that what has already been said is so good or informative that nothing more needs to be said, or that what has been done is so good that nothing more needs to be done)"
+  },
+  {
+    "source_idiom": "sataa kaatamalla",
+    "target_idiom": "lać jak z cebra",
+    "source_meaning": "to rain cats and dogs (to rain very heavily)",
+    "target_meaning": "to rain cats and dogs, to rain buckets"
+  },
+  {
+    "source_idiom": "savua ja peilejä",
+    "target_idiom": "sranie w banię",
+    "source_meaning": "smoke and mirrors",
+    "target_meaning": "bullshit, smoke and mirrors"
+  },
+  {
+    "source_idiom": "se ja sama",
+    "target_idiom": "jeden diabeł",
+    "source_meaning": "insignificant, all the same, something that doesn't matter",
+    "target_meaning": "whatever, all the same"
+  },
+  {
+    "source_idiom": "seinää vasten",
+    "target_idiom": "pod ścianą",
+    "source_meaning": "up against the wall",
+    "target_meaning": "up against the wall (cornered without an escape)"
+  },
+  {
+    "source_idiom": "seisoa omilla jaloillaan",
+    "target_idiom": "stanąć na własnych nogach",
+    "source_meaning": "to stand on one's own two feet",
+    "target_meaning": "to stand on one's own two feet (to be independent and self-sufficient)"
+  },
+  {
+    "source_idiom": "selvitä säikähdyksellä",
+    "target_idiom": "wyjść obronną ręką",
+    "source_meaning": "to be left shaken but unhurt, to get off lightly (from an adversity), to dodge a bullet",
+    "target_meaning": "to emerge unscathed, to leave a situation unscathed, to end up unharmed [ (+ genitive) ]"
+  },
+  {
+    "source_idiom": "selättäminen",
+    "target_idiom": "do pokonania",
+    "source_meaning": "overcoming",
+    "target_meaning": "surmountable, overcomeable"
+  },
+  {
+    "source_idiom": "sen koommin",
+    "target_idiom": "od teraz",
+    "source_meaning": "ever since, thereafter",
+    "target_meaning": "from now on"
+  },
+  {
+    "source_idiom": "sen pituinen se",
+    "target_idiom": "to by było na tyle",
+    "source_meaning": "The very last sentence of many fairy tales and other stories. This comes after any happily ever after-type sentences. Literally the phrase translates to: \"That's the length of it\". It might be translated into English as: \"That's all there is to tell\".",
+    "target_meaning": "this is it, that's a wrap (used to indicate that something has been finished, especially after a long speech or text)"
+  },
+  {
+    "source_idiom": "seurata aikaansa",
+    "target_idiom": "pójść z duchem czasu",
+    "source_meaning": "to move with the times",
+    "target_meaning": "to move with the times"
+  },
+  {
+    "source_idiom": "seurata jalanjäljissä",
+    "target_idiom": "pójść za przykładem",
+    "source_meaning": "to follow in someone's footsteps [ genitive and/or possessive form]",
+    "target_meaning": "to follow someone's example, to follow someone's lead [ (+ genitive) ]"
+  },
+  {
+    "source_idiom": "siinä näet",
+    "target_idiom": "do zobaczenia",
+    "source_meaning": "you see, you know",
+    "target_meaning": "see you"
+  },
+  {
+    "source_idiom": "siinä paha missä mainitaan",
+    "target_idiom": "o wilku mowa",
+    "source_meaning": "speak of the devil",
+    "target_meaning": "speak of the devil"
+  },
+  {
+    "source_idiom": "siipiensä alla",
+    "target_idiom": "pod egidą",
+    "source_meaning": "under one's wing",
+    "target_meaning": "under the aegis of"
+  },
+  {
+    "source_idiom": "siirtyä ajasta ikuisuuteen",
+    "target_idiom": "odejść do aniołków",
+    "source_meaning": "to pass away",
+    "target_meaning": "to pass away; to die"
+  },
+  {
+    "source_idiom": "siivellä eläjä",
+    "target_idiom": "niebieski ptak",
+    "source_meaning": "freeloader",
+    "target_meaning": "freeloader (a person who lives on other people's efforts or expense)"
+  },
+  {
+    "source_idiom": "sika syö eväät",
+    "target_idiom": "rada by dusza do raju",
+    "source_meaning": "Said when something planned does not come to pass, especially when people are planning to leave or go somewhere, but nothing happens.",
+    "target_meaning": "plans and dreams do not always come true due to unforeseen obstacles"
+  },
+  {
+    "source_idiom": "sika säkissä",
+    "target_idiom": "kupić kota w worku",
+    "source_meaning": "pig in a poke",
+    "target_meaning": "to buy a pig in a poke"
+  },
+  {
+    "source_idiom": "silmä silmästä",
+    "target_idiom": "oko za oko, ząb za ząb",
+    "source_meaning": "eye for an eye",
+    "target_meaning": "eye for an eye, a tooth for a tooth"
+  },
+  {
+    "source_idiom": "silmän kantamattomiin",
+    "target_idiom": "wzdłuż i wszerz",
+    "source_meaning": "as far as the eye can see",
+    "target_meaning": "far and wide"
+  },
+  {
+    "source_idiom": "sinetöidä huulensa",
+    "target_idiom": "trzymać buzię na kłódkę",
+    "source_meaning": "to keep one's lips sealed, to seal one's lips",
+    "target_meaning": "to keep one's mouth shut, one's lips are sealed (to not reveal a secret)"
+  },
+  {
+    "source_idiom": "sinne tänne",
+    "target_idiom": "wte i wewte",
+    "source_meaning": "hither and thither",
+    "target_meaning": "hither and thither"
+  },
+  {
+    "source_idiom": "sirotella tuhkaa päälleen",
+    "target_idiom": "pluć sobie w brodę",
+    "source_meaning": "to regret deeply, to blame oneself for a loss or mishap",
+    "target_meaning": "to kick oneself (to reproach oneself for making a mistake or missing an opportunity) [ (+ clause) ]"
+  },
+  {
+    "source_idiom": "sisäänpäinlämpiävä",
+    "target_idiom": "zamknięty w sobie",
+    "source_meaning": "of a group or culture that so prefers to deal within itself that it is difficult for an outsider to become a member of it.",
+    "target_meaning": "introverted, private"
+  },
+  {
+    "source_idiom": "sitä itseään",
+    "target_idiom": "krowi placek",
+    "source_meaning": "crap, manure (feces, excrement)",
+    "target_meaning": "cow chip, cowpat, cowpie"
+  },
+  {
+    "source_idiom": "soittaa kelloa",
+    "target_idiom": "dzwonek alarmowy",
+    "source_meaning": "to ring a bell (to seem remotely familiar)",
+    "target_meaning": "alarm bell (event that causes someone to feel alarm)"
+  },
+  {
+    "source_idiom": "soutaa ja huovata",
+    "target_idiom": "stać na rozdrożu",
+    "source_meaning": "to shilly-shally, tergiversate, procrastinate, vacillate, hem and haw, hum and haw",
+    "target_meaning": "to hesitate, to waver (to feel or show indecision)"
+  },
+  {
+    "source_idiom": "suksia kuuseen",
+    "target_idiom": "iść w diabły",
+    "source_meaning": "to go away, get lost, get bent",
+    "target_meaning": "to go away, to go to hell "
+  },
+  {
+    "source_idiom": "suksia vittuun",
+    "target_idiom": "idź w chuj",
+    "source_meaning": "to fuck off, go fuck oneself",
+    "target_meaning": "fuck off, fuck you, go fuck yourself, get fucked"
+  },
+  {
+    "source_idiom": "suu säkkiä myöten",
+    "target_idiom": "wedle stawu grobla",
+    "source_meaning": "within one's means",
+    "target_meaning": "cut your coat according to your cloth"
+  },
+  {
+    "source_idiom": "suuna päänä",
+    "target_idiom": "język mieć na wiérzchu",
+    "source_meaning": "outspokenly, talkatively",
+    "target_meaning": "to be talkative"
+  },
+  {
+    "source_idiom": "suurin surminkaan",
+    "target_idiom": "w żadnym wypadku",
+    "source_meaning": "by no means, under no circumstance",
+    "target_meaning": "under no circumstances, on no account"
+  },
+  {
+    "source_idiom": "sydän kurkussa",
+    "target_idiom": "z duszą na ramieniu",
+    "source_meaning": "one's heart in one's mouth (very scared)",
+    "target_meaning": "with one's heart in one's mouth"
+  },
+  {
+    "source_idiom": "sydän on paikallaan",
+    "target_idiom": "włożyć serce",
+    "source_meaning": "to have one's heart in the right place [ adessive ]",
+    "target_meaning": "to put one's heart in [ (+ accusative) ]"
+  },
+  {
+    "source_idiom": "sylttytehdas",
+    "target_idiom": "mieć za uszami",
+    "source_meaning": "guilty party",
+    "target_meaning": "to be guilty, to have one's issues"
+  },
+  {
+    "source_idiom": "syntynyt kultalusikka suussa",
+    "target_idiom": "mieć podane na tacy",
+    "source_meaning": "born with a silver spoon in one's mouth",
+    "target_meaning": "to be given something on a silver platter"
+  },
+  {
+    "source_idiom": "sysätä syrjään",
+    "target_idiom": "odesłać do lamusa",
+    "source_meaning": "to toss aside, push aside, kick into touch",
+    "target_meaning": "to put off to the way side (to consider something uninteresting or unneeded)"
+  },
+  {
+    "source_idiom": "syödä kädestä",
+    "target_idiom": "wisieć u klamki",
+    "source_meaning": "to be in someone's pocket [ genitive and/or possessive form] (receiving money from, and under the influence of, a person or group of people)",
+    "target_meaning": "to live on the grace of someone richer or in a higher position [ genitive ]"
+  },
+  {
+    "source_idiom": "syödä niin, että napa naukuu",
+    "target_idiom": "jeść do usru",
+    "source_meaning": "to overeat, stuff one's face (to eat excessively)",
+    "target_meaning": "to overeat; to stuff onself"
+  },
+  {
+    "source_idiom": "särkeä jonkun sydän",
+    "target_idiom": "zrujnować życie",
+    "source_meaning": "to break someone's heart",
+    "target_meaning": "to ruin someone's life (to make someone generally unhappy)  "
+  },
+  {
+    "source_idiom": "taistella tuulimyllyjä vastaan",
+    "target_idiom": "walka z wiatrakami",
+    "source_meaning": "to tilt at windmills",
+    "target_meaning": "tilting at windmills"
+  },
+  {
+    "source_idiom": "taivaanrannan maalari",
+    "target_idiom": "myśleć o niebieskich migdałach",
+    "source_meaning": "daydreamer (one who wastes time daydreaming)",
+    "target_meaning": "to daydream"
+  },
+  {
+    "source_idiom": "takoa kun rauta on kuumaa",
+    "target_idiom": "kuć żelazo, póki gorące",
+    "source_meaning": "to strike while the iron is hot",
+    "target_meaning": "strike while the iron is hot (usually in the imperative)"
+  },
+  {
+    "source_idiom": "tanssijalka vipattaa",
+    "target_idiom": "gorączka sobotniej nocy",
+    "source_meaning": "to feel like dancing",
+    "target_meaning": "atmosphere of madness and excitement during a dance party"
+  },
+  {
+    "source_idiom": "tappaa kaksi kärpästä yhdellä iskulla",
+    "target_idiom": "piec dwie pieczenie na jednym ogniu",
+    "source_meaning": "to kill two birds with one stone",
+    "target_meaning": "to kill two birds with one stone"
+  },
+  {
+    "source_idiom": "tasoittaa tietä",
+    "target_idiom": "iść na rękę",
+    "source_meaning": "to pave the way [ allative ]",
+    "target_meaning": "to act in such a way as to make something easier for someone or to help them with something [ dative]"
+  },
+  {
+    "source_idiom": "tehdä eroa",
+    "target_idiom": "omijać szerokim łukiem",
+    "source_meaning": "to distance oneself [ illative ]",
+    "target_meaning": "to give a wide berth (to avoid) [ accusative ]"
+  },
+  {
+    "source_idiom": "tehdä kauppansa",
+    "target_idiom": "jak woda",
+    "source_meaning": "to sell fast, sell like hot cakes",
+    "target_meaning": "like hot cakes"
+  },
+  {
+    "source_idiom": "tehdä mieli",
+    "target_idiom": "poczuć miętę",
+    "source_meaning": "to feel like, to would like, to fancy [(with nominals) partitive ; (with verbs) first infinitive ]",
+    "target_meaning": "to fancy (to feel affection or even attraction for someone or something) [ (+ genitive) ]"
+  },
+  {
+    "source_idiom": "tehdä voitavansa",
+    "target_idiom": "dać z siebie wszystko",
+    "source_meaning": "to do what one can, to strive, to do one's utmost, to spare no effort",
+    "target_meaning": "to do one's best, to give one's all, to go all out, to pull out all the stops (to make the utmost effort)"
+  },
+  {
+    "source_idiom": "telkien takana",
+    "target_idiom": "za kratkami",
+    "source_meaning": "behind bars (in prison)",
+    "target_meaning": "behind bars, in jail, in prison"
+  },
+  {
+    "source_idiom": "tiedoksesi",
+    "target_idiom": "żeby nie było",
+    "source_meaning": "FYI, for your information (2nd person singular form of the phrase)",
+    "target_meaning": "for what it's worth, for the record, for clarity's sake, just so you know, I'll have you know, just so it's clear"
+  },
+  {
+    "source_idiom": "tietön taival",
+    "target_idiom": "na uboczu",
+    "source_meaning": "wilderness, inaccessible region",
+    "target_meaning": "aloof, off the beaten path, off the beaten track"
+  },
+  {
+    "source_idiom": "tipahtaa jonkun syliin",
+    "target_idiom": "spaść na barki",
+    "source_meaning": "to fall into someone's lap",
+    "target_meaning": "to fall on one's shoulders"
+  },
+  {
+    "source_idiom": "tipalla",
+    "target_idiom": "tuż, tuż",
+    "source_meaning": "very close (likely to have happened or not have happened; usually of past events)",
+    "target_meaning": "almost, nearly, right, just (very close in time or space)"
+  },
+  {
+    "source_idiom": "totuuden jyvä",
+    "target_idiom": "w winie prawda",
+    "source_meaning": "kernel of truth",
+    "target_meaning": "in wine, there is truth"
+  },
+  {
+    "source_idiom": "tuiskeessa",
+    "target_idiom": "nawalony jak Messerschmitt",
+    "source_meaning": "drunk",
+    "target_meaning": "drunk as a skunk"
+  },
+  {
+    "source_idiom": "tuki ja turva",
+    "target_idiom": "kamień węgielny",
+    "source_meaning": "foundation, mainstay, bread and butter, warp and woof",
+    "target_meaning": "cornerstone (that which is prominent, fundamental, noteworthy, or central)"
+  },
+  {
+    "source_idiom": "tulla hyvään saumaan",
+    "target_idiom": "trafić w dziesiątkę",
+    "source_meaning": "to hit the spot (to be particularly pleasing or appropriate; to be just right)",
+    "target_meaning": "to hit the jackpot, to hit the spot"
+  },
+  {
+    "source_idiom": "tumput suorina",
+    "target_idiom": "chodzić po retentach",
+    "source_meaning": "idling, doing nothing of value, twiddling one's thumbs",
+    "target_meaning": "to idle"
+  },
+  {
+    "source_idiom": "tunnustella maaperää",
+    "target_idiom": "zbadać grunt",
+    "source_meaning": "to test the waters",
+    "target_meaning": "to test the waters"
+  },
+  {
+    "source_idiom": "tuntea nahoissaan",
+    "target_idiom": "dostawać po kieszeni",
+    "source_meaning": "to suffer (a punishment or hardship); to feel the (negative) effects of something; to get it",
+    "target_meaning": "to get hit in one's pocket (to suffer financial loss)"
+  },
+  {
+    "source_idiom": "tuntematon tekijä",
+    "target_idiom": "znak zapytania",
+    "source_meaning": "an unknown",
+    "target_meaning": "question mark"
+  },
+  {
+    "source_idiom": "tuon taivaallista",
+    "target_idiom": "ani trochę",
+    "source_meaning": "at all, anything, even a bit or shred (of)",
+    "target_meaning": "not at all, not in the slightest"
+  },
+  {
+    "source_idiom": "tyhjää täynnä",
+    "target_idiom": "biedny jak mysz kościelna",
+    "source_meaning": "empty, empty as a pauper's purse",
+    "target_meaning": "poor as a church mouse"
+  },
+  {
+    "source_idiom": "tyyni myrskyn edellä",
+    "target_idiom": "cisza przed burzą",
+    "source_meaning": "calm before the storm (period of peace before a disturbance or crisis)",
+    "target_meaning": "calm before the storm"
+  },
+  {
+    "source_idiom": "työntää nenänsä",
+    "target_idiom": "wsadzić nos",
+    "source_meaning": "to stick one's nose into [ illative]",
+    "target_meaning": "to stick one's nose in [ (+ accusative)]"
+  },
+  {
+    "source_idiom": "tähän asti kaikki hyvin",
+    "target_idiom": "do tej pory",
+    "source_meaning": "so far so good",
+    "target_meaning": "so far, until now, till now, hitherto"
+  },
+  {
+    "source_idiom": "tänä päivänä",
+    "target_idiom": "tym razem",
+    "source_meaning": "today, in this day and age",
+    "target_meaning": "this time (now, today, on this occasion)"
+  },
+  {
+    "source_idiom": "täynnä itseään",
+    "target_idiom": "wyżej sra, niż dupę ma",
+    "source_meaning": "full of oneself",
+    "target_meaning": "used when someone considers themselves better than the speaker thinks they ought to; (roughly) they have their head up their ass; they are full of themselves"
+  },
+  {
+    "source_idiom": "täysin palkein",
+    "target_idiom": "ile sił w płucach",
+    "source_meaning": "at the top of one's lungs",
+    "target_meaning": "at the top of one's lungs, at the top of one's voice"
+  },
+  {
+    "source_idiom": "täysin rinnoin",
+    "target_idiom": "z całego serca",
+    "source_meaning": "wholeheartedly (in a wholehearted manner; with one's whole heart; enthusiastically; without reserve)",
+    "target_meaning": "wholeheartedly, with all one's heart"
+  },
+  {
+    "source_idiom": "täältä pesee",
+    "target_idiom": "a jakże",
+    "source_meaning": "definitely, certainly, you bet (used to strengthen a positive response to a request for action)",
+    "target_meaning": "Expresses support, agreement, certainty, or emphasis; of course; you bet"
+  },
+  {
+    "source_idiom": "uhmata kohtaloa",
+    "target_idiom": "skusić los",
+    "source_meaning": "to tempt fate",
+    "target_meaning": "to tempt fate"
+  },
+  {
+    "source_idiom": "uimarengas",
+    "target_idiom": "mięsień piwny",
+    "source_meaning": "spare tire, love handle (excess fat accumulated near the waist)",
+    "target_meaning": "beer belly, beer muscles (paunch attributed to beer)"
+  },
+  {
+    "source_idiom": "ummet ja lammet",
+    "target_idiom": "odmieniać przez wszystkie przypadki",
+    "source_meaning": "excessively long-winded talk: this and that",
+    "target_meaning": "to talk about something at length; to repeatedly describe something in particular terms"
+  },
+  {
+    "source_idiom": "uni tulee",
+    "target_idiom": "w objęciach Morfeusza",
+    "source_meaning": "Used to represent falling asleep or being able to.",
+    "target_meaning": "in the arms of Morpheus (asleep, sleeping)"
+  },
+  {
+    "source_idiom": "uskoa silmiään",
+    "target_idiom": "przecierać oczy",
+    "source_meaning": "to believe one's eyes",
+    "target_meaning": "to not believe one's eyes"
+  },
+  {
+    "source_idiom": "uunituore",
+    "target_idiom": "od niedawna",
+    "source_meaning": "brand new",
+    "target_meaning": "newly"
+  },
+  {
+    "source_idiom": "vaatia tilille",
+    "target_idiom": "pociągnąć do odpowiedzialności",
+    "source_meaning": "to hold to account",
+    "target_meaning": "to make someone accountable [ accusative ]"
+  },
+  {
+    "source_idiom": "vaatia veronsa",
+    "target_idiom": "nie dawać żyć",
+    "source_meaning": "to take its toll",
+    "target_meaning": "to not let be (to become so burdensome for someone that it makes it difficult for that person to function normally)  "
+  },
+  {
+    "source_idiom": "vaihtaa hiippakuntaa",
+    "target_idiom": "wyciągnąć holopy",
+    "source_meaning": "To die.",
+    "target_meaning": "to die"
+  },
+  {
+    "source_idiom": "vaihtaa levyä",
+    "target_idiom": "pobić rekord",
+    "source_meaning": "to change the record",
+    "target_meaning": "to break a record"
+  },
+  {
+    "source_idiom": "vaihteeksi",
+    "target_idiom": "dla odmiany",
+    "source_meaning": "for a change (as a departure from the usual)",
+    "target_meaning": "for a change (wishing for something new)"
+  },
+  {
+    "source_idiom": "vain kuolleen ruumiini yli",
+    "target_idiom": "nic z tego",
+    "source_meaning": "over my dead body",
+    "target_meaning": "a likely story! yeah, right!, nothing of the kind!, over my dead body!, tell me another!"
+  },
+  {
+    "source_idiom": "valehdella päin naamaa",
+    "target_idiom": "łgać jak pies",
+    "source_meaning": "to lie to one's face; lie egregiously or impudently; lie through one's teeth",
+    "target_meaning": "to lie through one's teeth"
+  },
+  {
+    "source_idiom": "valopilkku",
+    "target_idiom": "światełko w tunelu",
+    "source_meaning": "bright spot, saving grace",
+    "target_meaning": "light at the end of the tunnel, silver lining (better situation after long hardship)"
+  },
+  {
+    "source_idiom": "valvoa yötä myöten",
+    "target_idiom": "nocny marek",
+    "source_meaning": "To burn the midnight oil, pull an all-nighter.",
+    "target_meaning": "night owl"
+  },
+  {
+    "source_idiom": "vanha koulukunta",
+    "target_idiom": "starej daty",
+    "source_meaning": "old school",
+    "target_meaning": "of the old school, of the old guard"
+  },
+  {
+    "source_idiom": "vanha kuin taivas",
+    "target_idiom": "stary jak świat",
+    "source_meaning": "old as the hills",
+    "target_meaning": "old as the hills, old as time"
+  },
+  {
+    "source_idiom": "vanha parta",
+    "target_idiom": "wiek matuzalemowy",
+    "source_meaning": "old man",
+    "target_meaning": "very old age"
+  },
+  {
+    "source_idiom": "vanha pieru",
+    "target_idiom": "leśny dziadek",
+    "source_meaning": "old fart",
+    "target_meaning": "fossil; old person in a position of authority stubbornly sticking to anachronistic views, no longer competent for their job and not willing to step down to make way for the younger generation"
+  },
+  {
+    "source_idiom": "vastarannankiiski",
+    "target_idiom": "dziad swoje, baba swoje",
+    "source_meaning": "Someone in constant opposition and immune to any reasoning",
+    "target_meaning": "used when an agreement cannot be reached because everyone is too stubborn to change their opinion"
+  },
+  {
+    "source_idiom": "vedellä viimeisiään",
+    "target_idiom": "być jedną nogą w grobie",
+    "source_meaning": "to be on one's last legs",
+    "target_meaning": "to have one foot in the grave"
+  },
+  {
+    "source_idiom": "veri on vettä sakeampaa",
+    "target_idiom": "krew nie woda",
+    "source_meaning": "blood is thicker than water (family relations and loyalties tend to be stronger than relationships with people who are not family members)",
+    "target_meaning": "used when someone's behaviour indicates their lively temperament or traits inherited from their ancestors; blood is thicker than water"
+  },
+  {
+    "source_idiom": "vetää hatustaan",
+    "target_idiom": "wyciągnąć asa z rękawa",
+    "source_meaning": "to pull out of a hat",
+    "target_meaning": "to pull an ace out of one's sleeve"
+  },
+  {
+    "source_idiom": "vetää hirsiä",
+    "target_idiom": "spać snem sprawiedliwego",
+    "source_meaning": "To sleep.",
+    "target_meaning": "to sleep the sleep of the just"
+  },
+  {
+    "source_idiom": "vetää itsensä hirteen",
+    "target_idiom": "wyhuśtać",
+    "source_meaning": "to hang oneself, to commit suicide by hanging",
+    "target_meaning": "to hang oneself (to commit suicide by hanging)"
+  },
+  {
+    "source_idiom": "vetää lokaan",
+    "target_idiom": "obrzucić błotem",
+    "source_meaning": "to drag through the mud",
+    "target_meaning": "to talk trash, to sling mud"
+  },
+  {
+    "source_idiom": "vetää viimeinen henkäyksensä",
+    "target_idiom": "wydawać ostatnie tchnienie",
+    "source_meaning": "to draw one's last breath",
+    "target_meaning": "to breathe one's last (to die)"
+  },
+  {
+    "source_idiom": "viedä sanat jonkun suusta",
+    "target_idiom": "wyjmować z ust",
+    "source_meaning": "to take the words out of someone's mouth",
+    "target_meaning": "to take the words out of someone's mouth [ accusative ]"
+  },
+  {
+    "source_idiom": "viedä tuhkatkin pesästä",
+    "target_idiom": "puszczać z torbami",
+    "source_meaning": "to take (away) everything one has, rob blind, take to the cleaners [ ablative]",
+    "target_meaning": "to take to the cleaners; to bleed, to clean out, to ruin (to make insolvent; to put someone in bankruptcy)"
+  },
+  {
+    "source_idiom": "vierittää syy",
+    "target_idiom": "kozioł ofiarny",
+    "source_meaning": "to scapegoat",
+    "target_meaning": "scapegoat (someone punished for someone else's errors)"
+  },
+  {
+    "source_idiom": "viiden sormen alennus",
+    "target_idiom": "amator cudzej własności",
+    "source_meaning": "theft",
+    "target_meaning": "thief"
+  },
+  {
+    "source_idiom": "viides pyörä vaunuissa",
+    "target_idiom": "piąte koło u wozu",
+    "source_meaning": "an unwanted person, third wheel",
+    "target_meaning": "third wheel (unwanted person or thing)"
+  },
+  {
+    "source_idiom": "viilata linssiin",
+    "target_idiom": "nabijać w butelkę",
+    "source_meaning": "to con, to swindle, to cheat",
+    "target_meaning": "to con, to deceive, to trick [ genitive ]"
+  },
+  {
+    "source_idiom": "viimeinen sana",
+    "target_idiom": "ostatnia godzina",
+    "source_meaning": "last words (final statement before death)",
+    "target_meaning": "death knell (moment immediately preceding someone's death)"
+  },
+  {
+    "source_idiom": "viimeiseen mieheen",
+    "target_idiom": "co do jednego",
+    "source_meaning": "to the last man",
+    "target_meaning": "every last, to a man (every without exception)"
+  },
+  {
+    "source_idiom": "viis veisata",
+    "target_idiom": "mieć w nosie",
+    "source_meaning": "to not care for, not give a damn, not give a hoot",
+    "target_meaning": "to not give a shit, to disregard, to ignore, to flout"
+  },
+  {
+    "source_idiom": "viitata kintaalla",
+    "target_idiom": "odłożyć na stronę",
+    "source_meaning": "to remain indifferent to, to dismiss or disregard [ allative partitive]",
+    "target_meaning": "to put aside (to consider not important and not engage with)"
+  },
+  {
+    "source_idiom": "villakoiran ydin",
+    "target_idiom": "tu leży pies pogrzebany",
+    "source_meaning": "core of the issue, essence, trick, catch (inherent nature of an idea, especially one that is not apparent)",
+    "target_meaning": "therein lies the rub; that's the crux of the matter; that's the main obstacle; that's the whole point"
+  },
+  {
+    "source_idiom": "virtahepo olohuoneessa",
+    "target_idiom": "słoń indyjski",
+    "source_meaning": "elephant in the room",
+    "target_meaning": "Indian elephant"
+  },
+  {
+    "source_idiom": "voittaa omassa pelissään",
+    "target_idiom": "bić własną bronią",
+    "source_meaning": "to beat someone at their own game",
+    "target_meaning": "to beat someone at their own game"
+  },
+  {
+    "source_idiom": "vähin äänin",
+    "target_idiom": "po cichu",
+    "source_meaning": "quietly, without much fanfare (of doing some action as quietly as possible without making any unnecessary noise, especially when to do something surreptitiously)",
+    "target_meaning": "quietly, silently"
+  },
+  {
+    "source_idiom": "vääntää rautalangasta",
+    "target_idiom": "wytłumaczyć jak krowie na rowie",
+    "source_meaning": "To explain with very simple terms.",
+    "target_meaning": "to explain in extremely simple terms"
+  },
+  {
+    "source_idiom": "vääntää rautalangasta",
+    "target_idiom": "wkładać łopatą do głowy",
+    "source_meaning": "to explain in plain English, explain in words of one syllable, spell out, spoon-feed, (have to) draw a picture [ allative ] (to explain in concrete and simple terms, often condescendingly)",
+    "target_meaning": "to explain to someone like a five-year-old (to explain something patiently and in simple terms)  "
+  },
+  {
+    "source_idiom": "väärän koivun takaa",
+    "target_idiom": "więzy krwi",
+    "source_meaning": "related through marriage, rather than by blood",
+    "target_meaning": "blood relationship (state of being related by “blood”, i.e. genetically)"
+  },
+  {
+    "source_idiom": "yhdeksän hyvää ja kahdeksan kaunista",
+    "target_idiom": "obiecanki cacanki",
+    "source_meaning": "futile promises",
+    "target_meaning": "promises which have no hope of being fulfilled"
+  },
+  {
+    "source_idiom": "yhdellä iskulla",
+    "target_idiom": "za jednym obrotem",
+    "source_meaning": "in one fell swoop",
+    "target_meaning": "in one fell swoop"
+  },
+  {
+    "source_idiom": "yhteen ääneen",
+    "target_idiom": "do kupy",
+    "source_meaning": "with one voice, in unison, together, simultaneously (of voices, uttered in the same time)",
+    "target_meaning": "all together, in tandem, together"
+  },
+  {
+    "source_idiom": "yhtä jalkaa",
+    "target_idiom": "łeb w łeb",
+    "source_meaning": "at the same pace",
+    "target_meaning": "neck and neck (having the same speed or results)"
+  },
+  {
+    "source_idiom": "yhtä soittoa",
+    "target_idiom": "bez ustanku",
+    "source_meaning": "without stopping, nonstop",
+    "target_meaning": "all the time, incessantly, constantly, nonstop"
+  },
+  {
+    "source_idiom": "yleislääke",
+    "target_idiom": "kamień filozoficzny",
+    "source_meaning": "panacea, cure-all",
+    "target_meaning": "philosopher's stone (supposed substance able to turn base metals, such as lead or mercury, into gold or silver, also sometimes claimed to cure any illness (as panacea) or confer immortality (as elixir of life), among other functions)"
+  },
+  {
+    "source_idiom": "ylistää maasta taivaisiin",
+    "target_idiom": "wynosić pod niebiosa",
+    "source_meaning": "to praise to the skies",
+    "target_meaning": "to praise to the skies (to praise a lot)"
+  },
+  {
+    "source_idiom": "ylä- ja alamäet",
+    "target_idiom": "wzloty i upadki",
+    "source_meaning": "ups and downs",
+    "target_meaning": "ups and downs"
+  },
+  {
+    "source_idiom": "ymmärtää yskä",
+    "target_idiom": "być w domu",
+    "source_meaning": "to get it, get the hint, take a hint, get the message (correctly infer a meaning that is not stated explicitly)",
+    "target_meaning": "to understand, to get the point of something"
+  }
+]

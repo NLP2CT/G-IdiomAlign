@@ -1,0 +1,3056 @@
+[
+  {
+    "source_idiom": "一……就……",
+    "target_idiom": "gesagt, getan",
+    "source_meaning": "as soon as; no sooner...than...; once...",
+    "target_meaning": "no sooner said than done"
+  },
+  {
+    "source_idiom": "一事無成",
+    "target_idiom": "auf keinen grünen Zweig kommen",
+    "source_meaning": "to be unable to achieve anything; to be a total failure",
+    "target_meaning": "to get nowhere, to not be able to accomplish anything"
+  },
+  {
+    "source_idiom": "一分一毫",
+    "target_idiom": "um ein Haar",
+    "source_meaning": "a tiny bit; a sliver",
+    "target_meaning": "by a hair's breadth"
+  },
+  {
+    "source_idiom": "一勞永逸",
+    "target_idiom": "ein für alle Mal",
+    "source_meaning": "once and for all",
+    "target_meaning": "once and for all"
+  },
+  {
+    "source_idiom": "一吐為快",
+    "target_idiom": "Dampf ablassen",
+    "source_meaning": "to get something off one's chest",
+    "target_meaning": "to blow off steam"
+  },
+  {
+    "source_idiom": "一命嗚呼",
+    "target_idiom": "den Löffel abgeben",
+    "source_meaning": "to die; to drop dead",
+    "target_meaning": "to die; to bite the dust; to kick the bucket"
+  },
+  {
+    "source_idiom": "一唱百和",
+    "target_idiom": "seinen Segen zu etwas geben",
+    "source_meaning": "to meet with general approval",
+    "target_meaning": "to give one's blessing to"
+  },
+  {
+    "source_idiom": "一家大小",
+    "target_idiom": "mit Kind und Kegel",
+    "source_meaning": "the whole family",
+    "target_meaning": "as a large group; with all of one's family, contents, and/or livestock"
+  },
+  {
+    "source_idiom": "一應俱全",
+    "target_idiom": "mit allen Schikanen",
+    "source_meaning": "with everything needed available",
+    "target_meaning": "with all the bells and whistles"
+  },
+  {
+    "source_idiom": "一掃而空",
+    "target_idiom": "hinwegfegen",
+    "source_meaning": "to sweep clean; to be swept clean away",
+    "target_meaning": "to sweep away"
+  },
+  {
+    "source_idiom": "一擧兩得",
+    "target_idiom": "zwei Fliegen mit einer Klappe schlagen",
+    "source_meaning": "kill two birds with one stone",
+    "target_meaning": "kill two birds with one stone"
+  },
+  {
+    "source_idiom": "一文不值",
+    "target_idiom": "keinen Pfifferling wert sein",
+    "source_meaning": "not worth a penny; utterly worthless",
+    "target_meaning": "to not be worth a dime"
+  },
+  {
+    "source_idiom": "一望無垠",
+    "target_idiom": "so weit das Auge reicht",
+    "source_meaning": "to stretch as far as the eye can see; to stretch to the horizon",
+    "target_meaning": "as far as the eye can see"
+  },
+  {
+    "source_idiom": "一本正經",
+    "target_idiom": "Ernst",
+    "source_meaning": "absolutely serious; dead earnest",
+    "target_meaning": "a serious statement, a seriously meant action"
+  },
+  {
+    "source_idiom": "一發不可收拾",
+    "target_idiom": "aus dem Ruder laufen",
+    "source_meaning": "to get out of hand",
+    "target_meaning": "to get out of hand"
+  },
+  {
+    "source_idiom": "一盞茶工夫",
+    "target_idiom": "über Nacht",
+    "source_meaning": "within a short period of time",
+    "target_meaning": "overnight (within a short period of time)"
+  },
+  {
+    "source_idiom": "一竹篙打死一船人",
+    "target_idiom": "über einen Kamm scheren",
+    "source_meaning": "to tar everyone with the same brush",
+    "target_meaning": "to tar with the same brush"
+  },
+  {
+    "source_idiom": "一笑置之",
+    "target_idiom": "auf die leichte Schulter nehmen",
+    "source_meaning": "to laugh off; to dismiss with laughter; to make light of",
+    "target_meaning": "to make light of"
+  },
+  {
+    "source_idiom": "一筆勾銷",
+    "target_idiom": "zu Grabe tragen",
+    "source_meaning": "to write off at one stroke; to cancel once and for all",
+    "target_meaning": "to give up, to bury, to write off"
+  },
+  {
+    "source_idiom": "一籌莫展",
+    "target_idiom": "mit seinem Latein am Ende sein",
+    "source_meaning": "to be unable to find a solution; to be at wits' end",
+    "target_meaning": "to be at one's wits' end"
+  },
+  {
+    "source_idiom": "一言蔽之",
+    "target_idiom": "mit anderen Worten",
+    "source_meaning": "to summarize in a word; in a nutshell",
+    "target_meaning": "in other words"
+  },
+  {
+    "source_idiom": "一走了之",
+    "target_idiom": "seinen Hut nehmen",
+    "source_meaning": "to quit; to walk away from a situation irresponsibly",
+    "target_meaning": "to resign; to quit"
+  },
+  {
+    "source_idiom": "一針見血",
+    "target_idiom": "den Nagel auf den Kopf treffen",
+    "source_meaning": "hit the nail on the head",
+    "target_meaning": "to hit the nail on the head"
+  },
+  {
+    "source_idiom": "一頭霧水",
+    "target_idiom": "schauen wie der Ochs vorm Berg",
+    "source_meaning": "to be completely muddle-headed; to be baffled",
+    "target_meaning": "to look completely baffled"
+  },
+  {
+    "source_idiom": "一顯身手",
+    "target_idiom": "zur Schau tragen",
+    "source_meaning": "to display all of one's capabilities; to strut one's stuff; to show off one's skills",
+    "target_meaning": "to flaunt, to show off, to sport, to put on display"
+  },
+  {
+    "source_idiom": "一飲而盡",
+    "target_idiom": "auf ex trinken",
+    "source_meaning": "to drink at a draught",
+    "target_meaning": "to down, to drink up in one draught"
+  },
+  {
+    "source_idiom": "一馬平川",
+    "target_idiom": "flach wie Holland",
+    "source_meaning": "wide expanse of flat land; wide stretch of flat country",
+    "target_meaning": "very flat or shallow, flat as a pancake"
+  },
+  {
+    "source_idiom": "一鼻孔出氣",
+    "target_idiom": "ins gleiche Horn blasen",
+    "source_meaning": "to sing the same tune",
+    "target_meaning": "to sing from the same hymnbook"
+  },
+  {
+    "source_idiom": "七拼八湊",
+    "target_idiom": "abgekartetes Spiel",
+    "source_meaning": "to rig up; to throw together; to piece together",
+    "target_meaning": "put-up job, put-up, stitch-up"
+  },
+  {
+    "source_idiom": "三不五時",
+    "target_idiom": "ab und zu",
+    "source_meaning": "sometimes; from time to time; occasionally; now and then",
+    "target_meaning": "now and then; occasionally"
+  },
+  {
+    "source_idiom": "三寸不爛之舌",
+    "target_idiom": "Honig um den Bart schmieren",
+    "source_meaning": "to have a silver tongue; to have a way with words; to have an ability to schmooze",
+    "target_meaning": "to schmooze"
+  },
+  {
+    "source_idiom": "三番四次",
+    "target_idiom": "von vorn",
+    "source_meaning": "again and again; over and over again",
+    "target_meaning": "over again; from the start"
+  },
+  {
+    "source_idiom": "上天無路，入地無門",
+    "target_idiom": "Ende der Fahnenstange",
+    "source_meaning": "no way of escape; in desperate straits; in a desperate situation; at the end of the line",
+    "target_meaning": "end of the line, end of the road"
+  },
+  {
+    "source_idiom": "上屋抽梯",
+    "target_idiom": "in die Enge treiben",
+    "source_meaning": "to lure someone to a treacherous place or situation then cut off their avenue of escape",
+    "target_meaning": "to trap, to scare, to corner"
+  },
+  {
+    "source_idiom": "上諂下驕",
+    "target_idiom": "nach oben buckeln und nach unten treten",
+    "source_meaning": "obsequious towards one's superiors and arrogant towards one's inferiors",
+    "target_meaning": "to be meek towards one's superiors and despotic towards one's inferiors"
+  },
+  {
+    "source_idiom": "下不了臺",
+    "target_idiom": "mit gewaschenem Hals",
+    "source_meaning": "to be unable to extricate oneself from an awkward situation",
+    "target_meaning": "finding oneself in an awkward situation, especially because one has done something in vain or relied on something that has not turned out"
+  },
+  {
+    "source_idiom": "下逐客令",
+    "target_idiom": "zum Teufel schicken",
+    "source_meaning": "to ask a guest to leave",
+    "target_meaning": "to send someone packing"
+  },
+  {
+    "source_idiom": "不予理睬",
+    "target_idiom": "etwas in den Wind schlagen",
+    "source_meaning": "to ignore; to dismiss; to pay no attention to",
+    "target_meaning": "to ignore or disregard something"
+  },
+  {
+    "source_idiom": "不予置評",
+    "target_idiom": "kein Kommentar",
+    "source_meaning": "no comment; to refuse to comment",
+    "target_meaning": "no comment"
+  },
+  {
+    "source_idiom": "不二之選",
+    "target_idiom": "in guter Gesellschaft",
+    "source_meaning": "best choice",
+    "target_meaning": "good company"
+  },
+  {
+    "source_idiom": "不修邊幅",
+    "target_idiom": "sich gehen lassen",
+    "source_meaning": "to not care about one's appearance; to be slovenly in dress and manner; to be unkempt",
+    "target_meaning": "to let oneself go (to cease to care about one's appearance)"
+  },
+  {
+    "source_idiom": "不假思索",
+    "target_idiom": "ohne mit der Wimper zu zucken",
+    "source_meaning": "without hesitation",
+    "target_meaning": "without batting an eyelash"
+  },
+  {
+    "source_idiom": "不動聲色",
+    "target_idiom": "ruhig Blut bewahren",
+    "source_meaning": "to maintain one's composure; to stay calm and collected; to not turn a hair; to not bat an eyelid; to not show or betray one's feelings or intentions",
+    "target_meaning": "to keep one's cool"
+  },
+  {
+    "source_idiom": "不勝負荷",
+    "target_idiom": "ins Gewicht fallen",
+    "source_meaning": "unable to bear (weight, burden or responsibility)",
+    "target_meaning": "to carry weight"
+  },
+  {
+    "source_idiom": "不即不離",
+    "target_idiom": "nicht einmal mit der Kneifzange anfassen",
+    "source_meaning": "to keep somebody at arm's length",
+    "target_meaning": "to not touch something with a barge pole (to avoid contact with someone or something at all costs)"
+  },
+  {
+    "source_idiom": "不厭其詳",
+    "target_idiom": "ins Einzelne gehen",
+    "source_meaning": "to go into details; to dwell at length upon",
+    "target_meaning": "to go into details, to particularize"
+  },
+  {
+    "source_idiom": "不失時機",
+    "target_idiom": "die Gunst der Stunde nutzen",
+    "source_meaning": "to not let the opportunity slip; to seize the opportune moment; to lose no time",
+    "target_meaning": "to seize the moment"
+  },
+  {
+    "source_idiom": "不寧唯是",
+    "target_idiom": "näher",
+    "source_meaning": "moreover; and what is more",
+    "target_meaning": "further, more precise or detailed"
+  },
+  {
+    "source_idiom": "不得已而為之",
+    "target_idiom": "ob man will oder nicht",
+    "source_meaning": "to do something against one's will; to have no choice but to do something",
+    "target_meaning": "willy-nilly; whether we like it or not"
+  },
+  {
+    "source_idiom": "不得已而退求其次",
+    "target_idiom": "die zweite Geige spielen",
+    "source_meaning": "to have to be content with second best",
+    "target_meaning": "to take a back seat, to play second fiddle"
+  },
+  {
+    "source_idiom": "不思進取",
+    "target_idiom": "sich auf seinen Lorbeeren ausruhen",
+    "source_meaning": "to rest on one's laurels; to make no further effort to improve oneself",
+    "target_meaning": "to rest on one's laurels"
+  },
+  {
+    "source_idiom": "不折不扣",
+    "target_idiom": "auf Heller und Pfennig",
+    "source_meaning": "one hundred percent; to the letter",
+    "target_meaning": "to the last penny"
+  },
+  {
+    "source_idiom": "不按牌理出牌",
+    "target_idiom": "über den Tellerrand schauen",
+    "source_meaning": "to think outside the box; to do things in an unconventional way",
+    "target_meaning": "to think outside the box"
+  },
+  {
+    "source_idiom": "不期而然",
+    "target_idiom": "wider Erwarten",
+    "source_meaning": "to happen unexpectedly; to turn out contrary to one's expectations",
+    "target_meaning": "contrary to expectations, unexpectedly"
+  },
+  {
+    "source_idiom": "不為已甚",
+    "target_idiom": "die Kirche im Dorf lassen",
+    "source_meaning": "to not go too far; to refrain from going to extremes; to never go beyond reasonable limits",
+    "target_meaning": "to avoid exaggerating; not to get carried away"
+  },
+  {
+    "source_idiom": "不知所云",
+    "target_idiom": "Chinesisch sprechen",
+    "source_meaning": "to not know what someone is driving at; to be unintelligible",
+    "target_meaning": "to be unintelligible"
+  },
+  {
+    "source_idiom": "不見不散",
+    "target_idiom": "sich nicht vom Fleck rühren",
+    "source_meaning": "to stay put until we meet each other",
+    "target_meaning": "stay put"
+  },
+  {
+    "source_idiom": "不足掛齒",
+    "target_idiom": "nicht der Rede wert sein",
+    "source_meaning": "not worth mentioning; nothing to speak of",
+    "target_meaning": "to be nothing worth mentioning"
+  },
+  {
+    "source_idiom": "不足為奇",
+    "target_idiom": "gang und gäbe",
+    "source_meaning": "to be commonplace and not at all surprising",
+    "target_meaning": "to be commonplace"
+  },
+  {
+    "source_idiom": "不足為怪",
+    "target_idiom": "kein Wunder",
+    "source_meaning": "to be no wonder; to be not surprising",
+    "target_meaning": "no wonder"
+  },
+  {
+    "source_idiom": "不顧一切",
+    "target_idiom": "mit dem Kopf durch die Wand",
+    "source_meaning": "without regard to consequences; throw caution to the wind; desperate; reckless",
+    "target_meaning": "hell-bent and without consideration for others"
+  },
+  {
+    "source_idiom": "並駕齊驅",
+    "target_idiom": "mit etwas Schritt halten",
+    "source_meaning": "to keep pace with; to keep abreast of; to advance at an equal pace with; to run neck and neck; to be on a par with",
+    "target_meaning": "to keep up with"
+  },
+  {
+    "source_idiom": "九曲十八彎",
+    "target_idiom": "Eiertanz",
+    "source_meaning": "tortuous; full of bends",
+    "target_meaning": "tortuous maneuvering"
+  },
+  {
+    "source_idiom": "九牛一毛",
+    "target_idiom": "ein Tropfen auf den heißen Stein",
+    "source_meaning": "a drop in the bucket",
+    "target_meaning": "a drop in the bucket"
+  },
+  {
+    "source_idiom": "事倍功半",
+    "target_idiom": "halbe Miete",
+    "source_meaning": "to get half the result with twice the effort",
+    "target_meaning": "half the battle, half of the story"
+  },
+  {
+    "source_idiom": "五十步笑一百步",
+    "target_idiom": "ein Esel schimpft den andern Langohr",
+    "source_meaning": "pot calling the kettle black",
+    "target_meaning": "the pot calling the kettle black"
+  },
+  {
+    "source_idiom": "人有三急",
+    "target_idiom": "einen Neger abseilen",
+    "source_meaning": "to need to use the toilet; to need to urinate or defecate",
+    "target_meaning": "to defecate"
+  },
+  {
+    "source_idiom": "人神共憤",
+    "target_idiom": "in Acht und Bann",
+    "source_meaning": "hated and reviled",
+    "target_meaning": "banished, ostracized"
+  },
+  {
+    "source_idiom": "人間蒸發",
+    "target_idiom": "sich in Luft auflösen",
+    "source_meaning": "inexplicably out of sight; to vanish into thin air",
+    "target_meaning": "to vanish into thin air"
+  },
+  {
+    "source_idiom": "仗義疏財",
+    "target_idiom": "Spendierhosen",
+    "source_meaning": "to be generous in aiding the needy; to give money for a righteous cause",
+    "target_meaning": "a metaphorical representation of a feeling of generosity"
+  },
+  {
+    "source_idiom": "付諸東流",
+    "target_idiom": "in die Binsen gehen",
+    "source_meaning": "to go in vain; to go down the drain; to be completely wasted",
+    "target_meaning": "to go down the drain, to go up in smoke"
+  },
+  {
+    "source_idiom": "以毒攻毒",
+    "target_idiom": "mit dem Feuer spielen",
+    "source_meaning": "to fight fire with fire",
+    "target_meaning": "to play with fire"
+  },
+  {
+    "source_idiom": "佔為己有",
+    "target_idiom": "sich etwas zu eigen machen",
+    "source_meaning": "to appropriate to oneself; to take something which is not yours",
+    "target_meaning": "to appropriate, to acquire, to adopt"
+  },
+  {
+    "source_idiom": "佛都有火",
+    "target_idiom": "da lachen ja die Hühner",
+    "source_meaning": "Used to denote that someone or something is extremely outrageous.",
+    "target_meaning": "Exclamation at something ridiculous, silly, or completely unsatisfactory."
+  },
+  {
+    "source_idiom": "信以為真",
+    "target_idiom": "etwas für bare Münze nehmen",
+    "source_meaning": "to take (something) to be true",
+    "target_meaning": "to take something at face value"
+  },
+  {
+    "source_idiom": "俯首稱臣",
+    "target_idiom": "sich geschlagen geben",
+    "source_meaning": "to concede one's defeat or submission",
+    "target_meaning": "to admit defeat, to fold"
+  },
+  {
+    "source_idiom": "倒懸之危",
+    "target_idiom": "der Hut brennt",
+    "source_meaning": "critical juncture; the brink of destruction; a danger which puts one in dire straits",
+    "target_meaning": "a dire, urgent, pressing situation requiring action; push comes to shove"
+  },
+  {
+    "source_idiom": "倒抽一口氣",
+    "target_idiom": "einen fliegen lassen",
+    "source_meaning": "to gasp",
+    "target_meaning": "to flatulate"
+  },
+  {
+    "source_idiom": "倒背如流",
+    "target_idiom": "im Kopf haben",
+    "source_meaning": "to know something by heart",
+    "target_meaning": "to remember, to know by heart"
+  },
+  {
+    "source_idiom": "倒錢落海",
+    "target_idiom": "das Geld zum Fenster hinauswerfen",
+    "source_meaning": "to pour money down the drain; to squander money",
+    "target_meaning": "to throw money away"
+  },
+  {
+    "source_idiom": "借古諷今",
+    "target_idiom": "aufs Korn nehmen",
+    "source_meaning": "to satirize the present by discussing and commenting on historical events or figures",
+    "target_meaning": "to satirize"
+  },
+  {
+    "source_idiom": "假戲真做",
+    "target_idiom": "so tun, als ob",
+    "source_meaning": "to turn a make-believe into reality",
+    "target_meaning": "to make believe"
+  },
+  {
+    "source_idiom": "做牛做馬",
+    "target_idiom": "sich ins Zeug legen",
+    "source_meaning": "to work one's butt off; to work extremely hard",
+    "target_meaning": "to work hard (at something)"
+  },
+  {
+    "source_idiom": "偷天換日",
+    "target_idiom": "in den Tee tun",
+    "source_meaning": "to stealthily change the contents or substitute one thing with another",
+    "target_meaning": "to slip something in someone’s drink (e.g. alcohol, drugs, poison)"
+  },
+  {
+    "source_idiom": "偷目竊望",
+    "target_idiom": "einen Blick werfen",
+    "source_meaning": "to steal a glance",
+    "target_meaning": "to take a look"
+  },
+  {
+    "source_idiom": "偷雞摸狗",
+    "target_idiom": "mitgehen lassen",
+    "source_meaning": "to engage in petty thievery",
+    "target_meaning": "to steal, to pilfer (especially while being some place for some other purpose)"
+  },
+  {
+    "source_idiom": "偷香竊玉",
+    "target_idiom": "Briefmarkensammlung",
+    "source_meaning": "love affair; philandering, secret illicit sex",
+    "target_meaning": "euphemistic code for a sexual encounter"
+  },
+  {
+    "source_idiom": "備而不用",
+    "target_idiom": "etwas auf der Pfanne haben",
+    "source_meaning": "to have something ready just in case; to keep something for possible future use",
+    "target_meaning": "to have something in store, up one's sleeve"
+  },
+  {
+    "source_idiom": "傾家蕩產",
+    "target_idiom": "die Bank sprengen",
+    "source_meaning": "to exhaust all of a family's financial resources; to break the bank; to bring a family to ruin",
+    "target_meaning": "to break the bank"
+  },
+  {
+    "source_idiom": "充耳不聞",
+    "target_idiom": "Bohnen in den Ohren haben",
+    "source_meaning": "to turn a deaf ear",
+    "target_meaning": "to turn a deaf ear"
+  },
+  {
+    "source_idiom": "先敬羅衣後敬人",
+    "target_idiom": "mit jemandem ins Gericht gehen",
+    "source_meaning": "to judge a person by their clothes",
+    "target_meaning": "to take a hard look at someone, to judge someone"
+  },
+  {
+    "source_idiom": "兜肚連腸",
+    "target_idiom": "mit allem Drum und Dran",
+    "source_meaning": "the whole thing; the whole kit and caboodle",
+    "target_meaning": "lock, stock, and barrel"
+  },
+  {
+    "source_idiom": "全心全意",
+    "target_idiom": "von ganzem Herzen",
+    "source_meaning": "wholeheartedly; without reservation",
+    "target_meaning": "wholeheartedly"
+  },
+  {
+    "source_idiom": "全軍覆沒",
+    "target_idiom": "ins Wasser fallen",
+    "source_meaning": "to fail completely",
+    "target_meaning": "to fall through"
+  },
+  {
+    "source_idiom": "兩全其美",
+    "target_idiom": "unter einen Hut bringen",
+    "source_meaning": "to reach a resolution that satisfies both sides by taking both sides into consideration; to have it both ways; to have the best of both worlds",
+    "target_meaning": "to accommodate, to reconcile, to combine (to lend consideration to different aspects at once)"
+  },
+  {
+    "source_idiom": "兩手揈揈",
+    "target_idiom": "mit leeren Händen",
+    "source_meaning": "to be emptyhanded; to bring nothing",
+    "target_meaning": "empty-handed"
+  },
+  {
+    "source_idiom": "兩手空空",
+    "target_idiom": "durch die Finger schauen",
+    "source_meaning": "to be emptyhanded; to be left with nothing; not receiving anything",
+    "target_meaning": "to be left emptyhanded, to come away empty, to miss out"
+  },
+  {
+    "source_idiom": "公報私仇",
+    "target_idiom": "einen Strick drehen",
+    "source_meaning": "to use one's official position to avenge a personal grudge",
+    "target_meaning": "to use something against someone in order to hurt them (e.g. to have them fired or the like)"
+  },
+  {
+    "source_idiom": "公諸於眾",
+    "target_idiom": "etwas zu Tage fördern",
+    "source_meaning": "to make something known to the world; to make something public",
+    "target_meaning": "to bring something to light"
+  },
+  {
+    "source_idiom": "冇花冇假",
+    "target_idiom": "guten Glaubens",
+    "source_meaning": "genuine; real",
+    "target_meaning": "bona fide"
+  },
+  {
+    "source_idiom": "冰山一角",
+    "target_idiom": "Spitze des Eisbergs",
+    "source_meaning": "tip of the iceberg",
+    "target_meaning": "tip of the iceberg"
+  },
+  {
+    "source_idiom": "冷手執個熱煎堆",
+    "target_idiom": "die Nase vorn haben",
+    "source_meaning": "to gain an unexpected advantage",
+    "target_meaning": "to have the advantage"
+  },
+  {
+    "source_idiom": "出貓",
+    "target_idiom": "einen Bären aufbinden",
+    "source_meaning": "to cheat",
+    "target_meaning": "to trick; to cheat someone"
+  },
+  {
+    "source_idiom": "分庭抗禮",
+    "target_idiom": "jemandem die Stirn bieten",
+    "source_meaning": "to stand up (to someone) as an equal; to function as rivals",
+    "target_meaning": "to stand up to someone"
+  },
+  {
+    "source_idiom": "別出心裁",
+    "target_idiom": "aus dem Rahmen fallen",
+    "source_meaning": "to try to be different; to be out of the ordinary",
+    "target_meaning": "to be out of the ordinary"
+  },
+  {
+    "source_idiom": "刨根究底",
+    "target_idiom": "einer Sache auf den Grund gehen",
+    "source_meaning": "to get to the bottom of something",
+    "target_meaning": "to get to the bottom of something"
+  },
+  {
+    "source_idiom": "到火神廟求雨——找錯了門",
+    "target_idiom": "an der falschen Adresse sein",
+    "source_meaning": "to seek help at the wrong place",
+    "target_meaning": "to have the wrong person/place"
+  },
+  {
+    "source_idiom": "功虧一簣",
+    "target_idiom": "zu kurz kommen",
+    "source_meaning": "to fall short of success due to the lack of a final effort",
+    "target_meaning": "to be neglected, to fall short"
+  },
+  {
+    "source_idiom": "動人心弦",
+    "target_idiom": "auf die Tränendrüse drücken",
+    "source_meaning": "to be deeply moving; to tug at one's heartstrings",
+    "target_meaning": "to tug at the heartstrings"
+  },
+  {
+    "source_idiom": "動跤動手",
+    "target_idiom": "die Klingen kreuzen",
+    "source_meaning": "to come to blows",
+    "target_meaning": "to cross swords"
+  },
+  {
+    "source_idiom": "勢單力薄",
+    "target_idiom": "ein abgebrochener Riese",
+    "source_meaning": "to be small in size and of weak strength",
+    "target_meaning": "small-statured person"
+  },
+  {
+    "source_idiom": "包山塞海",
+    "target_idiom": "wie Sand am Meer",
+    "source_meaning": "numerous; extremely many",
+    "target_meaning": "(in) an innumerable amount; extremely common"
+  },
+  {
+    "source_idiom": "包退包換",
+    "target_idiom": "Brief und Siegel",
+    "source_meaning": "guarantee refund or replacement",
+    "target_meaning": "a guarantee"
+  },
+  {
+    "source_idiom": "十居其九",
+    "target_idiom": "Löwenanteil",
+    "source_meaning": "mostly; the majority",
+    "target_meaning": "lion's share"
+  },
+  {
+    "source_idiom": "十年唔逢一閏",
+    "target_idiom": "alle Jubeljahre",
+    "source_meaning": "once in a blue moon",
+    "target_meaning": "once in a blue moon"
+  },
+  {
+    "source_idiom": "十拿九穩",
+    "target_idiom": "in trockenen Tüchern",
+    "source_meaning": "very certain; in the bag",
+    "target_meaning": "final; safe; in the bag; said and done"
+  },
+  {
+    "source_idiom": "千方百計",
+    "target_idiom": "auf Teufel komm raus",
+    "source_meaning": "by every possible means; by hook or by crook",
+    "target_meaning": "by hook or by crook"
+  },
+  {
+    "source_idiom": "半斤八兩",
+    "target_idiom": "Jacke wie Hose",
+    "source_meaning": "six of one, half a dozen of the other; not much to choose between the two",
+    "target_meaning": "six of one, half a dozen of the other"
+  },
+  {
+    "source_idiom": "半途而廢",
+    "target_idiom": "die Flinte ins Korn werfen",
+    "source_meaning": "to give up halfway through a task; to not finish what one has started",
+    "target_meaning": "to throw in the towel (to quit; to give up)"
+  },
+  {
+    "source_idiom": "危在旦夕",
+    "target_idiom": "auf der Kippe",
+    "source_meaning": "in imminent danger; on the brink of crisis",
+    "target_meaning": "on the line (at risk)"
+  },
+  {
+    "source_idiom": "原原本本",
+    "target_idiom": "von A bis Z",
+    "source_meaning": "from beginning to end; in its entirety",
+    "target_meaning": "from A to Z (comprehensively)"
+  },
+  {
+    "source_idiom": "原形畢露",
+    "target_idiom": "sein wahres Gesicht zeigen",
+    "source_meaning": "to reveal one's true colors",
+    "target_meaning": "to show one's true colors"
+  },
+  {
+    "source_idiom": "去蕪存菁",
+    "target_idiom": "die Spreu vom Weizen trennen",
+    "source_meaning": "to separate the wheat from the chaff",
+    "target_meaning": "to separate the wheat from the chaff (to select only that which is of value)"
+  },
+  {
+    "source_idiom": "反敗為勝",
+    "target_idiom": "den Spieß umdrehen",
+    "source_meaning": "to turn the tables; to turn defeat into victory",
+    "target_meaning": "turn the tables (literally: turn the pike)"
+  },
+  {
+    "source_idiom": "反求諸己",
+    "target_idiom": "vor der eigenen Tür kehren",
+    "source_meaning": "to self-reflect; to engage in self-examination",
+    "target_meaning": "to be self-critical"
+  },
+  {
+    "source_idiom": "口乾舌燥",
+    "target_idiom": "einen Frosch im Hals haben",
+    "source_meaning": "dry mouth and sore throat; having spoken so much that one's mouth and throat become thirsty",
+    "target_meaning": "to have a frog in one's throat"
+  },
+  {
+    "source_idiom": "口腹之欲",
+    "target_idiom": "der Appetit kommt beim Essen",
+    "source_meaning": "desire for food; desire to eat and drink",
+    "target_meaning": "appetite comes with eating"
+  },
+  {
+    "source_idiom": "口誅筆伐",
+    "target_idiom": "an den Pranger stellen",
+    "source_meaning": "to condemn in speech and writing; to denounce by word and pen",
+    "target_meaning": "to publicly denounce"
+  },
+  {
+    "source_idiom": "吃派飯",
+    "target_idiom": "Kost und Logis",
+    "source_meaning": "to board with different peasant families",
+    "target_meaning": "board and lodging, room and board"
+  },
+  {
+    "source_idiom": "合晒合尺",
+    "target_idiom": "jemandem in den Kram passen",
+    "source_meaning": "to suit (someone) beautifully; to be a perfect match",
+    "target_meaning": "to suit someone"
+  },
+  {
+    "source_idiom": "同舟共濟",
+    "target_idiom": "an einem Strang ziehen",
+    "source_meaning": "to work together to overcome difficulties; to pull together in times of trouble",
+    "target_meaning": "to pull together, work together"
+  },
+  {
+    "source_idiom": "名落孫山",
+    "target_idiom": "auf der Strecke bleiben",
+    "source_meaning": "to fail an exam; to fall behind (in a competition)",
+    "target_meaning": "to fall by the wayside"
+  },
+  {
+    "source_idiom": "向壁虛構",
+    "target_idiom": "sich aus den Fingern saugen",
+    "source_meaning": "to make up out of one's head; to fabricate; to imagine without ground",
+    "target_meaning": "to think of something, to make up, to make up out of thin air, to invent, to pull out of one's ass (fabricate a claim with no factual basis or evidence)"
+  },
+  {
+    "source_idiom": "含血噴人",
+    "target_idiom": "jemandem etwas zur Last legen",
+    "source_meaning": "to slander someone; to falsely accuse someone",
+    "target_meaning": "to accuse, blame (someone for something)"
+  },
+  {
+    "source_idiom": "吹皺一池春水",
+    "target_idiom": "das Kraut fett machen",
+    "source_meaning": "to make waves; to cause ripples; to have an impact; cause a stir",
+    "target_meaning": "to make a difference, to matter"
+  },
+  {
+    "source_idiom": "周身刀，冇張利",
+    "target_idiom": "Hans Dampf in allen Gassen",
+    "source_meaning": "jack of all trades, master of none",
+    "target_meaning": "jack of all trades (talented and versatile person who is involved in many endeavours, implying initiative and great activity, but possibly also a certain rashness or recklessness)"
+  },
+  {
+    "source_idiom": "呱呱墮地",
+    "target_idiom": "das Licht der Welt erblicken",
+    "source_meaning": "to be born",
+    "target_meaning": "to be born"
+  },
+  {
+    "source_idiom": "咁大隻蛤乸隨街跳",
+    "target_idiom": "zu gut, um wahr zu sein",
+    "source_meaning": "something too good to be true",
+    "target_meaning": "too good to be true"
+  },
+  {
+    "source_idiom": "咆哮如雷",
+    "target_idiom": "blind vor Wut sein",
+    "source_meaning": "to be in a tremendous rage",
+    "target_meaning": "to be blind with rage"
+  },
+  {
+    "source_idiom": "和盤托出",
+    "target_idiom": "ins Reine kommen",
+    "source_meaning": "to come clean; to reveal all",
+    "target_meaning": "to come clean"
+  },
+  {
+    "source_idiom": "咬牙切齒",
+    "target_idiom": "Heulen und Zähneklappern",
+    "source_meaning": "gnashing one's teeth in anger",
+    "target_meaning": "wailing and gnashing of teeth"
+  },
+  {
+    "source_idiom": "哪壺不開提哪壺",
+    "target_idiom": "schmutzige Wäsche waschen",
+    "source_meaning": "to air somebody's dirty laundry",
+    "target_meaning": "to air dirty laundry"
+  },
+  {
+    "source_idiom": "唔識字怨爺娘，唔會賺錢怨屋場",
+    "target_idiom": "Müßiggang ist aller Laster Anfang",
+    "source_meaning": "a bad workman always blames his tools",
+    "target_meaning": "idle hands are the devil's workshop"
+  },
+  {
+    "source_idiom": "嗤之以鼻",
+    "target_idiom": "eine Nase drehen",
+    "source_meaning": "turn up one's nose; to scoff at; to sneer; to deride; to pooh-pooh",
+    "target_meaning": "to thumb one's nose"
+  },
+  {
+    "source_idiom": "嚴懲不貸",
+    "target_idiom": "mit jemandem Schlitten fahren",
+    "source_meaning": "to punish severely without mercy; to punish mercilessly",
+    "target_meaning": "to treat someone hard and ruthless"
+  },
+  {
+    "source_idiom": "因勢利導",
+    "target_idiom": "aus etwas Kapital schlagen",
+    "source_meaning": "to capitalize on the trend; to make the best of new opportunities",
+    "target_meaning": "to capitalize on something"
+  },
+  {
+    "source_idiom": "因噎廢食",
+    "target_idiom": "wie die Pest meiden",
+    "source_meaning": "to avoid something essential because of a slight risk of making a mistake",
+    "target_meaning": "to avoid like the plague"
+  },
+  {
+    "source_idiom": "國士無雙",
+    "target_idiom": "Kaiser von China",
+    "source_meaning": "distinguished person of talent in the country that is matchless",
+    "target_meaning": "someone magnificent that one is not"
+  },
+  {
+    "source_idiom": "塵埃落定",
+    "target_idiom": "ins Reine bringen",
+    "source_meaning": "to be finalised; to get sorted out",
+    "target_meaning": "to iron out, to sort out, to clean up"
+  },
+  {
+    "source_idiom": "墓木已拱",
+    "target_idiom": "die Radieschen von unten ansehen",
+    "source_meaning": "to have been dead for a long time",
+    "target_meaning": "to be pushing up daisies"
+  },
+  {
+    "source_idiom": "壓倒駱駝的最後一根草",
+    "target_idiom": "Tropfen, der das Fass zum Überlaufen bringt",
+    "source_meaning": "the straw that broke the camel's back",
+    "target_meaning": "final straw, last straw, the straw that broke the camel's back"
+  },
+  {
+    "source_idiom": "士啤呔",
+    "target_idiom": "Rettungsring",
+    "source_meaning": "spare tyre; beer belly (Classifier: 條／条 c)",
+    "target_meaning": "spare tyre (UK), spare tire (North America), flab, roll of fat, love handle"
+  },
+  {
+    "source_idiom": "大主大意",
+    "target_idiom": "ein Machtwort sprechen",
+    "source_meaning": "to decide of one's own initiative; to decide without authorization",
+    "target_meaning": "to decide a matter; to exercise one's authority"
+  },
+  {
+    "source_idiom": "大包小包",
+    "target_idiom": "mit Sack und Pack",
+    "source_meaning": "with bags, packages or suitcases of all sizes",
+    "target_meaning": "with all his/her/their belongings, bag and baggage"
+  },
+  {
+    "source_idiom": "大吵大鬧",
+    "target_idiom": "Staub aufwirbeln",
+    "source_meaning": "to create a noisy disturbance; to kick up a fuss; to make a scene",
+    "target_meaning": "to kick up dust"
+  },
+  {
+    "source_idiom": "大差不差",
+    "target_idiom": "die Ecke",
+    "source_meaning": "roughly the same; about the same; not far off",
+    "target_meaning": "thereabout, approximately, roughly"
+  },
+  {
+    "source_idiom": "大有人在",
+    "target_idiom": "auch andere Mütter haben schöne Töchter",
+    "source_meaning": "plenty of such people exist",
+    "target_meaning": "there are plenty of fish in the sea"
+  },
+  {
+    "source_idiom": "大權在握",
+    "target_idiom": "alle Trümpfe in der Hand halten",
+    "source_meaning": "to have (hold) great power in one's hands; to be in a position of power",
+    "target_meaning": "to hold all the aces"
+  },
+  {
+    "source_idiom": "大飲大食",
+    "target_idiom": "den Herrgott einen guten Mann sein lassen",
+    "source_meaning": "to indulge in eating and drinking; to binge eat and drink",
+    "target_meaning": "to indulge, to let oneself go, to revel, to have a good time with food, drink and merriment"
+  },
+  {
+    "source_idiom": "天上掉餡餅",
+    "target_idiom": "zu etwas kommen wie die Jungfrau zum Kind",
+    "source_meaning": "to have something fall into one's lap",
+    "target_meaning": "to fall into one's lap"
+  },
+  {
+    "source_idiom": "天女散花",
+    "target_idiom": "einseifen",
+    "source_meaning": "a flurry of snow",
+    "target_meaning": "to rub snow on someone's face"
+  },
+  {
+    "source_idiom": "天知地知，你知我知",
+    "target_idiom": "unter uns",
+    "source_meaning": "This secret is only known by you and me.",
+    "target_meaning": "between you and me"
+  },
+  {
+    "source_idiom": "天雨粟，馬生角",
+    "target_idiom": "an Sankt Nimmerlein",
+    "source_meaning": "when pigs fly",
+    "target_meaning": "when pigs fly, never"
+  },
+  {
+    "source_idiom": "失驚無神",
+    "target_idiom": "aus blauem Himmel",
+    "source_meaning": "suddenly; unexpectedly; out of the blue",
+    "target_meaning": "out of the blue"
+  },
+  {
+    "source_idiom": "好心好意",
+    "target_idiom": "beim besten Willen",
+    "source_meaning": "with good intentions and kindness",
+    "target_meaning": "with the best will in the world"
+  },
+  {
+    "source_idiom": "好景不常",
+    "target_idiom": "gut Ding will Weile haben",
+    "source_meaning": "good things do not last forever",
+    "target_meaning": "good things are worth patience"
+  },
+  {
+    "source_idiom": "如出一轍",
+    "target_idiom": "aus einem Guss",
+    "source_meaning": "from the same mold; peas in a pod; exactly alike",
+    "target_meaning": "of a piece; of the same kind"
+  },
+  {
+    "source_idiom": "如夢初醒",
+    "target_idiom": "böses Erwachen",
+    "source_meaning": "to suddenly realize; to suddenly see the light; to wake up to reality",
+    "target_meaning": "rude awakening (a spontaneous realization that one's previous assumptions (or illusions) were false)"
+  },
+  {
+    "source_idiom": "如臂使指",
+    "target_idiom": "im Griff haben",
+    "source_meaning": "to control or handle someone or something effectively and easily; to be in perfect command of",
+    "target_meaning": "to have under control"
+  },
+  {
+    "source_idiom": "如臨深淵",
+    "target_idiom": "auf Nummer sicher gehen",
+    "source_meaning": "to be extremely cautious",
+    "target_meaning": "to play it safe"
+  },
+  {
+    "source_idiom": "如釋重負",
+    "target_idiom": "jemandem fällt ein Stein vom Herzen",
+    "source_meaning": "to feel as if a weight has been lifted from one’s shoulders",
+    "target_meaning": "it is a weight off one's shoulders"
+  },
+  {
+    "source_idiom": "嫁禍於人",
+    "target_idiom": "den Schwarzen Peter zuschieben",
+    "source_meaning": "to shift the blame on others; to pass the buck",
+    "target_meaning": "to pass the buck"
+  },
+  {
+    "source_idiom": "子虛烏有",
+    "target_idiom": "erstunken und erlogen",
+    "source_meaning": "fictitious; nonexistent; made-up; fabricated",
+    "target_meaning": "completely made up"
+  },
+  {
+    "source_idiom": "孤注一擲",
+    "target_idiom": "alles auf eine Karte setzen",
+    "source_meaning": "to go all out; to bet the farm on one thing in order to succeed; to put all one's eggs in one basket",
+    "target_meaning": "Risking everything, putting all one's eggs in one basket"
+  },
+  {
+    "source_idiom": "孭鑊",
+    "target_idiom": "den Kopf hinhalten",
+    "source_meaning": "to take the blame (for someone else); to be a scapegoat",
+    "target_meaning": "to take the blame"
+  },
+  {
+    "source_idiom": "安家落戶",
+    "target_idiom": "Wurzeln schlagen",
+    "source_meaning": "to set up home in a new place; to settle in a new place",
+    "target_meaning": "to put down roots"
+  },
+  {
+    "source_idiom": "安步當車",
+    "target_idiom": "auf Schusters Rappen",
+    "source_meaning": "to walk over leisurely instead of riding on a carriage; to walk rather than ride",
+    "target_meaning": "on shanks' mare, on foot"
+  },
+  {
+    "source_idiom": "安營下寨",
+    "target_idiom": "die Zelte abbrechen",
+    "source_meaning": "to pitch camp",
+    "target_meaning": "to pull up stakes"
+  },
+  {
+    "source_idiom": "宦海浮沉",
+    "target_idiom": "Höhen und Tiefen",
+    "source_meaning": "the ups and downs of officialdom",
+    "target_meaning": "ups and downs, peaks and troughs"
+  },
+  {
+    "source_idiom": "家徒四壁",
+    "target_idiom": "unter aller Kanone",
+    "source_meaning": "very poor; wretched",
+    "target_meaning": "dreadful, abysmal"
+  },
+  {
+    "source_idiom": "富甲一方",
+    "target_idiom": "Geld wie Heu haben",
+    "source_meaning": "to be very rich",
+    "target_meaning": "to be rolling in dough"
+  },
+  {
+    "source_idiom": "寓意深遠",
+    "target_idiom": "Leber",
+    "source_meaning": "having deep implications",
+    "target_meaning": "someplace deep within one"
+  },
+  {
+    "source_idiom": "察顏觀色",
+    "target_idiom": "den Braten riechen",
+    "source_meaning": "to read a person (to interpret or infer a meaning or significance based on facial expression, tone of voice etc)",
+    "target_meaning": "to figure out someone’s plan or intent, to sense something, to smell a rat"
+  },
+  {
+    "source_idiom": "實話實說",
+    "target_idiom": "das Kind beim Namen nennen",
+    "source_meaning": "to speak the truth; to call a spade a spade",
+    "target_meaning": "to call a spade a spade (to speak the truth)"
+  },
+  {
+    "source_idiom": "將信將疑",
+    "target_idiom": "dem Braten nicht trauen",
+    "source_meaning": "to take with a pinch of salt; to be doubtful; to be not quite convinced",
+    "target_meaning": "to suspect something fishy, to have doubts about something, e.g. a proposal or a seemingly advantageous development"
+  },
+  {
+    "source_idiom": "尋人尋物",
+    "target_idiom": "zur Strecke bringen",
+    "source_meaning": "to look for people and things",
+    "target_meaning": "to hunt down"
+  },
+  {
+    "source_idiom": "小題大做",
+    "target_idiom": "aus einer Mücke einen Elefanten machen",
+    "source_meaning": "to make a fuss over a trifling matter; to make a mountain out of a molehill; to blow out of proportion",
+    "target_meaning": "to make a mountain out of a mole hill"
+  },
+  {
+    "source_idiom": "少不更事",
+    "target_idiom": "feucht hinter den Ohren",
+    "source_meaning": "young and inexperienced in life; wet behind the ears",
+    "target_meaning": "wet behind the ears"
+  },
+  {
+    "source_idiom": "屈指一算",
+    "target_idiom": "zu Buche schlagen",
+    "source_meaning": "to count; to calculate",
+    "target_meaning": "to cost, to account for, to be accounted for, to be added to an account"
+  },
+  {
+    "source_idiom": "屎滾尿流",
+    "target_idiom": "sich die Seele aus dem Leib scheißen",
+    "source_meaning": "panic-stricken (to the point of becoming doubly incontinent); being scared the shit out of by someone",
+    "target_meaning": "to shit one's gut out"
+  },
+  {
+    "source_idiom": "屬耗子的——撂爪就忘",
+    "target_idiom": "ein Gedächtnis wie ein Sieb",
+    "source_meaning": "to be forgetful; to have a poor memory",
+    "target_meaning": "a mind like a sieve"
+  },
+  {
+    "source_idiom": "山草藥——噏得就噏",
+    "target_idiom": "Blech reden",
+    "source_meaning": "to talk nonsense",
+    "target_meaning": "to talk nonsense"
+  },
+  {
+    "source_idiom": "左耳入，右耳出",
+    "target_idiom": "zum einen Ohr hinein- und zum anderen wieder hinausgehen",
+    "source_meaning": "to go in one ear and out the other",
+    "target_meaning": "go in one ear and out the other"
+  },
+  {
+    "source_idiom": "平平無奇",
+    "target_idiom": "Feld-Wald-und-Wiesen-",
+    "source_meaning": "ordinary and unremarkable",
+    "target_meaning": "common-or-garden; everyday, ordinary"
+  },
+  {
+    "source_idiom": "幸福安康",
+    "target_idiom": "Kopf und Kragen",
+    "source_meaning": "happiness, wellbeing and prosperity",
+    "target_meaning": "safety, well-being"
+  },
+  {
+    "source_idiom": "廁所點燈——找屎",
+    "target_idiom": "den Hof machen",
+    "source_meaning": "to court death",
+    "target_meaning": "to court  "
+  },
+  {
+    "source_idiom": "廟細燈籠大",
+    "target_idiom": "Holz vor der Hütte",
+    "source_meaning": "to be petite but with large breasts",
+    "target_meaning": "(large) breasts"
+  },
+  {
+    "source_idiom": "引人注目",
+    "target_idiom": "ins Ohr gehen",
+    "source_meaning": "to draw attention; to catch people's eyes; to stand out; to be conspicuous",
+    "target_meaning": "to be catchy"
+  },
+  {
+    "source_idiom": "引以為戒",
+    "target_idiom": "zu Herzen nehmen",
+    "source_meaning": "to take as a warning; to draw lessons from",
+    "target_meaning": "take to heart"
+  },
+  {
+    "source_idiom": "張三李四",
+    "target_idiom": "Hinz und Kunz",
+    "source_meaning": "Tom, Dick and Harry",
+    "target_meaning": "Tom, Dick and Harry"
+  },
+  {
+    "source_idiom": "張口結舌",
+    "target_idiom": "jemandem fehlen die Worte",
+    "source_meaning": "at a loss for words",
+    "target_meaning": "words fail someone, lost for words, at a loss for words"
+  },
+  {
+    "source_idiom": "彌足珍貴",
+    "target_idiom": "lieb und teuer",
+    "source_meaning": "extremely precious; valuable",
+    "target_meaning": "cared about deeply, near and dear"
+  },
+  {
+    "source_idiom": "得勝之師",
+    "target_idiom": "breite Brust",
+    "source_meaning": "an army that is flush with victory; a victorious army",
+    "target_meaning": "self-confidence; being sure of victory"
+  },
+  {
+    "source_idiom": "得意忘形",
+    "target_idiom": "ein Fass aufmachen",
+    "source_meaning": "to get carried away by one's excitement",
+    "target_meaning": "to get worked up"
+  },
+  {
+    "source_idiom": "得意揚揚",
+    "target_idiom": "sich in die Brust werfen",
+    "source_meaning": "being smug, being puffed up",
+    "target_meaning": "to puff oneself up"
+  },
+  {
+    "source_idiom": "得閒死唔得閒病",
+    "target_idiom": "viel um die Ohren haben",
+    "source_meaning": "to be extremely busy",
+    "target_meaning": "to be busy, to have a lot to worry about"
+  },
+  {
+    "source_idiom": "從容不迫",
+    "target_idiom": "die Ruhe weghaben",
+    "source_meaning": "to take it leisurely; composed and steady; calm and unhurried",
+    "target_meaning": "to be very calm, especially in situations where others would not be; may be used positively, but also negatively, then implying lack of interest, tardiness"
+  },
+  {
+    "source_idiom": "從輕發落",
+    "target_idiom": "mit einem blauen Auge davonkommen",
+    "source_meaning": "to deal with an offender leniently",
+    "target_meaning": "to get off with a slap on the wrist"
+  },
+  {
+    "source_idiom": "循環往復",
+    "target_idiom": "sich im Kreis drehen",
+    "source_meaning": "to move in circles; to repeat in cycles",
+    "target_meaning": "to go round in circles"
+  },
+  {
+    "source_idiom": "忍氣吞聲",
+    "target_idiom": "zu Kreuze kriechen",
+    "source_meaning": "to silently eat humble pie; to suppress anger and quietly bear humiliation",
+    "target_meaning": "to eat humble pie (humble oneself and make an apology or plea)"
+  },
+  {
+    "source_idiom": "忍無可忍",
+    "target_idiom": "den Kaffee aufhaben",
+    "source_meaning": "to reach the limit of one's patience; to be unable to bear any more",
+    "target_meaning": "to lose patience, to be frustrated and/or angry, to have had it up to here"
+  },
+  {
+    "source_idiom": "忘乎所以",
+    "target_idiom": "außer sich",
+    "source_meaning": "to forget oneself; to lose self-control; beside oneself (typically as a result of one's own behaviour)",
+    "target_meaning": "beside oneself"
+  },
+  {
+    "source_idiom": "忠貞不渝",
+    "target_idiom": "die Stange halten",
+    "source_meaning": "to be steadfastly faithful",
+    "target_meaning": "to remain loyal to, to stand by  "
+  },
+  {
+    "source_idiom": "忽必烈",
+    "target_idiom": "vier Buchstaben",
+    "source_meaning": "aching in buttocks or anus",
+    "target_meaning": "buttocks, bottom, rear end"
+  },
+  {
+    "source_idiom": "怒目咬牙",
+    "target_idiom": "auf 180",
+    "source_meaning": "extremely angry; enraged",
+    "target_meaning": "fuming, enraged"
+  },
+  {
+    "source_idiom": "急轉直下",
+    "target_idiom": "auf dem absteigenden Ast sein",
+    "source_meaning": "to suddenly and rapidly worsen or deteriorate; to take a turn for the worse",
+    "target_meaning": "to go south, to take a turn for the worse"
+  },
+  {
+    "source_idiom": "怨天尤人",
+    "target_idiom": "Fehl und Tadel",
+    "source_meaning": "to blame god and man; to blame everyone and everything but oneself",
+    "target_meaning": "fault and blame"
+  },
+  {
+    "source_idiom": "恭恭敬敬",
+    "target_idiom": "bei allem gebotenen Respekt",
+    "source_meaning": "most respectfully; in an attitude of respect;",
+    "target_meaning": "with all due respect"
+  },
+  {
+    "source_idiom": "情何以堪",
+    "target_idiom": "abkönnen",
+    "source_meaning": "how can someone stand it emotionally? how can something be endured?",
+    "target_meaning": "to be able to (with)stand or endure something or someone"
+  },
+  {
+    "source_idiom": "惡向膽邊生",
+    "target_idiom": "die Nerven verlieren",
+    "source_meaning": "to be so angry, that one reacts badly without even thinking; to lose it; to lose one's temper",
+    "target_meaning": "to lose one's cool"
+  },
+  {
+    "source_idiom": "惶惶不可終日",
+    "target_idiom": "jemandem stehen die Haare zu Berge",
+    "source_meaning": "to be extremely anxious; to be extremely terrified",
+    "target_meaning": "someone is worked up, upset, or frightened to no end"
+  },
+  {
+    "source_idiom": "感恩戴德",
+    "target_idiom": "sich erkenntlich zeigen",
+    "source_meaning": "to be (deeply) grateful for someone's benevolence or favor",
+    "target_meaning": "to show one's gratitude"
+  },
+  {
+    "source_idiom": "憶昔撫今",
+    "target_idiom": "etwas Revue passieren lassen",
+    "source_meaning": "to recall the past and compare it with the present; to reflect on the past in light of the present",
+    "target_meaning": "to review (some past event) in its entirety"
+  },
+  {
+    "source_idiom": "懸心吊膽",
+    "target_idiom": "an einem seidenen Faden hängen",
+    "source_meaning": "to be on tenterhooks",
+    "target_meaning": "to hang by a thread"
+  },
+  {
+    "source_idiom": "戒備森嚴",
+    "target_idiom": "mit Argusaugen beobachten",
+    "source_meaning": "to be extremely vigilant",
+    "target_meaning": "to watch like a hawk"
+  },
+  {
+    "source_idiom": "戛然而止",
+    "target_idiom": "einen Riegel vorschieben",
+    "source_meaning": "to stop abruptly",
+    "target_meaning": "to put a stop to"
+  },
+  {
+    "source_idiom": "戳脊樑骨",
+    "target_idiom": "jemandem ans Bein pinkeln",
+    "source_meaning": "to speak ill of someone behind their back; to backbite",
+    "target_meaning": "to badmouth"
+  },
+  {
+    "source_idiom": "打落牙齒和血吞",
+    "target_idiom": "etwas nicht auf sich sitzen lassen",
+    "source_meaning": "to silently endure all manner of insults and abuse",
+    "target_meaning": "to not tolerate (an insult, an accusation)"
+  },
+  {
+    "source_idiom": "找不著北",
+    "target_idiom": "flöten gehen",
+    "source_meaning": "to be lost and confused; to be unable to find one's direction",
+    "target_meaning": "to be lost, to be gone"
+  },
+  {
+    "source_idiom": "投井下石",
+    "target_idiom": "unter die Gürtellinie gehen",
+    "source_meaning": "to kick someone when they are down",
+    "target_meaning": "to go below the belt"
+  },
+  {
+    "source_idiom": "投石問路",
+    "target_idiom": "Versuchsballon",
+    "source_meaning": "to test the waters",
+    "target_meaning": "trial balloon"
+  },
+  {
+    "source_idiom": "披麻戴孝",
+    "target_idiom": "sich Asche aufs Haupt streuen",
+    "source_meaning": "to be dressed in mourning apparel",
+    "target_meaning": "to wear sackcloth and ashes"
+  },
+  {
+    "source_idiom": "抱打不平",
+    "target_idiom": "eine Lanze brechen",
+    "source_meaning": "to take up the cudgels for the injured party; to defend somebody against an injustice",
+    "target_meaning": "to take up the cudgel for, to support"
+  },
+  {
+    "source_idiom": "拋出磚去，引回玉來",
+    "target_idiom": "seinen Senf dazugeben",
+    "source_meaning": "to offer one's own relatively worthless words, opinions, or services in order to attract others' more valuable contributions",
+    "target_meaning": "to add one's two cents (literally: \"to add one's mustard\")"
+  },
+  {
+    "source_idiom": "拋頭露面",
+    "target_idiom": "sich blicken lassen",
+    "source_meaning": "to show one's face in public; to put oneself about",
+    "target_meaning": "to show one's face"
+  },
+  {
+    "source_idiom": "拚生盡死",
+    "target_idiom": "sich Mühe geben",
+    "source_meaning": "to try one's best",
+    "target_meaning": "to make an effort, to give it one's best shot, to try one's best."
+  },
+  {
+    "source_idiom": "拜倒石榴裙下",
+    "target_idiom": "um den Finger wickeln",
+    "source_meaning": "to grovel at the feet of a beautiful woman; he is wrapped around her fingers; he is completely taken with her",
+    "target_meaning": "to wrap around one's little finger; but typically with the implication of winning someone over by one’s charms"
+  },
+  {
+    "source_idiom": "指天為誓",
+    "target_idiom": "Stein und Bein schwören",
+    "source_meaning": "to take a solemn oath; to swear by the heavens; to vow to",
+    "target_meaning": "to swear on a stack of Bibles, to swear an absolute oath, to promise emphatically"
+  },
+  {
+    "source_idiom": "按倒葫蘆瓢起來",
+    "target_idiom": "die Katze beißt sich in den Schwanz",
+    "source_meaning": "to solve one problem only to find another cropping up",
+    "target_meaning": "it's a vicious circle, every solution leads to a dead end or creates new problems"
+  },
+  {
+    "source_idiom": "挑燈夜戰",
+    "target_idiom": "alt werden",
+    "source_meaning": "to work late into the night; to burn the midnight oil",
+    "target_meaning": "to stay up late"
+  },
+  {
+    "source_idiom": "捧腹大笑",
+    "target_idiom": "Tränen lachen",
+    "source_meaning": "to laugh uproariously; to burst out laughing",
+    "target_meaning": "to laugh to tears"
+  },
+  {
+    "source_idiom": "捨本逐末",
+    "target_idiom": "Mücken seihen und Kamele verschlucken",
+    "source_meaning": "to attend to minor unimportant details while neglecting the essentials",
+    "target_meaning": "to focus on little things and ignore the important things"
+  },
+  {
+    "source_idiom": "探頭探腦",
+    "target_idiom": "auf einen Sprung vorbeikommen",
+    "source_meaning": "to pop one's head in and look about",
+    "target_meaning": "drop by, pop in"
+  },
+  {
+    "source_idiom": "接踵比肩",
+    "target_idiom": "wie die Ölsardinen",
+    "source_meaning": "jam-packed with people",
+    "target_meaning": "packed like sardines"
+  },
+  {
+    "source_idiom": "掩人耳目",
+    "target_idiom": "an der Nase herumführen",
+    "source_meaning": "to deceive and hide the truth from others",
+    "target_meaning": "to deceive"
+  },
+  {
+    "source_idiom": "掩耳盜鈴",
+    "target_idiom": "den Kopf in den Sand stecken",
+    "source_meaning": "to fool oneself; to bury one's head in the sand",
+    "target_meaning": "to bury one's head in the sand"
+  },
+  {
+    "source_idiom": "提鞋都不配",
+    "target_idiom": "jemandem nicht das Wasser reichen können",
+    "source_meaning": "cannot hold a candle to someone; to not compare to someone",
+    "target_meaning": "to not hold a candle to"
+  },
+  {
+    "source_idiom": "揭竿而起",
+    "target_idiom": "auf die Barrikaden gehen",
+    "source_meaning": "to rise in revolt",
+    "target_meaning": "to protest"
+  },
+  {
+    "source_idiom": "揮汗如雨",
+    "target_idiom": "Blut und Wasser schwitzen",
+    "source_meaning": "to sweat buckets; to sweat profusely",
+    "target_meaning": "to sweat bullets"
+  },
+  {
+    "source_idiom": "搞串個party",
+    "target_idiom": "über die Stränge schlagen",
+    "source_meaning": "to upset the applecart by ignoring or disobeying the established rules or practices",
+    "target_meaning": "to kick over the traces"
+  },
+  {
+    "source_idiom": "搬起石頭打自己的腳",
+    "target_idiom": "ins Fettnäpfchen treten",
+    "source_meaning": "to shoot oneself in the foot",
+    "target_meaning": "to put one's foot in one's mouth"
+  },
+  {
+    "source_idiom": "摸老虎屁股",
+    "target_idiom": "jemandem zu nahe treten",
+    "source_meaning": "to offend an influential person",
+    "target_meaning": "to offend someone"
+  },
+  {
+    "source_idiom": "撼天動地",
+    "target_idiom": "Himmel und Hölle in Bewegung setzen",
+    "source_meaning": "shaking heaven and earth",
+    "target_meaning": "to move heaven and earth"
+  },
+  {
+    "source_idiom": "據我所知",
+    "target_idiom": "meines Wissens",
+    "source_meaning": "as far as I know; to my knowledge",
+    "target_meaning": "to my knowledge"
+  },
+  {
+    "source_idiom": "攙凊水",
+    "target_idiom": "jemandem in die Suppe spucken",
+    "source_meaning": "to throw cold water on",
+    "target_meaning": "to rain on someone's parade"
+  },
+  {
+    "source_idiom": "放下屠刀",
+    "target_idiom": "in Sack und Asche gehen",
+    "source_meaning": "to repent and mend one's ways; to turn over a new leaf",
+    "target_meaning": "to do repentance"
+  },
+  {
+    "source_idiom": "故地重遊",
+    "target_idiom": "einen Besuch abstatten",
+    "source_meaning": "to revisit a place after a long time",
+    "target_meaning": "to pay a visit"
+  },
+  {
+    "source_idiom": "敬賢禮士",
+    "target_idiom": "Hut ab",
+    "source_meaning": "to respect people of talent and ability (said of a superior)",
+    "target_meaning": "hats off, chapeau (expression of admiration or appreciation)"
+  },
+  {
+    "source_idiom": "斬腳趾避沙蟲",
+    "target_idiom": "das Kind mit dem Bade ausschütten",
+    "source_meaning": "to inappropriately solve a problem by eliminating something essential",
+    "target_meaning": "to throw the baby out with the bathwater"
+  },
+  {
+    "source_idiom": "方寸不亂",
+    "target_idiom": "einen kühlen Kopf bewahren",
+    "source_meaning": "to remain calm and composed",
+    "target_meaning": "to keep a cool head"
+  },
+  {
+    "source_idiom": "日以繼夜",
+    "target_idiom": "rund um die Uhr",
+    "source_meaning": "day and night; round the clock",
+    "target_meaning": "around the clock, 24/7"
+  },
+  {
+    "source_idiom": "日復一日",
+    "target_idiom": "tagein tagaus",
+    "source_meaning": "day in, day out; day after day",
+    "target_meaning": "day in and day out"
+  },
+  {
+    "source_idiom": "明文規定",
+    "target_idiom": "in Stein gemeißelt sein",
+    "source_meaning": "to be defined clearly in writing; to be written out in black and white",
+    "target_meaning": "to be carved in stone"
+  },
+  {
+    "source_idiom": "明知山有虎，偏向虎山行",
+    "target_idiom": "etwas in die Schanze schlagen",
+    "source_meaning": "to take a risk despite knowing the dangers involved",
+    "target_meaning": "to risk something"
+  },
+  {
+    "source_idiom": "春風得意",
+    "target_idiom": "einen Lauf haben",
+    "source_meaning": "to ride high; to feel pleasant because of success",
+    "target_meaning": "to be on a roll"
+  },
+  {
+    "source_idiom": "晴天霹靂",
+    "target_idiom": "wie ein Blitz aus heiterem Himmel",
+    "source_meaning": "bolt from the blue; sudden and unexpected bad news",
+    "target_meaning": "like a bolt out of the blue, like a bolt from the blue"
+  },
+  {
+    "source_idiom": "月光族",
+    "target_idiom": "von der Hand in den Mund leben",
+    "source_meaning": "people who live paycheck to paycheck",
+    "target_meaning": "to live paycheck to paycheck, hand-to-mouth"
+  },
+  {
+    "source_idiom": "有去無還",
+    "target_idiom": "nie im Leben",
+    "source_meaning": "gone never to return",
+    "target_meaning": "never ever"
+  },
+  {
+    "source_idiom": "有數得計",
+    "target_idiom": "nach Adam Riese",
+    "source_meaning": "it can be calculated",
+    "target_meaning": "calculating correctly, by the rules of mathematics"
+  },
+  {
+    "source_idiom": "有的放矢",
+    "target_idiom": "ins Visier nehmen",
+    "source_meaning": "to have a definite object in view; to have a definite objective in speech or action",
+    "target_meaning": "to target, to set sight on"
+  },
+  {
+    "source_idiom": "有目共見",
+    "target_idiom": "auf der Hand liegen",
+    "source_meaning": "to be obvious to all",
+    "target_meaning": "to be obvious"
+  },
+  {
+    "source_idiom": "朝不慮夕",
+    "target_idiom": "in den letzten Zügen liegen",
+    "source_meaning": "to be in a critical and desperate situation; to be on the verge of death (or collapse, defeat, etc.)",
+    "target_meaning": "to be on one's last legs; to be in one's death throes"
+  },
+  {
+    "source_idiom": "東海撈針",
+    "target_idiom": "Nadel im Heuhaufen",
+    "source_meaning": "to look for a needle in a haystack",
+    "target_meaning": "needle in a haystack"
+  },
+  {
+    "source_idiom": "東逃西竄",
+    "target_idiom": "auf Trab halten",
+    "source_meaning": "(of a criminal) to be on the run",
+    "target_meaning": "to keep someone on the run"
+  },
+  {
+    "source_idiom": "林林總總",
+    "target_idiom": "zum Saufüttern",
+    "source_meaning": "numerous and varied; in great abundance",
+    "target_meaning": "in abundance, plentiful"
+  },
+  {
+    "source_idiom": "柳暗花明又一村",
+    "target_idiom": "Silberstreifen am Horizont",
+    "source_meaning": "at one's darkest hour, a glimmer of hope; to have a way out; to find a silver lining",
+    "target_meaning": "light at the end of the tunnel"
+  },
+  {
+    "source_idiom": "棄若敝屣",
+    "target_idiom": "in den Wind schlagen",
+    "source_meaning": "to throw away something as if it were worthless",
+    "target_meaning": "to throw to the wind"
+  },
+  {
+    "source_idiom": "橫行無忌",
+    "target_idiom": "ins Kraut schießen",
+    "source_meaning": "to run amuck; to run wild",
+    "target_meaning": "to run rampant"
+  },
+  {
+    "source_idiom": "欲死欲活",
+    "target_idiom": "am Boden zerstört sein",
+    "source_meaning": "to be devastated; to suffer terribly; to be within an inch of one's life",
+    "target_meaning": "to be devastated"
+  },
+  {
+    "source_idiom": "欺人太甚",
+    "target_idiom": "ins Bockshorn jagen",
+    "source_meaning": "to bully intolerably",
+    "target_meaning": "to buffalo, to intimidate"
+  },
+  {
+    "source_idiom": "歃血為盟",
+    "target_idiom": "Blut lecken",
+    "source_meaning": "to smear the lips with blood when taking an oath",
+    "target_meaning": "to taste blood"
+  },
+  {
+    "source_idiom": "歌功頌德",
+    "target_idiom": "in den Himmel heben",
+    "source_meaning": "to sing somebody's praises; to heap praises and eulogies",
+    "target_meaning": "to praise to the skies"
+  },
+  {
+    "source_idiom": "歡呼雀躍",
+    "target_idiom": "etwas an die große Glocke hängen",
+    "source_meaning": "to shout and jump for joy",
+    "target_meaning": "to shout from the rooftops"
+  },
+  {
+    "source_idiom": "步人後塵",
+    "target_idiom": "eine Scheibe abschneiden",
+    "source_meaning": "to follow in somebody's footsteps",
+    "target_meaning": "to take a leaf out of someone's book"
+  },
+  {
+    "source_idiom": "武則天守寡——失去理智",
+    "target_idiom": "den Arsch offen haben",
+    "source_meaning": "to have lost one's mind",
+    "target_meaning": "to be out of one's mind"
+  },
+  {
+    "source_idiom": "歧路亡羊",
+    "target_idiom": "den Faden verlieren",
+    "source_meaning": "to become lost in a complex situation; to go astray",
+    "target_meaning": "to lose the thread, lose the plot"
+  },
+  {
+    "source_idiom": "殺一儆百",
+    "target_idiom": "ein Exempel statuieren",
+    "source_meaning": "to warn by example",
+    "target_meaning": "to set a warning example"
+  },
+  {
+    "source_idiom": "殺人滅口",
+    "target_idiom": "mundtot machen",
+    "source_meaning": "to kill someone to silence them",
+    "target_meaning": "to silence"
+  },
+  {
+    "source_idiom": "毀於一旦",
+    "target_idiom": "im Eimer sein",
+    "source_meaning": "to be ruined all at once",
+    "target_meaning": "to be ruined"
+  },
+  {
+    "source_idiom": "每況愈下",
+    "target_idiom": "vom Regen in die Traufe kommen",
+    "source_meaning": "to jump out of the frying pan and into the fire; to go from bad to worse; to steadily deteriorate",
+    "target_meaning": "out of the frying pan, into the fire ‎(from a bad situation to a worse one‎)"
+  },
+  {
+    "source_idiom": "水母目蝦",
+    "target_idiom": "mit den Wölfen heulen",
+    "source_meaning": "to follow another blindly",
+    "target_meaning": "to follow the masses"
+  },
+  {
+    "source_idiom": "水洩不通",
+    "target_idiom": "dicht an dicht",
+    "source_meaning": "densely packed; extremely crowded; impenetrable",
+    "target_meaning": "very close together, tightly packed (e.g. of people in a crowded space)"
+  },
+  {
+    "source_idiom": "沒戲唱",
+    "target_idiom": "Hopfen und Malz ist verloren",
+    "source_meaning": "no hope",
+    "target_meaning": "it's a waste, all hope is in vain"
+  },
+  {
+    "source_idiom": "沖昏頭",
+    "target_idiom": "Schmetterlinge im Bauch haben",
+    "source_meaning": "to become dizzy (with desire, success, love, etc.)",
+    "target_meaning": "to have butterflies in one's stomach (be in love or happy)"
+  },
+  {
+    "source_idiom": "河水不洗船",
+    "target_idiom": "außer Betracht bleiben",
+    "source_meaning": "to stay out of a matter",
+    "target_meaning": "to remain out of consideration"
+  },
+  {
+    "source_idiom": "洗耳恭聽",
+    "target_idiom": "ganz Ohr sein",
+    "source_meaning": "to listen with respectful attention; to be all ears",
+    "target_meaning": "to be all ears (to listen carefully or eagerly; to anticipate)"
+  },
+  {
+    "source_idiom": "活蹦亂跳",
+    "target_idiom": "gesund und munter",
+    "source_meaning": "alive and kicking",
+    "target_meaning": "alive and kicking"
+  },
+  {
+    "source_idiom": "派上用場",
+    "target_idiom": "zum Zuge kommen",
+    "source_meaning": "to come in handy; to become useful",
+    "target_meaning": "to (be able to) come into play, be involved"
+  },
+  {
+    "source_idiom": "深藏不露",
+    "target_idiom": "sein Licht unter den Scheffel stellen",
+    "source_meaning": "to hide one's light under a bushel; to conceal one's talents",
+    "target_meaning": "to hide one's light under a bushel"
+  },
+  {
+    "source_idiom": "滂沱大雨",
+    "target_idiom": "Bindfäden regnen",
+    "source_meaning": "to rain very heavily; to rain cats and dogs",
+    "target_meaning": "to rain cats and dogs, rain heavily or copiously (literally )"
+  },
+  {
+    "source_idiom": "滔滔不絕",
+    "target_idiom": "ohne Punkt und Komma",
+    "source_meaning": "endless; talking nineteen to the dozen",
+    "target_meaning": "lengthy and rapid, without pause, possibly also somewhat incoherent"
+  },
+  {
+    "source_idiom": "滾水淥腳",
+    "target_idiom": "einen Zahn zulegen",
+    "source_meaning": "in a hurry",
+    "target_meaning": "to hurry up"
+  },
+  {
+    "source_idiom": "滿腔熱忱",
+    "target_idiom": "Feuer und Flamme sein",
+    "source_meaning": "to be full of enthusiasm; to be filled with ardor and sincerity",
+    "target_meaning": "to be full of enthusiasm; to be keen as mustard"
+  },
+  {
+    "source_idiom": "火冒三丈",
+    "target_idiom": "aus der Haut fahren",
+    "source_meaning": "to fly into a rage; to flare up; to lose one's temper",
+    "target_meaning": "to fly off the handle"
+  },
+  {
+    "source_idiom": "無事可做",
+    "target_idiom": "nichts zu suchen haben",
+    "source_meaning": "to have nothing to do",
+    "target_meaning": "to have no business."
+  },
+  {
+    "source_idiom": "無冤無仇",
+    "target_idiom": "auf gutem Fuß stehen",
+    "source_meaning": "to have no enmity; to be on good terms",
+    "target_meaning": "to be on good terms"
+  },
+  {
+    "source_idiom": "無所不為",
+    "target_idiom": "vor nichts haltmachen",
+    "source_meaning": "to stop at nothing; to do all manner of evil",
+    "target_meaning": "to stop at nothing"
+  },
+  {
+    "source_idiom": "無盡無休",
+    "target_idiom": "am laufenden Band",
+    "source_meaning": "incessant; endless",
+    "target_meaning": "incessantly"
+  },
+  {
+    "source_idiom": "然然可可",
+    "target_idiom": "zu allem Ja und Amen sagen",
+    "source_meaning": "to be a yes man without any opinions of one's own",
+    "target_meaning": "to be a yes man"
+  },
+  {
+    "source_idiom": "煢煢孑立",
+    "target_idiom": "auf eigenen Beinen stehen",
+    "source_meaning": "to stand all alone",
+    "target_meaning": "to stand on one's own two feet"
+  },
+  {
+    "source_idiom": "燙手山芋",
+    "target_idiom": "heißes Eisen",
+    "source_meaning": "hot potato (awkward or delicate problem)",
+    "target_meaning": "hot potato"
+  },
+  {
+    "source_idiom": "營私舞弊",
+    "target_idiom": "mit einem Bein im Gefängnis stehen",
+    "source_meaning": "to engage in malpractices for selfish ends; to be involved in corruption",
+    "target_meaning": "to be involved in illegal activities"
+  },
+  {
+    "source_idiom": "牝雞司晨",
+    "target_idiom": "die Hosen anhaben",
+    "source_meaning": "a woman usurps authority, women meddle in politics, the female wears the trousers.",
+    "target_meaning": "to wear the trousers (UK), to wear the pants (US)"
+  },
+  {
+    "source_idiom": "狗咬呂洞賓——不識好人心",
+    "target_idiom": "in die Hand beißen, die einen füttert",
+    "source_meaning": "to bite the hand that feeds you",
+    "target_meaning": "to bite the hand that feeds one"
+  },
+  {
+    "source_idiom": "狗彘不若",
+    "target_idiom": "unterste Schublade",
+    "source_meaning": "base; contemptible; vile",
+    "target_meaning": "reprehensible, abysmal, bottom of the barrel (regarding either honorableness or quality)"
+  },
+  {
+    "source_idiom": "狼狼戾戾",
+    "target_idiom": "da haben wir den Salat",
+    "source_meaning": "in a complete mess",
+    "target_meaning": "now we're in a fine mess"
+  },
+  {
+    "source_idiom": "獨佔鰲頭",
+    "target_idiom": "die erste Geige spielen",
+    "source_meaning": "to occupy the first place",
+    "target_meaning": "to play first fiddle"
+  },
+  {
+    "source_idiom": "獨闢蹊徑",
+    "target_idiom": "den Weg ebnen",
+    "source_meaning": "to blaze a trail; to pioneer a new approach",
+    "target_meaning": "to pave the way"
+  },
+  {
+    "source_idiom": "甚囂塵上",
+    "target_idiom": "in aller Munde sein",
+    "source_meaning": "to be on everyone's lips",
+    "target_meaning": "to be on everyone's lips"
+  },
+  {
+    "source_idiom": "留中不發",
+    "target_idiom": "etwas zu den Akten legen",
+    "source_meaning": "to shelve; to table; to postpone consideration",
+    "target_meaning": "to file away; to shelve"
+  },
+  {
+    "source_idiom": "略知一二",
+    "target_idiom": "im Bilde über etwas sein",
+    "source_meaning": "to know a thing or two about something",
+    "target_meaning": "to be in the picture about something"
+  },
+  {
+    "source_idiom": "疏財仗義",
+    "target_idiom": "Rechtspflege",
+    "source_meaning": "willing to disperse money in order to uphold justice",
+    "target_meaning": "justice, long arm of the law (administration and distribution of justice)"
+  },
+  {
+    "source_idiom": "發過豬頭",
+    "target_idiom": "fündig werden",
+    "source_meaning": "to make a fortune; to earn a lot",
+    "target_meaning": "to hit paydirt, to strike it rich"
+  },
+  {
+    "source_idiom": "白手成家",
+    "target_idiom": "von Grund auf",
+    "source_meaning": "to build up from nothing; to start from scratch",
+    "target_meaning": "from scratch, from the ground up"
+  },
+  {
+    "source_idiom": "白手起家",
+    "target_idiom": "vom Tellerwäscher zum Millionär",
+    "source_meaning": "to go from rags to riches; to start an enterprise from scratch; to build up from nothing; to start from scratch",
+    "target_meaning": "from rags to riches"
+  },
+  {
+    "source_idiom": "百裡挑一",
+    "target_idiom": "Crème de la Crème",
+    "source_meaning": "one in a hundred; cream of the crop",
+    "target_meaning": "crème de la crème"
+  },
+  {
+    "source_idiom": "皇親國戚",
+    "target_idiom": "Steigbügelhalter",
+    "source_meaning": "person having powerful connections",
+    "target_meaning": "backer, someone who helps another person to come to power"
+  },
+  {
+    "source_idiom": "皮開肉綻",
+    "target_idiom": "das Fell gerben",
+    "source_meaning": "to have one's skin torn and cracked as a result of being badly beaten",
+    "target_meaning": "to tan someone's hide"
+  },
+  {
+    "source_idiom": "盡人皆知",
+    "target_idiom": "kein unbeschriebenes Blatt sein",
+    "source_meaning": "to be known to all; to be common knowledge",
+    "target_meaning": "to be a known quantity"
+  },
+  {
+    "source_idiom": "盡地一煲",
+    "target_idiom": "alle Register ziehen",
+    "source_meaning": "to go all out",
+    "target_meaning": "to pull out all the stops"
+  },
+  {
+    "source_idiom": "目定口呆",
+    "target_idiom": "aus allen Wolken fallen",
+    "source_meaning": "to be stupefied; to be dumbfounded",
+    "target_meaning": "to be flabbergasted"
+  },
+  {
+    "source_idiom": "目瞪口呆",
+    "target_idiom": "durch den Wind",
+    "source_meaning": "stupefied; dumbstruck",
+    "target_meaning": "dazzled; shocked; confused"
+  },
+  {
+    "source_idiom": "直來直去",
+    "target_idiom": "aus seinem Herzen keine Mördergrube machen",
+    "source_meaning": "to be frank and outspoken; to speak one's mind",
+    "target_meaning": "to speak openly and frankly"
+  },
+  {
+    "source_idiom": "直斥其非",
+    "target_idiom": "ein Hühnchen rupfen",
+    "source_meaning": "to directly rebuke someone for his or her mistakes; to scold someone to his or her face for his or her mistakes",
+    "target_meaning": "to take to task; to have a rebuking talk with; to have a bone to pick with"
+  },
+  {
+    "source_idiom": "直言不諱",
+    "target_idiom": "kein Blatt vor den Mund nehmen",
+    "source_meaning": "to call a spade a spade; to speak without reservation; not to mince one's words",
+    "target_meaning": "to be outspoken; not to mince words; to call a spade a spade"
+  },
+  {
+    "source_idiom": "真材實料",
+    "target_idiom": "der wahre Jakob",
+    "source_meaning": "real deal; real stuff; real thing; authentic material",
+    "target_meaning": "the real McCoy"
+  },
+  {
+    "source_idiom": "眼中釘",
+    "target_idiom": "Dorn im Auge",
+    "source_meaning": "thorn in one's side; eyesore; offence to the eye",
+    "target_meaning": "thorn in someone's side"
+  },
+  {
+    "source_idiom": "眼大肚子小",
+    "target_idiom": "die Haare vom Kopf fressen",
+    "source_meaning": "to have eyes bigger than one's stomach; to take more food than one can eat",
+    "target_meaning": "to eat someone out of house and home"
+  },
+  {
+    "source_idiom": "眼觀六路",
+    "target_idiom": "ein Auge auf etwas werfen",
+    "source_meaning": "keeping a close eye on various things; considering the many aspects of a situation",
+    "target_meaning": "to keep an eye on something"
+  },
+  {
+    "source_idiom": "眾說紛紜",
+    "target_idiom": "es kommt darauf an",
+    "source_meaning": "opinions vary",
+    "target_meaning": "it depends"
+  },
+  {
+    "source_idiom": "矇混過關",
+    "target_idiom": "durch die Lappen gehen",
+    "source_meaning": "to slip by; to gloss over one's fault",
+    "target_meaning": "to slip through one's fingers"
+  },
+  {
+    "source_idiom": "矛盾",
+    "target_idiom": "Widerspruch in sich",
+    "source_meaning": "paradox",
+    "target_meaning": "paradox, contradiction"
+  },
+  {
+    "source_idiom": "知己知彼",
+    "target_idiom": "seine Pappenheimer kennen",
+    "source_meaning": "to know yourself and know the enemy",
+    "target_meaning": "to know who one's dealing with"
+  },
+  {
+    "source_idiom": "知慳識儉",
+    "target_idiom": "aufs Geld gucken",
+    "source_meaning": "to live frugally; to be thrifty",
+    "target_meaning": "to economize; to spend money carefully (literally: \"to watch the money\")"
+  },
+  {
+    "source_idiom": "知難而退",
+    "target_idiom": "den Schwanz einziehen",
+    "source_meaning": "to retreat or shrink back in face of difficulties",
+    "target_meaning": "to turn tail, to be a coward"
+  },
+  {
+    "source_idiom": "石目鐵鼻",
+    "target_idiom": "nah am Wasser gebaut",
+    "source_meaning": "unable to easily shed tears (of someone)",
+    "target_meaning": "prone to crying, who tends to cry easily"
+  },
+  {
+    "source_idiom": "砍掉重練",
+    "target_idiom": "bei Adam und Eva anfangen",
+    "source_meaning": "to start again from scratch, to go back to square one",
+    "target_meaning": "to start from the very beginning"
+  },
+  {
+    "source_idiom": "破釜沉舟",
+    "target_idiom": "alle Brücken hinter sich abbrechen",
+    "source_meaning": "to burn one's boats; to cross the Rubicon; to reach the point of no return",
+    "target_meaning": "to burn one's bridges"
+  },
+  {
+    "source_idiom": "碰釘子",
+    "target_idiom": "einen Korb kriegen",
+    "source_meaning": "to meet with a rebuff",
+    "target_meaning": "to be (romantically) rejected"
+  },
+  {
+    "source_idiom": "神憎鬼厭",
+    "target_idiom": "die Krätze kriegen",
+    "source_meaning": "to be extremely detestable; to be extremely irritating",
+    "target_meaning": "to find something loathsome (highly offensive or uncomfortable)"
+  },
+  {
+    "source_idiom": "神龍失勢",
+    "target_idiom": "in Ungnade fallen",
+    "source_meaning": "a fall from grace, in which a once-powerful figure is rendered impotent after losing the dominance they had relied on",
+    "target_meaning": "to fall from grace"
+  },
+  {
+    "source_idiom": "神龍見首不見尾",
+    "target_idiom": "Katz-und-Maus-Spiel",
+    "source_meaning": "to maintain an air of mystery, to not reveal oneself; to play cat and mouse; to remain aloof",
+    "target_meaning": "cat and mouse game"
+  },
+  {
+    "source_idiom": "禍在目前",
+    "target_idiom": "das Kind fällt in den Brunnen",
+    "source_meaning": "disaster is upon us; disaster is imminent",
+    "target_meaning": "a disaster happens or becomes inevitable; it is too late for precautions that should have been taken earlier"
+  },
+  {
+    "source_idiom": "福星高照",
+    "target_idiom": "Schwein haben",
+    "source_meaning": "to be in luck; to be very lucky",
+    "target_meaning": "to be lucky"
+  },
+  {
+    "source_idiom": "秋波送情",
+    "target_idiom": "Rehauge",
+    "source_meaning": "(of a woman) to make eyes; to ogle; to cast amorous glances",
+    "target_meaning": "doe eyes (large, usually brown, innocent and attractive eyes, especially in a woman)"
+  },
+  {
+    "source_idiom": "秋風掃落葉",
+    "target_idiom": "im Sturm nehmen",
+    "source_meaning": "to take by storm; to blow away (in a competition); to blow out of the water",
+    "target_meaning": "to take by storm"
+  },
+  {
+    "source_idiom": "積不相能",
+    "target_idiom": "mit jemandem ist nicht gut Kirschen essen",
+    "source_meaning": "to not get along for a long time",
+    "target_meaning": "it is difficult to get along with someone"
+  },
+  {
+    "source_idiom": "積穀防饑",
+    "target_idiom": "etwas auf die hohe Kante legen",
+    "source_meaning": "to save for a rainy day",
+    "target_meaning": "to save something for a rainy day"
+  },
+  {
+    "source_idiom": "穎脫而出",
+    "target_idiom": "ans Licht kommen",
+    "source_meaning": "to be revealed; to come to the fore; to rise above others",
+    "target_meaning": "come to light"
+  },
+  {
+    "source_idiom": "空中樓閣",
+    "target_idiom": "Luftschloss",
+    "source_meaning": "castle in the air; illusion",
+    "target_meaning": "castle in the air, castle in the sky, pipe dream"
+  },
+  {
+    "source_idiom": "空口講白話",
+    "target_idiom": "das Blaue vom Himmel versprechen",
+    "source_meaning": "to make empty promises",
+    "target_meaning": "to make a promise that cannot be fulfilled. ( to promise [someone] the Blue out of the Blue Sky)"
+  },
+  {
+    "source_idiom": "站不住腳",
+    "target_idiom": "auf Sand gebaut haben",
+    "source_meaning": "to be ill-founded; to be groundless; to not have a leg to stand on; to be unable to hold water",
+    "target_meaning": "to have built on sand"
+  },
+  {
+    "source_idiom": "童男童女",
+    "target_idiom": "ohne Trauschein",
+    "source_meaning": "unmarried teenage boys and girls",
+    "target_meaning": "unmarried, without being married (of a couple, especially in the context of cohabitation)"
+  },
+  {
+    "source_idiom": "竭澤而漁",
+    "target_idiom": "das Huhn, das goldene Eier legt, schlachten",
+    "source_meaning": "to kill the goose that lays the golden egg; to extract everything available at the moment at the sacrifice of long-term benefits",
+    "target_meaning": "to kill the goose that lays the golden eggs"
+  },
+  {
+    "source_idiom": "笨手笨腳",
+    "target_idiom": "zwei linke Hände haben",
+    "source_meaning": "clumsy; all thumbs",
+    "target_meaning": "to be all thumbs, to be very clumsy"
+  },
+  {
+    "source_idiom": "簡明扼要",
+    "target_idiom": "kurz angebunden",
+    "source_meaning": "brief, clear, and to the point; concise; succinct",
+    "target_meaning": "curt; brief; blunt (especially over the telephone)"
+  },
+  {
+    "source_idiom": "米已成炊",
+    "target_idiom": "die Würfel sind gefallen",
+    "source_meaning": "the die is cast; what's done is done",
+    "target_meaning": "the die is cast"
+  },
+  {
+    "source_idiom": "精疲力竭",
+    "target_idiom": "fix und fertig",
+    "source_meaning": "exhausted",
+    "target_meaning": "bushed, burnt out"
+  },
+  {
+    "source_idiom": "精神奕奕",
+    "target_idiom": "guter Dinge",
+    "source_meaning": "in great spirits; lively; energetic",
+    "target_meaning": "in good spirits, confident, optimistic"
+  },
+  {
+    "source_idiom": "糖衣毒藥",
+    "target_idiom": "außen hui, innen pfui",
+    "source_meaning": "something that appears good and attractive but is harmful or sinister in reality",
+    "target_meaning": "expresses that something is attractive by first appearance, but repugnant underneath/in truth; generally applicable, e.g. to packaged goods, houses, people, ideologies, etc."
+  },
+  {
+    "source_idiom": "紋絲不動",
+    "target_idiom": "keinen Finger rühren",
+    "source_meaning": "to not move a single bit",
+    "target_meaning": "to not lift a finger"
+  },
+  {
+    "source_idiom": "紙上談兵",
+    "target_idiom": "wie ein Blinder von der Farbe reden",
+    "source_meaning": "to engage in theoretical discussion that is worse than useless in practice; armchair strategist; idle theorizing",
+    "target_meaning": "to speak about something of which one has no personal experience, thus in a theoretical, impractical, unrealistic way"
+  },
+  {
+    "source_idiom": "絞盡腦汁",
+    "target_idiom": "sich den Kopf zerbrechen",
+    "source_meaning": "to rack one's brain",
+    "target_meaning": "rack one's brain"
+  },
+  {
+    "source_idiom": "罪魁禍首",
+    "target_idiom": "Strippenzieher",
+    "source_meaning": "ringleader; main culprit; principal offender",
+    "target_meaning": "string puller, puppet master, mastermind, svengali"
+  },
+  {
+    "source_idiom": "置之度外",
+    "target_idiom": "außer Betracht lassen",
+    "source_meaning": "to leave (one's own safety or interest) out of consideration",
+    "target_meaning": "to leave out of consideration"
+  },
+  {
+    "source_idiom": "羊入虎口",
+    "target_idiom": "Selbstmord aus Angst vor dem Tod",
+    "source_meaning": "to enter a dangerous situation where one will certainly suffer",
+    "target_meaning": "a hazardous and foredoomed course of action taken by someone who finds themselves in a slowly but continually deteriorating position"
+  },
+  {
+    "source_idiom": "美中不足",
+    "target_idiom": "Haar in der Suppe",
+    "source_meaning": "to be almost perfect; to be a fly in the ointment; to be a blemish in an otherwise perfect thing",
+    "target_meaning": "fly in the ointment"
+  },
+  {
+    "source_idiom": "習以為常",
+    "target_idiom": "jemandem in Fleisch und Blut übergehen",
+    "source_meaning": "to be accustomed to",
+    "target_meaning": "to become second nature"
+  },
+  {
+    "source_idiom": "老舉埋年——算鳩數",
+    "target_idiom": "das macht nichts",
+    "source_meaning": "forget about it",
+    "target_meaning": "never mind, it doesn't matter (it is not important)"
+  },
+  {
+    "source_idiom": "老虎都打死幾隻",
+    "target_idiom": "gesund wie ein Fisch im Wasser",
+    "source_meaning": "fit as a fiddle",
+    "target_meaning": "as sound as a bell"
+  },
+  {
+    "source_idiom": "老鼠拉龜",
+    "target_idiom": "von Tuten und Blasen keine Ahnung haben",
+    "source_meaning": "to have no clue about how to handle a problem",
+    "target_meaning": "to be clueless"
+  },
+  {
+    "source_idiom": "肉顫心驚",
+    "target_idiom": "wie Espenlaub zittern",
+    "source_meaning": "shaking with fear",
+    "target_meaning": "to shake like a leaf"
+  },
+  {
+    "source_idiom": "背城借一",
+    "target_idiom": "sich wacker schlagen",
+    "source_meaning": "to fight to the last ditch; to put up a desperate struggle",
+    "target_meaning": "to fight bravely, bear oneself bravely (especially in a losing situation)"
+  },
+  {
+    "source_idiom": "胡攪蠻纏",
+    "target_idiom": "jemandem das Ohr abkauen",
+    "source_meaning": "to pester somebody endlessly; to be unreasonable; to plague somebody with unreasonable demands; to argue tediously and vexatiously",
+    "target_meaning": "to bother someone with endless speaking, get on someone's nerves"
+  },
+  {
+    "source_idiom": "胸無大志",
+    "target_idiom": "kleine Brötchen backen",
+    "source_meaning": "to have no great ambitions or aspirations",
+    "target_meaning": "to dial down one's future plans and ambitions (often in response to a setback)"
+  },
+  {
+    "source_idiom": "腦子進水",
+    "target_idiom": "am Rad drehen",
+    "source_meaning": "to be crazy or stupid; to have lost one's mind",
+    "target_meaning": "to go crazy"
+  },
+  {
+    "source_idiom": "腮補西",
+    "target_idiom": "in den Arsch kriechen",
+    "source_meaning": "to brownnose; to kiss someone's ass; to suck up to",
+    "target_meaning": "to kiss arse"
+  },
+  {
+    "source_idiom": "腳踏實地",
+    "target_idiom": "auf dem Teppich bleiben",
+    "source_meaning": "to have one's feet on the ground; to be realistic and steady",
+    "target_meaning": "to keep one's feet on the ground"
+  },
+  {
+    "source_idiom": "自尋短見",
+    "target_idiom": "ins Wasser gehen",
+    "source_meaning": "to commit suicide",
+    "target_meaning": "to drown oneself, commit suicide by drowning"
+  },
+  {
+    "source_idiom": "自彈自唱",
+    "target_idiom": "einfädeln",
+    "source_meaning": "to orchestrate everything on one's own; to control the scene",
+    "target_meaning": "to contrive, orchestrate"
+  },
+  {
+    "source_idiom": "自毀長城",
+    "target_idiom": "den Ast absägen, auf dem man sitzt",
+    "source_meaning": "to weaken oneself; to destroy one's own advantages or accomplishments",
+    "target_meaning": "to undermine one's own position; to act in a way that will eventually make one lose something that one is dependent on"
+  },
+  {
+    "source_idiom": "自行其是",
+    "target_idiom": "tun, was man nicht lassen kann",
+    "source_meaning": "to do what one thinks is right without considering the opinions of others; to do one's own thing",
+    "target_meaning": "to do what one thinks one must do; to do what one wants"
+  },
+  {
+    "source_idiom": "臺前幕後",
+    "target_idiom": "hinter den Kulissen",
+    "source_meaning": "onstage and backstage; onstage and behind the scenes",
+    "target_meaning": "behind the scenes"
+  },
+  {
+    "source_idiom": "與世長辭",
+    "target_idiom": "über den Jordan gehen",
+    "source_meaning": "to die",
+    "target_meaning": "to die"
+  },
+  {
+    "source_idiom": "與時俱進",
+    "target_idiom": "mit der Zeit gehen",
+    "source_meaning": "to move with the times; to keep abreast of current developments",
+    "target_meaning": "to keep up with the times"
+  },
+  {
+    "source_idiom": "苦口苦面",
+    "target_idiom": "beleidigte Leberwurst",
+    "source_meaning": "to be sour-faced",
+    "target_meaning": "someone who is offended; a sorehead"
+  },
+  {
+    "source_idiom": "英年早逝",
+    "target_idiom": "ein frühes Grab finden",
+    "source_meaning": "to pass away at the prime of one's life; to die young",
+    "target_meaning": "to find an early grave, to die young"
+  },
+  {
+    "source_idiom": "荒郊野外",
+    "target_idiom": "über die Dörfer",
+    "source_meaning": "wilderness; wild countryside",
+    "target_meaning": "through the countryside; via country roads (as opposed to highways)"
+  },
+  {
+    "source_idiom": "莫逆之交",
+    "target_idiom": "wie Kastor und Pollux sein",
+    "source_meaning": "very close friends (with complete mutual understanding)",
+    "target_meaning": "to be very close friends"
+  },
+  {
+    "source_idiom": "菜脯搵豆油——加工",
+    "target_idiom": "das Rad neu erfinden",
+    "source_meaning": "to do unnecessary extra work",
+    "target_meaning": "to reinvent the wheel"
+  },
+  {
+    "source_idiom": "萬世代久",
+    "target_idiom": "ewig und drei Tage",
+    "source_meaning": "for a very long time",
+    "target_meaning": "a very long time"
+  },
+  {
+    "source_idiom": "萬事大吉",
+    "target_idiom": "alles in Butter",
+    "source_meaning": "all is well",
+    "target_meaning": "Everything is OK"
+  },
+  {
+    "source_idiom": "萬馬奔騰",
+    "target_idiom": "keine zehn Pferde",
+    "source_meaning": "thousands of horses galloping, used to describe the magnificence of a scene",
+    "target_meaning": "wild horses"
+  },
+  {
+    "source_idiom": "落下帷幕",
+    "target_idiom": "einen Schlussstrich ziehen",
+    "source_meaning": "to come to a close; to come to an end",
+    "target_meaning": "to put an end to"
+  },
+  {
+    "source_idiom": "落手落腳",
+    "target_idiom": "die Finger im Spiel haben",
+    "source_meaning": "to get one's hands dirty; to involve oneself in doing work",
+    "target_meaning": "to be involved in, to have a hand in"
+  },
+  {
+    "source_idiom": "落荒而走",
+    "target_idiom": "Fersengeld geben",
+    "source_meaning": "to flee in a hurry; to flee in panic",
+    "target_meaning": "to flee, to leave, to skedaddle"
+  },
+  {
+    "source_idiom": "蒙在鼓裡",
+    "target_idiom": "im Dunkeln tappen",
+    "source_meaning": "to be kept in the dark",
+    "target_meaning": "to be in the dark"
+  },
+  {
+    "source_idiom": "蒼翠欲滴",
+    "target_idiom": "grün vor Neid",
+    "source_meaning": "luscious; so green, water is about to drip out",
+    "target_meaning": "green with envy"
+  },
+  {
+    "source_idiom": "薄利多銷",
+    "target_idiom": "an den Mann bringen",
+    "source_meaning": "to sell at low prices to obtain small profits but quick returns",
+    "target_meaning": "to sell off (a commodity)"
+  },
+  {
+    "source_idiom": "藏藏掖掖",
+    "target_idiom": "etwas unter den Teppich kehren",
+    "source_meaning": "to attempt to cover something up",
+    "target_meaning": "to sweep something under the rug"
+  },
+  {
+    "source_idiom": "虎入羊群",
+    "target_idiom": "den Bock zum Gärtner machen",
+    "source_meaning": "fox in the henhouse",
+    "target_meaning": "fox guarding the henhouse"
+  },
+  {
+    "source_idiom": "虎無爪，鳥無翼",
+    "target_idiom": "fünftes Rad am Wagen",
+    "source_meaning": "a useless individual",
+    "target_meaning": "fifth wheel, third wheel (person or thing that serves no useful purpose)"
+  },
+  {
+    "source_idiom": "蛇鼠一窩",
+    "target_idiom": "unter einer Decke stecken",
+    "source_meaning": "to be working together; to be acting in collusion with one another",
+    "target_meaning": "to be in cahoots"
+  },
+  {
+    "source_idiom": "螃蟹精神",
+    "target_idiom": "einen Krebs fangen",
+    "source_meaning": "crab mentality",
+    "target_meaning": "to catch a crab"
+  },
+  {
+    "source_idiom": "蠅頭小利",
+    "target_idiom": "'n Appel und 'n Ei",
+    "source_meaning": "extremely small profit; petty gain",
+    "target_meaning": "peanuts; a low, minuscule price"
+  },
+  {
+    "source_idiom": "血口噴人",
+    "target_idiom": "in die Pfanne hauen",
+    "source_meaning": "to make unfounded and malicious attacks upon somebody; to venomously slander",
+    "target_meaning": "to criticize or deride (someone) harshly, especially in a disloyal manner; to slam, to throw under the bus"
+  },
+  {
+    "source_idiom": "行權立斷",
+    "target_idiom": "Nägel mit Köpfen machen",
+    "source_meaning": "to act decisively",
+    "target_meaning": "to act with deliberation, vigour, and professionalism, not waveringly or desultorily"
+  },
+  {
+    "source_idiom": "衣來伸手，飯來張口",
+    "target_idiom": "auf der Bärenhaut liegen",
+    "source_meaning": "to be very lazy",
+    "target_meaning": "to laze"
+  },
+  {
+    "source_idiom": "裝痟的",
+    "target_idiom": "zum Narren halten",
+    "source_meaning": "to feign madness; to make a fool of someone",
+    "target_meaning": "to fool"
+  },
+  {
+    "source_idiom": "裝門面",
+    "target_idiom": "den Schein wahren",
+    "source_meaning": "to put up a facade; to keep up appearances",
+    "target_meaning": "to keep up appearances"
+  },
+  {
+    "source_idiom": "褲穿窿",
+    "target_idiom": "am Hungertuch nagen",
+    "source_meaning": "to be extremely poor",
+    "target_meaning": "to be poor and starving"
+  },
+  {
+    "source_idiom": "見不得人",
+    "target_idiom": "Leiche im Keller",
+    "source_meaning": "shameful and cannot be revealed",
+    "target_meaning": "skeleton in the cupboard, skeleton in the closet (shameful secret)"
+  },
+  {
+    "source_idiom": "視若無睹",
+    "target_idiom": "ein Auge zudrücken",
+    "source_meaning": "to turn a blind eye",
+    "target_meaning": "to turn a blind eye"
+  },
+  {
+    "source_idiom": "親冒矢石",
+    "target_idiom": "sich aus dem Fenster lehnen",
+    "source_meaning": "to personally brave the slings and arrows; to put oneself in the line of fire",
+    "target_meaning": "stick one's neck out"
+  },
+  {
+    "source_idiom": "親眼目睹",
+    "target_idiom": "zu Gesicht bekommen",
+    "source_meaning": "to see with one's own eyes",
+    "target_meaning": "to set eyes on"
+  },
+  {
+    "source_idiom": "誇誇其談",
+    "target_idiom": "große Töne spucken",
+    "source_meaning": "to boast; to talk big",
+    "target_meaning": "to brag, boast"
+  },
+  {
+    "source_idiom": "語無倫次",
+    "target_idiom": "spanisch sprechen",
+    "source_meaning": "to speak incoherently; to ramble in one's statement; confused and incomprehensible speech",
+    "target_meaning": "to say something unintelligible"
+  },
+  {
+    "source_idiom": "誤人子弟",
+    "target_idiom": "vom rechten Weg abbringen",
+    "source_meaning": "to lead students astray",
+    "target_meaning": "to lead astray"
+  },
+  {
+    "source_idiom": "說一套做一套",
+    "target_idiom": "Wasser predigen und Wein trinken",
+    "source_meaning": "to say one thing and do another",
+    "target_meaning": "To preach water and drink wine; to fail to practice what one preaches."
+  },
+  {
+    "source_idiom": "謔而不虐",
+    "target_idiom": "durch den Kakao ziehen",
+    "source_meaning": "to joke or tease without embarrassing or hurting others",
+    "target_meaning": "to pull someone's leg, to make fun of someone or something, to roast someone"
+  },
+  {
+    "source_idiom": "變生肘腋",
+    "target_idiom": "im Gebälk rascheln",
+    "source_meaning": "trouble is brewing close at hand",
+    "target_meaning": "trouble is brewing"
+  },
+  {
+    "source_idiom": "象牙塔",
+    "target_idiom": "Elfenbeinturm",
+    "source_meaning": "ivory tower",
+    "target_meaning": "ivory tower"
+  },
+  {
+    "source_idiom": "豬八戒穿紅袍——不倫不類",
+    "target_idiom": "fehl am Platz",
+    "source_meaning": "out of place",
+    "target_meaning": "misplaced, out of place"
+  },
+  {
+    "source_idiom": "負債累累",
+    "target_idiom": "in der Kreide stehen",
+    "source_meaning": "to be deep in debt; to be debt-ridden",
+    "target_meaning": "to be in (someone's) debt"
+  },
+  {
+    "source_idiom": "赤子之心",
+    "target_idiom": "Herz aus Gold",
+    "source_meaning": "a pure heart",
+    "target_meaning": "heart of gold (kind-heartedness)"
+  },
+  {
+    "source_idiom": "赤身露體",
+    "target_idiom": "wie Gott ihn schuf",
+    "source_meaning": "to be completely naked",
+    "target_meaning": "in his birthday suit (naked)"
+  },
+  {
+    "source_idiom": "走遍天下",
+    "target_idiom": "durch die Weltgeschichte reisen",
+    "source_meaning": "to wander through the world; to travel all over the world",
+    "target_meaning": "to travel extensively (to different parts of the world), to be constantly on the move"
+  },
+  {
+    "source_idiom": "起五更早",
+    "target_idiom": "mit dem linken Fuß zuerst aufgestanden sein",
+    "source_meaning": "to get up very early; to wake up very early",
+    "target_meaning": "to get up on the wrong side of the bed"
+  },
+  {
+    "source_idiom": "蹬鼻子上臉",
+    "target_idiom": "den Bogen überspannen",
+    "source_meaning": "to go too far (by taking a mile after being given an inch)",
+    "target_meaning": "to go too far, overstep the mark"
+  },
+  {
+    "source_idiom": "身強力壯",
+    "target_idiom": "starker Tobak",
+    "source_meaning": "strong and sturdy",
+    "target_meaning": "strong stuff, strong meat"
+  },
+  {
+    "source_idiom": "身懷六甲",
+    "target_idiom": "einen Braten in der Röhre haben",
+    "source_meaning": "to be pregnant",
+    "target_meaning": "to have a bun in the oven"
+  },
+  {
+    "source_idiom": "軒然大波",
+    "target_idiom": "Sturm der Entrüstung",
+    "source_meaning": "great disturbance or uproar",
+    "target_meaning": "outcry, storm of protest"
+  },
+  {
+    "source_idiom": "軟硬兼施",
+    "target_idiom": "Zuckerbrot und Peitsche",
+    "source_meaning": "use the carrot and stick",
+    "target_meaning": "carrot and stick"
+  },
+  {
+    "source_idiom": "輕而易舉",
+    "target_idiom": "aus dem Handgelenk",
+    "source_meaning": "easy; without much effort",
+    "target_meaning": "without much effort or preparation"
+  },
+  {
+    "source_idiom": "輕車熟路",
+    "target_idiom": "aus dem Ärmel schütteln",
+    "source_meaning": "to perform a task with which one is very familiar with great ease",
+    "target_meaning": "to produce something with ease"
+  },
+  {
+    "source_idiom": "轉彎抹角",
+    "target_idiom": "um den heißen Brei herumreden",
+    "source_meaning": "to speak in a roundabout way; to beat around the bush",
+    "target_meaning": "beat about the bush"
+  },
+  {
+    "source_idiom": "迫不及待",
+    "target_idiom": "im Begriff sein",
+    "source_meaning": "impatient; in a hurry; itching to get on with it",
+    "target_meaning": "to want to begin doing something now; to be about to"
+  },
+  {
+    "source_idiom": "追風逐電",
+    "target_idiom": "dicht auf den Fersen",
+    "source_meaning": "to chase swiftly; to get on like a house on fire; fast-paced progress",
+    "target_meaning": "hot on the heels"
+  },
+  {
+    "source_idiom": "逍遙法外",
+    "target_idiom": "auf freiem Fuß sein",
+    "source_meaning": "to be at large; to be on the loose",
+    "target_meaning": "to be on the loose"
+  },
+  {
+    "source_idiom": "透堂白日",
+    "target_idiom": "auf offener Straße",
+    "source_meaning": "in broad daylight",
+    "target_meaning": "in broad daylight"
+  },
+  {
+    "source_idiom": "通宵達旦",
+    "target_idiom": "bis in die Puppen",
+    "source_meaning": "all the night until daybreak",
+    "target_meaning": "until all hours, late into the night"
+  },
+  {
+    "source_idiom": "通風報信",
+    "target_idiom": "ins Bild setzen",
+    "source_meaning": "to secretly pass on information to others; to tip somebody off",
+    "target_meaning": "to inform, to fill someone in"
+  },
+  {
+    "source_idiom": "逢凶化吉",
+    "target_idiom": "über den Berg sein",
+    "source_meaning": "to get through a dangerous crisis; to land on one's feet",
+    "target_meaning": "to turn the corner, to get out of the woods"
+  },
+  {
+    "source_idiom": "進退失據",
+    "target_idiom": "zwischen Skylla und Charybdis sein",
+    "source_meaning": "to be between a rock and a hard place",
+    "target_meaning": "to be between Scylla and Charybdis"
+  },
+  {
+    "source_idiom": "遊手好閒",
+    "target_idiom": "auf der faulen Haut liegen",
+    "source_meaning": "to loaf about; to be indolent",
+    "target_meaning": "to laze around (literally: to lie on the lazy or foul skin)"
+  },
+  {
+    "source_idiom": "適可而止",
+    "target_idiom": "das Maß ist voll",
+    "source_meaning": "to stop when appropriate; not to overdo; enough is enough",
+    "target_meaning": "enough is enough"
+  },
+  {
+    "source_idiom": "適得其反",
+    "target_idiom": "nach hinten losgehen",
+    "source_meaning": "to run counter to one's desire; to have the exact opposite effect of what one wished; to backfire",
+    "target_meaning": "to backfire"
+  },
+  {
+    "source_idiom": "邀買人心",
+    "target_idiom": "sich lieb Kind machen",
+    "source_meaning": "to curry favor; to buy public support",
+    "target_meaning": "to curry favor"
+  },
+  {
+    "source_idiom": "邊都沾不上",
+    "target_idiom": "auf dem falschen Dampfer",
+    "source_meaning": "way off; not even close; way off the mark; dead wrong; off by a mile",
+    "target_meaning": "incorrect, on the wrong track, off the mark"
+  },
+  {
+    "source_idiom": "重修舊好",
+    "target_idiom": "das Kriegsbeil begraben",
+    "source_meaning": "to bury the hatchet",
+    "target_meaning": "bury the hatchet"
+  },
+  {
+    "source_idiom": "量入為出",
+    "target_idiom": "über die Runden kommen",
+    "source_meaning": "make ends meet; adjust one's expense to one's income; base one's expenditures upon one's income",
+    "target_meaning": "to make ends meet"
+  },
+  {
+    "source_idiom": "錦囊妙計",
+    "target_idiom": "Ass im Ärmel",
+    "source_meaning": "bag of tricks; cunning masterplan",
+    "target_meaning": "ace up one's sleeve, ace in the hole"
+  },
+  {
+    "source_idiom": "鐵石心腸",
+    "target_idiom": "Herz aus Stein",
+    "source_meaning": "stone-hearted; unmoved",
+    "target_meaning": "heart of stone (stern, cold nature)"
+  },
+  {
+    "source_idiom": "鑿空之論",
+    "target_idiom": "an den Haaren herbeigezogen",
+    "source_meaning": "far-fetched argument; unlikely statement",
+    "target_meaning": "far-fetched; absurd (highly unlikely)"
+  },
+  {
+    "source_idiom": "長年通月",
+    "target_idiom": "jahraus, jahrein",
+    "source_meaning": "over many years and months; year in, year out",
+    "target_meaning": "year in, year out"
+  },
+  {
+    "source_idiom": "開花結果",
+    "target_idiom": "Früchte tragen",
+    "source_meaning": "to yield positive results",
+    "target_meaning": "to bear fruit"
+  },
+  {
+    "source_idiom": "閒話家常",
+    "target_idiom": "über Gott und die Welt reden",
+    "source_meaning": "to chit-chat about daily life",
+    "target_meaning": "to chit-chat (to engage in small talk, to discuss unimportant matters)"
+  },
+  {
+    "source_idiom": "閻羅王探病——問你死未",
+    "target_idiom": "nichts Gutes im Schilde führen",
+    "source_meaning": "to be up to no good; to have ulterior motives; to be in serious trouble",
+    "target_meaning": "to be up to no good"
+  },
+  {
+    "source_idiom": "闊佬懶理",
+    "target_idiom": "keine Rolle spielen",
+    "source_meaning": "to be indifferent; to not give a damn",
+    "target_meaning": "to not matter, to not be important"
+  },
+  {
+    "source_idiom": "防微杜漸",
+    "target_idiom": "etwas im Keim ersticken",
+    "source_meaning": "to nip in the bud; to put an end to a bad thing or mistake when it germinates",
+    "target_meaning": "to nip (something) in the bud"
+  },
+  {
+    "source_idiom": "阻住地球轉",
+    "target_idiom": "in die Quere kommen",
+    "source_meaning": "to be in the way",
+    "target_meaning": "to get in the way"
+  },
+  {
+    "source_idiom": "阿諛奉承",
+    "target_idiom": "Süßholz raspeln",
+    "source_meaning": "flattering and fawning; sweet-talking",
+    "target_meaning": "to flatter, to sweet-talk"
+  },
+  {
+    "source_idiom": "陰魂不散",
+    "target_idiom": "zum Tragen kommen",
+    "source_meaning": "to have a (often negative) lasting effect (with respect to a person or event that is now not existing)",
+    "target_meaning": "to have an effect, to take effect"
+  },
+  {
+    "source_idiom": "陳腔濫調",
+    "target_idiom": "alter Hut",
+    "source_meaning": "hackneyed; unoriginal; stereotyped",
+    "target_meaning": "Something familiar and hackneyed; something that is old hat."
+  },
+  {
+    "source_idiom": "陸續有來",
+    "target_idiom": "in Zukunft",
+    "source_meaning": "will come one after another in the future",
+    "target_meaning": "hereafter, in future, in the future, for the future"
+  },
+  {
+    "source_idiom": "雞啄唔斷",
+    "target_idiom": "leeres Stroh dreschen",
+    "source_meaning": "to talk endlessly",
+    "target_meaning": "to talk pointlessly"
+  },
+  {
+    "source_idiom": "雞毛鴨血",
+    "target_idiom": "in der Tinte sitzen",
+    "source_meaning": "in big trouble; a bad situation",
+    "target_meaning": "to be in a fix; to be in trouble"
+  },
+  {
+    "source_idiom": "難以置信",
+    "target_idiom": "auf keine Kuhhaut passen",
+    "source_meaning": "unbelievable; incredible",
+    "target_meaning": "to be unbelievable"
+  },
+  {
+    "source_idiom": "電閃雷鳴",
+    "target_idiom": "wie vom Donner gerührt",
+    "source_meaning": "lightning flashes and thunder rumbles",
+    "target_meaning": "thunderstruck"
+  },
+  {
+    "source_idiom": "霆水螺",
+    "target_idiom": "Alarm schlagen",
+    "source_meaning": "sound the alarm",
+    "target_meaning": "to sound the alarm, to raise the alarm"
+  },
+  {
+    "source_idiom": "青春年少",
+    "target_idiom": "noch in den Kinderschuhen stecken",
+    "source_meaning": "to be quite young",
+    "target_meaning": "to be in its infancy"
+  },
+  {
+    "source_idiom": "靚到沊一聲",
+    "target_idiom": "ganz schön",
+    "source_meaning": "very beautiful, especially of a woman",
+    "target_meaning": "pretty, quite, rather (to an usual or surprising degree)"
+  },
+  {
+    "source_idiom": "靜觀其變",
+    "target_idiom": "abwarten und Tee trinken",
+    "source_meaning": "wait and see; see which way the cat jumps; to delay taking action based on the outcome of something else.",
+    "target_meaning": "to wait and see"
+  },
+  {
+    "source_idiom": "非洲和尚——乞人憎",
+    "target_idiom": "Stein des Anstoßes",
+    "source_meaning": "annoying",
+    "target_meaning": "a source of annoyance"
+  },
+  {
+    "source_idiom": "非黑即白",
+    "target_idiom": "Schwarzweißdenken",
+    "source_meaning": "black-and-white; clear-cut",
+    "target_meaning": "black-and-white thinking"
+  },
+  {
+    "source_idiom": "面青口脣白",
+    "target_idiom": "kreidebleich",
+    "source_meaning": "to be palefaced; to look ill; to look ghastly",
+    "target_meaning": "pale, especially pale-faced; white as a sheet"
+  },
+  {
+    "source_idiom": "顛三倒四",
+    "target_idiom": "drunter und drüber",
+    "source_meaning": "disorderly; chaotic; topsy-turvy; confused",
+    "target_meaning": "chaotic, haywire, higgledy-piggledy"
+  },
+  {
+    "source_idiom": "顛鸞倒鳳",
+    "target_idiom": "eine Nummer schieben",
+    "source_meaning": "to make love",
+    "target_meaning": "to have sex"
+  },
+  {
+    "source_idiom": "顧全大局",
+    "target_idiom": "in Betracht ziehen",
+    "source_meaning": "to take the interests of the whole into account; to take the situation as a whole into consideration",
+    "target_meaning": "to take into consideration"
+  },
+  {
+    "source_idiom": "顧左右而言他",
+    "target_idiom": "vom Hundertsten ins Tausendste kommen",
+    "source_meaning": "to try to change the subject of a conversation; to evade the subject under discussion and talk about other affairs; to steer clear of the crucial point",
+    "target_meaning": "to jump from topic to topic"
+  },
+  {
+    "source_idiom": "風口浪尖",
+    "target_idiom": "Feuerprobe",
+    "source_meaning": "line of fire",
+    "target_meaning": "trial by fire"
+  },
+  {
+    "source_idiom": "風流韻事",
+    "target_idiom": "abgekartete Sache",
+    "source_meaning": "love affair",
+    "target_meaning": "put-up affair"
+  },
+  {
+    "source_idiom": "風裡來雨裡去",
+    "target_idiom": "mit Hängen und Würgen",
+    "source_meaning": "with great hardship in life and work",
+    "target_meaning": "with great effort"
+  },
+  {
+    "source_idiom": "飛禽走獸",
+    "target_idiom": "die Bienchen und Blümchen",
+    "source_meaning": "the birds and the beasts",
+    "target_meaning": "the birds and the bees (sexual activity)"
+  },
+  {
+    "source_idiom": "食得鹹魚抵得渴",
+    "target_idiom": "ausbaden",
+    "source_meaning": "to have to bear the consequences of one's actions or choices",
+    "target_meaning": "to handle the consequences of, to pay the price for"
+  },
+  {
+    "source_idiom": "食鹽多過食米",
+    "target_idiom": "wer nie sein Brot im Bette aß, weiß nicht, wie Krümel piken",
+    "source_meaning": "to be experienced (especially in one's life, commonly used when a senior is criticizing a junior)",
+    "target_meaning": "one must experience something to understand it properly (but sometimes used without context merely for comedic effect)"
+  },
+  {
+    "source_idiom": "飲飽食醉",
+    "target_idiom": "die Faxen dicke haben",
+    "source_meaning": "to be satisfied after having a lot to eat and drink; to get one's fill",
+    "target_meaning": "to have had enough"
+  },
+  {
+    "source_idiom": "養尊處優",
+    "target_idiom": "wie Gott in Frankreich leben",
+    "source_meaning": "to live one's whole life in opulence and enjoying high social status",
+    "target_meaning": "to live in luxury"
+  },
+  {
+    "source_idiom": "馬革裹屍",
+    "target_idiom": "den Tod erleiden",
+    "source_meaning": "to die in the battlefield (of a soldier)",
+    "target_meaning": "to die (in an accident or in battle)"
+  },
+  {
+    "source_idiom": "駁嘴駁舌",
+    "target_idiom": "Rede und Antwort stehen",
+    "source_meaning": "to talk back; to answer back",
+    "target_meaning": "to answer to (to speak in defence against; to reply to in defence)  "
+  },
+  {
+    "source_idiom": "驚弓之鳥",
+    "target_idiom": "gebranntes Kind",
+    "source_meaning": "panic-stricken person; someone who is easily frightened due to past experiences of attack or shock",
+    "target_meaning": "someone who is fearful, overcautious or generally burdened because of a bad experience, trauma"
+  },
+  {
+    "source_idiom": "高射炮打蚊子",
+    "target_idiom": "eine harte Nuss zu knacken haben",
+    "source_meaning": "to use a sledgehammer to crack a nut",
+    "target_meaning": "to have a hard nut to crack"
+  },
+  {
+    "source_idiom": "魂不守舍",
+    "target_idiom": "mit offenen Augen schlafen",
+    "source_meaning": "to be inattentive; to have lost one's concentration",
+    "target_meaning": "to daydream, to be inattentive"
+  },
+  {
+    "source_idiom": "黃湯辣水",
+    "target_idiom": "am Herd stehen",
+    "source_meaning": "food; things to eat",
+    "target_meaning": "to cook, to prepare food"
+  },
+  {
+    "source_idiom": "黑筆落垃白紙浪",
+    "target_idiom": "Schwarzweißmalerei",
+    "source_meaning": "in black and white",
+    "target_meaning": "painting everything in black and white"
+  },
+  {
+    "source_idiom": "點睛之筆",
+    "target_idiom": "i-Tüpfelchen",
+    "source_meaning": "the finishing touch to a painting; the crucial point that brings the subject to life",
+    "target_meaning": "the finishing touch."
+  },
+  {
+    "source_idiom": "龍陽之好",
+    "target_idiom": "anderes Ufer",
+    "source_meaning": "male homosexuality",
+    "target_meaning": "batting for the other team; being gay, queerness, homosexuality"
+  },
+  {
+    "source_idiom": "龜毛兔角",
+    "target_idiom": "außer Frage",
+    "source_meaning": "an impossibility",
+    "target_meaning": "out of the question"
+  },
+  {
+    "source_idiom": "龜跤趖出來",
+    "target_idiom": "auf die Nase binden",
+    "source_meaning": "to give oneself away; to unintentionally reveal hidden information",
+    "target_meaning": "to reveal (i.e. a secret)"
+  }
+]

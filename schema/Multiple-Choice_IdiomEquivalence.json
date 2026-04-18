@@ -1,0 +1,80 @@
+﻿{
+  "record_unit": "multiple-choice idiom equivalence",
+  "fields": [
+    {
+      "name": "instruction",
+      "type": "string",
+      "required": true,
+      "description": "The task instruction provided to the model.",
+      "example": "You are a cross lingual expert..."
+    },
+    {
+      "name": "source_idiom",
+      "type": "string",
+      "required": true,
+      "description": "The idiom in the source language.",
+      "example": "wide of the mark"
+    },
+    {
+      "name": "source_language",
+      "type": "string",
+      "required": true,
+      "description": "The source language.",
+      "example": "English"
+    },
+    {
+      "name": "target_language",
+      "type": "string",
+      "required": true,
+      "description": "The target language.",
+      "example": "Chinese"
+    },
+    {
+      "name": "target_idiom",
+      "type": "string",
+      "required": true,
+      "description": "The correct idiom in the target language.",
+      "example": "一丈差九尺"
+    },
+    {
+      "name": "target_meaning",
+      "type": "string",
+      "required": true,
+      "description": "The meaning of the target idiom.",
+      "example": "偏离目标"
+    },
+    {
+      "name": "options_detail",
+      "type": "object",
+      "required": true,
+      "description": "A dictionary of multiple-choice options (e.g., A–D).",
+      "example": {
+        "A": "正中靶心",
+        "B": "一丈差九尺",
+        "C": "偏离了目标",
+        "D": "一箭双雕"
+      }
+    },
+    {
+      "name": "correct_option",
+      "type": "string",
+      "required": true,
+      "description": "The correct answer label after shuffling.",
+      "example": "D"
+    },
+    {
+      "name": "correct_position",
+      "type": "integer",
+      "required": true,
+      "description": "The position index of the correct answer in the shuffled options.",
+      "example": 4
+    },
+    {
+      "name": "original_positions",
+      "type": "array",
+      "required": true,
+      "description": "Mapping from shuffled options to their original order before shuffling.",
+      "example": [4, 1, 2, 3]
+    }
+  ]
+}

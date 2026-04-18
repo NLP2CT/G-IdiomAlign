@@ -1,0 +1,55 @@
+{
+  "dataset_name": "G-IdiomAlign",
+  "total_records": 38798,
+  "subsets": [
+    {
+      "name": "Gloss_pivoted_Original",
+      "records": 18785,
+      "languages": [
+        "Chinese",
+        "English",
+        "Finnish",
+        "French",
+        "German",
+        "Japanese",
+        "Polish",
+        "Portuguese",
+        "Spanish"
+      ]
+    },
+    {
+      "name": "Multiple-Choice_IdiomEquivalence",
+      "records": 18999,
+      "languages": [
+        "Chinese",
+        "English",
+        "Finnish",
+        "French",
+        "German",
+        "Japanese",
+        "Polish",
+        "Portuguese",
+        "Spanish"
+      ]
+    },
+    {
+      "name": "Additional_language pairs",
+      "records": 1014,
+      "languages": [
+        "Arabic",
+        "Chinese",
+        "English",
+        "Finnish",
+        "French",
+        "German",
+        "Japanese",
+        "Korean",
+        "Polish",
+        "Portuguese",
+        "Spain",
+        "Thai",
+        "Vietnamese"
+      ]
+    }
+  ]
+}

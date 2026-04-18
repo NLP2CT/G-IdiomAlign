@@ -1,0 +1,34 @@
+﻿{
+  "record_unit": "Gloss_pivoted_Original",
+  "fields": [
+    {
+      "name": "source_idiom",
+      "type": "string",
+      "required": true,
+      "description": "The idiom in the source language.",
+      "example": "一丈差九尺"
+    },
+    {
+      "name": "target_idiom",
+      "type": "string",
+      "required": true,
+      "description": "The idiom in the target language that shares the same figurative meaning.",
+      "example": "wide of the mark"
+    },
+    {
+      "name": "source_meaning",
+      "type": "string",
+      "required": true,
+      "description": "A short gloss describing the meaning of the source idiom.",
+      "example": "wide of the mark"
+    },
+    {
+      "name": "target_meaning",
+      "type": "string",
+      "required": true,
+      "description": "A natural language description of the target idiom's meaning and usage.",
+      "example": "(Very) inaccurate."
+    }
+  ]
+}
+

@@ -1,0 +1,2060 @@
+[
+  {
+    "source_idiom": "一勞永逸",
+    "target_idiom": "une fois pour toutes",
+    "source_meaning": "once and for all",
+    "target_meaning": "once and for all (finally, permanently, conclusively)"
+  },
+  {
+    "source_idiom": "一命嗚呼",
+    "target_idiom": "passer l'arme Ã  gauche",
+    "source_meaning": "to die; to drop dead",
+    "target_meaning": "to kick the bucket, to die"
+  },
+  {
+    "source_idiom": "一塌糊塗",
+    "target_idiom": "comme un rat mort",
+    "source_meaning": "extremely; tremendously",
+    "target_meaning": "very much, to death"
+  },
+  {
+    "source_idiom": "一己之利",
+    "target_idiom": "prÃªcher pour son saint",
+    "source_meaning": "one's own interests",
+    "target_meaning": "to look after one's own interests, to advance one's own agenda"
+  },
+  {
+    "source_idiom": "一支箭噉",
+    "target_idiom": "Ã©clair",
+    "source_meaning": "like an arrow; really fast",
+    "target_meaning": "very fast"
+  },
+  {
+    "source_idiom": "一望而知",
+    "target_idiom": "avoir l'air",
+    "source_meaning": "apparent",
+    "target_meaning": "to seem, look, appear"
+  },
+  {
+    "source_idiom": "一決勝負",
+    "target_idiom": "envoyer son gantelet",
+    "source_meaning": "to have a showdown to determine the victor",
+    "target_meaning": "throw down the gauntlet"
+  },
+  {
+    "source_idiom": "一竅不通",
+    "target_idiom": "c'est de l'hÃ©breu",
+    "source_meaning": "to not understand a thing about the topic; it's all Greek to me",
+    "target_meaning": "it's all Greek to me (a phrase indicating that something's impossible to understand)"
+  },
+  {
+    "source_idiom": "一肚子火",
+    "target_idiom": "voir rouge",
+    "source_meaning": "to be furious, to be extremely angry",
+    "target_meaning": "to see red, to be furious"
+  },
+  {
+    "source_idiom": "一臂之力",
+    "target_idiom": "coup de pouce",
+    "source_meaning": "a helping hand",
+    "target_meaning": "helping hand"
+  },
+  {
+    "source_idiom": "一親芳澤",
+    "target_idiom": "aimer bien",
+    "source_meaning": "to get close to; to get on intimate terms with (someone or something that one likes)",
+    "target_meaning": "to like (as a friend)"
+  },
+  {
+    "source_idiom": "一覽無遺",
+    "target_idiom": "ne pas perdre une miette",
+    "source_meaning": "to take in everything at a glance; to have an uninterrupted view",
+    "target_meaning": "to take everything in, to drink it all in, not to miss a word, not to miss a thing"
+  },
+  {
+    "source_idiom": "一醉方休",
+    "target_idiom": "se piquer le nez",
+    "source_meaning": "to drink to get drunk",
+    "target_meaning": "to get drunk"
+  },
+  {
+    "source_idiom": "一錘定音",
+    "target_idiom": "avoir le dernier mot",
+    "source_meaning": "to give the final word",
+    "target_meaning": "to have the last word"
+  },
+  {
+    "source_idiom": "一雞兩味",
+    "target_idiom": "faire d'une pierre deux coups",
+    "source_meaning": "to kill two birds with one stone",
+    "target_meaning": "to kill two birds with one stone"
+  },
+  {
+    "source_idiom": "一頭霧水",
+    "target_idiom": "perdre son latin",
+    "source_meaning": "to be completely muddle-headed; to be baffled",
+    "target_meaning": "to be confused, to be baffled, to be unsettled (by it, \"it\" being something previously mentioned)"
+  },
+  {
+    "source_idiom": "七拼八湊",
+    "target_idiom": "avec ma bite et mon couteau",
+    "source_meaning": "to rig up; to throw together; to piece together",
+    "target_meaning": "improvised with resources at hand. jury-riged; kludged out"
+  },
+  {
+    "source_idiom": "三口六面",
+    "target_idiom": "nez Ã  nez",
+    "source_meaning": "(to talk) face-to-face",
+    "target_meaning": "face to face"
+  },
+  {
+    "source_idiom": "下逐客令",
+    "target_idiom": "envoyer sur les roses",
+    "source_meaning": "to ask a guest to leave",
+    "target_meaning": "to send someone packing"
+  },
+  {
+    "source_idiom": "不值一文",
+    "target_idiom": "ne pas valoir un clou",
+    "source_meaning": "not worth a penny; utterly worthless; no use whatsoever",
+    "target_meaning": "not to be worth a thing, not to be worth a penny, to be worthless"
+  },
+  {
+    "source_idiom": "不動聲色",
+    "target_idiom": "garder son sang-froid",
+    "source_meaning": "to maintain one's composure; to stay calm and collected; to not turn a hair; to not bat an eyelid; to not show or betray one's feelings or intentions",
+    "target_meaning": "to keep one's cool; to keep a cool head"
+  },
+  {
+    "source_idiom": "不可向邇",
+    "target_idiom": "aux abonnÃ©s absents",
+    "source_meaning": "unreachable",
+    "target_meaning": "unavailable or impossible to get in touch with"
+  },
+  {
+    "source_idiom": "不思進取",
+    "target_idiom": "se reposer sur ses lauriers",
+    "source_meaning": "to rest on one's laurels; to make no further effort to improve oneself",
+    "target_meaning": "to rest on one's laurels"
+  },
+  {
+    "source_idiom": "不死也半條命",
+    "target_idiom": "entre l'arbre et l'Ã©corce",
+    "source_meaning": "in a dangerous predicament; between a rock and a hard place",
+    "target_meaning": "In a bad situation; between a rock and a hard place"
+  },
+  {
+    "source_idiom": "不足掛齒",
+    "target_idiom": "ce n'est pas le PÃ©rou",
+    "source_meaning": "not worth mentioning; nothing to speak of",
+    "target_meaning": "it's nothing to write home about"
+  },
+  {
+    "source_idiom": "中道而廢",
+    "target_idiom": "changer de cheval au milieu du guÃ©",
+    "source_meaning": "to give up halfway through a task; to not finish what one has started; to change horses in midstream",
+    "target_meaning": "to change horses in midstream"
+  },
+  {
+    "source_idiom": "中飽私囊",
+    "target_idiom": "mettre du beurre dans les Ã©pinards",
+    "source_meaning": "to line one's pockets",
+    "target_meaning": "to make a little extra money, to top up one's income in order to live a bit more comfortably"
+  },
+  {
+    "source_idiom": "久負盛名",
+    "target_idiom": "Ãªtre en bonne odeur",
+    "source_meaning": "to have a good reputation for a long time",
+    "target_meaning": "to have a good name"
+  },
+  {
+    "source_idiom": "乳臭未乾",
+    "target_idiom": "au berceau",
+    "source_meaning": "still very young; wet behind the ears; callow",
+    "target_meaning": "in (its) infancy, at an early stage"
+  },
+  {
+    "source_idiom": "事與願違",
+    "target_idiom": "se prendre",
+    "source_meaning": "to get the opposite of what one intended",
+    "target_meaning": "to get, to receive (something negative)"
+  },
+  {
+    "source_idiom": "交白卷",
+    "target_idiom": "faire chou blanc",
+    "source_meaning": "to fail to accomplish a task; to not produce any results",
+    "target_meaning": "to fail, to miss the mark; to draw a blank, to come back empty-handed"
+  },
+  {
+    "source_idiom": "人仰馬翻",
+    "target_idiom": "battre Ã  plate couture",
+    "source_meaning": "to be utterly routed; to suffer a crushing defeat",
+    "target_meaning": "to wipe the floor with, to beat hollow, to beat to a pulp, to shellac, to drub (to defeat severely, to inflict a heavy defeat upon)"
+  },
+  {
+    "source_idiom": "人有三急",
+    "target_idiom": "couler un bronze",
+    "source_meaning": "to need to use the toilet; to need to urinate or defecate",
+    "target_meaning": "to defecate"
+  },
+  {
+    "source_idiom": "人贓俱獲",
+    "target_idiom": "prendre la main dans le sac",
+    "source_meaning": "to be caught with stolen items; to be caught red-handed",
+    "target_meaning": "to bust, to catch red-handed, to catch with one's hand in the cookie jar"
+  },
+  {
+    "source_idiom": "人頭豬腦",
+    "target_idiom": "pauvre con",
+    "source_meaning": "idiot, imbecile, numbskull",
+    "target_meaning": "jerk; loser"
+  },
+  {
+    "source_idiom": "仗義疏財",
+    "target_idiom": "avoir le cÅur sur la main",
+    "source_meaning": "to be generous in aiding the needy; to give money for a righteous cause",
+    "target_meaning": "to be open-handed, to be generous"
+  },
+  {
+    "source_idiom": "以正視聽",
+    "target_idiom": "remettre les pendules Ã  l'heure",
+    "source_meaning": "(in order) to ensure a correct understanding of the facts",
+    "target_meaning": "to put the record straight"
+  },
+  {
+    "source_idiom": "以毒攻毒",
+    "target_idiom": "combattre le feu par le feu",
+    "source_meaning": "to fight fire with fire",
+    "target_meaning": "to fight fire with fire"
+  },
+  {
+    "source_idiom": "以身殉職",
+    "target_idiom": "mourir en odeur de saintetÃ©",
+    "source_meaning": "to die a martyr at one's post",
+    "target_meaning": "to die with a reputation of holiness"
+  },
+  {
+    "source_idiom": "佔為己有",
+    "target_idiom": "faire main basse",
+    "source_meaning": "to appropriate to oneself; to take something which is not yours",
+    "target_meaning": "to help oneself to, to get hold of, to walk off with  "
+  },
+  {
+    "source_idiom": "俯仰之間",
+    "target_idiom": "haut comme trois pommes",
+    "source_meaning": "a very short time; human's lifetime",
+    "target_meaning": "very short; knee-high to a grasshopper"
+  },
+  {
+    "source_idiom": "倒持干戈",
+    "target_idiom": "dÃ©poser les armes",
+    "source_meaning": "to give up one's advantage or power to someone else",
+    "target_meaning": "to give up, to surrender"
+  },
+  {
+    "source_idiom": "值得一提",
+    "target_idiom": "valoir le dÃ©tour",
+    "source_meaning": "to be worth noting",
+    "target_meaning": "to be worth seeing, to be worth the trip, to be worth the journey, to be worth a visit"
+  },
+  {
+    "source_idiom": "偷目竊望",
+    "target_idiom": "jeter un Åil",
+    "source_meaning": "to steal a glance",
+    "target_meaning": "to have a look  "
+  },
+  {
+    "source_idiom": "入土為安",
+    "target_idiom": "manger les pissenlits par la racine",
+    "source_meaning": "to be buried so that they can rest in peace",
+    "target_meaning": "to push up daisies"
+  },
+  {
+    "source_idiom": "兩全其美",
+    "target_idiom": "couper la poire en deux",
+    "source_meaning": "to reach a resolution that satisfies both sides by taking both sides into consideration; to have it both ways; to have the best of both worlds",
+    "target_meaning": "to split the difference, to meet halfway"
+  },
+  {
+    "source_idiom": "兩頭唔到岸",
+    "target_idiom": "avoir le cul entre deux chaises",
+    "source_meaning": "to fall between two stools",
+    "target_meaning": "to fall between two stools, to have a foot in both camps, to be piggy in the middle, to be caught in the middle, to be sitting on the fence"
+  },
+  {
+    "source_idiom": "公婆拜蟹——腳手㩼",
+    "target_idiom": "avoir le diable au corps",
+    "source_meaning": "to be hyperactive; to have itchy fingers",
+    "target_meaning": "to have the devil in one, to be a real handful, to be very energetic, to be restless, to be running around frantically"
+  },
+  {
+    "source_idiom": "冒名頂替",
+    "target_idiom": "faire mine",
+    "source_meaning": "to impersonate; pretend to be someone",
+    "target_meaning": "to pretend"
+  },
+  {
+    "source_idiom": "冤崩爛臭",
+    "target_idiom": "ne pas sentir la rose",
+    "source_meaning": "stinky and smelly",
+    "target_meaning": "to smell bad, to stink"
+  },
+  {
+    "source_idiom": "初具規模",
+    "target_idiom": "donner corps",
+    "source_meaning": "to have a basic framework and content; to begin to take shape",
+    "target_meaning": "to give shape  "
+  },
+  {
+    "source_idiom": "別有用心",
+    "target_idiom": "avoir une idÃ©e derriÃ¨re la tÃªte",
+    "source_meaning": "to have an ulterior motive",
+    "target_meaning": "to have something in mind, to have an ulterior motive, to be up to something"
+  },
+  {
+    "source_idiom": "加官進爵",
+    "target_idiom": "prendre du galon",
+    "source_meaning": "to be promoted to a higher office or rank",
+    "target_meaning": "to get a promotion, to get promoted"
+  },
+  {
+    "source_idiom": "勒緊褲頭",
+    "target_idiom": "se serrer la ceinture",
+    "source_meaning": "to tighten one's belt; to tighten the purse strings; to be more frugal",
+    "target_meaning": "to tighten one's belt, to stay frugal, to scrimp"
+  },
+  {
+    "source_idiom": "十年唔逢一閏",
+    "target_idiom": "tous les 36 du mois",
+    "source_meaning": "once in a blue moon",
+    "target_meaning": "very rarely or never; once in a blue moon"
+  },
+  {
+    "source_idiom": "半斤八兩",
+    "target_idiom": "bonnet blanc, blanc bonnet",
+    "source_meaning": "six of one, half a dozen of the other; not much to choose between the two",
+    "target_meaning": "tomayto, tomahto; same difference; six of one, half a dozen of the other"
+  },
+  {
+    "source_idiom": "卑躬屈膝",
+    "target_idiom": "faire des salamalecs",
+    "source_meaning": "to bow and scrape; to cringe; to act servilely or obsequiously",
+    "target_meaning": "to grovel, kowtow; to drown (someone) in courtesies"
+  },
+  {
+    "source_idiom": "危言聳聽",
+    "target_idiom": "noircir le tableau",
+    "source_meaning": "to make exaggerated and frightening statements to scare people",
+    "target_meaning": "to paint a bleak picture of a situation, to make something seem worse than it really is"
+  },
+  {
+    "source_idiom": "去蕪存菁",
+    "target_idiom": "sÃ©parer le bon grain de l'ivraie",
+    "source_meaning": "to separate the wheat from the chaff",
+    "target_meaning": "to separate the wheat from the chaff"
+  },
+  {
+    "source_idiom": "口齒不清",
+    "target_idiom": "avoir un cheveu sur la langue",
+    "source_meaning": "to have slurred speech; to be unable to speak clearly",
+    "target_meaning": "to lisp, to have a lisp"
+  },
+  {
+    "source_idiom": "叫天天不應，叫地地不靈",
+    "target_idiom": "Ãªtre dans la merde jusqu'au cou",
+    "source_meaning": "to be up the creek without a paddle; to be without any aid",
+    "target_meaning": "to be up to your neck in trouble, to be up shit creek"
+  },
+  {
+    "source_idiom": "吃喝嫖賭抽",
+    "target_idiom": "mener une vie de bÃ¢ton de chaise",
+    "source_meaning": "to go dining, wining, whoring, gambling and smoking; to lead a dissipated life",
+    "target_meaning": "to lead a wild life, to live a fast life, to live life in the fast lane"
+  },
+  {
+    "source_idiom": "吃回頭草",
+    "target_idiom": "faire marche arriÃ¨re",
+    "source_meaning": "to dwell on past actions; to backtrack",
+    "target_meaning": "to turn back, go backwards"
+  },
+  {
+    "source_idiom": "吃熊心豹子膽",
+    "target_idiom": "prendre son courage Ã  deux mains",
+    "source_meaning": "to brace up; summon up one's courage",
+    "target_meaning": "to pluck up one's courage, to gather up one's courage, to man up"
+  },
+  {
+    "source_idiom": "名譽掃地",
+    "target_idiom": "Ãªtre en mauvaise odeur",
+    "source_meaning": "to fall into disrepute; to have one's reputation completely ruined",
+    "target_meaning": "to have an ill name"
+  },
+  {
+    "source_idiom": "吹皺一池春水",
+    "target_idiom": "frapper les grands coups",
+    "source_meaning": "to make waves; to cause ripples; to have an impact; cause a stir",
+    "target_meaning": "make waves"
+  },
+  {
+    "source_idiom": "告老還鄉",
+    "target_idiom": "prendre sa retraite",
+    "source_meaning": "to retire and return to one's native place",
+    "target_meaning": "to retire (stop working)"
+  },
+  {
+    "source_idiom": "呱呱墮地",
+    "target_idiom": "venir au monde",
+    "source_meaning": "to be born",
+    "target_meaning": "to be born"
+  },
+  {
+    "source_idiom": "和風細雨",
+    "target_idiom": "Ã  la bonne franquette",
+    "source_meaning": "in a gentle and mild way",
+    "target_meaning": "in a homely manner, without ceremony, informally"
+  },
+  {
+    "source_idiom": "唱反調",
+    "target_idiom": "changer son fusil d'Ã©paule",
+    "source_meaning": "to sing a different tune; to raise an opposing opinion or take an opposing action",
+    "target_meaning": "to change tack, change one's tune (change ideas)"
+  },
+  {
+    "source_idiom": "喬遷之喜",
+    "target_idiom": "pendre la crÃ©maillÃ¨re",
+    "source_meaning": "happy occasion of moving into a new house; house warming (celebration)",
+    "target_meaning": "to have a housewarming party"
+  },
+  {
+    "source_idiom": "單刀直入",
+    "target_idiom": "ne pas y aller par quatre chemins",
+    "source_meaning": "to get straight to the point; to be straightforward",
+    "target_meaning": "not to beat around the bush, to go straight to the point"
+  },
+  {
+    "source_idiom": "嘔心瀝血",
+    "target_idiom": "huile de coude",
+    "source_meaning": "determination and hard work; put your blood, sweat and tears into it",
+    "target_meaning": "elbow grease (effort or hard work)"
+  },
+  {
+    "source_idiom": "嚴陣以待",
+    "target_idiom": "savoir Ã  quoi s'en tenir",
+    "source_meaning": "to be ready in full battle array; to stand in combat readiness",
+    "target_meaning": "To be ready and waiting"
+  },
+  {
+    "source_idiom": "圪晾半死",
+    "target_idiom": "avoir la pelote Ã  terre",
+    "source_meaning": "very tired",
+    "target_meaning": "to be very tired"
+  },
+  {
+    "source_idiom": "坐不改姓，行不改名",
+    "target_idiom": "jouer cartes sur table",
+    "source_meaning": "to do things in an aboveboard and straightforward manner",
+    "target_meaning": "to play it straight, to play fair (to be upfront, honest; to act in a straightforward, candid manner, without concealing anything)"
+  },
+  {
+    "source_idiom": "堅持不懈",
+    "target_idiom": "poursuivre sur une lancÃ©e",
+    "source_meaning": "to persevere; to keep going until the end",
+    "target_meaning": "to keep going on a specific path or course"
+  },
+  {
+    "source_idiom": "壓倒駱駝的最後一根草",
+    "target_idiom": "la goutte d'eau qui fait dÃ©border le vase",
+    "source_meaning": "the straw that broke the camel's back",
+    "target_meaning": "the straw that broke the camel's back"
+  },
+  {
+    "source_idiom": "壽頭壽腦",
+    "target_idiom": "long Ã  la dÃ©tente",
+    "source_meaning": "slow and stupid",
+    "target_meaning": "slow on the uptake"
+  },
+  {
+    "source_idiom": "夕陽西下",
+    "target_idiom": "heure du mystÃ¨re",
+    "source_meaning": "when the sun sets in the west; at dusk",
+    "target_meaning": "dusk, twilight"
+  },
+  {
+    "source_idiom": "夙興夜寐",
+    "target_idiom": "brÃ»ler la chandelle par les deux bouts",
+    "source_meaning": "to work hard night and day; to burn the candle at both ends",
+    "target_meaning": "to burn the candle at both ends (to do things in excess, to engage in too much work or too much pleasure (including spending money), or both)"
+  },
+  {
+    "source_idiom": "多一事不如少一事",
+    "target_idiom": "laisser pisser",
+    "source_meaning": "\"the less trouble the better\"; to let something slide and avoid trouble",
+    "target_meaning": "To let it go; let something slide."
+  },
+  {
+    "source_idiom": "多才多藝",
+    "target_idiom": "avoir une tÃªte et des jambes",
+    "source_meaning": "to possess a great deal of different skills and talents",
+    "target_meaning": "to have a combination of intelligence and athleticism"
+  },
+  {
+    "source_idiom": "大刀闊斧",
+    "target_idiom": "prendre le taureau par les cornes",
+    "source_meaning": "to handle something with daring and resolve; to be bold and decisive when handling an issue; drastic",
+    "target_meaning": "to take the bull by the horns, to grasp the nettle"
+  },
+  {
+    "source_idiom": "大包小包",
+    "target_idiom": "avec armes et bagages",
+    "source_meaning": "with bags, packages or suitcases of all sizes",
+    "target_meaning": "bag and baggage"
+  },
+  {
+    "source_idiom": "大吉大利",
+    "target_idiom": "je te dis merde",
+    "source_meaning": "good luck and great prosperity",
+    "target_meaning": "break a leg! good luck!"
+  },
+  {
+    "source_idiom": "大失所望",
+    "target_idiom": "tomber de haut",
+    "source_meaning": "to be greatly disappointed",
+    "target_meaning": "to come down to earth with a bump, to go back to earth with a bump, to have one's hopes dashed, to be very disappointed"
+  },
+  {
+    "source_idiom": "大快朵頤",
+    "target_idiom": "se taper la cloche",
+    "source_meaning": "to gorge oneself, to eat heartily with great relish",
+    "target_meaning": "to eat very well; to fill one's face"
+  },
+  {
+    "source_idiom": "大惑不解",
+    "target_idiom": "ne pas savoir sur quel pied danser",
+    "source_meaning": "to be at a loss, confused",
+    "target_meaning": "to be in a quandary, to be unsure of what to do, not to know where you stand"
+  },
+  {
+    "source_idiom": "大聲疾呼",
+    "target_idiom": "crier au loup",
+    "source_meaning": "to raise a cry of warning; to loudly appeal to the public",
+    "target_meaning": "to cry wolf (to raise a false alarm; to constantly warn others about an imagined threat, thereby failing to get assistance when a real threat appears)"
+  },
+  {
+    "source_idiom": "大謬不然",
+    "target_idiom": "se fourrer le doigt dans l'Åil",
+    "source_meaning": "to be utterly wrong; to be grossly mistaken",
+    "target_meaning": "to be much mistaken, to bark up the wrong tree, to delude oneself, to need one's head examined, to have another think coming "
+  },
+  {
+    "source_idiom": "天昏地暗",
+    "target_idiom": "faire noir",
+    "source_meaning": "dark all round; gloom",
+    "target_meaning": "to be dark, especially when it's night"
+  },
+  {
+    "source_idiom": "天淵之別",
+    "target_idiom": "diable vauvert",
+    "source_meaning": "as far apart as heaven from earth; poles apart; worlds apart",
+    "target_meaning": "a million miles away, to the ends of the earth"
+  },
+  {
+    "source_idiom": "失驚無神",
+    "target_idiom": "comme un cheveu sur la soupe",
+    "source_meaning": "suddenly; unexpectedly; out of the blue",
+    "target_meaning": "out of the blue (unexpectedly)"
+  },
+  {
+    "source_idiom": "好狗唔攔路",
+    "target_idiom": "se pousser",
+    "source_meaning": "out of someone's way",
+    "target_meaning": "to move aside"
+  },
+  {
+    "source_idiom": "如坐針氈",
+    "target_idiom": "avoir l'estomac nouÃ©",
+    "source_meaning": "to feel very anxious and uneasy",
+    "target_meaning": "to have a knot in one's stomach"
+  },
+  {
+    "source_idiom": "委曲求全",
+    "target_idiom": "mettre de l'eau dans son vin",
+    "source_meaning": "stoop to compromise; accept a compromise; compromise out of consideration for the general interest",
+    "target_meaning": "to moderate one's impetuosity; to compromise"
+  },
+  {
+    "source_idiom": "姜太公封神——漏了自己",
+    "target_idiom": "briller par son absence",
+    "source_meaning": "to omit oneself",
+    "target_meaning": "to be conspicuous by one's absence"
+  },
+  {
+    "source_idiom": "孔武有力",
+    "target_idiom": "avoir du biceps",
+    "source_meaning": "to have great physical strength and courage",
+    "target_meaning": "to have well-developed muscles"
+  },
+  {
+    "source_idiom": "字裡行間",
+    "target_idiom": "lire entre les lignes",
+    "source_meaning": "between the lines",
+    "target_meaning": "to read between the lines"
+  },
+  {
+    "source_idiom": "孤注一擲",
+    "target_idiom": "mettre tous ses Åufs dans le mÃªme panier",
+    "source_meaning": "to go all out; to bet the farm on one thing in order to succeed; to put all one's eggs in one basket",
+    "target_meaning": "to put all one's eggs in one basket"
+  },
+  {
+    "source_idiom": "學富五車",
+    "target_idiom": "avoir la science infuse",
+    "source_meaning": "to be learned; to be extremely knowledgeable",
+    "target_meaning": "to have innate knowledge, to know everything without having learnt it first, to be all-knowing, to be omniscient"
+  },
+  {
+    "source_idiom": "守口如瓶",
+    "target_idiom": "tenir sa langue",
+    "source_meaning": "to keep one's mouth shut; to remain tight-lipped",
+    "target_meaning": "to hold one's tongue, to keep quiet"
+  },
+  {
+    "source_idiom": "安之若素",
+    "target_idiom": "faire contre mauvaise fortune bon cÅur",
+    "source_meaning": "to bear hardship with equanimity; to regard wrongdoing with equanimity",
+    "target_meaning": "to grin and bear it, to make the best of a bad job, to put a brave face on it, to take the rough with the smooth"
+  },
+  {
+    "source_idiom": "完完全全",
+    "target_idiom": "sur l'ongle",
+    "source_meaning": "completely; absolutely; entirely",
+    "target_meaning": "completely or perfectly"
+  },
+  {
+    "source_idiom": "害群之馬",
+    "target_idiom": "mouton noir",
+    "source_meaning": "bad apple, black sheep",
+    "target_meaning": "a black sheep"
+  },
+  {
+    "source_idiom": "實事求是",
+    "target_idiom": "se rendre Ã  l'Ã©vidence",
+    "source_meaning": "to seek truth from facts; to be practical and pragmatic",
+    "target_meaning": "to face the facts, to face reality, to be realistic, to bow to the evidence"
+  },
+  {
+    "source_idiom": "尋事生非",
+    "target_idiom": "chercher des poux",
+    "source_meaning": "to seek a quarrel; to make trouble",
+    "target_meaning": "to try and pick a fight, to try to pick a quarrel  "
+  },
+  {
+    "source_idiom": "小題大做",
+    "target_idiom": "faire tout un plat de",
+    "source_meaning": "to make a fuss over a trifling matter; to make a mountain out of a molehill; to blow out of proportion",
+    "target_meaning": "to make a meal of, make a big thing out of"
+  },
+  {
+    "source_idiom": "屈打成招",
+    "target_idiom": "se mettre Ã  table",
+    "source_meaning": "to confess to false charges under torture",
+    "target_meaning": "to sing, to confess under interrogation"
+  },
+  {
+    "source_idiom": "屎淋尿瀨",
+    "target_idiom": "foutre la trouille",
+    "source_meaning": "being scared the shit out of someone",
+    "target_meaning": "to scare shitless"
+  },
+  {
+    "source_idiom": "平易近人",
+    "target_idiom": "purement et simplement",
+    "source_meaning": "​ plain and simple; easy to understand",
+    "target_meaning": "purely and simply"
+  },
+  {
+    "source_idiom": "幾生修到",
+    "target_idiom": "avoir le cul bordÃ© de nouilles",
+    "source_meaning": "to be very fortunate",
+    "target_meaning": "to be extremely lucky"
+  },
+  {
+    "source_idiom": "廟細燈籠大",
+    "target_idiom": "avoir du monde au balcon",
+    "source_meaning": "to be petite but with large breasts",
+    "target_meaning": "to be stacked, to have big breasts"
+  },
+  {
+    "source_idiom": "引以為戒",
+    "target_idiom": "en prendre de la graine",
+    "source_meaning": "to take as a warning; to draw lessons from",
+    "target_meaning": "to learn, to take a lesson"
+  },
+  {
+    "source_idiom": "張王李趙",
+    "target_idiom": "vulgum pecus",
+    "source_meaning": "common people; people in general",
+    "target_meaning": "the populace, laymen, or the ignorant"
+  },
+  {
+    "source_idiom": "彌天亙地",
+    "target_idiom": "Ãªtre au four et au moulin",
+    "source_meaning": "to be everywhere; to be pervasive",
+    "target_meaning": "to be all over the place; be in two places at once"
+  },
+  {
+    "source_idiom": "徇私舞弊",
+    "target_idiom": "avoir des casseroles au cul",
+    "source_meaning": "to engage in malpractices for selfish ends; to be involved in corruption",
+    "target_meaning": "to be compromised by involvement in dubious matters"
+  },
+  {
+    "source_idiom": "從何而來",
+    "target_idiom": "venir de",
+    "source_meaning": "where is ... from; where does ... come from",
+    "target_meaning": "to come from, to be from, to originate from"
+  },
+  {
+    "source_idiom": "從容不迫",
+    "target_idiom": "prendre son temps",
+    "source_meaning": "to take it leisurely; composed and steady; calm and unhurried",
+    "target_meaning": "to take one's time"
+  },
+  {
+    "source_idiom": "循序漸進",
+    "target_idiom": "au fur et Ã  mesure",
+    "source_meaning": "to proceed in an orderly way, step by step; to follow the established order; to make steady progress incrementally",
+    "target_meaning": "in keeping with (progressively, in sequence)"
+  },
+  {
+    "source_idiom": "循環往復",
+    "target_idiom": "boucler la boucle",
+    "source_meaning": "to move in circles; to repeat in cycles",
+    "target_meaning": "to come full circle"
+  },
+  {
+    "source_idiom": "心心相印",
+    "target_idiom": "atomes crochus",
+    "source_meaning": "have mutual affinity; be kindred spirit",
+    "target_meaning": "affinity, sympathy, chemistry"
+  },
+  {
+    "source_idiom": "心神毋定",
+    "target_idiom": "ne pas Ãªtre dans son assiette",
+    "source_meaning": "to feel unsettled",
+    "target_meaning": "to feel under the weather, to feel fragile"
+  },
+  {
+    "source_idiom": "忍無可忍",
+    "target_idiom": "en avoir jusque-lÃ ",
+    "source_meaning": "to reach the limit of one's patience; to be unable to bear any more",
+    "target_meaning": "to have had it up to here (with); to have had enough (of), to be fed up (with)  "
+  },
+  {
+    "source_idiom": "怏怏不樂",
+    "target_idiom": "faire grise mine",
+    "source_meaning": "to look sullen and unhappy; to seem as though one is unhappy",
+    "target_meaning": "to look glum, to have a long face"
+  },
+  {
+    "source_idiom": "恰如其分",
+    "target_idiom": "mot juste",
+    "source_meaning": "apt; appropriate (of a comment, action, etc.)",
+    "target_meaning": "The perfectly appropriate word or phrase for the situation."
+  },
+  {
+    "source_idiom": "悵然若失",
+    "target_idiom": "avoir le bourdon",
+    "source_meaning": "to feel despondent; to be downhearted",
+    "target_meaning": "to be down in the dumps"
+  },
+  {
+    "source_idiom": "悻悻而去",
+    "target_idiom": "faire la tÃªte",
+    "source_meaning": "to go away angry; to leave in a huff",
+    "target_meaning": "to sulk, to pout, to be in a huff"
+  },
+  {
+    "source_idiom": "惡向膽邊生",
+    "target_idiom": "avoir la moutarde qui monte au nez",
+    "source_meaning": "to be so angry, that one reacts badly without even thinking; to lose it; to lose one's temper",
+    "target_meaning": "to lose one's temper"
+  },
+  {
+    "source_idiom": "惶惶不安",
+    "target_idiom": "se faire un sang d'encre",
+    "source_meaning": "to be very anxious; to be very uneasy; to be terrified",
+    "target_meaning": "to be worried sick, to be worried to death"
+  },
+  {
+    "source_idiom": "惺惺惜惺惺",
+    "target_idiom": "les grands esprits se rencontrent",
+    "source_meaning": "people of intelligence and talent appreciate one another; like-minded people relate well to each other",
+    "target_meaning": "great minds think alike"
+  },
+  {
+    "source_idiom": "愁眉鎖眼",
+    "target_idiom": "froncer les sourcils",
+    "source_meaning": "to knit one's brows in despair; to look worried",
+    "target_meaning": "knit one's brows"
+  },
+  {
+    "source_idiom": "慾火焚身",
+    "target_idiom": "avoir le feu aux fesses",
+    "source_meaning": "burning with desire; sexually excited",
+    "target_meaning": "to be horny, to be hot to trot, to be gagging for it, to have ants in one's pants"
+  },
+  {
+    "source_idiom": "懷恨在心",
+    "target_idiom": "avoir une dent contre",
+    "source_meaning": "to hold a grudge against; to harbor resentment towards",
+    "target_meaning": "to have it in for, have a bone to pick with"
+  },
+  {
+    "source_idiom": "手起刀落",
+    "target_idiom": "passer au fil de l'Ã©pÃ©e",
+    "source_meaning": "to cut down with one swift stroke of one's sword",
+    "target_meaning": "to put to the sword"
+  },
+  {
+    "source_idiom": "找樂子",
+    "target_idiom": "prendre du bon temps",
+    "source_meaning": "to have some fun",
+    "target_meaning": "to relax, to have some fun, to enjoy oneself, to have a good time"
+  },
+  {
+    "source_idiom": "投懷送抱",
+    "target_idiom": "se jeter au cou",
+    "source_meaning": "to throw oneself into someone's else's arms; (of a girl) to unreservedly express one's fondness (of a man); to throw oneself on",
+    "target_meaning": "to embrace with affection, to shower with affection"
+  },
+  {
+    "source_idiom": "投石問路",
+    "target_idiom": "tÃ¢ter le terrain",
+    "source_meaning": "to test the waters",
+    "target_meaning": "to test the waters, to put out feelers, to find out the lay of the land, to see how the land lies"
+  },
+  {
+    "source_idiom": "抱得美人歸",
+    "target_idiom": "conter fleurette",
+    "source_meaning": "to win the heart of a beauty",
+    "target_meaning": "to woo  "
+  },
+  {
+    "source_idiom": "抱憾終生",
+    "target_idiom": "ne pas l'emporter au paradis",
+    "source_meaning": "to feel regret for the rest of one's life",
+    "target_meaning": "to live to regret it"
+  },
+  {
+    "source_idiom": "拳打腳踢",
+    "target_idiom": "battre la chamade",
+    "source_meaning": "to punch and kick; to brutally assault",
+    "target_meaning": "to beat wildly, to pound furiously"
+  },
+  {
+    "source_idiom": "指日可待",
+    "target_idiom": "le chercher",
+    "source_meaning": "to be expected soon; to be not a long way off",
+    "target_meaning": "to have it coming"
+  },
+  {
+    "source_idiom": "捨我其誰",
+    "target_idiom": "ramasser le gantelet",
+    "source_meaning": "to dare to undertake a responsibility",
+    "target_meaning": "take up the gauntlet"
+  },
+  {
+    "source_idiom": "捷足先登",
+    "target_idiom": "couper l'herbe sous le pied",
+    "source_meaning": "to take the first step; to act early on; to beat to the punch; the early bird gets the worm",
+    "target_meaning": "to beat to the punch, cut the ground from under someone's feet  "
+  },
+  {
+    "source_idiom": "掌上明珠",
+    "target_idiom": "prunelle de ses yeux",
+    "source_meaning": "apple of someone's eye; (especially) beloved daughter",
+    "target_meaning": "apple of someone's eye (a favourite, a particular preference, or a loved one)"
+  },
+  {
+    "source_idiom": "提鞋都不配",
+    "target_idiom": "faire pÃ¢le figure",
+    "source_meaning": "cannot hold a candle to someone; to not compare to someone",
+    "target_meaning": "to pale in comparison (with), not to hold a candle (to)  "
+  },
+  {
+    "source_idiom": "揚名立萬",
+    "target_idiom": "se mettre en bonne odeur",
+    "source_meaning": "to make a name for oneself",
+    "target_meaning": "to get a good name"
+  },
+  {
+    "source_idiom": "揮汗如雨",
+    "target_idiom": "suer sang et eau",
+    "source_meaning": "to sweat buckets; to sweat profusely",
+    "target_meaning": "to sweat blood (to work extremely hard)"
+  },
+  {
+    "source_idiom": "搦屎搦尿",
+    "target_idiom": "prendre sous son aile",
+    "source_meaning": "to painstakingly nurture and take care of (a child)",
+    "target_meaning": "to take under one's wing"
+  },
+  {
+    "source_idiom": "搬起石頭打自己的腳",
+    "target_idiom": "se tirer une balle dans le pied",
+    "source_meaning": "to shoot oneself in the foot",
+    "target_meaning": "to shoot oneself in the foot"
+  },
+  {
+    "source_idiom": "摩拳擦掌",
+    "target_idiom": "se retrousser les manches",
+    "source_meaning": "to rub one's fists and wipe one's palms; to roll up one's sleeves for a battle",
+    "target_meaning": "to roll up one's sleeves, to pull one's socks up"
+  },
+  {
+    "source_idiom": "撒手塵寰",
+    "target_idiom": "passer de vie Ã  trÃ©pas",
+    "source_meaning": "to pass away (to die)",
+    "target_meaning": "to pass away, to die"
+  },
+  {
+    "source_idiom": "擊中要害",
+    "target_idiom": "faire mouche",
+    "source_meaning": "to hit the nail on the head; to nail it; to hit home; to hit someone's vital point",
+    "target_meaning": "to come off; to hit home, to hit the nail on the head"
+  },
+  {
+    "source_idiom": "攑香綴拜",
+    "target_idiom": "mouton de Panurge",
+    "source_meaning": "to follow others blindly (of an opinionless person)",
+    "target_meaning": "lemming, sheep (one who follows a group without thinking for himself)"
+  },
+  {
+    "source_idiom": "放下屠刀",
+    "target_idiom": "faire amende honorable",
+    "source_meaning": "to repent and mend one's ways; to turn over a new leaf",
+    "target_meaning": "to make amends, to mend one's ways, to eat crow"
+  },
+  {
+    "source_idiom": "放諸四海而皆準",
+    "target_idiom": "le cas Ã©chÃ©ant",
+    "source_meaning": "applicable everywhere",
+    "target_meaning": "if applicable"
+  },
+  {
+    "source_idiom": "斬腳趾避沙蟲",
+    "target_idiom": "jeter le bÃ©bÃ© avec l'eau du bain",
+    "source_meaning": "to inappropriately solve a problem by eliminating something essential",
+    "target_meaning": "throw the baby out with the bathwater"
+  },
+  {
+    "source_idiom": "斷袖分桃",
+    "target_idiom": "entre couilles",
+    "source_meaning": "a close male homosexual relationship",
+    "target_meaning": "between men"
+  },
+  {
+    "source_idiom": "斷鶴續鳧",
+    "target_idiom": "Ã  contre-courant",
+    "source_meaning": "to go against nature",
+    "target_meaning": "against the grain (contrary to what is expected.)"
+  },
+  {
+    "source_idiom": "昭然若揭",
+    "target_idiom": "crever les yeux",
+    "source_meaning": "to be extremely obvious",
+    "target_meaning": "to be plain as the nose on one's face, to stick out a mile, to be obvious, conspicuous, visible, plain for all to see; to jump out"
+  },
+  {
+    "source_idiom": "時勢所迫",
+    "target_idiom": "avoir le couteau sous la gorge",
+    "source_meaning": "to be forced by circumstances to do something one is unwilling to do",
+    "target_meaning": "to be pressured, to be compelled to do something (to be in a situation in which one has no alternative course of action)"
+  },
+  {
+    "source_idiom": "暢行無阻",
+    "target_idiom": "passer son chemin",
+    "source_meaning": "to meet no obstacle wherever one goes; to proceed without hindrance",
+    "target_meaning": "to go on one's way, to walk by without stopping, to keep going without stopping, to move on without a halt"
+  },
+  {
+    "source_idiom": "有名有姓",
+    "target_idiom": "poser un lapin",
+    "source_meaning": "of standing",
+    "target_meaning": "to stand (someone) up"
+  },
+  {
+    "source_idiom": "有嗰句講嗰句",
+    "target_idiom": "appeler un chat un chat",
+    "source_meaning": "to call a spade a spade; to speak plainly",
+    "target_meaning": "to call a spade a spade (to call something what it is)"
+  },
+  {
+    "source_idiom": "朝氣勃勃",
+    "target_idiom": "avoir mangÃ© du lion",
+    "source_meaning": "full of vitality; vigorous; energetic",
+    "target_meaning": "to be full of energy"
+  },
+  {
+    "source_idiom": "未見官先打三十大板",
+    "target_idiom": "coÃ»ter la peau du cul",
+    "source_meaning": "to need to pay a high price before one can get what one wants",
+    "target_meaning": "to be expensive, cost an arm and a leg"
+  },
+  {
+    "source_idiom": "本末倒置",
+    "target_idiom": "mettre la charrue avant les bÅufs",
+    "source_meaning": "putting the cart before the horse",
+    "target_meaning": "to put the cart before the horse (to put things in the wrong order or with the wrong priorities; to put something inconsequential as more important than something more essential)"
+  },
+  {
+    "source_idiom": "柔腸寸斷",
+    "target_idiom": "avoir le cÅur gros",
+    "source_meaning": "to be heartbroken; to be grief-stricken",
+    "target_meaning": "to have a heavy heart, to be sad at heart"
+  },
+  {
+    "source_idiom": "柳暗花明又一村",
+    "target_idiom": "voir le bout du tunnel",
+    "source_meaning": "at one's darkest hour, a glimmer of hope; to have a way out; to find a silver lining",
+    "target_meaning": "to see the light at the end of the tunnel"
+  },
+  {
+    "source_idiom": "桑間濮上",
+    "target_idiom": "nid d'amour",
+    "source_meaning": "lovers' rendezvous",
+    "target_meaning": "love nest"
+  },
+  {
+    "source_idiom": "棄若敝屣",
+    "target_idiom": "jeter aux oubliettes",
+    "source_meaning": "to throw away something as if it were worthless",
+    "target_meaning": "to toss on the ash heap of history, to forget about, to put out of one's mind; to throw away, to discard"
+  },
+  {
+    "source_idiom": "樂觀進取",
+    "target_idiom": "voir la vie en rose",
+    "source_meaning": "to maintain a positive outlook on life; to be optimistic",
+    "target_meaning": "to wear rose-colored glasses"
+  },
+  {
+    "source_idiom": "標新立異",
+    "target_idiom": "se changer les idÃ©es",
+    "source_meaning": "to start something new just in order to be different; to be original",
+    "target_meaning": "to start a new activity in order to change one's state of mind, to take a break from doing something boring or to escape from a displeasing situation"
+  },
+  {
+    "source_idiom": "橫生枝節",
+    "target_idiom": "chercher midi Ã  quatorze heures",
+    "source_meaning": "to raise unexpected difficulties; to deliberately complicate an issue",
+    "target_meaning": "to complicate things needlessly; to seek a knot in a bulrush"
+  },
+  {
+    "source_idiom": "歡呼雀躍",
+    "target_idiom": "crier sur les toits",
+    "source_meaning": "to shout and jump for joy",
+    "target_meaning": "to shout from the rooftops"
+  },
+  {
+    "source_idiom": "武則天守寡——失去理智",
+    "target_idiom": "perdre la tÃªte",
+    "source_meaning": "to have lost one's mind",
+    "target_meaning": "to lose one's head, to take leave of one's senses, to lose one's mind"
+  },
+  {
+    "source_idiom": "死人冧樓",
+    "target_idiom": "partir en couille",
+    "source_meaning": "to have a disaster; to have a catastrophe",
+    "target_meaning": "to go awry, to hit the fan, to go to shit"
+  },
+  {
+    "source_idiom": "死無葬身之地",
+    "target_idiom": "trouver la mort",
+    "source_meaning": "to die a horrible or tragic death",
+    "target_meaning": "to lose one's life; to die, especially when violent or accidental"
+  },
+  {
+    "source_idiom": "死皮賴臉",
+    "target_idiom": "avoir le cuir solide",
+    "source_meaning": "brazen and unreasonable; thick-skinned and hard to shake off",
+    "target_meaning": "to be thick-skinned; to have a strong stomach (tough, impervious)"
+  },
+  {
+    "source_idiom": "殺人滅口",
+    "target_idiom": "clouer le bec",
+    "source_meaning": "to kill someone to silence them",
+    "target_meaning": "to shut (someone) up "
+  },
+  {
+    "source_idiom": "毅然決然",
+    "target_idiom": "bille en tÃªte",
+    "source_meaning": "without hesitation; resolutely and determinedly",
+    "target_meaning": "unhesitatingly, audaciously, boldly"
+  },
+  {
+    "source_idiom": "比翼雙飛",
+    "target_idiom": "se serrer les coudes",
+    "source_meaning": "to be together day and night; to help each other and move forward together",
+    "target_meaning": "to back one another up, to stick together, to help one another"
+  },
+  {
+    "source_idiom": "氣喘吁吁",
+    "target_idiom": "respirer Ã  pleins poumons",
+    "source_meaning": "to pant or gasp heavily; to be out of breath",
+    "target_meaning": "to breathe deeply"
+  },
+  {
+    "source_idiom": "氣數已盡",
+    "target_idiom": "aux portes de la mort",
+    "source_meaning": "to be close to death",
+    "target_meaning": "at death's door"
+  },
+  {
+    "source_idiom": "水內撈月",
+    "target_idiom": "promettre monts et merveilles",
+    "source_meaning": "to make a hopeless, futile or vain effort at doing something; to ask for the moon",
+    "target_meaning": "to promise the moon, to promise the earth, to promise the stars (to make promises that are impossible to uphold)"
+  },
+  {
+    "source_idiom": "水過鴨背",
+    "target_idiom": "cela m'en touche une sans faire bouger l'autre",
+    "source_meaning": "like water off a duck's back",
+    "target_meaning": "I don't give a fuck; it's like water off a duck's back to me"
+  },
+  {
+    "source_idiom": "汗流汁滴",
+    "target_idiom": "sueur froide",
+    "source_meaning": "with sweat trickling down; drenched in sweat",
+    "target_meaning": "cold sweat"
+  },
+  {
+    "source_idiom": "汲汲營營",
+    "target_idiom": "bander comme un Ã¢ne",
+    "source_meaning": "having a boner",
+    "target_meaning": "to have a strong boner, to have a raging boner (to be very aroused and have a strong erection)"
+  },
+  {
+    "source_idiom": "洗耳恭聽",
+    "target_idiom": "prÃªter l'oreille",
+    "source_meaning": "to listen with respectful attention; to be all ears",
+    "target_meaning": "To listen up; to listen in"
+  },
+  {
+    "source_idiom": "洞若觀火",
+    "target_idiom": "percer Ã  jour",
+    "source_meaning": "to observe things absolutely clearly",
+    "target_meaning": "to see right through (someone)"
+  },
+  {
+    "source_idiom": "活歹命",
+    "target_idiom": "en voir de toutes les couleurs",
+    "source_meaning": "to suffer a living hell; to go through sheer hell (usually in exaggerations to express reluctance or intolerability)",
+    "target_meaning": "to go through hell, to be put through the mill"
+  },
+  {
+    "source_idiom": "深孚眾望",
+    "target_idiom": "avoir le vent en poupe",
+    "source_meaning": "to enjoy great popularity; to enjoy high prestige",
+    "target_meaning": "to gather steam, to gain popularity, to enjoy increasing success"
+  },
+  {
+    "source_idiom": "深更半夜",
+    "target_idiom": "Ã  contre-jour",
+    "source_meaning": "in the dead of the night",
+    "target_meaning": "in darkness, in the dark"
+  },
+  {
+    "source_idiom": "深謀遠慮",
+    "target_idiom": "tourner sept fois sa langue dans sa bouche",
+    "source_meaning": "to think deeply and plan carefully; to be circumspect and farsighted",
+    "target_meaning": "to think carefully (before one speaks); to refrain from speaking the first thing that comes to mind, to carveevery word (before letting it fall)"
+  },
+  {
+    "source_idiom": "滂沱大雨",
+    "target_idiom": "pleuvoir des hallebardes",
+    "source_meaning": "to rain very heavily; to rain cats and dogs",
+    "target_meaning": "to rain heavily; to rain cats and dogs"
+  },
+  {
+    "source_idiom": "火屎箭天",
+    "target_idiom": "piquer une colÃ¨re",
+    "source_meaning": "to fly into a rage; to be furious",
+    "target_meaning": "to fly into a rage"
+  },
+  {
+    "source_idiom": "火龍火馬",
+    "target_idiom": "ronger son frein",
+    "source_meaning": "to burn with anxiety or impatience",
+    "target_meaning": "to champ at the bit, to smolder"
+  },
+  {
+    "source_idiom": "灶焰添柴",
+    "target_idiom": "mettre de l'huile sur le feu",
+    "source_meaning": "to add fuel to the fire (to worsen a conflict)",
+    "target_meaning": "to add fuel to the fire"
+  },
+  {
+    "source_idiom": "為虎作倀",
+    "target_idiom": "vendre son Ã¢me au diable",
+    "source_meaning": "to assist a devil; to help a villain do evil",
+    "target_meaning": "to sell one's soul to the devil"
+  },
+  {
+    "source_idiom": "烏頭白，馬生角",
+    "target_idiom": "Ã  la Saint-Glinglin",
+    "source_meaning": "when pigs fly",
+    "target_meaning": "when pigs fly"
+  },
+  {
+    "source_idiom": "烹龍煮鳳",
+    "target_idiom": "piÃ¨ce de rÃ©sistance",
+    "source_meaning": "luxurious delicacy (food)",
+    "target_meaning": "the finest part of something, especially a meal"
+  },
+  {
+    "source_idiom": "無事可做",
+    "target_idiom": "n'y Ãªtre pour rien",
+    "source_meaning": "to have nothing to do",
+    "target_meaning": "to have no responsibility (for it); to have no part (in it), to have nothing to do (with it)"
+  },
+  {
+    "source_idiom": "無妄之災",
+    "target_idiom": "passage Ã  vide",
+    "source_meaning": "unexpected calamity; undeserved ill turn",
+    "target_meaning": "funny turn, bad patch, slump, dry spell"
+  },
+  {
+    "source_idiom": "無心之過",
+    "target_idiom": "acte manquÃ©",
+    "source_meaning": "unintentional mistake; careless mistake",
+    "target_meaning": "a mistake which was unconsciously deliberate; accidentally on purpose; a Freudian slip"
+  },
+  {
+    "source_idiom": "無所不用其極",
+    "target_idiom": "faire feu de tout bois",
+    "source_meaning": "to resort to every conceivable means; to stop at nothing; to go to any length",
+    "target_meaning": "to use all available means, to use everything at one's disposal, to take advantage of every resource in one's environment, to put everything to good use, to be resourceful"
+  },
+  {
+    "source_idiom": "無言以對",
+    "target_idiom": "les bras m'en tombent",
+    "source_meaning": "to be left speechless; to be unable to respond",
+    "target_meaning": "I'm flabbergasted, I'm speechless"
+  },
+  {
+    "source_idiom": "煠吓煠吓",
+    "target_idiom": "bayer aux corneilles",
+    "source_meaning": "to look foolish, daft; to be thick-headed, to space out, to be inattentive to the situation",
+    "target_meaning": "to gawk, to stand gaping, to daydream, to have one's head in the clouds; to twiddle one's thumbs, to do nothing"
+  },
+  {
+    "source_idiom": "煢煢孑立",
+    "target_idiom": "voler de ses propres ailes",
+    "source_meaning": "to stand all alone",
+    "target_meaning": "to stand on one's own two feet"
+  },
+  {
+    "source_idiom": "熊熊烈火",
+    "target_idiom": "feu sacrÃ©",
+    "source_meaning": "raging fire",
+    "target_meaning": "fire in the belly"
+  },
+  {
+    "source_idiom": "熟門熟路",
+    "target_idiom": "manger dans la main",
+    "source_meaning": "to know something very well; to be very familiar with something",
+    "target_meaning": "to be familiar with (of animals)"
+  },
+  {
+    "source_idiom": "熱火朝天",
+    "target_idiom": "battre son plein",
+    "source_meaning": "buzzing or bustling with activity; in full swing",
+    "target_meaning": "to be in full swing"
+  },
+  {
+    "source_idiom": "物有所值",
+    "target_idiom": "en avoir pour son argent",
+    "source_meaning": "to be of good value for the price",
+    "target_meaning": "to get one's money's worth, to get good value for money"
+  },
+  {
+    "source_idiom": "牽著鼻子走",
+    "target_idiom": "mener par le bout du nez",
+    "source_meaning": ") to lead by the nose",
+    "target_meaning": "to lead by the nose"
+  },
+  {
+    "source_idiom": "狗咬呂洞賓——不識好人心",
+    "target_idiom": "cracher dans la soupe",
+    "source_meaning": "to bite the hand that feeds you",
+    "target_meaning": "to bite the hand that feeds one (to treat what is offered or available with neglect and disdain)"
+  },
+  {
+    "source_idiom": "画蛇添足",
+    "target_idiom": "cinquiÃ¨me roue du carrosse",
+    "source_meaning": "making an unnecessary addition",
+    "target_meaning": "fifth wheel (anything superfluous or unnecessary)"
+  },
+  {
+    "source_idiom": "當飯吃",
+    "target_idiom": "gagner son pain",
+    "source_meaning": "to regard as livelihood; to pay the bills",
+    "target_meaning": "to earn one's corn, to earn a living, to make a living"
+  },
+  {
+    "source_idiom": "痛哭流涕",
+    "target_idiom": "pleurer toutes les larmes de son corps",
+    "source_meaning": "to cry one's eyes out",
+    "target_meaning": "to cry one's eyes out, to cry profusely"
+  },
+  {
+    "source_idiom": "痛快淋漓",
+    "target_idiom": "boire du petit-lait",
+    "source_meaning": "to be extremely joyful",
+    "target_meaning": "to jubilate, to exult, to take great delight in a situation, to be on cloud nine, to be in seventh heaven (to have a feeling of deep satisfaction)"
+  },
+  {
+    "source_idiom": "發人深省",
+    "target_idiom": "mettre la puce Ã  l'oreille",
+    "source_meaning": "to set people thinking; to call for deep thought",
+    "target_meaning": "to set someone thinking, to cause someone to suspect something"
+  },
+  {
+    "source_idiom": "白手成家",
+    "target_idiom": "de toutes piÃ¨ces",
+    "source_meaning": "to build up from nothing; to start from scratch",
+    "target_meaning": "from scratch, ex nihilo, entirely, completely"
+  },
+  {
+    "source_idiom": "白日做夢",
+    "target_idiom": "bÃ¢tir des chÃ¢teaux en Espagne",
+    "source_meaning": "to spin daydreams; to indulge in wishful thinking; to build castles in the air",
+    "target_meaning": "to chase rainbows, to build castles in the air (to make overly ambitious plans)"
+  },
+  {
+    "source_idiom": "白髮蒼蒼",
+    "target_idiom": "cheveux blancs",
+    "source_meaning": "hoary; white-haired",
+    "target_meaning": "silver-haired person"
+  },
+  {
+    "source_idiom": "盡地一煲",
+    "target_idiom": "sortir le grand jeu",
+    "source_meaning": "to go all out",
+    "target_meaning": "to pull out all the stops, to go all out"
+  },
+  {
+    "source_idiom": "目不轉睛",
+    "target_idiom": "se regarder dans le blanc des yeux",
+    "source_meaning": "to gaze into each other's eyes; to not take their eyes off of each other",
+    "target_meaning": "to look each other straight in the eye, to stare each other down, to glare at one another"
+  },
+  {
+    "source_idiom": "目中無人",
+    "target_idiom": "avoir le gros cou",
+    "source_meaning": "to be prideful; to be haughty; to be arrogant",
+    "target_meaning": "to be arrogant, haughty, boastful"
+  },
+  {
+    "source_idiom": "直斥其非",
+    "target_idiom": "volÃ©e de bois vert",
+    "source_meaning": "to directly rebuke someone for his or her mistakes; to scold someone to his or her face for his or her mistakes",
+    "target_meaning": "severe reprimand, often to correct an undesirable behaviour"
+  },
+  {
+    "source_idiom": "真相大白",
+    "target_idiom": "mettre les points sur les i",
+    "source_meaning": "for the truth to be completely revealed; for all the facts to be clear",
+    "target_meaning": "to get things straight, to make things perfectly clear, to put the record straight, to spell it out, to lay down the law"
+  },
+  {
+    "source_idiom": "眼明心亮",
+    "target_idiom": "avoir toute sa tÃªte",
+    "source_meaning": "to see and think clearly; to be sharp-eyed and clearheaded",
+    "target_meaning": "to have one's wits about one, to have all one's marbles, to be all there"
+  },
+  {
+    "source_idiom": "眼若流星",
+    "target_idiom": "voir trente-six chandelles",
+    "source_meaning": "eyes as bright as shooting stars",
+    "target_meaning": "to see stars"
+  },
+  {
+    "source_idiom": "眼觀四面，耳聽八方",
+    "target_idiom": "avoir des yeux derriÃ¨re la tÃªte",
+    "source_meaning": "to have sharp eyes and keen ears; to be observant and alert",
+    "target_meaning": "to have eyes in the back of one's head"
+  },
+  {
+    "source_idiom": "矇混過關",
+    "target_idiom": "passer Ã  travers les mailles du filet",
+    "source_meaning": "to slip by; to gloss over one's fault",
+    "target_meaning": "to slip through the cracks, to fall through the cracks, to slip through the net"
+  },
+  {
+    "source_idiom": "破釜沉舟",
+    "target_idiom": "franchir le Rubicon",
+    "source_meaning": "to burn one's boats; to cross the Rubicon; to reach the point of no return",
+    "target_meaning": "to cross the Rubicon"
+  },
+  {
+    "source_idiom": "磨破嘴皮子",
+    "target_idiom": "enfoncer le clou",
+    "source_meaning": "to repeat again and again; to talk until one is blue in the face",
+    "target_meaning": "to ram something home, to drive a lesson home (to repeat something insistently so that it is understood)"
+  },
+  {
+    "source_idiom": "神憎鬼厭",
+    "target_idiom": "briser les couilles",
+    "source_meaning": "to be extremely detestable; to be extremely irritating",
+    "target_meaning": "to piss off, to annoy a lot"
+  },
+  {
+    "source_idiom": "禍生肘腋",
+    "target_idiom": "y avoir de l'eau dans le gaz",
+    "source_meaning": "trouble is brewing close at hand",
+    "target_meaning": "for there to be trouble brewing, for there to be trouble in paradise, for there to be tension in the air"
+  },
+  {
+    "source_idiom": "空中樓閣",
+    "target_idiom": "chÃ¢teaux en Espagne",
+    "source_meaning": "castle in the air; illusion",
+    "target_meaning": "castles in the air; pipe dreams"
+  },
+  {
+    "source_idiom": "笑掉大牙",
+    "target_idiom": "se fendre la poire",
+    "source_meaning": "to laugh one's head off; ridiculous and embarrassing",
+    "target_meaning": "to laugh one's head off, to have a good laugh"
+  },
+  {
+    "source_idiom": "笨手笨腳",
+    "target_idiom": "avoir deux mains gauches",
+    "source_meaning": "clumsy; all thumbs",
+    "target_meaning": "to be all thumbs, to be very clumsy"
+  },
+  {
+    "source_idiom": "第一把交椅",
+    "target_idiom": "grosse lÃ©gume",
+    "source_meaning": "top banana; top of the heap",
+    "target_meaning": "big cheese, bigwig"
+  },
+  {
+    "source_idiom": "等到頸都長",
+    "target_idiom": "attendre le dÃ©luge",
+    "source_meaning": "to wait for a very long time",
+    "target_meaning": "to wait till doomsday, to wait for something that will never happen"
+  },
+  {
+    "source_idiom": "米已成炊",
+    "target_idiom": "les dÃ©s sont jetÃ©s",
+    "source_meaning": "the die is cast; what's done is done",
+    "target_meaning": "the die is cast"
+  },
+  {
+    "source_idiom": "精挑細選",
+    "target_idiom": "trier sur le volet",
+    "source_meaning": "to select very carefully",
+    "target_meaning": "to handpick, to select carefully by strict criteria"
+  },
+  {
+    "source_idiom": "紅杏出牆",
+    "target_idiom": "avoir des cornes",
+    "source_meaning": "to have an affair; to cheat on her husband",
+    "target_meaning": "to have been cuckolded, to have been cheated on"
+  },
+  {
+    "source_idiom": "細嚼慢嚥",
+    "target_idiom": "avaler tout rond",
+    "source_meaning": "to chew carefully and swallow slowly",
+    "target_meaning": "to swallow something whole, without chewing it"
+  },
+  {
+    "source_idiom": "結草銜環",
+    "target_idiom": "devoir une fiÃ¨re chandelle",
+    "source_meaning": "to repay a debt (of kindness etc.)",
+    "target_meaning": "to owe (someone) one  "
+  },
+  {
+    "source_idiom": "美中不足",
+    "target_idiom": "couille dans le potage",
+    "source_meaning": "to be almost perfect; to be a fly in the ointment; to be a blemish in an otherwise perfect thing",
+    "target_meaning": "a fly in the ointment"
+  },
+  {
+    "source_idiom": "耀武揚威",
+    "target_idiom": "rouler des mÃ©caniques",
+    "source_meaning": "to prance about; to thump one's chest; to swagger about; to brag of one's military prowess",
+    "target_meaning": "to swagger, to strut about, to flex one's muscles"
+  },
+  {
+    "source_idiom": "老舉埋年——算鳩數",
+    "target_idiom": "passer le cap",
+    "source_meaning": "forget about it",
+    "target_meaning": "to get over it; to move on"
+  },
+  {
+    "source_idiom": "耿耿於懷",
+    "target_idiom": "broyer du noir",
+    "source_meaning": "to brood on; to not forget about a matter and always be troubled or vexed by it",
+    "target_meaning": "to brood (to have negative thoughts)"
+  },
+  {
+    "source_idiom": "肚皮打鼓",
+    "target_idiom": "crever la dalle",
+    "source_meaning": "to be very hungry",
+    "target_meaning": "to be starving (to be very hungry)"
+  },
+  {
+    "source_idiom": "背水一戰",
+    "target_idiom": "prendre position",
+    "source_meaning": "to be forced to stand and fight; to make a desperate last stand",
+    "target_meaning": "to take a stand, to make a stand"
+  },
+  {
+    "source_idiom": "能歌善舞",
+    "target_idiom": "avoir plusieurs cordes Ã  son arc",
+    "source_meaning": "to have many talents",
+    "target_meaning": "to have more than one string to one's bow, to have more than one trick up one's sleeve "
+  },
+  {
+    "source_idiom": "腦囟都未生埋",
+    "target_idiom": "faire l'enfant",
+    "source_meaning": "to be immature; to be naive and childish",
+    "target_meaning": "to act like a child, to be childish, to lack maturity"
+  },
+  {
+    "source_idiom": "腦子進水",
+    "target_idiom": "avoir un grain",
+    "source_meaning": "to be crazy or stupid; to have lost one's mind",
+    "target_meaning": "to be crazy, to be strangely behaved"
+  },
+  {
+    "source_idiom": "腳踏實地",
+    "target_idiom": "avoir les pieds sur terre",
+    "source_meaning": "to have one's feet on the ground; to be realistic and steady",
+    "target_meaning": "to have one's feet firmly on the ground, to be realistic, to be practical, to be well-grounded"
+  },
+  {
+    "source_idiom": "膽戰心驚",
+    "target_idiom": "peur bleue",
+    "source_meaning": "to tremble with fear; to be terror-stricken",
+    "target_meaning": "terror, strong fear"
+  },
+  {
+    "source_idiom": "臨急抱耶穌腳",
+    "target_idiom": "Ãªtre Ã  la bourre",
+    "source_meaning": "to do something hurriedly only at the last minute",
+    "target_meaning": "to be late or rushed"
+  },
+  {
+    "source_idiom": "自命不凡",
+    "target_idiom": "pÃ©ter plus haut que son cul",
+    "source_meaning": "to think no end of oneself; to think too much of oneself; to be self-important",
+    "target_meaning": "to think one's shit doesn't stink, to think the sun shines out of one's arse, to think one is the shit, to think one is the business, to think one is hot shit (to be full of oneself)"
+  },
+  {
+    "source_idiom": "自投羅網",
+    "target_idiom": "tomber dans le panneau",
+    "source_meaning": "to hurl oneself willingly or involuntarily into the net; to walk or fall into a trap",
+    "target_meaning": "to walk into a trap, to fall into the trap, to fall for something"
+  },
+  {
+    "source_idiom": "自掘墳墓",
+    "target_idiom": "signer son arrÃªt de mort",
+    "source_meaning": "to court self-destruction; to dig one's own grave",
+    "target_meaning": "to sign one's death warrant"
+  },
+  {
+    "source_idiom": "自顧不暇",
+    "target_idiom": "avoir d'autres chats Ã  fouetter",
+    "source_meaning": "to have too much on one's plate; to have trouble even in dealing with one's own affairs, let alone taking care of others'",
+    "target_meaning": "to have other things to handle; to have other fish to fry"
+  },
+  {
+    "source_idiom": "自顧自",
+    "target_idiom": "sauve qui peut",
+    "source_meaning": "each for himself; everyone looks to himself (without worrying for others)",
+    "target_meaning": "every man for himself; devil take the hindmost"
+  },
+  {
+    "source_idiom": "艱難困苦",
+    "target_idiom": "du fil Ã  retordre",
+    "source_meaning": "difficulties and hardships",
+    "target_meaning": "a hard time, some difficulties"
+  },
+  {
+    "source_idiom": "落手落腳",
+    "target_idiom": "mettre la main Ã  la pÃ¢te",
+    "source_meaning": "to get one's hands dirty; to involve oneself in doing work",
+    "target_meaning": "to muck in, to put one's shoulder to the wheel, to get one's hands dirty"
+  },
+  {
+    "source_idiom": "落拓不羈",
+    "target_idiom": "jolie laide",
+    "source_meaning": "unconventional and uninhibited",
+    "target_meaning": "unconventionally attractive"
+  },
+  {
+    "source_idiom": "落荒而走",
+    "target_idiom": "prendre ses jambes Ã  son cou",
+    "source_meaning": "to flee in a hurry; to flee in panic",
+    "target_meaning": "to take to one's heels, to run for one's life"
+  },
+  {
+    "source_idiom": "蔚為大觀",
+    "target_idiom": "Ã©pater la galerie",
+    "source_meaning": "to present a magnificent spectacle",
+    "target_meaning": "to impress the audience, to impress people, to cause a sensation"
+  },
+  {
+    "source_idiom": "虎口奪食",
+    "target_idiom": "avoir du cÅur au ventre",
+    "source_meaning": "to be extremely brave; to take an enormous risk",
+    "target_meaning": "To have guts; to be gutsy"
+  },
+  {
+    "source_idiom": "虎口餘生",
+    "target_idiom": "l'Ã©chapper belle",
+    "source_meaning": "to survive a disaster; to have a narrow escape",
+    "target_meaning": "to have a narrow escape, to have a close call, to dodge a bullet"
+  },
+  {
+    "source_idiom": "蛇頭鼠眼",
+    "target_idiom": "sentir le roussi",
+    "source_meaning": "to look ugly and shifty; to be obnoxious in appearance and cunning-looking",
+    "target_meaning": "to smell like trouble, not to look good"
+  },
+  {
+    "source_idiom": "蠕蠕而動",
+    "target_idiom": "tirer les vers du nez",
+    "source_meaning": "to crawl out; to wriggle",
+    "target_meaning": "to worm something out of  "
+  },
+  {
+    "source_idiom": "血債累累",
+    "target_idiom": "avoir du sang sur les mains",
+    "source_meaning": "to have heavy blood debts",
+    "target_meaning": "to have blood on one's hands"
+  },
+  {
+    "source_idiom": "血口噴人",
+    "target_idiom": "tirer Ã  boulets rouges",
+    "source_meaning": "to make unfounded and malicious attacks upon somebody; to venomously slander",
+    "target_meaning": "to cast aspersions, to level constant criticism, to let fly  "
+  },
+  {
+    "source_idiom": "衣來伸手，飯來張口",
+    "target_idiom": "avoir un poil dans la main",
+    "source_meaning": "to be very lazy",
+    "target_meaning": "to be bone-idle, to be extremely lazy"
+  },
+  {
+    "source_idiom": "袖手旁觀",
+    "target_idiom": "rester les bras croisÃ©s",
+    "source_meaning": "to put one's hands into one's sleeves and look on; to observe and do nothing; to stand by; to become a passive observer",
+    "target_meaning": "to sit back and do nothing, to cross one's arms and wait, to stand by idly"
+  },
+  {
+    "source_idiom": "裙甩褲甩",
+    "target_idiom": "coup de bourre",
+    "source_meaning": "in a rush; in a hurry",
+    "target_meaning": "a rush; a hurry"
+  },
+  {
+    "source_idiom": "裝門面",
+    "target_idiom": "faire bonne figure",
+    "source_meaning": "to put up a facade; to keep up appearances",
+    "target_meaning": "to put on a brave face, to put up a good front"
+  },
+  {
+    "source_idiom": "見多識廣",
+    "target_idiom": "orfÃ¨vre en la matiÃ¨re",
+    "source_meaning": "experienced and knowledgeable",
+    "target_meaning": "an expert in the matter; a person with good judgment"
+  },
+  {
+    "source_idiom": "記憶猶新",
+    "target_idiom": "marquer d'une pierre blanche",
+    "source_meaning": "to remain fresh in one's memory; to remember vividly",
+    "target_meaning": "to remember as a red letter day, to mark as a milestone, to see as a landmark event"
+  },
+  {
+    "source_idiom": "誤打誤撞",
+    "target_idiom": "Ã  la fortune du pot",
+    "source_meaning": "by accident; by chance",
+    "target_meaning": "by pot luck"
+  },
+  {
+    "source_idiom": "說時遲，那時快",
+    "target_idiom": "au quart de tour",
+    "source_meaning": "before you know it; immediately; presto",
+    "target_meaning": "in no time, straight off"
+  },
+  {
+    "source_idiom": "談情說愛",
+    "target_idiom": "sortir ensemble",
+    "source_meaning": "for talk of love and romance to fill one's conversation; to be courting; to be dating",
+    "target_meaning": "to go out (to have a romantic relationship with each other)"
+  },
+  {
+    "source_idiom": "請君入甕",
+    "target_idiom": "rÃ©colter ce que l'on a semÃ©",
+    "source_meaning": "to pay back in someone's own coin; to give someone a taste of his/her own medicine; to make someone's act backfire on him or her; to treat someone in his or her own ways",
+    "target_meaning": "to get a taste of one's own medicine; to have had it coming"
+  },
+  {
+    "source_idiom": "諸如此類",
+    "target_idiom": "et ainsi de suite",
+    "source_meaning": "and so on and so forth",
+    "target_meaning": "and so on, and so forth"
+  },
+  {
+    "source_idiom": "財源滾滾",
+    "target_idiom": "se faire des couilles en or",
+    "source_meaning": "money or profits roll in; to rake it in",
+    "target_meaning": "to make a bundle, to make a mint, to be minting it, to rake in money hand over fist"
+  },
+  {
+    "source_idiom": "貪多嚼不爛",
+    "target_idiom": "avoir les yeux plus gros que le ventre",
+    "source_meaning": "to bite off more than one can chew",
+    "target_meaning": "to bite off more than one can chew (to try to do too much; to take on or attempt more than one is capable of doing)"
+  },
+  {
+    "source_idiom": "賣官鬻爵",
+    "target_idiom": "graisser la patte",
+    "source_meaning": "to take bribes in exchange for granting an official or noble title",
+    "target_meaning": "to bribe, grease someone's palm"
+  },
+  {
+    "source_idiom": "賭身立誓",
+    "target_idiom": "mettre sa tÃªte Ã  couper",
+    "source_meaning": "to bet one's life; to pledge one's life (to)",
+    "target_meaning": "to bet one's life that, to bet one's boots that, to bet one's bottom dollar that (to be absolutely sure that)"
+  },
+  {
+    "source_idiom": "走來走去",
+    "target_idiom": "faire les cent pas",
+    "source_meaning": "to walk back and forth",
+    "target_meaning": "to pace up and down (while waiting)"
+  },
+  {
+    "source_idiom": "趾高氣揚",
+    "target_idiom": "monter sur ses grands chevaux",
+    "source_meaning": "to be on one's high horse; to be very self-righteous; to be arrogant",
+    "target_meaning": "to get on one's high horse"
+  },
+  {
+    "source_idiom": "踽踽獨行",
+    "target_idiom": "faire cavalier seul",
+    "source_meaning": "to walk alone; to walk all by oneself",
+    "target_meaning": "to go it alone, to go solo"
+  },
+  {
+    "source_idiom": "蹉跎歲月",
+    "target_idiom": "passer le temps",
+    "source_meaning": "to idle away one's time; to waste one's time; to allow time to slip away",
+    "target_meaning": "to pass the time, to kill time"
+  },
+  {
+    "source_idiom": "蹬鼻子上臉",
+    "target_idiom": "dÃ©passer les bornes",
+    "source_meaning": "to go too far (by taking a mile after being given an inch)",
+    "target_meaning": "to cross the line, to go too far, to overstep the mark, to go beyond the pale, to go off the reservation"
+  },
+  {
+    "source_idiom": "躝屍趷路",
+    "target_idiom": "se casser",
+    "source_meaning": "to go away; to get lost; to go to hell",
+    "target_meaning": "to get lost, go away, leave"
+  },
+  {
+    "source_idiom": "躡手躡腳",
+    "target_idiom": "marcher sur des Åufs",
+    "source_meaning": "to walk on tiptoe; to creep; to walk gingerly",
+    "target_meaning": "to walk on eggshells"
+  },
+  {
+    "source_idiom": "身懷六甲",
+    "target_idiom": "avoir une brioche au four",
+    "source_meaning": "to be pregnant",
+    "target_meaning": "to have a bun in the oven"
+  },
+  {
+    "source_idiom": "輕拿輕放",
+    "target_idiom": "prendre des gants",
+    "source_meaning": "to handle with care",
+    "target_meaning": "to handle with kid gloves, to go soft on; to walk on eggshells"
+  },
+  {
+    "source_idiom": "輕聲細語",
+    "target_idiom": "baisser d'un ton",
+    "source_meaning": "to speak softly; to whisper",
+    "target_meaning": "to lower one's voice, to keep it down"
+  },
+  {
+    "source_idiom": "轉彎抹角",
+    "target_idiom": "tourner autour du pot",
+    "source_meaning": "to speak in a roundabout way; to beat around the bush",
+    "target_meaning": "to beat around the bush"
+  },
+  {
+    "source_idiom": "逢凶化吉",
+    "target_idiom": "tirer son Ã©pingle du jeu",
+    "source_meaning": "to get through a dangerous crisis; to land on one's feet",
+    "target_meaning": "to play one's cards right; to make it out of a potentially bad situation relatively unscathed; to pull out skilfully while the going is still good"
+  },
+  {
+    "source_idiom": "遍地開花",
+    "target_idiom": "pousser comme des champignons",
+    "source_meaning": "to proliferate and become widespread; to spring up everywhere",
+    "target_meaning": "to crop up all over the place, to sprout up everywhere, to spring up like mushrooms"
+  },
+  {
+    "source_idiom": "過目不忘",
+    "target_idiom": "mÃ©moire d'Ã©lÃ©phant",
+    "source_meaning": "to have a photographic memory",
+    "target_meaning": "extremely good memory"
+  },
+  {
+    "source_idiom": "量入為出",
+    "target_idiom": "joindre les deux bouts",
+    "source_meaning": "make ends meet; adjust one's expense to one's income; base one's expenditures upon one's income",
+    "target_meaning": "to make ends meet"
+  },
+  {
+    "source_idiom": "錙銖必較",
+    "target_idiom": "enculer les mouches",
+    "source_meaning": "to split hairs; to fuss over minor amounts or things",
+    "target_meaning": "to split hairs; to nitpick"
+  },
+  {
+    "source_idiom": "鐵石心腸",
+    "target_idiom": "avoir un cÅur de pierre",
+    "source_meaning": "stone-hearted; unmoved",
+    "target_meaning": "to be stonehearted, to be heartless, to have no heart"
+  },
+  {
+    "source_idiom": "鑿空之論",
+    "target_idiom": "tirÃ© par les cheveux",
+    "source_meaning": "far-fetched argument; unlikely statement",
+    "target_meaning": "far-fetched"
+  },
+  {
+    "source_idiom": "長年通月",
+    "target_idiom": "bon an, mal an",
+    "source_meaning": "over many years and months; year in, year out",
+    "target_meaning": "year in, year out"
+  },
+  {
+    "source_idiom": "長袖善舞",
+    "target_idiom": "avoir le bras long",
+    "source_meaning": "be able to make good use of one's connections",
+    "target_meaning": "to be well-connected, to have influential connections or a large network of acquaintances, to be influential"
+  },
+  {
+    "source_idiom": "閉目塞聽",
+    "target_idiom": "avoir la tÃªte dans les nuages",
+    "source_meaning": "to be out of touch with reality",
+    "target_meaning": "to have one's head in the clouds"
+  },
+  {
+    "source_idiom": "開宗明義",
+    "target_idiom": "annoncer la couleur",
+    "source_meaning": "to make clear the main idea at the beginning in one's speech or writing",
+    "target_meaning": "to set the rhythm, to set the tone; to show one's hand, to put one's cards on the table; to be a clear indication on what's coming next"
+  },
+  {
+    "source_idiom": "閒話家常",
+    "target_idiom": "tailler une bavette",
+    "source_meaning": "to chit-chat about daily life",
+    "target_meaning": "to shoot the breeze, to chew the fat, to chat"
+  },
+  {
+    "source_idiom": "闊佬懶理",
+    "target_idiom": "se soucier comme de l'an quarante de",
+    "source_meaning": "to be indifferent; to not give a damn",
+    "target_meaning": "to not give a damn about (something)"
+  },
+  {
+    "source_idiom": "雄心勃勃",
+    "target_idiom": "avoir les dents longues",
+    "source_meaning": "to be very ambitious",
+    "target_meaning": "to aim high, to set one's sights high, to be ruthlessly ambitious, to be fiercely competitive"
+  },
+  {
+    "source_idiom": "雪上加霜",
+    "target_idiom": "remuer le couteau dans la plaie",
+    "source_meaning": "to make a bad situation worse; to add insult to injury; to rub salt in the wound",
+    "target_meaning": "to twist the knife, to rub salt in the wound"
+  },
+  {
+    "source_idiom": "震撼人心",
+    "target_idiom": "en boucher un coin",
+    "source_meaning": "to shock; to overwhelm; to shake",
+    "target_meaning": "to astonish, to knock for a loop  "
+  },
+  {
+    "source_idiom": "霧裡看花",
+    "target_idiom": "ne pas avoir les yeux en face des trous",
+    "source_meaning": "to be unable to see the truth of the situation clearly",
+    "target_meaning": "not to see something which is obvious, right under one's nose; to be dim-sighted because one is hungover and half-asleep; to be bleary-eyed"
+  },
+  {
+    "source_idiom": "露齒而笑",
+    "target_idiom": "cligner des yeux",
+    "source_meaning": "to grin",
+    "target_meaning": "to wink"
+  },
+  {
+    "source_idiom": "靈丹聖藥",
+    "target_idiom": "poudre de perlimpinpin",
+    "source_meaning": "miracle cure; wonder pill; panacea",
+    "target_meaning": "snake oil (a fraudulent cure-all or remedy)"
+  },
+  {
+    "source_idiom": "非此即彼",
+    "target_idiom": "le beurre et l'argent du beurre",
+    "source_meaning": "either this or that; one or the other",
+    "target_meaning": "two mutually exclusive things, such that one can only choose one over another"
+  },
+  {
+    "source_idiom": "非洲和尚——乞人憎",
+    "target_idiom": "casser les pieds",
+    "source_meaning": "annoying",
+    "target_meaning": "to annoy  "
+  },
+  {
+    "source_idiom": "頭昏腦脹",
+    "target_idiom": "avoir la tÃªte qui tourne",
+    "source_meaning": "to feel dizzy; one's head feels heavy",
+    "target_meaning": "to be dizzy; to be light-headed"
+  },
+  {
+    "source_idiom": "頭頭碰著黑",
+    "target_idiom": "avoir la poisse",
+    "source_meaning": "to be very unlucky; to bump into trouble all the time",
+    "target_meaning": "to have chronic bad luck"
+  },
+  {
+    "source_idiom": "願者上鉤",
+    "target_idiom": "mordre Ã  l'hameÃ§on",
+    "source_meaning": "One who/which wishes to take the bait is captured.",
+    "target_meaning": "to take the bait, to rise to the bait"
+  },
+  {
+    "source_idiom": "顧左右而言他",
+    "target_idiom": "passer du coq Ã  l'Ã¢ne",
+    "source_meaning": "to try to change the subject of a conversation; to evade the subject under discussion and talk about other affairs; to steer clear of the crucial point",
+    "target_meaning": "to change subjects abruptly, to go from pillar to post, to hop from one subject to another, to jump from topic to topic, to constantly go off on a tangent"
+  },
+  {
+    "source_idiom": "風急雨驟",
+    "target_idiom": "venter Ã  Ã©corner les bÅufs",
+    "source_meaning": "to have a furious storm, with gusty winds and heavy rain",
+    "target_meaning": "to be extremely windy"
+  },
+  {
+    "source_idiom": "風輕雲淡",
+    "target_idiom": "gros temps",
+    "source_meaning": "good weather",
+    "target_meaning": "dirty weather"
+  },
+  {
+    "source_idiom": "食咖喱飯",
+    "target_idiom": "au violon",
+    "source_meaning": "to be imprisoned",
+    "target_meaning": "In the clink; imprisoned"
+  },
+  {
+    "source_idiom": "食貓麵",
+    "target_idiom": "en prendre plein la figure",
+    "source_meaning": "to be scolded",
+    "target_meaning": "to be hauled over the coals, to take a lot of heat, to get it in the neck, to get a bollocking (to get severely criticized, to get castigated); to be insulted "
+  },
+  {
+    "source_idiom": "養尊處優",
+    "target_idiom": "vivre en grand seigneur",
+    "source_meaning": "to live one's whole life in opulence and enjoying high social status",
+    "target_meaning": "to live the high life"
+  },
+  {
+    "source_idiom": "養精蓄銳",
+    "target_idiom": "remplumer",
+    "source_meaning": "to recuperate and build up energy",
+    "target_meaning": "to put flesh on the bones (begin to recover weight loss)"
+  },
+  {
+    "source_idiom": "馬屁拍在馬腿上",
+    "target_idiom": "faire le canard",
+    "source_meaning": "to suck up in the wrong way; to flatter someone in a way that offends that person and embarrasses oneself",
+    "target_meaning": "to suck up to; flatter too much"
+  },
+  {
+    "source_idiom": "高枕無憂",
+    "target_idiom": "dormir sur ses deux oreilles",
+    "source_meaning": "to rest easy; to relax and not worry",
+    "target_meaning": "to sleep soundly, to sleep without a worry, to rest easy"
+  },
+  {
+    "source_idiom": "高聳入雲",
+    "target_idiom": "atteindre des sommets",
+    "source_meaning": "to reach to the sky; to tower into the clouds",
+    "target_meaning": "to go through the roof, to go through the ceiling, to reach new heights, to reach an all-time high"
+  },
+  {
+    "source_idiom": "鬼話連篇",
+    "target_idiom": "bourrer le crÃ¢ne",
+    "source_meaning": "to talk a lot of nonsense; to tell a series of untruths",
+    "target_meaning": "to fill someone's head with nonsense; to brainwash, indoctrinate  "
+  },
+  {
+    "source_idiom": "魂不附體",
+    "target_idiom": "pousser des cris d'orfraie",
+    "source_meaning": "to be so scared or shocked that one practically leaps out of one's skin",
+    "target_meaning": "to scream bloody murder, react with horror, squeal"
+  },
+  {
+    "source_idiom": "魯般手裡調大斧",
+    "target_idiom": "avoir le melon",
+    "source_meaning": "to be overconfident",
+    "target_meaning": "to be cocksure"
+  },
+  {
+    "source_idiom": "鱷魚眼淚",
+    "target_idiom": "larmes de crocodile",
+    "source_meaning": "crocodile tears",
+    "target_meaning": "crocodile tears (display of tears that is forced or false)"
+  },
+  {
+    "source_idiom": "黃髮兒齒",
+    "target_idiom": "faire de vieux os",
+    "source_meaning": "to be old and long-lived",
+    "target_meaning": "to live long, to make it to old age, to grow old"
+  },
+  {
+    "source_idiom": "默不作聲",
+    "target_idiom": "ne pas desserrer les dents",
+    "source_meaning": "to remain silent",
+    "target_meaning": "to remain silent"
+  },
+  {
+    "source_idiom": "鼠目寸光",
+    "target_idiom": "ne pas voir plus loin que le bout de son nez",
+    "source_meaning": "short-sighted; to lack foresight",
+    "target_meaning": "not to see past the end of one's nose (be short-sighted)"
+  },
+  {
+    "source_idiom": "鼻子氣歪了",
+    "target_idiom": "avoir le seum",
+    "source_meaning": "pissed off; furious",
+    "target_meaning": "to be pissed off, to be cheesed off"
+  },
+  {
+    "source_idiom": "𡳞鳥比雞腿",
+    "target_idiom": "mÃ©langer les torchons et les serviettes",
+    "source_meaning": "to compare apples and oranges",
+    "target_meaning": "to mix apples and oranges, to compare apples and oranges (literally, \"to mix tea towels and napkins\")"
+  }
+]

@@ -1,0 +1,3206 @@
+[
+  {
+    "source_idiom": "Bumfuck, Egypt",
+    "target_idiom": "Lugar Nenhum",
+    "source_meaning": "The middle of nowhere.",
+    "target_meaning": "middle of nowhere (remote place; a place lacking population, interesting things or defining characteristics)"
+  },
+  {
+    "source_idiom": "Chinaman's chance",
+    "target_idiom": "nem sonhando",
+    "source_meaning": "No chance; zero possibility.",
+    "target_meaning": "there is no way; in your dreams (indicates impossibility)"
+  },
+  {
+    "source_idiom": "I can't lie",
+    "target_idiom": "ser um livro aberto",
+    "source_meaning": "To be honest, frankly, honestly.",
+    "target_meaning": "to be frank, loyal"
+  },
+  {
+    "source_idiom": "I could eat a horse",
+    "target_idiom": "eu poderia comer um cavalo",
+    "source_meaning": "I am very hungry; short form of \"I'm so hungry, I could eat a horse.\"",
+    "target_meaning": "I could eat a horse (I am very hungry)"
+  },
+  {
+    "source_idiom": "I wish",
+    "target_idiom": "antes fosse",
+    "source_meaning": "Used to express the speaker's wish that the preceding statement were true",
+    "target_meaning": "I wish (used to express the speaker's wish that the preceding statement were true)"
+  },
+  {
+    "source_idiom": "I'll be",
+    "target_idiom": "quem te viu, quem te vê",
+    "source_meaning": "Expressing surprise.",
+    "target_meaning": "Indicates that the speaker is surprised to learn something unexpected about the interlocutor."
+  },
+  {
+    "source_idiom": "Kool-Aid smile",
+    "target_idiom": "sorriso de uma orelha a outra",
+    "source_meaning": "A large, beaming smile.",
+    "target_meaning": "smile from ear to ear (large smile)"
+  },
+  {
+    "source_idiom": "a great deal",
+    "target_idiom": "uma porção",
+    "source_meaning": "Very much; to a great extent; a lot; lots.",
+    "target_meaning": "a lot (very many or very much)"
+  },
+  {
+    "source_idiom": "a little bird told me",
+    "target_idiom": "um passarinho me contou",
+    "source_meaning": "I received the information from a source which I am not prepared to disclose.",
+    "target_meaning": "a little bird told me (I received the information from a confidential source)"
+  },
+  {
+    "source_idiom": "about time",
+    "target_idiom": "já era tempo",
+    "source_meaning": "Far past the desired time.",
+    "target_meaning": "about time (it is far past the desired time)"
+  },
+  {
+    "source_idiom": "accident waiting to happen",
+    "target_idiom": "campo minado",
+    "source_meaning": "A thing or situation which is almost certain to eventually lead to an accident.",
+    "target_meaning": "minefield (situation where a mistake can have severe consequences)"
+  },
+  {
+    "source_idiom": "against all odds",
+    "target_idiom": "contra todas as expectativas",
+    "source_meaning": "Despite seemingly insurmountable opposition or probability.",
+    "target_meaning": "against all odds (despite seemingly insurmountable opposition or probability)"
+  },
+  {
+    "source_idiom": "against the clock",
+    "target_idiom": "contra o relógio",
+    "source_meaning": "In a time-restricted manner, to meet a deadline, hurriedly, timed.",
+    "target_meaning": "against the clock (in a time-restricted manner)"
+  },
+  {
+    "source_idiom": "ahead of one's time",
+    "target_idiom": "à frente de seu tempo",
+    "source_meaning": "In advance of concurrent commonly accepted ideas; showing characteristics of changes yet to be.",
+    "target_meaning": "ahead of one's time (in advance of commonly accepted ideas)"
+  },
+  {
+    "source_idiom": "all sixes and nines",
+    "target_idiom": "tela azul",
+    "source_meaning": "In a state of confusion.",
+    "target_meaning": "confusion"
+  },
+  {
+    "source_idiom": "all the same",
+    "target_idiom": "seja como for",
+    "source_meaning": "Anyway; nevertheless; nonetheless.",
+    "target_meaning": "in any case; at any rate; be that as it may"
+  },
+  {
+    "source_idiom": "along about",
+    "target_idiom": "por aí",
+    "source_meaning": "Approximately; at around some time.",
+    "target_meaning": "roughly, thereabout, thereabouts (i.e. approximately)"
+  },
+  {
+    "source_idiom": "ancient history",
+    "target_idiom": "águas passadas",
+    "source_meaning": "That which happened a long time ago and not worth discussing any more.",
+    "target_meaning": "water under the bridge (things not worth worrying about any more)"
+  },
+  {
+    "source_idiom": "and how",
+    "target_idiom": "e como",
+    "source_meaning": "Used to strongly confirm the preceding utterance.",
+    "target_meaning": "and how! (strong confirmation of preceding statement)"
+  },
+  {
+    "source_idiom": "and so on",
+    "target_idiom": "entre outros",
+    "source_meaning": "Used to indicate that a list continues in a similar manner.",
+    "target_meaning": "and so on (indicates that a list continues)"
+  },
+  {
+    "source_idiom": "and whatnot",
+    "target_idiom": "e por aí fora",
+    "source_meaning": "And so on; et cetera",
+    "target_meaning": "and so on; and so forth"
+  },
+  {
+    "source_idiom": "apple of someone's eye",
+    "target_idiom": "menina dos olhos",
+    "source_meaning": "The object of somebody's affections; a person (or sometimes a thing) that someone strongly prefers; a favorite, a loved one.",
+    "target_meaning": "apple of someone's eye (a favourite, a particular preference, or a loved one)"
+  },
+  {
+    "source_idiom": "arm to the teeth",
+    "target_idiom": "armar até os dentes",
+    "source_meaning": "To equip thoroughly with weapons.",
+    "target_meaning": "to arm to the teeth (to equip with many weapons)"
+  },
+  {
+    "source_idiom": "as a whole",
+    "target_idiom": "em suma",
+    "source_meaning": "Considered all together.",
+    "target_meaning": "on the whole, all in all"
+  },
+  {
+    "source_idiom": "as clever as a cartload of monkeys",
+    "target_idiom": "pulo do gato",
+    "source_meaning": "Very clever, cunning or mischievous.",
+    "target_meaning": "trick (clever way to do something)"
+  },
+  {
+    "source_idiom": "as it happens",
+    "target_idiom": "diga-se de passagem",
+    "source_meaning": "By coincidence, incidentally.",
+    "target_meaning": "by the way; incidentally"
+  },
+  {
+    "source_idiom": "as of late",
+    "target_idiom": "esses dias",
+    "source_meaning": "Lately; recently.",
+    "target_meaning": "the other day; recently"
+  },
+  {
+    "source_idiom": "at a canter",
+    "target_idiom": "com uma mão nas costas",
+    "source_meaning": "Without much effort; effortlessly; easily.",
+    "target_meaning": "hands down (without much effort, easily)"
+  },
+  {
+    "source_idiom": "at death's door",
+    "target_idiom": "às portas da morte",
+    "source_meaning": "About to die; in a life-threatening state of health.",
+    "target_meaning": "at death's door (about to die)"
+  },
+  {
+    "source_idiom": "at first blush",
+    "target_idiom": "ir com a cara",
+    "source_meaning": "Upon first impression or consideration; seemingly, apparently, ostensibly.",
+    "target_meaning": "to have a good impression of a person (or by extension, a concept or object) at first glance"
+  },
+  {
+    "source_idiom": "at stake",
+    "target_idiom": "em jogo",
+    "source_meaning": "At issue, at risk.",
+    "target_meaning": "at stake (at risk)"
+  },
+  {
+    "source_idiom": "at the drop of a hat",
+    "target_idiom": "sem pestanejar",
+    "source_meaning": "Without any hesitation; instantly.",
+    "target_meaning": "undoubtfully and immediately"
+  },
+  {
+    "source_idiom": "at the elbow",
+    "target_idiom": "à mão de semear",
+    "source_meaning": "Very near; close at hand.",
+    "target_meaning": "in reach; an arm's length away"
+  },
+  {
+    "source_idiom": "at the very most",
+    "target_idiom": "e olhe lá",
+    "source_meaning": "at most; as an absolute maximum",
+    "target_meaning": "at best; at most; and no more; and that's it (in the most favorable of conditions)"
+  },
+  {
+    "source_idiom": "babe in arms",
+    "target_idiom": "pingo de gente",
+    "source_meaning": "An infant.",
+    "target_meaning": "a little child, an infant"
+  },
+  {
+    "source_idiom": "babe magnet",
+    "target_idiom": "pedaço de mau caminho",
+    "source_meaning": "A person, especially a man, to whom women are attracted.",
+    "target_meaning": "hunk, stud (an attractive man)"
+  },
+  {
+    "source_idiom": "back-burner",
+    "target_idiom": "em banho-maria",
+    "source_meaning": "Having low urgency; not currently important.",
+    "target_meaning": "on the back burner (in low priority)"
+  },
+  {
+    "source_idiom": "bad iron",
+    "target_idiom": "pé frio",
+    "source_meaning": "bad luck.",
+    "target_meaning": "unlucky"
+  },
+  {
+    "source_idiom": "bag of bones",
+    "target_idiom": "pele e osso",
+    "source_meaning": "A skinny, malnourished person or animal.",
+    "target_meaning": "skin and bones (very skinny)"
+  },
+  {
+    "source_idiom": "ballistic podiatry",
+    "target_idiom": "dar um tiro no pé",
+    "source_meaning": "The act of shooting oneself in the foot.",
+    "target_meaning": "to shoot oneself in the foot"
+  },
+  {
+    "source_idiom": "balls of steel",
+    "target_idiom": "bala na agulha",
+    "source_meaning": "Courage, audacity.",
+    "target_meaning": "ballsiness, toughness, courage"
+  },
+  {
+    "source_idiom": "bark up the wrong tree",
+    "target_idiom": "bater à porta errada",
+    "source_meaning": "To take the wrong approach to a situation; to follow a false lead; to attempt to solve a problem using mistaken assumptions about its true nature.",
+    "target_meaning": "to bark up the wrong tree (to take the wrong approach)"
+  },
+  {
+    "source_idiom": "bat the breeze",
+    "target_idiom": "trocar ideia",
+    "source_meaning": "To chat; to shoot the breeze.",
+    "target_meaning": "to chat, to have a friendly or interesting talk"
+  },
+  {
+    "source_idiom": "bawl one's eyes out",
+    "target_idiom": "chorar litros",
+    "source_meaning": "To cry, shed tears, weep loudly.",
+    "target_meaning": "to bawl one's eyes out; to cry loudly"
+  },
+  {
+    "source_idiom": "be on to",
+    "target_idiom": "dar-se conta",
+    "source_meaning": "To figure out; to realize the truth.",
+    "target_meaning": "to realise (to come to understand)"
+  },
+  {
+    "source_idiom": "beat one's brain",
+    "target_idiom": "quebrar a cabeça",
+    "source_meaning": "To struggle to think or remember something.",
+    "target_meaning": "to rack one's brain (struggle to think of something)"
+  },
+  {
+    "source_idiom": "beat to the punch",
+    "target_idiom": "tirar as palavras da boca",
+    "source_meaning": "To carry out an action before another person is able to do so.",
+    "target_meaning": "to say what someone was about to say; take the words out of someone's mouth"
+  },
+  {
+    "source_idiom": "been there, done that",
+    "target_idiom": "essa é velha",
+    "source_meaning": "An assertion that the speaker has personal experience or knowledge of a particular place or topic and is not too keen on revisiting or redoing it again.",
+    "target_meaning": "been there, done that (assertion that the speaker has personal knowledge of a particular topic)"
+  },
+  {
+    "source_idiom": "bend the truth",
+    "target_idiom": "distorcer a realidade",
+    "source_meaning": "To change or leave out certain facts of a story or situation, generally in order to elicit a specific response in the audience.",
+    "target_meaning": "to bend the truth (change or leave out certain facts of a story)"
+  },
+  {
+    "source_idiom": "best pleased",
+    "target_idiom": "a ver navios",
+    "source_meaning": "displeased, upset, disgruntled",
+    "target_meaning": "disappointed, disillusioned"
+  },
+  {
+    "source_idiom": "beyond the black stump",
+    "target_idiom": "onde Judas perdeu as botas",
+    "source_meaning": "In an extremely isolated place, remote from populated areas; in the middle of nowhere.",
+    "target_meaning": "in the sticks, in the middle of nowhere (in a very distant place)"
+  },
+  {
+    "source_idiom": "big old",
+    "target_idiom": "sem tamanho",
+    "source_meaning": "Emphatically or impressively big; really big.",
+    "target_meaning": "massive, gigantic, humongous"
+  },
+  {
+    "source_idiom": "bite off more than one can chew",
+    "target_idiom": "ter mais olhos que barriga",
+    "source_meaning": "To try to do too much; to take on or attempt more than one is capable of doing.",
+    "target_meaning": "bite off more than one can chew"
+  },
+  {
+    "source_idiom": "bite the hand that feeds one",
+    "target_idiom": "cuspir no prato que comeu",
+    "source_meaning": "To cause harm to a benefactor (especially one that one is dependent on, thus with the idea that this behaviour is self-damaging).",
+    "target_meaning": "to bite the hand that feeds you"
+  },
+  {
+    "source_idiom": "blind date",
+    "target_idiom": "encontro às cegas",
+    "source_meaning": "A date (romantic meeting) between two people who have never met before.",
+    "target_meaning": "blind date (romantic meeting between two people who have never met before)"
+  },
+  {
+    "source_idiom": "blot on the escutcheon",
+    "target_idiom": "sujar a imagem",
+    "source_meaning": "Something damaging to one's reputation.",
+    "target_meaning": "to besmirch the reputation of a person or thing"
+  },
+  {
+    "source_idiom": "blow one's chance",
+    "target_idiom": "ir à Roma e não ver o papa",
+    "source_meaning": "To ruin, or fail to capitalise on an opportunity.",
+    "target_meaning": "to lose a chance"
+  },
+  {
+    "source_idiom": "blow smoke",
+    "target_idiom": "viajar na maionese",
+    "source_meaning": "To speak with a lack of credibility, sense, purpose, or truth; to speak nonsense.",
+    "target_meaning": "to talk nonsense"
+  },
+  {
+    "source_idiom": "blow to kingdom come",
+    "target_idiom": "fazer em postas",
+    "source_meaning": "To totally destroy (something); to annihilate or wipe out (something).",
+    "target_meaning": "to destroy, to annihilate"
+  },
+  {
+    "source_idiom": "boiling hot",
+    "target_idiom": "um sol para cada um",
+    "source_meaning": "Extremely hot (having a high temperature: of an object, the weather, a living creature)",
+    "target_meaning": "sunny and very hot; scorching hot"
+  },
+  {
+    "source_idiom": "bop the bishop",
+    "target_idiom": "cinco contra um",
+    "source_meaning": "To masturbate (male).",
+    "target_meaning": "male masturbation"
+  },
+  {
+    "source_idiom": "born with a silver spoon in one's mouth",
+    "target_idiom": "nascer em berço de ouro",
+    "source_meaning": "Born rich, or into a wealthy family.",
+    "target_meaning": "to be born with a silver spoon in one's mouth (born rich or in a wealthy family)"
+  },
+  {
+    "source_idiom": "brain surgery",
+    "target_idiom": "bicho de sete cabeças",
+    "source_meaning": "Something that is overly complex, detailed or confusing.",
+    "target_meaning": "rocket science, brain surgery (anything overly complex)"
+  },
+  {
+    "source_idiom": "brass farthing",
+    "target_idiom": "cocô do cavalo do bandido",
+    "source_meaning": "Something worthless or of small value.",
+    "target_meaning": "a person or a thing that is extremely worthless"
+  },
+  {
+    "source_idiom": "break one's neck",
+    "target_idiom": "fazer o possível e o impossível",
+    "source_meaning": "To make extraordinary efforts to achieve an end; to exert oneself in pursuit of a goal.",
+    "target_meaning": "to try very hard to accomplish something"
+  },
+  {
+    "source_idiom": "break someone's heart",
+    "target_idiom": "partir o coração de",
+    "source_meaning": "To cause a person to feel grief, disappointment, or sadness.",
+    "target_meaning": "to break someone's heart (to cause a person to feel grief or sadness)"
+  },
+  {
+    "source_idiom": "breathe down someone's neck",
+    "target_idiom": "fungar no cangote",
+    "source_meaning": "To follow or supervise someone too closely, causing discomfort for that person.",
+    "target_meaning": "to breathe down someone's neck (to follow or supervise too closely)"
+  },
+  {
+    "source_idiom": "buck the trend",
+    "target_idiom": "contra a maré",
+    "source_meaning": "To go against the norm or the current stand of the main population; have a differing opinion from the majority.",
+    "target_meaning": "against the grain (contrary to what is expected)"
+  },
+  {
+    "source_idiom": "buck up one's ideas",
+    "target_idiom": "pôr a mão na massa",
+    "source_meaning": "to pull one's socks up",
+    "target_meaning": "to pull one's socks up (start making an effort; to get to work)"
+  },
+  {
+    "source_idiom": "burn one's bridges",
+    "target_idiom": "queimar as pontes",
+    "source_meaning": "To destroy one's path, connections, reputation, opportunities, etc., particularly intentionally.",
+    "target_meaning": "to burn one's bridges (to destroy connections or opportunities)"
+  },
+  {
+    "source_idiom": "burning question",
+    "target_idiom": "pergunta que não quer calar",
+    "source_meaning": "An important and pertinent question that urgently requires an answer.",
+    "target_meaning": "an important question, often one difficult or impossible to answer"
+  },
+  {
+    "source_idiom": "burst out laughing",
+    "target_idiom": "explodir em risadas",
+    "source_meaning": "To start laughing suddenly and intensely.",
+    "target_meaning": "to burst out laughing (suddenly start laughing intensely)"
+  },
+  {
+    "source_idiom": "bust chops",
+    "target_idiom": "pegar no pé",
+    "source_meaning": "To nag; to berate or hound in an effort to elicit action.",
+    "target_meaning": "to tease; to nag"
+  },
+  {
+    "source_idiom": "but then",
+    "target_idiom": "por um lado",
+    "source_meaning": "then again, on the other hand; used to show that the opposite viewpoint is possible.",
+    "target_meaning": "on the one hand"
+  },
+  {
+    "source_idiom": "by no means",
+    "target_idiom": "nem a pau",
+    "source_meaning": "Certainly not; definitely not; not by any means.",
+    "target_meaning": "definitely not; by no means"
+  },
+  {
+    "source_idiom": "by the same token",
+    "target_idiom": "que nem",
+    "source_meaning": "For a similar reason; in a similar manner; by virtue of the selfsame phenomenon, through its various aspects.",
+    "target_meaning": "like; just alike; similarly to"
+  },
+  {
+    "source_idiom": "by the skin of one's teeth",
+    "target_idiom": "por um triz",
+    "source_meaning": "Barely; closely; by a narrow margin; with nothing to spare.",
+    "target_meaning": "by a whisker; by a hair's breadth; by the skin of one's teeth (by a narrow margin)"
+  },
+  {
+    "source_idiom": "call a spade a spade",
+    "target_idiom": "não ter papas na língua",
+    "source_meaning": "To put it bluntly, to be outspoken; to speak the truth, to say things as they really are.",
+    "target_meaning": "to not mince one's words, to speak one's mind"
+  },
+  {
+    "source_idiom": "calm before the storm",
+    "target_idiom": "calmaria antes da tempestade",
+    "source_meaning": "A period of peace before a disturbance or crisis; an unnatural or false calm before a storm.",
+    "target_meaning": "calm before the storm (peace before a disturbance)"
+  },
+  {
+    "source_idiom": "can't wait",
+    "target_idiom": "não ver a hora",
+    "source_meaning": "To eagerly anticipate; to find it hard to wait for a forthcoming pleasurable event.",
+    "target_meaning": "can't wait (eagerly anticipate)"
+  },
+  {
+    "source_idiom": "carry coals to Newcastle",
+    "target_idiom": "chover no molhado",
+    "source_meaning": "To do something that is unneeded or redundant.",
+    "target_meaning": "to carry coals to Newcastle (do something unneeded or redundant)"
+  },
+  {
+    "source_idiom": "carry the can",
+    "target_idiom": "tomar as dores",
+    "source_meaning": "To take responsibility, especially in a challenging situation.",
+    "target_meaning": "to assume the responsibility for the problems [ ]"
+  },
+  {
+    "source_idiom": "carry through",
+    "target_idiom": "dar conta do recado",
+    "source_meaning": "To manage to execute; to perform successfully, all the way to the end.",
+    "target_meaning": "to successfully carry out, fulfill a job or task"
+  },
+  {
+    "source_idiom": "cast aspersions",
+    "target_idiom": "cala-te, boca",
+    "source_meaning": "To make damaging or spiteful remarks.",
+    "target_meaning": "said when one is making a malicious statement or badmouthing someone"
+  },
+  {
+    "source_idiom": "cast the first stone",
+    "target_idiom": "atirar a primeira pedra",
+    "source_meaning": "To act self-righteously in accusing another person, believing oneself to be blameless.",
+    "target_meaning": "to cast the first stone (act self-righteously)"
+  },
+  {
+    "source_idiom": "castle in the air",
+    "target_idiom": "castelo no ar",
+    "source_meaning": "A desire, idea, or plan that is unlikely to ever be realized; a visionary project or scheme; a daydream, an idle fancy, a near impossibility. [from mid 16th c.]",
+    "target_meaning": "castle in the air (idea that is unlikely to be ever realised)"
+  },
+  {
+    "source_idiom": "catbird seat",
+    "target_idiom": "de ouro",
+    "source_meaning": "An enviable position, often one of great advantage.",
+    "target_meaning": "golden (advantageous or very favourable)"
+  },
+  {
+    "source_idiom": "catch someone napping",
+    "target_idiom": "falar com a porta",
+    "source_meaning": "To take advantage of someone's inattention.",
+    "target_meaning": "to speak while the interlocutor is not paying attention"
+  },
+  {
+    "source_idiom": "charmed life",
+    "target_idiom": "sete vidas",
+    "source_meaning": "A life in which one is always lucky and safe from danger.",
+    "target_meaning": "nine lives (the ability to survive deadly situations)"
+  },
+  {
+    "source_idiom": "cheat on",
+    "target_idiom": "pular a cerca",
+    "source_meaning": "To be unfaithful to, especially in a romantic relationship.",
+    "target_meaning": "to cheat (on one's partner)"
+  },
+  {
+    "source_idiom": "close one eye",
+    "target_idiom": "fazer vista grossa",
+    "source_meaning": "to look the other way, to deliberately ignore or overlook (a mistake or transgression).",
+    "target_meaning": "to turn a blind eye (to ignore or deliberately overlook)"
+  },
+  {
+    "source_idiom": "cock of the roost",
+    "target_idiom": "nariz empinado",
+    "source_meaning": "A proud or conceited person.",
+    "target_meaning": "pride (unreasonable conceit of one’s own superiority)"
+  },
+  {
+    "source_idiom": "come apart at the seams",
+    "target_idiom": "cair aos pedaços",
+    "source_meaning": "Synonym of fall apart",
+    "target_meaning": "to fall apart (to be in a dilapidated state)"
+  },
+  {
+    "source_idiom": "come in handy",
+    "target_idiom": "vir a calhar",
+    "source_meaning": "To prove to be useful or helpful.",
+    "target_meaning": "to come in handy (to be useful or heplful)"
+  },
+  {
+    "source_idiom": "come out of the woodwork",
+    "target_idiom": "dar o ar da graça",
+    "source_meaning": "to appear or emerge unexpectedly or inexplicably, frequently in large numbers or quantity.",
+    "target_meaning": "to show up, to finally appear"
+  },
+  {
+    "source_idiom": "come right",
+    "target_idiom": "fechar com chave de ouro",
+    "source_meaning": "to have a successful or satisfying conclusion; to end well",
+    "target_meaning": "to conclude something already successful in an efficient, advantageous or otherwise positive way"
+  },
+  {
+    "source_idiom": "come to grief",
+    "target_idiom": "levar a breca",
+    "source_meaning": "To suffer a disastrous outcome.",
+    "target_meaning": "to suffer a misfortune"
+  },
+  {
+    "source_idiom": "come to nought",
+    "target_idiom": "cair por terra",
+    "source_meaning": "To fail completely; to have no successful result.",
+    "target_meaning": "to fail to succeed; to be defeated; to produce negative results"
+  },
+  {
+    "source_idiom": "come with the territory",
+    "target_idiom": "ossos do ofício",
+    "source_meaning": "To be a common, and often inconvenient, accompaniment of an occupation, situation, or occurrence.",
+    "target_meaning": "occupational hazard (hardships and unpleasant circumstances that occur in a given job)"
+  },
+  {
+    "source_idiom": "cop one's whack",
+    "target_idiom": "bater com as doze",
+    "source_meaning": "To die.",
+    "target_meaning": "to die"
+  },
+  {
+    "source_idiom": "cop one's whack",
+    "target_idiom": "ir desta para melhor",
+    "source_meaning": "To die.",
+    "target_meaning": "to die"
+  },
+  {
+    "source_idiom": "cost the earth",
+    "target_idiom": "custar o olho da cara",
+    "source_meaning": "To be a huge expense.",
+    "target_meaning": "to cost very much, to be highly expensive"
+  },
+  {
+    "source_idiom": "couldn't care less",
+    "target_idiom": "cagar e andar",
+    "source_meaning": "to not care at all; to have no interest or concern; to be apathetic.",
+    "target_meaning": "to have no interest; to be unconcerned; to not care"
+  },
+  {
+    "source_idiom": "crank the handle",
+    "target_idiom": "dar um prego numa barra de sabão",
+    "source_meaning": "To perform a process; to do some work.",
+    "target_meaning": "to work"
+  },
+  {
+    "source_idiom": "cream the crop",
+    "target_idiom": "escolher a dedo",
+    "source_meaning": "To pick out the most valuable or desirable things or people from a group for one's own interests.",
+    "target_meaning": "to cherry-pick (to choose carefully or to pick out the best or most desirable items from a list or group)"
+  },
+  {
+    "source_idiom": "cross the Rubicon",
+    "target_idiom": "atravessar o Rubicão",
+    "source_meaning": "To make an irreversible decision or to take an action with consequences.",
+    "target_meaning": "to cross the Rubicon (to make an irreversible decision)"
+  },
+  {
+    "source_idiom": "crush it",
+    "target_idiom": "botar pra quebrar",
+    "source_meaning": "To do something excellently",
+    "target_meaning": "to do something well and willingly"
+  },
+  {
+    "source_idiom": "curry favor",
+    "target_idiom": "pagar pau",
+    "source_meaning": "To seek to gain favor by flattery or attention.",
+    "target_meaning": "to fawn (seek approbation by flattery)"
+  },
+  {
+    "source_idiom": "cut a dash",
+    "target_idiom": "dar espetáculo",
+    "source_meaning": "To make a display of oneself; to give a conspicuous impression.",
+    "target_meaning": "to make a show of oneself"
+  },
+  {
+    "source_idiom": "cut both ways",
+    "target_idiom": "faca de dois gumes",
+    "source_meaning": "To have both benefits and drawbacks.",
+    "target_meaning": "double-edged sword (benefit that is also a liability)"
+  },
+  {
+    "source_idiom": "cut it",
+    "target_idiom": "dar para o gasto",
+    "source_meaning": "To suffice; to be effective or successful.",
+    "target_meaning": "to be sufficient"
+  },
+  {
+    "source_idiom": "cut someone some slack",
+    "target_idiom": "deixar barato",
+    "source_meaning": "To make allowances for someone, and not treat a failure severely.",
+    "target_meaning": "to not punish someone enough or at all for something wrong they did"
+  },
+  {
+    "source_idiom": "damn straight",
+    "target_idiom": "com certeza",
+    "source_meaning": "Without doubt, certainly, for sure.",
+    "target_meaning": "surely, with certainty (emphatic positive answer)"
+  },
+  {
+    "source_idiom": "day in, day out",
+    "target_idiom": "todo santo dia",
+    "source_meaning": "Every day; daily; constantly or continuously (especially, of something that has become routine or monotonous).",
+    "target_meaning": "every single day"
+  },
+  {
+    "source_idiom": "dead of night",
+    "target_idiom": "noite morta",
+    "source_meaning": "Middle of the night.",
+    "target_meaning": "dead of night (the middle of the night)"
+  },
+  {
+    "source_idiom": "deep water",
+    "target_idiom": "saia justa",
+    "source_meaning": "A difficult or embarrassing situation.",
+    "target_meaning": "tight spot (difficult situation, especially an embarrassing, awkward one)"
+  },
+  {
+    "source_idiom": "dine on ashes",
+    "target_idiom": "chorar sobre o leite derramado",
+    "source_meaning": "To mope over past defeats or failures.",
+    "target_meaning": "to cry over spilt milk (to worry about unfortunate events which have already happened)"
+  },
+  {
+    "source_idiom": "dirt-poor",
+    "target_idiom": "não ter onde cair morto",
+    "source_meaning": "In a condition of extreme poverty.",
+    "target_meaning": "to be extremely poor"
+  },
+  {
+    "source_idiom": "do by halves",
+    "target_idiom": "deixar rabo",
+    "source_meaning": "To perform (a task, etc) partially or incompletely; to do (something) inadequately, halfheartedly, or shoddily.",
+    "target_meaning": "to half-ass (to leave something poorly or incompletely done)"
+  },
+  {
+    "source_idiom": "do someone like that",
+    "target_idiom": "fazer gato-sapato",
+    "source_meaning": "to treat someone in a negative manner",
+    "target_meaning": "to humiliate, to play or to treat someone with despise"
+  },
+  {
+    "source_idiom": "down the cludgie",
+    "target_idiom": "ralo abaixo",
+    "source_meaning": "Alternative form of down the toilet: wasted or irretrievable.",
+    "target_meaning": "down the drain (wasted, squandered; irretrievable)"
+  },
+  {
+    "source_idiom": "draw the line",
+    "target_idiom": "medir esforços",
+    "source_meaning": "To set a boundary, rule, or limit, especially on what one will tolerate.",
+    "target_meaning": "to have a limit on what one is willing to do to achieve something"
+  },
+  {
+    "source_idiom": "drop in the ocean",
+    "target_idiom": "gota d'água no oceano",
+    "source_meaning": "A very small or insignificant amount; something of little importance, especially an inconsequential effort or action as compared to a huge problem.",
+    "target_meaning": "drop in the bucket (an action or thing having very little influence)"
+  },
+  {
+    "source_idiom": "duck soup",
+    "target_idiom": "mamão com açúcar",
+    "source_meaning": "Something which is easy; a piece of cake.",
+    "target_meaning": "very easy, easy as pie, piece of cake"
+  },
+  {
+    "source_idiom": "eat an elephant one bite at a time",
+    "target_idiom": "um passo de cada vez",
+    "source_meaning": "To do something one step at a time; to do something in steps rather than all at once.",
+    "target_meaning": "one step at a time"
+  },
+  {
+    "source_idiom": "eat crow",
+    "target_idiom": "dar o braço a torcer",
+    "source_meaning": "To recognize that one has been shown to be mistaken or outdone, especially by admitting that one has made a humiliating error.",
+    "target_meaning": "to admit that one is wrong"
+  },
+  {
+    "source_idiom": "eat for two",
+    "target_idiom": "trazer ao mundo",
+    "source_meaning": "To be pregnant",
+    "target_meaning": "to give birth"
+  },
+  {
+    "source_idiom": "eat one's cake and have it too",
+    "target_idiom": "ter sol na eira e chuva no nabal",
+    "source_meaning": "Alternative form of have one's cake and eat it too",
+    "target_meaning": "to have one's cake and eat it too (to seek to have two things which are mutually incompatible)"
+  },
+  {
+    "source_idiom": "eat one's hat",
+    "target_idiom": "comer o chapéu",
+    "source_meaning": "Used in a result clause to express disbelief in a proposition expressed in a conditional clause.",
+    "target_meaning": "to eat one's hat (used to express disbelief about a proposition)"
+  },
+  {
+    "source_idiom": "eat out of someone's hand",
+    "target_idiom": "comer nas mãos de alguém",
+    "source_meaning": "To behave in a docile, submissive way towards someone.",
+    "target_meaning": "to eat out of someone's hand (to be submissive due to fascination)"
+  },
+  {
+    "source_idiom": "end in tears",
+    "target_idiom": "dar ruim",
+    "source_meaning": "To end badly.",
+    "target_meaning": "to result in something bad"
+  },
+  {
+    "source_idiom": "ever after",
+    "target_idiom": "em definitivo",
+    "source_meaning": "forever, for eternity",
+    "target_meaning": "for good (forever; permanently)"
+  },
+  {
+    "source_idiom": "eye of the storm",
+    "target_idiom": "olho da tempestade",
+    "source_meaning": "A period of calm in a tumultuous time.",
+    "target_meaning": "eye of the storm (a period of calm in a tumultuous time)"
+  },
+  {
+    "source_idiom": "fair shake",
+    "target_idiom": "ombro a ombro",
+    "source_meaning": "Reasonable, unbiased treatment; a fair deal.",
+    "target_meaning": "on equal terms"
+  },
+  {
+    "source_idiom": "fall by the wayside",
+    "target_idiom": "ir para o brejo",
+    "source_meaning": "To fail to be completed, particularly for lack of interest; to be left out, to suffer from neglect.",
+    "target_meaning": "to be forgotten, abandoned, discontinued or fail to produce results or consequences"
+  },
+  {
+    "source_idiom": "fall short",
+    "target_idiom": "deixar a desejar",
+    "source_meaning": "To be less satisfactory than expected; to be inadequate or insufficient.",
+    "target_meaning": "to leave much to be desired, to be underwhelming; to be worse than expected; not to live up to expectations"
+  },
+  {
+    "source_idiom": "fall through the cracks",
+    "target_idiom": "fazer falta",
+    "source_meaning": "To be missed; to escape the necessary notice or attention.",
+    "target_meaning": "to be missed, to be needed"
+  },
+  {
+    "source_idiom": "find fault",
+    "target_idiom": "botar defeito",
+    "source_meaning": "To criticize something excessively.",
+    "target_meaning": "to criticise something that is fine; to be excessively perfectionist"
+  },
+  {
+    "source_idiom": "first off",
+    "target_idiom": "em primeiro lugar",
+    "source_meaning": "Firstly; before anything else. Often used to introduce the first in a list of points to be made in conversation.",
+    "target_meaning": "first of all (before anything else is mentioned)"
+  },
+  {
+    "source_idiom": "first up",
+    "target_idiom": "antes de tudo",
+    "source_meaning": "Firstly; before anything else.",
+    "target_meaning": "first of all (before anything else)"
+  },
+  {
+    "source_idiom": "flesh one's maiden sword",
+    "target_idiom": "batismo de fogo",
+    "source_meaning": "To experience or succeed in combat or struggle for the first time, as in the military or in politics.",
+    "target_meaning": "baptism of fire (the first experience of a severe ordeal)"
+  },
+  {
+    "source_idiom": "flower of the flock",
+    "target_idiom": "se melhorar, estraga",
+    "source_meaning": "Something exceedingly good or the best of its type.",
+    "target_meaning": "said of something that is very good, to a point that (literally or figuratively) it can't be improved further"
+  },
+  {
+    "source_idiom": "foot-in-mouth disease",
+    "target_idiom": "calado é poeta",
+    "source_meaning": "A tendency to make remarks that are embarrassingly wrong or inappropriate.",
+    "target_meaning": "Indicates that someone often says stupid, disagreeable, or obnoxious things."
+  },
+  {
+    "source_idiom": "for a song",
+    "target_idiom": "a preço de banana",
+    "source_meaning": "For a very low price; very cheaply.",
+    "target_meaning": "cheaply"
+  },
+  {
+    "source_idiom": "for all the world to see",
+    "target_idiom": "em plena luz do dia",
+    "source_meaning": "in plain view; clearly visible",
+    "target_meaning": "in broad daylight (in a blatant and visible manner)"
+  },
+  {
+    "source_idiom": "for chrissake",
+    "target_idiom": "meu ouvido não é penico",
+    "source_meaning": "used to express annoyance or frustration",
+    "target_meaning": "said to express annoyance at something that another person said"
+  },
+  {
+    "source_idiom": "for fudge's sake",
+    "target_idiom": "pelo amor de deus",
+    "source_meaning": "for fuck's sake. An expression of anger or frustration.",
+    "target_meaning": "for the love of God (expressing anger or exasperation)"
+  },
+  {
+    "source_idiom": "for the fuck of it",
+    "target_idiom": "por que cargas d'água",
+    "source_meaning": "Alternative form of for the hell of it",
+    "target_meaning": "why the hell; why the heck"
+  },
+  {
+    "source_idiom": "for the time being",
+    "target_idiom": "à partida",
+    "source_meaning": "Temporarily; for now; until later; until the situation changes; in an indefinite period of time.",
+    "target_meaning": "in principle; provisionally"
+  },
+  {
+    "source_idiom": "force of habit",
+    "target_idiom": "força do hábito",
+    "source_meaning": "an act that has been repeated to the point where the performance of the act becomes automatic",
+    "target_meaning": "the tendency of doing something because it is a habit even when it is not necessary or expected"
+  },
+  {
+    "source_idiom": "free hand",
+    "target_idiom": "rédea solta",
+    "source_meaning": "free rein",
+    "target_meaning": "free rein (the absence of constraints)"
+  },
+  {
+    "source_idiom": "from A to Z",
+    "target_idiom": "de A a Z",
+    "source_meaning": "Covering a complete range; comprehensively; from beginning to end.",
+    "target_meaning": "covering a complete range, comprehensively, thoroughly"
+  },
+  {
+    "source_idiom": "from the ground up",
+    "target_idiom": "do zero",
+    "source_meaning": "From the beginning; starting with the basics, foundation, or fundamentals.",
+    "target_meaning": "from scratch (from the beginning)"
+  },
+  {
+    "source_idiom": "fuck if I know",
+    "target_idiom": "saber lá",
+    "source_meaning": "I have no idea whatsoever",
+    "target_meaning": "to have no idea"
+  },
+  {
+    "source_idiom": "fuck knows",
+    "target_idiom": "Deus sabe",
+    "source_meaning": "I don't know; nobody knows; it is unclear.",
+    "target_meaning": "God knows (I don't know; nobody knows; it is unclear)"
+  },
+  {
+    "source_idiom": "gagging for it",
+    "target_idiom": "fogo no rabo",
+    "source_meaning": "Having a strong desire for something; especially sex.",
+    "target_meaning": "horniness (sexual excitement)"
+  },
+  {
+    "source_idiom": "gallows humor",
+    "target_idiom": "rir para não chorar",
+    "source_meaning": "A form of comedy that still manages to be humorous in the face of, and in response to, a tragic or hopeless situation.",
+    "target_meaning": "to face a situation so tragic that one cannot help but laugh at their own misery"
+  },
+  {
+    "source_idiom": "get down to cases",
+    "target_idiom": "tocar no assunto",
+    "source_meaning": "To start to discuss or consider the most important details or facts about something.",
+    "target_meaning": "to approach a subject; to speak about a specific issue"
+  },
+  {
+    "source_idiom": "get into one's stride",
+    "target_idiom": "pegar o jeito",
+    "source_meaning": "To become familiar with something",
+    "target_meaning": "to get the hang of (to learn how to do something) [ ]"
+  },
+  {
+    "source_idiom": "get one's bowels in an uproar",
+    "target_idiom": "pegar ar",
+    "source_meaning": "to become upset",
+    "target_meaning": "to become irritated"
+  },
+  {
+    "source_idiom": "get one's fuck on",
+    "target_idiom": "dar no couro",
+    "source_meaning": "to have sex",
+    "target_meaning": "to have or be available to frequent sexual relations, especially within a marriage"
+  },
+  {
+    "source_idiom": "get out of here",
+    "target_idiom": "é mole",
+    "source_meaning": "An exclamation of disbelief.",
+    "target_meaning": "can you believe it? (rhetorical question asked in disbelief or dismay)"
+  },
+  {
+    "source_idiom": "get up on the wrong side of the bed",
+    "target_idiom": "acordar com o pé esquerdo",
+    "source_meaning": "To feel irritable; to be in a bad mood; to have a bad day from the start, for no particular reason.",
+    "target_meaning": "to get up on the wrong side of the bed (to be in a bad mood; to have a bad day from the start, for no particular reason)"
+  },
+  {
+    "source_idiom": "get up with the chickens",
+    "target_idiom": "dormir com as galinhas",
+    "source_meaning": "to wake up early",
+    "target_meaning": "to sleep early"
+  },
+  {
+    "source_idiom": "get what's coming to one",
+    "target_idiom": "ajoelhou tem que rezar",
+    "source_meaning": "To experience the consequences of one's actions.",
+    "target_meaning": "A person needs to deal with the consequences of their actions; you made the bed, now lie in it."
+  },
+  {
+    "source_idiom": "give a fuck",
+    "target_idiom": "dar a mínima",
+    "source_meaning": "To care; to give a shit.",
+    "target_meaning": "to give a shit; to care"
+  },
+  {
+    "source_idiom": "give someone a speaking to",
+    "target_idiom": "puxão de orelha",
+    "source_meaning": "To scold a person.",
+    "target_meaning": "scolding"
+  },
+  {
+    "source_idiom": "glass ceiling",
+    "target_idiom": "telhado de vidro",
+    "source_meaning": "An unwritten, uncodified barrier to further promotion or progression, in employment and elsewhere, for a member of a specific demographic group.",
+    "target_meaning": "glass ceiling"
+  },
+  {
+    "source_idiom": "go by the wayside",
+    "target_idiom": "ficar para trás",
+    "source_meaning": "To become obsolete or outmoded.",
+    "target_meaning": "to be superseded"
+  },
+  {
+    "source_idiom": "go down the drain",
+    "target_idiom": "quebrar a cara",
+    "source_meaning": "to fail.",
+    "target_meaning": "to fail"
+  },
+  {
+    "source_idiom": "go in the out door",
+    "target_idiom": "queimar a rosca",
+    "source_meaning": "To engage in anal sex.",
+    "target_meaning": "to take it up the ass (to assume a passive role in anal sex)"
+  },
+  {
+    "source_idiom": "go into one's shell",
+    "target_idiom": "tremer as bases",
+    "source_meaning": "To act defensively.",
+    "target_meaning": "to act apprehensively"
+  },
+  {
+    "source_idiom": "go left",
+    "target_idiom": "ir de mal a pior",
+    "source_meaning": "To take a turn for the worse, to go horribly wrong.",
+    "target_meaning": "to go from bad to worse"
+  },
+  {
+    "source_idiom": "go pear-shaped",
+    "target_idiom": "dar zebra",
+    "source_meaning": "To go awry; to go wrong. [from 1980s]",
+    "target_meaning": "to go wrong"
+  },
+  {
+    "source_idiom": "go through with",
+    "target_idiom": "levar a cabo",
+    "source_meaning": "To carry out (something planned or promised); to proceed with or continue with.",
+    "target_meaning": "to carry out (to do something)"
+  },
+  {
+    "source_idiom": "go too far",
+    "target_idiom": "passar dos limites",
+    "source_meaning": "To exceed an unstated limit, especially a limit of acceptable behaviour.",
+    "target_meaning": "to cross the line (to exceed the limit of acceptable behaviour)"
+  },
+  {
+    "source_idiom": "go walking",
+    "target_idiom": "tomar chá de sumiço",
+    "source_meaning": "to disappear; to go missing",
+    "target_meaning": "to be nowhere to be seen; to disappear (figuratively)"
+  },
+  {
+    "source_idiom": "go without saying",
+    "target_idiom": "dispensar apresentações",
+    "source_meaning": "To not need to be said or mentioned; to be obvious, apparent, clear, or already established.",
+    "target_meaning": "to need no introduction (said of someone or something that is likely already known by all the interlocutors)"
+  },
+  {
+    "source_idiom": "golden goose",
+    "target_idiom": "mina de ouro",
+    "source_meaning": "Something that generates much profit or gives great advantages.",
+    "target_meaning": "gold mine (very profitable economic venture)"
+  },
+  {
+    "source_idiom": "golden touch",
+    "target_idiom": "toque de Midas",
+    "source_meaning": "Synonym of Midas touch (“the ability to achieve financial reward (or, more generally, success) easily and consistently”)",
+    "target_meaning": "Midas touch (ability to gain success from one’s actions)"
+  },
+  {
+    "source_idiom": "good egg",
+    "target_idiom": "sal da terra",
+    "source_meaning": "A good person, someone to be trusted; a friend.",
+    "target_meaning": "salt of the earth (a decent, dependable person)"
+  },
+  {
+    "source_idiom": "good-for-nothing",
+    "target_idiom": "não valer um centavo",
+    "source_meaning": "Useless; worthless.",
+    "target_meaning": "to be worthless; to be without use or value"
+  },
+  {
+    "source_idiom": "grab life by the throat",
+    "target_idiom": "encarar de frente",
+    "source_meaning": "Synonym of take the bull by the horns.",
+    "target_meaning": "to take the bull by the horns (to deal directly with a matter; to confront a difficulty)"
+  },
+  {
+    "source_idiom": "grand total",
+    "target_idiom": "à vista",
+    "source_meaning": "The entire or final sum.",
+    "target_meaning": "(payment) in full, as opposed to in installments"
+  },
+  {
+    "source_idiom": "grease someone's palm",
+    "target_idiom": "untar as mãos a alguém",
+    "source_meaning": "To bribe a person.",
+    "target_meaning": "to grease someone's palm"
+  },
+  {
+    "source_idiom": "great job",
+    "target_idiom": "bem passado",
+    "source_meaning": "well done; congratulations! (a praise for someone's efforts, possibly to a higher degree than good job!)",
+    "target_meaning": "well done (well cooked)"
+  },
+  {
+    "source_idiom": "grist for the mill",
+    "target_idiom": "mão na roda",
+    "source_meaning": "Something that is useful or that creates a favorable opportunity.",
+    "target_meaning": "something very convenient and helpful; something that comes in handy"
+  },
+  {
+    "source_idiom": "grit one's teeth",
+    "target_idiom": "dar a cara a tapa",
+    "source_meaning": "To face up to a difficult or disagreeable situation and deal with it.",
+    "target_meaning": "to face boldly some possibly unpleasant situation"
+  },
+  {
+    "source_idiom": "grunt level",
+    "target_idiom": "fundo do poço",
+    "source_meaning": "The lowest, basic, least sophisticated level.",
+    "target_meaning": "rock bottom (the very lowest possible level)"
+  },
+  {
+    "source_idiom": "hand it to someone",
+    "target_idiom": "dar biscoito",
+    "source_meaning": "To give somebody credit or praise.",
+    "target_meaning": "To give attention or praise to (someone). [ ]"
+  },
+  {
+    "source_idiom": "hard done by",
+    "target_idiom": "fazer de gato e sapato",
+    "source_meaning": "used, cheated, or exploited by",
+    "target_meaning": "to use, exploit, mistreat or humiliate someone"
+  },
+  {
+    "source_idiom": "harp on the same string",
+    "target_idiom": "bater na tecla",
+    "source_meaning": "To repeatedly say the same thing.",
+    "target_meaning": "to repeatedly insist on expressing some opinion or point of view"
+  },
+  {
+    "source_idiom": "have a time of it",
+    "target_idiom": "comer o pão que o diabo amassou",
+    "source_meaning": "To undergo a painful or difficult experience.",
+    "target_meaning": "to face great difficulties or suffering in one's life, often to obtain something"
+  },
+  {
+    "source_idiom": "have a way with",
+    "target_idiom": "dar cartas",
+    "source_meaning": "To be skilled, adept, or graceful with or at (something).",
+    "target_meaning": "to be skilled in"
+  },
+  {
+    "source_idiom": "have an eye for",
+    "target_idiom": "dar por isso",
+    "source_meaning": "To notice, discern, or appreciate easily.",
+    "target_meaning": "to notice, to realize"
+  },
+  {
+    "source_idiom": "have it large",
+    "target_idiom": "sexo, drogas e rock and roll",
+    "source_meaning": "To engage intensely in pleasure-seeking activities.",
+    "target_meaning": "sex, drugs and rock 'n' roll (indulgent and pleasurable activities)"
+  },
+  {
+    "source_idiom": "have one's hands full",
+    "target_idiom": "pensar na morte da bezerra",
+    "source_meaning": "To be busy or thoroughly preoccupied.",
+    "target_meaning": "to be lost in thought (preoccupied with one’s thoughts rather than paying attention to reality)"
+  },
+  {
+    "source_idiom": "have something to show for something",
+    "target_idiom": "sair ganhando",
+    "source_meaning": "to have (some profit, reward, benefit, etc.) as a result of (one's work, expenditure, etc.)",
+    "target_meaning": "to benefit from something"
+  },
+  {
+    "source_idiom": "have the floor",
+    "target_idiom": "dar a palavra",
+    "source_meaning": "To have permission or time to speak, especially in a formal situation.",
+    "target_meaning": "to give the floor"
+  },
+  {
+    "source_idiom": "head to toe",
+    "target_idiom": "da cabeça aos pés",
+    "source_meaning": "Entirely; completely; over one's full body.",
+    "target_meaning": "head to toe"
+  },
+  {
+    "source_idiom": "heavy-footed",
+    "target_idiom": "a passo de caracol",
+    "source_meaning": "Slow-moving.",
+    "target_meaning": "at a snail's pace; very slowly."
+  },
+  {
+    "source_idiom": "hell if I care",
+    "target_idiom": "tanto faz",
+    "source_meaning": "I don't care",
+    "target_meaning": "I don't care; whatever"
+  },
+  {
+    "source_idiom": "hellhole",
+    "target_idiom": "ninho de cobra",
+    "source_meaning": "A place of intense hatred, misery, or turmoil.",
+    "target_meaning": "a place with very unpleasant people"
+  },
+  {
+    "source_idiom": "high-strung",
+    "target_idiom": "atacado",
+    "source_meaning": "Nervous; anxious; excited or excitable.",
+    "target_meaning": "nervous"
+  },
+  {
+    "source_idiom": "hill to die on",
+    "target_idiom": "com unhas e dentes",
+    "source_meaning": "An issue to pursue with wholehearted conviction and/or single-minded focus, with little or no regard to the cost and no intent of equivocation or compromise.",
+    "target_meaning": "tooth and nail (passionately; intensely; at any cost)"
+  },
+  {
+    "source_idiom": "hit someone when they are down",
+    "target_idiom": "esfregar sal na ferida",
+    "source_meaning": "Synonym of kick someone when they are down (“make things worse for someone in a difficult position”)",
+    "target_meaning": "to rub salt in the wound (to make something worse)"
+  },
+  {
+    "source_idiom": "hit the bottle",
+    "target_idiom": "afogar as mágoas",
+    "source_meaning": "To drink alcohol steadily and in excess, particularly in response to a setback.",
+    "target_meaning": "to drown one's sorrows (drink alcohol heavily to deal with miserable feelings)"
+  },
+  {
+    "source_idiom": "hit two targets with one arrow",
+    "target_idiom": "matar dois coelhos com uma cajadada só",
+    "source_meaning": "Synonym of kill two birds with one stone",
+    "target_meaning": "to kill two birds with one stone (solve two problems at once)"
+  },
+  {
+    "source_idiom": "hold one's breath",
+    "target_idiom": "esperar sentado",
+    "source_meaning": "To wait expectantly for something to happen soon.",
+    "target_meaning": "to wait for something that is unlikely to happen soon or at all; to hold one's breath"
+  },
+  {
+    "source_idiom": "hold the phone",
+    "target_idiom": "aguentar os cavalos",
+    "source_meaning": "stop; wait; whoa.",
+    "target_meaning": "hold one's horses"
+  },
+  {
+    "source_idiom": "hold water",
+    "target_idiom": "por a mais bê",
+    "source_meaning": "To withstand scrutiny or criticism; to be valid.",
+    "target_meaning": "(to prove, explain etc.) with basis on consistent evidence or arguments; irrefutably"
+  },
+  {
+    "source_idiom": "holy catfish",
+    "target_idiom": "é de cair o cu da bunda",
+    "source_meaning": "Expressing terror, awe, surprise, astonishment, etc.",
+    "target_meaning": "Expresses that something is amazing, horrifying, bizarre, impressive."
+  },
+  {
+    "source_idiom": "hurrah's nest",
+    "target_idiom": "salve-se quem puder",
+    "source_meaning": "A state of chaos and confusion.",
+    "target_meaning": "an extremely chaotic situation"
+  },
+  {
+    "source_idiom": "if the shoe fits",
+    "target_idiom": "se a carapuça serviu",
+    "source_meaning": "Ellipsis of if the shoe fits, wear it.",
+    "target_meaning": "if the shoe fits; if the cap fits"
+  },
+  {
+    "source_idiom": "in a nutshell",
+    "target_idiom": "em poucas palavras",
+    "source_meaning": "In summary; briefly or simply.",
+    "target_meaning": "in a nutshell; in summary"
+  },
+  {
+    "source_idiom": "in all honesty",
+    "target_idiom": "no duro",
+    "source_meaning": "honestly; in truth",
+    "target_meaning": "as a fact; really; truthfully"
+  },
+  {
+    "source_idiom": "in cold blood",
+    "target_idiom": "a sangue frio",
+    "source_meaning": "In a ruthless and unfeeling manner, particularly as applied to first-degree murder committed without provocation and with malice aforethought.",
+    "target_meaning": "in cold blood (in a ruthless and unfeeling manner)"
+  },
+  {
+    "source_idiom": "in layperson's terms",
+    "target_idiom": "simples assim",
+    "source_meaning": "Phrased simply, without jargon",
+    "target_meaning": "very simply"
+  },
+  {
+    "source_idiom": "in no small part",
+    "target_idiom": "de marca maior",
+    "source_meaning": "To a very great extent.",
+    "target_meaning": "to a great extent"
+  },
+  {
+    "source_idiom": "in one foul swoop",
+    "target_idiom": "de uma penada",
+    "source_meaning": "(Achieved or completed) with a single action; in a single stroke.",
+    "target_meaning": "at one stroke; at once"
+  },
+  {
+    "source_idiom": "in one's bare skin",
+    "target_idiom": "como veio ao mundo",
+    "source_meaning": "In a state of nudity.",
+    "target_meaning": "in one’s birthday suit; nakedness"
+  },
+  {
+    "source_idiom": "in other words",
+    "target_idiom": "em outras palavras",
+    "source_meaning": "Stated or interpreted another way; Used to introduce an explanation, simplification, or clarification.",
+    "target_meaning": "in other words (stated or interpreted another way)"
+  },
+  {
+    "source_idiom": "in the final analysis",
+    "target_idiom": "no final das contas",
+    "source_meaning": "All things considered; when all is said and done; in conclusion, basically and fundamentally.",
+    "target_meaning": "all things considered; all in all; at the end of the day"
+  },
+  {
+    "source_idiom": "in the here and now",
+    "target_idiom": "em carne e osso",
+    "source_meaning": "In present practice rather than in theory; with the priority of palpably and actually existing.",
+    "target_meaning": "in the flesh (with one's own body and presence)"
+  },
+  {
+    "source_idiom": "in the long run",
+    "target_idiom": "com o tempo",
+    "source_meaning": "After a very long time; eventually; over a long period of time; more generally.",
+    "target_meaning": "as time goes on, in the long run"
+  },
+  {
+    "source_idiom": "in the nick of time",
+    "target_idiom": "em cima da hora",
+    "source_meaning": "At the last possible moment; at the last minute.",
+    "target_meaning": "at the last minute (for an appointment, etc.)"
+  },
+  {
+    "source_idiom": "in the post",
+    "target_idiom": "a caminho",
+    "source_meaning": "On the way; soon to arrive.",
+    "target_meaning": "on the way; on one's way; en route"
+  },
+  {
+    "source_idiom": "in the red",
+    "target_idiom": "no vermelho",
+    "source_meaning": "Having net losses; in debt.",
+    "target_meaning": "in the red; buried in debts (having many debts to pay)"
+  },
+  {
+    "source_idiom": "in the reign of Queen Dick",
+    "target_idiom": "no Dia de São Nunca à tarde",
+    "source_meaning": "when pigs fly; never",
+    "target_meaning": "when pigs fly (never)"
+  },
+  {
+    "source_idiom": "in the spotlight",
+    "target_idiom": "estar na berlinda",
+    "source_meaning": "In the focus of attention, especially from the media.",
+    "target_meaning": "to be the subject of commentary, attention, or interest"
+  },
+  {
+    "source_idiom": "in the works",
+    "target_idiom": "sair do papel",
+    "source_meaning": "Being planned or worked upon.",
+    "target_meaning": "to be implemented, to advance from the planning phase"
+  },
+  {
+    "source_idiom": "in virtue of",
+    "target_idiom": "em virtude de",
+    "source_meaning": "Synonym of by virtue of",
+    "target_meaning": "by virtue of, because of"
+  },
+  {
+    "source_idiom": "into detail",
+    "target_idiom": "em detalhes",
+    "source_meaning": "Thoroughly; including every detail.",
+    "target_meaning": "in detail (with all particulars)"
+  },
+  {
+    "source_idiom": "ivory tower",
+    "target_idiom": "torre de marfim",
+    "source_meaning": "A sheltered, overly-academic existence or perspective, implying a disconnection or lack of awareness of reality or practical considerations.",
+    "target_meaning": "ivory tower (sheltered, overly-academic existence or perspective)"
+  },
+  {
+    "source_idiom": "jack of all trades",
+    "target_idiom": "homem dos sete ofícios",
+    "source_meaning": "One competent in many endeavours, sometimes regarded as not excelling in any of them. [from early 17th c.]",
+    "target_meaning": "jack of all trades"
+  },
+  {
+    "source_idiom": "jack of all trades, master of none",
+    "target_idiom": "pau para toda obra",
+    "source_meaning": "A person who has a competent grasp of many skills but who is not outstanding in any one.",
+    "target_meaning": "a person or tool that can perform several different tasks, a jack of all trades."
+  },
+  {
+    "source_idiom": "jaw away",
+    "target_idiom": "falar pelos cotovelos",
+    "source_meaning": "to jabber; to gabble; to ramble",
+    "target_meaning": "to rattle, to chatter, to be a blabbermouth, be talkative (to talk excessively)"
+  },
+  {
+    "source_idiom": "joined at the hip",
+    "target_idiom": "unha e carne",
+    "source_meaning": "Closely connected, as in an intimate friendship.",
+    "target_meaning": "joined at the hip; like two peas in a pod (said of people or things that are very closely connected)"
+  },
+  {
+    "source_idiom": "just like that",
+    "target_idiom": "sem mais nem menos",
+    "source_meaning": "Suddenly and unexpectedly; without warning.",
+    "target_meaning": "happening quickly and without warning; suddenly; unexpectedly; out of nowhere; out of the blue"
+  },
+  {
+    "source_idiom": "keep it moving",
+    "target_idiom": "seguir o baile",
+    "source_meaning": "To continue or advance notwithstanding any issue or obstacle.",
+    "target_meaning": "proceed, resume; go along with (a situation one does not understand etc.)"
+  },
+  {
+    "source_idiom": "keep one's tits on",
+    "target_idiom": "achantrar a mula",
+    "source_meaning": "To stay calm; to be patient; to calm down.",
+    "target_meaning": "to calm down, quiet down"
+  },
+  {
+    "source_idiom": "keep someone on ice",
+    "target_idiom": "manter no escuro",
+    "source_meaning": "To keep someone uninformed and waiting for a response.",
+    "target_meaning": "to keep (someone) in the dark (to keep someone uninformed)"
+  },
+  {
+    "source_idiom": "kick some tires",
+    "target_idiom": "ir às compras",
+    "source_meaning": "To shop for a vehicle or other item to purchase or in which to invest.",
+    "target_meaning": "to go shopping"
+  },
+  {
+    "source_idiom": "kicking and screaming",
+    "target_idiom": "a contragosto",
+    "source_meaning": "Against someone's will; with extreme reluctance on someone's part.",
+    "target_meaning": "against the grain; unwillingly; reluctantly"
+  },
+  {
+    "source_idiom": "king of beasts",
+    "target_idiom": "rei da floresta",
+    "source_meaning": "The lion.",
+    "target_meaning": "king of beasts (the lion)"
+  },
+  {
+    "source_idiom": "king's ransom",
+    "target_idiom": "uma nota firme",
+    "source_meaning": "A very large sum of money.",
+    "target_meaning": "an emphatic form of . A large quantity of money"
+  },
+  {
+    "source_idiom": "know inside and out",
+    "target_idiom": "estar cansado de saber",
+    "source_meaning": "To know (something or someone) very thoroughly.",
+    "target_meaning": "to know very well"
+  },
+  {
+    "source_idiom": "know which end is up",
+    "target_idiom": "pés no chão",
+    "source_meaning": "To possess sound judgment or common sense; to have a clear understanding of a situation.",
+    "target_meaning": "feet on the ground (sensibly, showing good sense)"
+  },
+  {
+    "source_idiom": "last burst of fire",
+    "target_idiom": "reta final",
+    "source_meaning": "A final effort, a final attempt before stopping.",
+    "target_meaning": "home stretch (final part of an effort)"
+  },
+  {
+    "source_idiom": "last-ditch",
+    "target_idiom": "último caso",
+    "source_meaning": "Final, as a last resort; done in desperation.",
+    "target_meaning": "last resort"
+  },
+  {
+    "source_idiom": "lay the groundwork",
+    "target_idiom": "preparar o terreno",
+    "source_meaning": "To create a foundation; to provide the basics or fundamentals.",
+    "target_meaning": "to lay the groundwork; to prepare the ground (to create a foundation; to provide the basics or fundamentals)"
+  },
+  {
+    "source_idiom": "lead the line",
+    "target_idiom": "jogar bola",
+    "source_meaning": "To play as centre forward.",
+    "target_meaning": "to play association football"
+  },
+  {
+    "source_idiom": "leave someone at the altar",
+    "target_idiom": "dar o bolo",
+    "source_meaning": "To abandon a prospective spouse by deciding not to get married at the last minute.",
+    "target_meaning": "to stand (someone) up (to avoid a prearranged meeting with a person – especially a date – without prior notification)"
+  },
+  {
+    "source_idiom": "leave someone holding the baby",
+    "target_idiom": "pagar as favas",
+    "source_meaning": "To abandon someone and put them in a position where they must take the responsibility or blame.",
+    "target_meaning": "to leave someone holding the bag (leave somebody holding the responsibility or blame)"
+  },
+  {
+    "source_idiom": "leave someone in the lurch",
+    "target_idiom": "deixar na mão",
+    "source_meaning": "To abandon somebody; especially, to abandon somebody and leave him or her in a difficult situation.",
+    "target_meaning": "to hang out to dry (to abandon someone in need)"
+  },
+  {
+    "source_idiom": "leave someone no choice",
+    "target_idiom": "fazer questão",
+    "source_meaning": "Make it so that someone must do something.",
+    "target_meaning": "to make a point (to make sure something is done)"
+  },
+  {
+    "source_idiom": "leave someone out in the cold",
+    "target_idiom": "dar uma banana",
+    "source_meaning": "To deliberately fail to provide someone with support; to ignore or neglect.",
+    "target_meaning": "to give nothing to someone (when giving something would be expected)"
+  },
+  {
+    "source_idiom": "leave the ball in someone's court",
+    "target_idiom": "botar na conta do papa",
+    "source_meaning": "To hand over the responsibility or choice to someone to make a decision or take action about something.",
+    "target_meaning": "to let something be handled by someone else (indicating that it is not one's own responsibility)"
+  },
+  {
+    "source_idiom": "lend a hand",
+    "target_idiom": "dar uma força",
+    "source_meaning": "To help or assist, especially voluntarily.",
+    "target_meaning": "to give a hand; to help out [ , objective pronoun ]"
+  },
+  {
+    "source_idiom": "let the cat out of the bag",
+    "target_idiom": "dar com a língua nos dentes",
+    "source_meaning": "To disclose a secret; to let a secret be known, often inadvertently.",
+    "target_meaning": "let the cat out of the bag (reveal a secret)"
+  },
+  {
+    "source_idiom": "lick my balls",
+    "target_idiom": "chupa-me os colhões",
+    "source_meaning": "Synonym of suck my balls",
+    "target_meaning": "suck my balls"
+  },
+  {
+    "source_idiom": "light at the end of the tunnel",
+    "target_idiom": "a luz no fim do túnel",
+    "source_meaning": "A better situation after long hardship.",
+    "target_meaning": "light at the end of the tunnel (a better situation after long hardship)"
+  },
+  {
+    "source_idiom": "lightningly",
+    "target_idiom": "de uma hora para outra",
+    "source_meaning": "Extremely quickly.",
+    "target_meaning": "(very) quickly"
+  },
+  {
+    "source_idiom": "like a champ",
+    "target_idiom": "às mil maravilhas",
+    "source_meaning": "Very well; with great success or skill.",
+    "target_meaning": "very well, perfectly"
+  },
+  {
+    "source_idiom": "like there is no tomorrow",
+    "target_idiom": "como se não houvesse amanhã",
+    "source_meaning": "Alternative form of as if there were no tomorrow",
+    "target_meaning": "as if there were no tomorrow"
+  },
+  {
+    "source_idiom": "line of country",
+    "target_idiom": "ser a praia de alguém",
+    "source_meaning": "One's area of specialization or interest.",
+    "target_meaning": "to be someone’s area of interest"
+  },
+  {
+    "source_idiom": "lion's share",
+    "target_idiom": "parte do leão",
+    "source_meaning": "The majority; a large or generous portion.",
+    "target_meaning": "lion's share (a large portion)"
+  },
+  {
+    "source_idiom": "live and let live",
+    "target_idiom": "viver e deixar viver",
+    "source_meaning": "To be tolerant; to enjoy the pleasures and opportunities which life offers and to allow others to do the same.",
+    "target_meaning": "to live and let live (to be tolerant)"
+  },
+  {
+    "source_idiom": "live rent-free in someone's head",
+    "target_idiom": "alugar um tríplex na cabeça de alguém",
+    "source_meaning": "To be the perpetual focus of someone's thoughts, with that person having no control over this situation.",
+    "target_meaning": "to psychologically affect someone to the point that they can't stop thinking about something or someone"
+  },
+  {
+    "source_idiom": "loaf around",
+    "target_idiom": "cozinhar o galo",
+    "source_meaning": "to do nothing in particular, be idle.",
+    "target_meaning": "not to do anything productive; to fool around"
+  },
+  {
+    "source_idiom": "long story short",
+    "target_idiom": "trocando em miúdos",
+    "source_meaning": "Introducing a short version of, or simply the conclusion of, a relevant story.",
+    "target_meaning": "long story short (introduces a short version of, or simply the conclusion of, an involved story)"
+  },
+  {
+    "source_idiom": "loose end",
+    "target_idiom": "ponta solta",
+    "source_meaning": "A small job that needs to be done, or minor problem that needs to be resolved, before a task can be considered complete.",
+    "target_meaning": "loose end (minor problem that needs to be resolved)"
+  },
+  {
+    "source_idiom": "lose one's shit",
+    "target_idiom": "perder as estribeiras",
+    "source_meaning": "To lose one's temper.",
+    "target_meaning": "to lose one's temper"
+  },
+  {
+    "source_idiom": "lucky star",
+    "target_idiom": "trevo de quatro folhas",
+    "source_meaning": "Something that appears to give a person luck",
+    "target_meaning": "four-leaf clover (something that brings good luck)"
+  },
+  {
+    "source_idiom": "magic bullet",
+    "target_idiom": "bala de prata",
+    "source_meaning": "A simple remedy for a difficult or complex problem, especially a cure for a disease.",
+    "target_meaning": "silver bullet (a miraculous and effective solution)"
+  },
+  {
+    "source_idiom": "make a case",
+    "target_idiom": "provar por a mais bê",
+    "source_meaning": "To argue for a set of facts or arguments in support of one side in a legal case.",
+    "target_meaning": "to prove based on solid arguments"
+  },
+  {
+    "source_idiom": "make a pig's ear of",
+    "target_idiom": "meter os pés pelas mãos",
+    "source_meaning": "To do badly; to make a mess of.",
+    "target_meaning": "to mess up, to fuck up (to make a mistake, to go wrong)"
+  },
+  {
+    "source_idiom": "make amends",
+    "target_idiom": "fazer as pazes",
+    "source_meaning": "To repair a relationship; to resolve an argument or fight; to make reparations or redress.",
+    "target_meaning": "to make up, to make peace, to reconcile (to resolve, forgive or smooth over an argument or fight) [ ]"
+  },
+  {
+    "source_idiom": "make an honest woman",
+    "target_idiom": "juntar os trapos",
+    "source_meaning": "To marry (a woman), especially if there is an existing sexual relationship.",
+    "target_meaning": "to engage in a romantic relationship, especially marriage"
+  },
+  {
+    "source_idiom": "make believe",
+    "target_idiom": "fazer de conta",
+    "source_meaning": "To pretend or imagine.",
+    "target_meaning": "to pretend, to make believe"
+  },
+  {
+    "source_idiom": "make ends meet",
+    "target_idiom": "pagar as contas",
+    "source_meaning": "To have enough money to cover expenses; to get by financially; to get through the pay period (sufficient to meet the next payday).",
+    "target_meaning": "to pay the bills (to provide enough income)"
+  },
+  {
+    "source_idiom": "make faces",
+    "target_idiom": "fazer cara feia",
+    "source_meaning": "To make a facial expression, often for humor, as a taunt, or to indicate distaste.",
+    "target_meaning": "to express dislike for something with a facial expression"
+  },
+  {
+    "source_idiom": "make time with",
+    "target_idiom": "dar em cima de",
+    "source_meaning": "To court or flirt with someone, to make sexual advances towards someone.",
+    "target_meaning": "to hit on (to approach seeking romance, love, sex, etc)"
+  },
+  {
+    "source_idiom": "make up one's mind",
+    "target_idiom": "sair de cima do muro",
+    "source_meaning": "To decide; to reach a conclusion.",
+    "target_meaning": "to solve a previous conflict between (usually two) different opinions or decisions; to decide"
+  },
+  {
+    "source_idiom": "many a time and oft",
+    "target_idiom": "vira e mexe",
+    "source_meaning": "Frequently.",
+    "target_meaning": "often"
+  },
+  {
+    "source_idiom": "many happy returns",
+    "target_idiom": "fazer aniversário",
+    "source_meaning": "A greeting, usually for birthdays, in reference to the passing year; Happy birthday!",
+    "target_meaning": "to turn years, to have a birthday"
+  },
+  {
+    "source_idiom": "matter of time",
+    "target_idiom": "tiro e queda",
+    "source_meaning": "An inevitable result; something that is bound to happen.",
+    "target_meaning": "something that is certain to succeed, something definitive or infallible"
+  },
+  {
+    "source_idiom": "measure the drapes",
+    "target_idiom": "contar com o ovo no cu da galinha",
+    "source_meaning": "To make premature or unwarranted preparations for victory, especially election to public office.",
+    "target_meaning": "to count one's chickens before they hatch (to count on something before it happens)"
+  },
+  {
+    "source_idiom": "member for Barkshire",
+    "target_idiom": "tosse de cachorro",
+    "source_meaning": "A person who has a cough which causes them to sound as if they are barking.",
+    "target_meaning": "barking cough (a loud, intense cough)"
+  },
+  {
+    "source_idiom": "mind one's own business",
+    "target_idiom": "cuidar da própria vida",
+    "source_meaning": "To concern oneself only with what is of interest to oneself and not interfere in the affairs of others.",
+    "target_meaning": "to mind one's own business (not to interfere in the affairs of others)"
+  },
+  {
+    "source_idiom": "mind-numbing",
+    "target_idiom": "sem sal",
+    "source_meaning": "Excessively boring, tedious, or dull; repetitive; of an activity, etc., lacking any interest or variety that might serve as intellectual stimulation.",
+    "target_meaning": "boring, dull, lackluster"
+  },
+  {
+    "source_idiom": "moment of truth",
+    "target_idiom": "momento da verdade",
+    "source_meaning": "A deciding instant; the time when a test determines or makes it apparent whether something will succeed.",
+    "target_meaning": "moment of truth (deciding instant)"
+  },
+  {
+    "source_idiom": "most an end",
+    "target_idiom": "em regra",
+    "source_meaning": "generally; most often",
+    "target_meaning": "as a rule; in general (most often)"
+  },
+  {
+    "source_idiom": "much less",
+    "target_idiom": "quanto mais",
+    "source_meaning": "Let alone; to say nothing of.",
+    "target_meaning": "let alone; to say nothing of"
+  },
+  {
+    "source_idiom": "much of a muchness",
+    "target_idiom": "farinha do mesmo saco",
+    "source_meaning": "Of two or more things, having little difference of any significance between them.",
+    "target_meaning": "much of a muchness (indicates little difference between multiple things)"
+  },
+  {
+    "source_idiom": "music to someone's ears",
+    "target_idiom": "música para os ouvidos de",
+    "source_meaning": "A spoken expression or a sound which is pleasing; specifically, some good news, or welcome information or remarks.",
+    "target_meaning": "music to (someone's) ears (good news)"
+  },
+  {
+    "source_idiom": "nail the hammer on the head",
+    "target_idiom": "acertar em cheio",
+    "source_meaning": "Nonstandard form of hit the nail on the head.",
+    "target_meaning": "hit the nail on the head (identify something exactly)"
+  },
+  {
+    "source_idiom": "neat and tidy",
+    "target_idiom": "na estica",
+    "source_meaning": "In a state of good order; tidy.",
+    "target_meaning": "neat and tidy"
+  },
+  {
+    "source_idiom": "needle in a haystack",
+    "target_idiom": "agulha num palheiro",
+    "source_meaning": "Something that is difficult or impossible to locate.",
+    "target_meaning": "needle in a haystack"
+  },
+  {
+    "source_idiom": "neither fish, flesh, nor good red herring",
+    "target_idiom": "nem carne nem peixe",
+    "source_meaning": "Synonym of neither fish nor fowl (“not easily categorized; not rightly belonging or fitting well in a given group or situation; also, not having the advantages of the various options”)",
+    "target_meaning": "neither fish nor fowl (not easily categorised)"
+  },
+  {
+    "source_idiom": "new wine in an old wineskin",
+    "target_idiom": "vinho novo em odre velho",
+    "source_meaning": "Alternative form of new wine in an old bottle",
+    "target_meaning": "new wine in old bottles (existing concept presented as if new)"
+  },
+  {
+    "source_idiom": "next thing one knows",
+    "target_idiom": "da cartola",
+    "source_meaning": "suddenly, out of the blue.",
+    "target_meaning": "out of nowhere; out of the blue (unexpectedly)"
+  },
+  {
+    "source_idiom": "night in, night out",
+    "target_idiom": "dia e noite",
+    "source_meaning": "During every night; continuously.",
+    "target_meaning": "day and night (all the time)"
+  },
+  {
+    "source_idiom": "nine-day wonder",
+    "target_idiom": "fogo de palha",
+    "source_meaning": "Something that generates interest for a limited time and is then abandoned.",
+    "target_meaning": "flash in the pan (transient occurrence with no long-term effect)"
+  },
+  {
+    "source_idiom": "no biggie",
+    "target_idiom": "nem aí",
+    "source_meaning": "not important, not something to worry about.",
+    "target_meaning": "not worried, not caring, indifferent"
+  },
+  {
+    "source_idiom": "none of someone's business",
+    "target_idiom": "não meter prego nem estopa",
+    "source_meaning": "A matter that someone is not entitled to be involved in or informed about.",
+    "target_meaning": "to not be involved in something"
+  },
+  {
+    "source_idiom": "nose-pick",
+    "target_idiom": "cutucar o nariz",
+    "source_meaning": "To pick one's nose.",
+    "target_meaning": "to pick one's nose (to remove mucus from one’s nose with a finger)"
+  },
+  {
+    "source_idiom": "not as black as one is painted",
+    "target_idiom": "nada mau",
+    "source_meaning": "not as bad as one is said to be",
+    "target_meaning": "not bad"
+  },
+  {
+    "source_idiom": "not in the least",
+    "target_idiom": "nem de longe",
+    "source_meaning": "not at all, not in any way",
+    "target_meaning": "not at all, absolutely not"
+  },
+  {
+    "source_idiom": "not one's first rodeo",
+    "target_idiom": "já vi esse filme",
+    "source_meaning": "Not the first time one has been in a particular situation; used to indicate past experience.",
+    "target_meaning": "I've already seen that same thing happening (used to indicate that the speaker is familiar to an imminent occurrence)"
+  },
+  {
+    "source_idiom": "now you're cooking",
+    "target_idiom": "que eu ganho mais",
+    "source_meaning": "A phrase, often given in response, meaning that the subject has switched to a more suitable or more efficient approach.",
+    "target_meaning": "Said when giving up something unpleasant or problematic and choosing a better alternative instead."
+  },
+  {
+    "source_idiom": "of one mind",
+    "target_idiom": "pela mesma boca",
+    "source_meaning": "Having the same viewpoint, opinion, or attitude; in agreement.",
+    "target_meaning": "in agreement; expressing the same opinion"
+  },
+  {
+    "source_idiom": "of two minds",
+    "target_idiom": "em cima do muro",
+    "source_meaning": "Undecided or unsure; equivocating; conflicted in one's opinions.",
+    "target_meaning": "divided between (usually two) opinions or decisions; uncertain; on the fence"
+  },
+  {
+    "source_idiom": "off one's nut",
+    "target_idiom": "mais louco que o padre do balão",
+    "source_meaning": "Insane, crazy.",
+    "target_meaning": "extremely crazy (especially in the context of dares)"
+  },
+  {
+    "source_idiom": "off the top of one's head",
+    "target_idiom": "às três pancadas",
+    "source_meaning": "In an extemporaneous manner; without careful thought, preparation, or investigation.",
+    "target_meaning": "sloppily; hastily"
+  },
+  {
+    "source_idiom": "offer affordances",
+    "target_idiom": "abrir caminho",
+    "source_meaning": "To give elbow room or leeway (for something to happen).",
+    "target_meaning": "make way (to give place or step aside)"
+  },
+  {
+    "source_idiom": "on bad terms",
+    "target_idiom": "não querer ver nem pintado",
+    "source_meaning": "being unfriendly; having bad relations.",
+    "target_meaning": "to be unwilling to see someone; this indicates hostility, animosity towards that person"
+  },
+  {
+    "source_idiom": "on one's high horse",
+    "target_idiom": "santo do pau oco",
+    "source_meaning": "Self-righteous; proceeding on the belief one is more correct or proper than others.",
+    "target_meaning": "holier-than-thou (hypocritically or self-righteously pious)"
+  },
+  {
+    "source_idiom": "on the back of",
+    "target_idiom": "em cima",
+    "source_meaning": "By the effort of; by drawing an unfair advantage from.",
+    "target_meaning": "depending on or sustaining from (someone or something), chiefly in an unfair way, like taking advantage"
+  },
+  {
+    "source_idiom": "on the bounce",
+    "target_idiom": "a fio",
+    "source_meaning": "consecutively, in succession",
+    "target_meaning": "uninterruptedly, continuously, constantly"
+  },
+  {
+    "source_idiom": "on the warpath",
+    "target_idiom": "em pé de guerra",
+    "source_meaning": "Very angry or upset and eager for confrontation.",
+    "target_meaning": "on the warpath (very angry or upset)"
+  },
+  {
+    "source_idiom": "on-the-spot",
+    "target_idiom": "na hora",
+    "source_meaning": "At the scene; in the right place at the exact moment.",
+    "target_meaning": "in the right moment"
+  },
+  {
+    "source_idiom": "once and for all",
+    "target_idiom": "de uma vez por todas",
+    "source_meaning": "Conclusively, finally, permanently.",
+    "target_meaning": "with finality; once and for all; finally; conclusively"
+  },
+  {
+    "source_idiom": "once in a blue moon",
+    "target_idiom": "de vez em nunca",
+    "source_meaning": "Very rarely; very infrequently.",
+    "target_meaning": "once in a blue moon (very rarely)"
+  },
+  {
+    "source_idiom": "once in a while",
+    "target_idiom": "vez ou outra",
+    "source_meaning": "Occasionally; sometimes.",
+    "target_meaning": "now and then; sometimes; occasionally"
+  },
+  {
+    "source_idiom": "once in a while",
+    "target_idiom": "vez por outra",
+    "source_meaning": "Occasionally; sometimes.",
+    "target_meaning": "now and then; sometimes; occasionally"
+  },
+  {
+    "source_idiom": "onesie-twosie",
+    "target_idiom": "um por um",
+    "source_meaning": "Individually or in very small groups, rather than in larger batches.",
+    "target_meaning": "one by one; individually"
+  },
+  {
+    "source_idiom": "only time will tell",
+    "target_idiom": "o tempo dirá",
+    "source_meaning": "Events and outcomes cannot be known beforehand.",
+    "target_meaning": "time will tell (events and outcomes cannot be known beforehand)"
+  },
+  {
+    "source_idiom": "open one's mouth",
+    "target_idiom": "dar à língua",
+    "source_meaning": "to speak",
+    "target_meaning": "to talk, to converse"
+  },
+  {
+    "source_idiom": "open wide",
+    "target_idiom": "papar moscas",
+    "source_meaning": "To open one's mouth wide, to gape",
+    "target_meaning": "to be open-mouthed and look at everything with indifference"
+  },
+  {
+    "source_idiom": "oranges with oranges",
+    "target_idiom": "misturar alhos com bugalhos",
+    "source_meaning": "Synonym of apples to apples",
+    "target_meaning": "mix apples and oranges"
+  },
+  {
+    "source_idiom": "out of frame",
+    "target_idiom": "a Deus dará",
+    "source_meaning": "Not in correct order or condition; irregular; disarranged.",
+    "target_meaning": "disordered"
+  },
+  {
+    "source_idiom": "out of one's element",
+    "target_idiom": "podia dormir sem essa",
+    "source_meaning": "In a situation which is unsuitable, unfamiliar, or unenjoyable.",
+    "target_meaning": "said of an avoidable unpleasant situation"
+  },
+  {
+    "source_idiom": "out of the ordinary",
+    "target_idiom": "fora do normal",
+    "source_meaning": "Unusual or exceptional, especially for the better.",
+    "target_meaning": "out of the ordinary; unusual"
+  },
+  {
+    "source_idiom": "out to lunch",
+    "target_idiom": "dar bobeira",
+    "source_meaning": "Clueless, inattentive, or careless.",
+    "target_meaning": "to behave inattentively, obliviously, or uncarefully"
+  },
+  {
+    "source_idiom": "outside the box",
+    "target_idiom": "fora da caixa",
+    "source_meaning": "Beyond the bounds of convention.",
+    "target_meaning": "outside the box (beyond convention)"
+  },
+  {
+    "source_idiom": "packed to the rafters",
+    "target_idiom": "rebentar pelas costuras",
+    "source_meaning": "Completely full (of things, of stuff); packed; stuffed.",
+    "target_meaning": "to burst at the seams (to be completely full)"
+  },
+  {
+    "source_idiom": "paint the town red",
+    "target_idiom": "pintar o sete",
+    "source_meaning": "To party or celebrate in a rowdy, wild manner, especially in a public place.",
+    "target_meaning": "to paint the town red"
+  },
+  {
+    "source_idiom": "pair of shoes",
+    "target_idiom": "outros quinhentos",
+    "source_meaning": "A case or situation that is different from another.",
+    "target_meaning": "\"another thing\": a different case or situation, often where rules of previous cases do not apply"
+  },
+  {
+    "source_idiom": "paper tiger",
+    "target_idiom": "tigre de papel",
+    "source_meaning": "A seemingly fierce or powerful person, country or organisation without the ability to back up their words; apparently powerful but actually ineffective.",
+    "target_meaning": "paper tiger (a seemingly fierce or powerful person, country or organisation)"
+  },
+  {
+    "source_idiom": "pay one's debt to society",
+    "target_idiom": "ver o sol nascer quadrado",
+    "source_meaning": "To serve time in prison or a similar correctional facility.",
+    "target_meaning": "to serve time"
+  },
+  {
+    "source_idiom": "pay through the nose",
+    "target_idiom": "enfiar a faca",
+    "source_meaning": "To pay an exorbitant or excessive amount, either in money or in some other manner. [from 17th c.]",
+    "target_meaning": "to charge too much for a product or service"
+  },
+  {
+    "source_idiom": "people mountain people sea",
+    "target_idiom": "lata de sardinha",
+    "source_meaning": "crowded or jam-packed with people",
+    "target_meaning": "an extremely crowded, tight place or vehicle (a bus, a train, etc.), to the extent that the people are unable to move"
+  },
+  {
+    "source_idiom": "pick holes",
+    "target_idiom": "procurar pelo em ovo",
+    "source_meaning": "To find weaknesses, errors or imperfections (in).",
+    "target_meaning": "to search for problems or faults where there isn't any real or relevant one"
+  },
+  {
+    "source_idiom": "pig in a poke",
+    "target_idiom": "nabos em saco",
+    "source_meaning": "Something whose true value is concealed or unknown and may be lower than expected by the buyer or claimed by the seller, especially something offered for sale.",
+    "target_meaning": "pig in a poke (something whose true value is concealed or unknown)"
+  },
+  {
+    "source_idiom": "plant one's feet",
+    "target_idiom": "bater o pé",
+    "source_meaning": "To insist on something firmly or with stubbornness.",
+    "target_meaning": "to insist (to demand continually)"
+  },
+  {
+    "source_idiom": "play on words",
+    "target_idiom": "duplo sentido",
+    "source_meaning": "A pun, or similar humorous use of language such as a double entendre.",
+    "target_meaning": "double entendre"
+  },
+  {
+    "source_idiom": "plow the sands",
+    "target_idiom": "enxugar gelo",
+    "source_meaning": "to spend considerable time and effort to do something useless; to waste time",
+    "target_meaning": "to work hard on something that brings little or no benefit"
+  },
+  {
+    "source_idiom": "point blank",
+    "target_idiom": "na lata",
+    "source_meaning": "Directly; bluntly; without pretense or caution.",
+    "target_meaning": "quickly; directly; straightforward; without much deliberation"
+  },
+  {
+    "source_idiom": "poor as a rat",
+    "target_idiom": "com uma mão na frente e a outra atrás",
+    "source_meaning": "Very poor, to the point of starving or begging; utterly destitute.",
+    "target_meaning": "extremely poor; having no money"
+  },
+  {
+    "source_idiom": "poor as a rat",
+    "target_idiom": "sem eira nem beira",
+    "source_meaning": "Very poor, to the point of starving or begging; utterly destitute.",
+    "target_meaning": "destitute; penniless (extremely poor)"
+  },
+  {
+    "source_idiom": "pot calling the kettle black",
+    "target_idiom": "roto falando do esfarrapado",
+    "source_meaning": "A situation in which somebody comments on or accuses someone else of a fault which the accuser shares.",
+    "target_meaning": "pot calling the kettle black (somebody who accuses someone else of a fault shared by the accuser)"
+  },
+  {
+    "source_idiom": "pour cold water over",
+    "target_idiom": "jogar um balde de água fria",
+    "source_meaning": "Synonym of throw cold water on",
+    "target_meaning": "to throw cold water on"
+  },
+  {
+    "source_idiom": "preach to the choir",
+    "target_idiom": "pregar aos convertidos",
+    "source_meaning": "To speak as if to convince a person or group of something they already believe.",
+    "target_meaning": "to preach to the choir (to attempt to convince someone of something they already believe)"
+  },
+  {
+    "source_idiom": "pull out of one's arse",
+    "target_idiom": "tirar um coelho da cartola",
+    "source_meaning": "Alternative form of pull out of one's ass.",
+    "target_meaning": "to pull a rabbit out of a hat"
+  },
+  {
+    "source_idiom": "pull the long bow",
+    "target_idiom": "exagerar a verdade",
+    "source_meaning": "to exaggerate; to tell tall tales",
+    "target_meaning": "to stretch the truth (to exaggerate)"
+  },
+  {
+    "source_idiom": "put a lid on",
+    "target_idiom": "apagar um incêndio",
+    "source_meaning": "To get under control, to prevent (something) from increasing or becoming more of a problem.",
+    "target_meaning": "to put out a fire (to address a problem)"
+  },
+  {
+    "source_idiom": "put all one's eggs in one basket",
+    "target_idiom": "colocar todos os ovos em uma única cesta",
+    "source_meaning": "To rely on a single source (as of income), rather than diversifying.",
+    "target_meaning": "to have all one's eggs in one basket (to have invested effort in one area only)"
+  },
+  {
+    "source_idiom": "put on airs",
+    "target_idiom": "erguer o nariz",
+    "source_meaning": "To become haughty, to assume a pretentious manner.",
+    "target_meaning": "to put on airs (to become haughty, to assume a haughty manner)"
+  },
+  {
+    "source_idiom": "put oneself across",
+    "target_idiom": "falar coisa com coisa",
+    "source_meaning": "To explain one's ideas and opinions clearly so that another person can understand them and get a picture of your personality.",
+    "target_meaning": "to express oneself coherently, concisely, or in a way that makes sense"
+  },
+  {
+    "source_idiom": "put someone to their trumps",
+    "target_idiom": "ficar chato",
+    "source_meaning": "To put someone in a difficult situation.",
+    "target_meaning": "to cause an awkward, uncomfortable situation"
+  },
+  {
+    "source_idiom": "put someone's back up",
+    "target_idiom": "dar nos nervos",
+    "source_meaning": "to annoy someone.",
+    "target_meaning": "to get on someone's nerves (to annoy or irritate)"
+  },
+  {
+    "source_idiom": "put someone's back up",
+    "target_idiom": "encher os pacovás",
+    "source_meaning": "to annoy someone.",
+    "target_meaning": "to annoy; to disturb"
+  },
+  {
+    "source_idiom": "put the cart before the horse",
+    "target_idiom": "colocar o carro à frente dos bois",
+    "source_meaning": "To put things in the wrong order or with the wrong priorities; to put something inconsequential as more important than something more essential.",
+    "target_meaning": "to put the cart before the horse (to have the wrong priorities)"
+  },
+  {
+    "source_idiom": "put two and two together",
+    "target_idiom": "juntar dois mais dois",
+    "source_meaning": "To figure something out; to deduce or discern something.",
+    "target_meaning": "toput two and two together"
+  },
+  {
+    "source_idiom": "putty in someone's hands",
+    "target_idiom": "joguete nas mãos de",
+    "source_meaning": "One who is readily manipulated or controlled by another person; a puppet.",
+    "target_meaning": "putty in someone's hands (a person easily manipulated)"
+  },
+  {
+    "source_idiom": "rain or shine",
+    "target_idiom": "faça chuva ou faça sol",
+    "source_meaning": "Regardless of the circumstances; (more literally) regardless of the state of the weather.",
+    "target_meaning": "rain or shine (regardless of the circumstances)"
+  },
+  {
+    "source_idiom": "rain pitchforks",
+    "target_idiom": "chover a cântaros",
+    "source_meaning": "to rain heavily.",
+    "target_meaning": "rain cats and dogs (to rain very heavily)"
+  },
+  {
+    "source_idiom": "raise one's voice",
+    "target_idiom": "levantar a voz",
+    "source_meaning": "To speak loudly, especially in anger.",
+    "target_meaning": "To raise one's voice."
+  },
+  {
+    "source_idiom": "ram something down someone's throat",
+    "target_idiom": "jogar na cara",
+    "source_meaning": "To shove something down someone's throat.",
+    "target_meaning": "to rub it in, to shove in someone's face"
+  },
+  {
+    "source_idiom": "read between the lines",
+    "target_idiom": "ler nas entrelinhas",
+    "source_meaning": "To infer a meaning that is not stated explicitly.",
+    "target_meaning": "to read between the lines (to infer a meaning that is not stated explicitly)"
+  },
+  {
+    "source_idiom": "reap what one sows",
+    "target_idiom": "colher o que semear",
+    "source_meaning": "To receive as a return or reward in the same measure as one's exertions or intentions, in a good or a bad sense; to receive justice or one's just deserts.",
+    "target_meaning": "to reap what one sows (receive justice)"
+  },
+  {
+    "source_idiom": "reinvent the wheel",
+    "target_idiom": "reinventar a roda",
+    "source_meaning": "To do work unnecessarily when it has already been done satisfactorily by others; to attempt to devise a solution to a problem when a solution already exists.",
+    "target_meaning": "to reinvent the wheel (to redo work unnecessarily)"
+  },
+  {
+    "source_idiom": "rest on one's laurels",
+    "target_idiom": "dormir sobre os louros",
+    "source_meaning": "To rely on a past success instead of trying to improve oneself further.",
+    "target_meaning": "to rest on one's laurels (to rely on a past success instead of trying to improve oneself further)"
+  },
+  {
+    "source_idiom": "ride the pine",
+    "target_idiom": "esquentar banco",
+    "source_meaning": "To sit on the bench, to not be used in a game.",
+    "target_meaning": "to ride the pine (to not be used in a game)"
+  },
+  {
+    "source_idiom": "ring one's bell",
+    "target_idiom": "ver estrelas",
+    "source_meaning": "To strike or bump one's own head with a strong blow, especially with concussive force.",
+    "target_meaning": "to see stars (to see flashing lights after a blow to the head)"
+  },
+  {
+    "source_idiom": "rip-snorting mad",
+    "target_idiom": "virar bicho",
+    "source_meaning": "extremely angry",
+    "target_meaning": "to be very angry"
+  },
+  {
+    "source_idiom": "road to Damascus",
+    "target_idiom": "virada de mesa",
+    "source_meaning": "An important point in someone's life where a great change, or reversal, of ideas or beliefs occurs.",
+    "target_meaning": "a point in time when the tables turn"
+  },
+  {
+    "source_idiom": "roll out the red carpet",
+    "target_idiom": "fazer sala",
+    "source_meaning": "To extend the utmost hospitality; to treat someone as an honored guest; to welcome or host, especially in a showy or extravagant manner.",
+    "target_meaning": "to entertain a guest"
+  },
+  {
+    "source_idiom": "rotten apple",
+    "target_idiom": "maçã podre",
+    "source_meaning": "A bad person, especially one who has a corrupting influence on others: a bad apple.",
+    "target_meaning": "bad apple (a person who is a bad influence on others)"
+  },
+  {
+    "source_idiom": "rough patch",
+    "target_idiom": "o pão que o diabo amassou",
+    "source_meaning": "A difficult or embattling period of one's life.",
+    "target_meaning": "great suffering or strife in one's life"
+  },
+  {
+    "source_idiom": "rumor campaign",
+    "target_idiom": "jogar merda no ventilador",
+    "source_meaning": "A method of persuasion in which damaging rumors or innuendo are deliberately spread concerning a person or other target, while the source of the rumors tries to avoid detection.",
+    "target_meaning": "to spread bad rumours or compromising information, in such a way that it ought to do damage to the whistleblower himself."
+  },
+  {
+    "source_idiom": "sack of crap",
+    "target_idiom": "monte de merda",
+    "source_meaning": "Synonym of sack of shit",
+    "target_meaning": "piece of shit; sack of shit (a despicable individual)"
+  },
+  {
+    "source_idiom": "sacked out",
+    "target_idiom": "pingar de sono",
+    "source_meaning": "Sound asleep, usually from a healthy exhaustion.",
+    "target_meaning": "to feel an intense organic need to sleep due to sleep deprivation"
+  },
+  {
+    "source_idiom": "sacred cow",
+    "target_idiom": "vaca sagrada",
+    "source_meaning": "Something which cannot be tampered with, or criticized, for fear of public outcry. A person, institution, belief system, etc. which, for no reason other than the demands of established social etiquette or popular opinion, should be accorded respect or reverence, and not touched, handled or examined too closely.",
+    "target_meaning": "sacred cow (something which cannot be tampered with)"
+  },
+  {
+    "source_idiom": "same difference",
+    "target_idiom": "tanto faz como tanto fez",
+    "source_meaning": "A distinction which makes no difference; a distinction which does not matter.",
+    "target_meaning": "used to indicate that something doesn’t make a difference; tomayto, tomahto; big deal; whatever"
+  },
+  {
+    "source_idiom": "say grace",
+    "target_idiom": "dar graças",
+    "source_meaning": "To recite a prayer of invocation or thanksgiving at meal time.",
+    "target_meaning": "to say grace (say a prayer of thanks)"
+  },
+  {
+    "source_idiom": "say the word",
+    "target_idiom": "sinal verde",
+    "source_meaning": "To indicate that it is time to perform an action; to give permission.",
+    "target_meaning": "green light (permission to do something)"
+  },
+  {
+    "source_idiom": "say uncle",
+    "target_idiom": "pedir penico",
+    "source_meaning": "To admit defeat; indicate submission, such as when wrestling; to ask for mercy.",
+    "target_meaning": "to say uncle (to indicate submission)"
+  },
+  {
+    "source_idiom": "scratch that",
+    "target_idiom": "uma coisa é uma coisa, outra coisa é outra coisa",
+    "source_meaning": "To disregard, omit, or ignore the previous statement.",
+    "target_meaning": "states that what is being said has nothing to do with what was previously said; it has nothing to do with that"
+  },
+  {
+    "source_idiom": "scream loudest",
+    "target_idiom": "reclamar de barriga cheia",
+    "source_meaning": "To complain or speak up with more intensity than others, especially in relation to a trivial matter.",
+    "target_meaning": "to complain about something frivolous while having privileges that others do not"
+  },
+  {
+    "source_idiom": "screw the pooch",
+    "target_idiom": "trocar os pés pelas mãos",
+    "source_meaning": "to make a large mistake, to fail in dramatic and ignominious fashion.",
+    "target_meaning": "to make a big mistake"
+  },
+  {
+    "source_idiom": "see eye to eye",
+    "target_idiom": "assinar embaixo",
+    "source_meaning": "To agree, especially in every respect; to concur; to get along.",
+    "target_meaning": "to agree"
+  },
+  {
+    "source_idiom": "see the forest for the trees",
+    "target_idiom": "ver a floresta pelas árvores",
+    "source_meaning": "To discern an overall pattern from a mass of detail; to see the big picture, or the broader, more general situation.",
+    "target_meaning": "to see the forest for the trees (to be able to see the overall picture despite the overabundance of details)"
+  },
+  {
+    "source_idiom": "sell bargains",
+    "target_idiom": "dar em cima",
+    "source_meaning": "To make saucy (usually indiscreet) comments; to come onto.",
+    "target_meaning": "to come on; to hit on (to show sexual or relational interest) [ ]"
+  },
+  {
+    "source_idiom": "separate the wheat from the chaff",
+    "target_idiom": "separar o joio do trigo",
+    "source_meaning": "To select only that which is of value.",
+    "target_meaning": "separate the wheat from the chaff (to select only that which is of value)"
+  },
+  {
+    "source_idiom": "set the Thames on fire",
+    "target_idiom": "meter uma lança em África",
+    "source_meaning": "To achieve something amazing but to a nearly-impossible degree; to do something which brings great public acclaim.",
+    "target_meaning": "to set the Thames on fire (to achieve something amazing)"
+  },
+  {
+    "source_idiom": "settle one's account",
+    "target_idiom": "ver a cor do dinheiro",
+    "source_meaning": "To return what one owes; to make good on one's debts; to pay back.",
+    "target_meaning": "to receive money that is owed from someone else"
+  },
+  {
+    "source_idiom": "sexual congress",
+    "target_idiom": "canguru perneta",
+    "source_meaning": "sexual intercourse",
+    "target_meaning": "sexual intercourse"
+  },
+  {
+    "source_idiom": "shatter the ice",
+    "target_idiom": "quebrar o gelo",
+    "source_meaning": "To break the ice in a sudden or dramatic fashion.",
+    "target_meaning": "to break the ice (to start to get to know people, by avoiding awkwardness)"
+  },
+  {
+    "source_idiom": "shed light upon",
+    "target_idiom": "lançar luz",
+    "source_meaning": "Illuminate to the understanding; make intelligible; clarify or explain (something unknown).",
+    "target_meaning": "to shed light (to cause to become clearer or better-known) [ ]"
+  },
+  {
+    "source_idiom": "shoot oneself in the foot",
+    "target_idiom": "tiro no pé",
+    "source_meaning": "To act against one's own interests; to unintentionally behave self-destructively.",
+    "target_meaning": "own goal (attitude against one's own interests)"
+  },
+  {
+    "source_idiom": "sight for sore eyes",
+    "target_idiom": "bons olhos te vejam",
+    "source_meaning": "A pleasing sight; something that is beautiful to look at, particularly after a long period of deprivation.",
+    "target_meaning": "You're a sight for sore eyes."
+  },
+  {
+    "source_idiom": "silver spoon",
+    "target_idiom": "dinheiro atrai dinheiro",
+    "source_meaning": "Wealth passed down or inherited.",
+    "target_meaning": "a person who already have a sizable wealth is more likely to be able to earn more profit than someone who possesses little to no wealth"
+  },
+  {
+    "source_idiom": "simple as kiss your hand",
+    "target_idiom": "mel na chupeta",
+    "source_meaning": "Very easy.",
+    "target_meaning": "very easy, easy as pie"
+  },
+  {
+    "source_idiom": "six feet under",
+    "target_idiom": "sete palmos abaixo da terra",
+    "source_meaning": "Buried six feet underground; not alive; dead.",
+    "target_meaning": "six feet under (dead)"
+  },
+  {
+    "source_idiom": "skate on thin ice",
+    "target_idiom": "brincar com fogo",
+    "source_meaning": "To be (or to place oneself) in a risky, potentially dangerous or delicate situation.",
+    "target_meaning": "to play with fire (put oneself in a precarious situation)"
+  },
+  {
+    "source_idiom": "small talk",
+    "target_idiom": "jogar conversa fora",
+    "source_meaning": "Idle conversation, typically regarding innocuous or unimportant subjects, usually engaged in at social gatherings out of politeness.",
+    "target_meaning": "to talk about unimportant things; to engage in small talk or frivolous conversation"
+  },
+  {
+    "source_idiom": "smell a rat",
+    "target_idiom": "cheirar a esturro",
+    "source_meaning": "To sense something suspicious.",
+    "target_meaning": "To sense something suspicious, to smell a rat, to smell something fishy"
+  },
+  {
+    "source_idiom": "snow job",
+    "target_idiom": "canto da sereia",
+    "source_meaning": "An attempt to persuade a person using flattery or deception.",
+    "target_meaning": "flattering language to lure, that which deceitfully seduces, usually to lure into a trap"
+  },
+  {
+    "source_idiom": "so be it",
+    "target_idiom": "assim seja",
+    "source_meaning": "An indication of acceptance, especially of a situation which is not entirely favorable.",
+    "target_meaning": "so be it (indication of acceptance)"
+  },
+  {
+    "source_idiom": "so long as",
+    "target_idiom": "desde que",
+    "source_meaning": "Depending upon some condition or requirement; provided that; if, assuming; as long as.",
+    "target_meaning": "as long as (if, assuming)"
+  },
+  {
+    "source_idiom": "some old",
+    "target_idiom": "um ou outro",
+    "source_meaning": "Some, some unspecified or yet-undetermined one (especially for emphasis).",
+    "target_meaning": "one or another (a very small subset)"
+  },
+  {
+    "source_idiom": "something is rotten in the state of Denmark",
+    "target_idiom": "aqui há gato",
+    "source_meaning": "Something is not right, seriously amiss, especially when leading to suspicion of motive.",
+    "target_meaning": "I smell a rat; there's something fishy"
+  },
+  {
+    "source_idiom": "somewhere along the line",
+    "target_idiom": "uma hora ou outra",
+    "source_meaning": "At some point in a process or in a series of events; at some unspecified or unknown time; eventually.",
+    "target_meaning": "at an undetermined time, but inevitably"
+  },
+  {
+    "source_idiom": "spare someone the details",
+    "target_idiom": "fazer rodeios",
+    "source_meaning": "to not give details about something mentioned, usually to avoid embarrassment or irrelevance",
+    "target_meaning": "to beat around the bush (to treat a topic but omit its main points)"
+  },
+  {
+    "source_idiom": "speak of the devil",
+    "target_idiom": "falando do diabo",
+    "source_meaning": "An expression sometimes used when a person mentioned in the current conversation happens to arrive on the scene.",
+    "target_meaning": "speak of the devil (expression used when a person mentioned in the current conversation happens to arrive)"
+  },
+  {
+    "source_idiom": "spit in the wind",
+    "target_idiom": "mijar contra o vento",
+    "source_meaning": "Alternative form of piss in the wind",
+    "target_meaning": "to piss in the wind"
+  },
+  {
+    "source_idiom": "stage of the game",
+    "target_idiom": "altura do campeonato",
+    "source_meaning": "A point in the progress of an ongoing dispute or process.",
+    "target_meaning": "an advanced point or moment in an event or series of events"
+  },
+  {
+    "source_idiom": "stand on one's own two feet",
+    "target_idiom": "caminhar com as próprias pernas",
+    "source_meaning": "To be independent and self-sufficient; to survive without any help.",
+    "target_meaning": "to stand on one's own two feet"
+  },
+  {
+    "source_idiom": "stick it to",
+    "target_idiom": "botar o pau na mesa",
+    "source_meaning": "To assert one's power in an attempt to get revenge or prove a point; to show who's boss.",
+    "target_meaning": "to show who's boss (to assert oneself to be in charge)"
+  },
+  {
+    "source_idiom": "stick one's oar in",
+    "target_idiom": "meter o bedelho",
+    "source_meaning": "To meddle; to stick one's nose into (something)",
+    "target_meaning": "to meddle (with)"
+  },
+  {
+    "source_idiom": "stir shit",
+    "target_idiom": "comprar briga",
+    "source_meaning": "to deliberately cause trouble",
+    "target_meaning": "to provoke or do something that will likely result in a fight or dispute with someone"
+  },
+  {
+    "source_idiom": "stop the bleeding",
+    "target_idiom": "dar a volta por cima",
+    "source_meaning": "To recover by interrupting a string of losses, disappointments, etc.",
+    "target_meaning": "to overcome or recover from a setback"
+  },
+  {
+    "source_idiom": "storybook",
+    "target_idiom": "felizes para sempre",
+    "source_meaning": "As in a story for children; pleasant and idealized, or having a happy conclusion.",
+    "target_meaning": "chiefly preceded by \"e viveram\" (\"and they lived\"): happily ever after (formulaic ending in fairy tales, stories for children, and similar works)"
+  },
+  {
+    "source_idiom": "strain at a gnat",
+    "target_idiom": "fazer uma tempestade num copo de água",
+    "source_meaning": "to make a mountain out of a molehill",
+    "target_meaning": "to make a mountain out of a molehill"
+  },
+  {
+    "source_idiom": "stud muffin",
+    "target_idiom": "deus grego",
+    "source_meaning": "A very attractive man.",
+    "target_meaning": "very beautiful or attractive man"
+  },
+  {
+    "source_idiom": "stuff one's face",
+    "target_idiom": "enfiar o pé na jaca",
+    "source_meaning": "To eat excessively.",
+    "target_meaning": "to do something excessively (e.g. to eat too much)"
+  },
+  {
+    "source_idiom": "suck a lemon",
+    "target_idiom": "prender o burro",
+    "source_meaning": "To be in a sour or negative mood.",
+    "target_meaning": "to sulk, to become sulky"
+  },
+  {
+    "source_idiom": "suck dry",
+    "target_idiom": "acabar com",
+    "source_meaning": "To exhaust all the resources of someone or something.",
+    "target_meaning": "to exhaust, use up"
+  },
+  {
+    "source_idiom": "swallow a bitter pill",
+    "target_idiom": "engolir sapo",
+    "source_meaning": "To accept or endure an unpleasant situation.",
+    "target_meaning": "to swallow a bitter pill, to bite the bullet (to endure or withstand something painful or difficult)"
+  },
+  {
+    "source_idiom": "swallow the leek",
+    "target_idiom": "mudar de ideia",
+    "source_meaning": "To change one's mind.",
+    "target_meaning": "to change one's mind (to decide differently than one had decided before)"
+  },
+  {
+    "source_idiom": "swan song",
+    "target_idiom": "canto de cisne",
+    "source_meaning": "A final performance or accomplishment, especially one before retirement.",
+    "target_meaning": "swan song (a final performance)"
+  },
+  {
+    "source_idiom": "sweat bricks",
+    "target_idiom": "suar em bicas",
+    "source_meaning": "Synonym of sweat bullets (“to sweat profusely”)",
+    "target_meaning": "to sweat bullets"
+  },
+  {
+    "source_idiom": "sweep something under the rug",
+    "target_idiom": "varrer para debaixo do tapete",
+    "source_meaning": "To conceal a problem, (usually embarrassing or illegal) expediently, rather than remedy it thoroughly.",
+    "target_meaning": "to sweep something under the rug (to conceal a problem expediently)"
+  },
+  {
+    "source_idiom": "sweet dreams",
+    "target_idiom": "durma com Deus",
+    "source_meaning": "Said to someone before they fall asleep, wishing them a good sleep.",
+    "target_meaning": "sweet dreams"
+  },
+  {
+    "source_idiom": "sweet smell of success",
+    "target_idiom": "zerar a vida",
+    "source_meaning": "The rewarding sense of having succeeded.",
+    "target_meaning": "to feel an extremely deep sense of accomplishment"
+  },
+  {
+    "source_idiom": "take a dim view of",
+    "target_idiom": "ficar com o pé atrás",
+    "source_meaning": "To dislike; to regard with skepticism, disbelief, disfavor, etc.",
+    "target_meaning": "to distrust; to doubt"
+  },
+  {
+    "source_idiom": "take a dookie",
+    "target_idiom": "arriar o calhau",
+    "source_meaning": "To defecate.",
+    "target_meaning": "to take a dump"
+  },
+  {
+    "source_idiom": "take a gander",
+    "target_idiom": "dar uma vista de olhos",
+    "source_meaning": "To take a look; to check or examine.",
+    "target_meaning": "to take a look"
+  },
+  {
+    "source_idiom": "take a leaf out of someone's book",
+    "target_idiom": "fazer média",
+    "source_meaning": "To adopt an idea or practice of another person.",
+    "target_meaning": "to adopt certain ideas or attitudes that would make someone accepted by someone else or a group"
+  },
+  {
+    "source_idiom": "take a piss",
+    "target_idiom": "tirar água do joelho",
+    "source_meaning": "To urinate, especially of a male person.",
+    "target_meaning": "to take a leak; to urinate"
+  },
+  {
+    "source_idiom": "take into consideration",
+    "target_idiom": "levar em conta",
+    "source_meaning": "To take into account.",
+    "target_meaning": "to take into account (to consider or regard)"
+  },
+  {
+    "source_idiom": "take one's chance",
+    "target_idiom": "tentar a sorte",
+    "source_meaning": "To act in a manner dependent on luck: to attempt to do something risky or not particularly likely to succeed.",
+    "target_meaning": "to try one's luck (taking risks, trying something in the hope of being successful)"
+  },
+  {
+    "source_idiom": "take one's eye off the ball",
+    "target_idiom": "mais perdido que cego em tiroteio",
+    "source_meaning": "To lose one's concentration on what is most important.",
+    "target_meaning": "said of a person who is deeply distracted, who has lost focus or attention of what is happening or what is being said"
+  },
+  {
+    "source_idiom": "take one's sweet little time",
+    "target_idiom": "pisar ovos",
+    "source_meaning": "To take a very long time; to be too slow or leisurely in getting something done.",
+    "target_meaning": "to take a long time to complete an action"
+  },
+  {
+    "source_idiom": "take someone to the grave",
+    "target_idiom": "acabar com o sofrimento",
+    "source_meaning": "To kill someone; to cause someone's death.",
+    "target_meaning": "put (someone) out of their misery; to finish off (to kill someone who is in agony) [ ]"
+  },
+  {
+    "source_idiom": "take the cake",
+    "target_idiom": "ao vencedor, as batatas",
+    "source_meaning": "Used as an affirmation or accolade when one is deemed the top position in a comparison or contest; to win or be the best (at).",
+    "target_meaning": "A phrase indicating that the winner (as in a competition) deserves their rewards."
+  },
+  {
+    "source_idiom": "take the liberty",
+    "target_idiom": "tomar a liberdade",
+    "source_meaning": "To act on one's own authority, without asking for permission.",
+    "target_meaning": "to take the liberty (to act on one’s own authority)"
+  },
+  {
+    "source_idiom": "take time by the forelock",
+    "target_idiom": "malhar enquanto o ferro está quente",
+    "source_meaning": "To seize an opportunity quickly before it is no longer available.",
+    "target_meaning": "to strike while the iron is hot (act on an opportunity promptly)"
+  },
+  {
+    "source_idiom": "take to one's heels",
+    "target_idiom": "meter o pé",
+    "source_meaning": "To leave, especially to flee or run away.",
+    "target_meaning": "to leave or run away from a place"
+  },
+  {
+    "source_idiom": "take to the bank",
+    "target_idiom": "botar a mão no fogo",
+    "source_meaning": "To utterly trust, believe, or rely on.",
+    "target_meaning": "to vouch for; to trust (someone) with one's life [ ]"
+  },
+  {
+    "source_idiom": "talk a good game",
+    "target_idiom": "arrotar postas de pescada",
+    "source_meaning": "To speak emphatically and at length about one's ability, intentions, or achievements, without yet producing any clear evidence or actual results.",
+    "target_meaning": "to talk about something as if the speaker is very knowledgeable of the subject matter while being obvious the speaker has very little knowledge, to brag, to boast"
+  },
+  {
+    "source_idiom": "talk a mile a minute",
+    "target_idiom": "falar mais que a boca",
+    "source_meaning": "To speak quickly or excessively.",
+    "target_meaning": "to talk or speak excessively"
+  },
+  {
+    "source_idiom": "telephone tag",
+    "target_idiom": "jogo de gato e rato",
+    "source_meaning": "A situation in which a person unsuccessfully attempts to contact another person by telephone and leaves a message instead, and in which the second person then unsuccessfully attempts to return the initial call and leaves a message for the first person, and so on as if the two are playing a game of tag in which the most recent person to have been left with a message is now designated as \"it\" (i.e. as the player now obliged to chase the other and to attempt anew to make contact).",
+    "target_meaning": "cat-and-mouse game (situation where one party pursues another without securing a significant victory)"
+  },
+  {
+    "source_idiom": "tempest in a teapot",
+    "target_idiom": "tempestade em copo d'água",
+    "source_meaning": "A major fuss over a trivial matter.",
+    "target_meaning": "storm in a teacup (major fuss over a trivial matter)"
+  },
+  {
+    "source_idiom": "than a bygod",
+    "target_idiom": "de rachar",
+    "source_meaning": "Used with a comparative to express extreme heat or cold.",
+    "target_meaning": "intensifier used with frio (“cold”) or calor (“heat”)"
+  },
+  {
+    "source_idiom": "thank one's lucky stars",
+    "target_idiom": "nascer virado para a lua",
+    "source_meaning": "To be grateful, feel oneself fortunate, consider oneself lucky (especially in avoiding some calamity).",
+    "target_meaning": "to be very lucky (usually used in the past tense)"
+  },
+  {
+    "source_idiom": "that dog don't run",
+    "target_idiom": "de cu é rola",
+    "source_meaning": "An expression of disapproval or disbelief.",
+    "target_meaning": "my ass! (indicates disapproval, disagreement, or disbelief, often with a tone of disregard, disdain, or disgust)"
+  },
+  {
+    "source_idiom": "that way",
+    "target_idiom": "essa Coca é Fanta",
+    "source_meaning": "Gay; homosexual.",
+    "target_meaning": "Said to announce that a man is gay or effeminate"
+  },
+  {
+    "source_idiom": "that'll be the frosty Friday",
+    "target_idiom": "quero ver",
+    "source_meaning": "said in reply to something that one believes will never happen",
+    "target_meaning": "said of something one is confident that will not happen"
+  },
+  {
+    "source_idiom": "the cat's out of the bag",
+    "target_idiom": "Inês é morta",
+    "source_meaning": "It is too late. Particularly used of secrets that have been exposed.",
+    "target_meaning": "it's too late; what's done is done"
+  },
+  {
+    "source_idiom": "the devil is a liar",
+    "target_idiom": "com a pulga atrás da orelha",
+    "source_meaning": "A general expression of distrust, particularly implying that another person is attempting to deceive the speaker, or that a situation is not, or can not be, as it appears.",
+    "target_meaning": "distrustful, suspicious"
+  },
+  {
+    "source_idiom": "the die is cast",
+    "target_idiom": "os dados estão lançados",
+    "source_meaning": "Conclusive action has been taken, so events will proceed in an irreversible manner; the point of no return has been passed; the future is determined; there are no more options.",
+    "target_meaning": "the die is cast (events will proceed in an irreversible manner)"
+  },
+  {
+    "source_idiom": "the shoe is on the other foot",
+    "target_idiom": "o poste mijando no cachorro",
+    "source_meaning": "The roles of people in a situation have been reversed, such that the advantage has shifted to a party which was previously disadvantaged.",
+    "target_meaning": "describes a situation where the normal or natural order of things is reversed"
+  },
+  {
+    "source_idiom": "the stroke that broke the camel's back",
+    "target_idiom": "a gota que transbordou o copo",
+    "source_meaning": "Synonym of the straw that broke the camel's back",
+    "target_meaning": "the straw that broke the camel's back (the small additional burden which causes failure)"
+  },
+  {
+    "source_idiom": "the world over",
+    "target_idiom": "mundo afora",
+    "source_meaning": "All over the world; globally; throughout the world.",
+    "target_meaning": "across the world (in different parts of the world)"
+  },
+  {
+    "source_idiom": "them's the breaks",
+    "target_idiom": "vida que segue",
+    "source_meaning": "That is the way things happen; that's life.",
+    "target_meaning": "that's life; such is life; life goes on (said when accepting misfortune)"
+  },
+  {
+    "source_idiom": "thick and threefold",
+    "target_idiom": "um atrás do outro",
+    "source_meaning": "In quick succession, or in great numbers.",
+    "target_meaning": "many, in quick succession"
+  },
+  {
+    "source_idiom": "think of England",
+    "target_idiom": "bater cara",
+    "source_meaning": "Clipping of close one's eyes and think of England .",
+    "target_meaning": "to close one's eyes and count, for the purposes of a children's game such as hide-and-seek"
+  },
+  {
+    "source_idiom": "think twice",
+    "target_idiom": "pensar duas vezes",
+    "source_meaning": "To reconsider, use judgement; to proceed with caution or thought.",
+    "target_meaning": "to think twice (to proceed with caution)"
+  },
+  {
+    "source_idiom": "this minute",
+    "target_idiom": "no momento",
+    "source_meaning": "right now, immediately",
+    "target_meaning": "at the moment; right now"
+  },
+  {
+    "source_idiom": "thought bubble",
+    "target_idiom": "ideia de jerico",
+    "source_meaning": "An ill-conceived idea.",
+    "target_meaning": "a stupid idea"
+  },
+  {
+    "source_idiom": "throw dust in someone's eyes",
+    "target_idiom": "meter fita",
+    "source_meaning": "To delude or deceive someone.",
+    "target_meaning": "to trick, delude, deceive or fool someone"
+  },
+  {
+    "source_idiom": "throw in the towel",
+    "target_idiom": "largar mão",
+    "source_meaning": "To quit; to give up.",
+    "target_meaning": "to give up; to quit"
+  },
+  {
+    "source_idiom": "throw one's weight behind",
+    "target_idiom": "vestir a camisa",
+    "source_meaning": "To support (a cause, a decision, etc.) using one's influence; to endorse.",
+    "target_meaning": "to truly support and believe in a cause, idea or group"
+  },
+  {
+    "source_idiom": "throw the baby out with the bathwater",
+    "target_idiom": "deitar fora a criança com a água do banho",
+    "source_meaning": "To discard, inadvertently or through overzealousness, something valuable or essential (\"the baby\") in the process of removing or rejecting something unwanted or undesirable (\"the bathwater\").",
+    "target_meaning": "to throw the baby out with the bathwater (to discard something valuable while discarding something useful)"
+  },
+  {
+    "source_idiom": "throw up the sponge",
+    "target_idiom": "deitar a toalha ao chão",
+    "source_meaning": "To give up a contest; to acknowledge defeat; to throw in the towel.",
+    "target_meaning": "to throw in the towel"
+  },
+  {
+    "source_idiom": "thus and such",
+    "target_idiom": "não sei das quantas",
+    "source_meaning": "A placeholder or generic name for something.",
+    "target_meaning": "a placeholder"
+  },
+  {
+    "source_idiom": "tie the knot",
+    "target_idiom": "dar o nó",
+    "source_meaning": "To marry, wed, get married.",
+    "target_meaning": "to tie the knot (to get married)"
+  },
+  {
+    "source_idiom": "tin-pot dictatorship",
+    "target_idiom": "república das bananas",
+    "source_meaning": "A country ruled by a tin-pot dictator; an autocracy, especially one ruled by someone with delusions of grandeur.",
+    "target_meaning": "banana republic (country dependent on a single export commodity with a corrupt dictatorial government)"
+  },
+  {
+    "source_idiom": "tip of the iceberg",
+    "target_idiom": "ponta do icebergue",
+    "source_meaning": "A small indication of a larger possibility; the first part encountered of a problem that is much bigger than it seems.",
+    "target_meaning": "tip of the iceberg (a small indication of a larger possibility)"
+  },
+  {
+    "source_idiom": "to a T",
+    "target_idiom": "na mosca",
+    "source_meaning": "Precisely; exactly; perfectly; with great attention to detail.",
+    "target_meaning": "precisely; exactly"
+  },
+  {
+    "source_idiom": "to all intents and purposes",
+    "target_idiom": "para todos os efeitos",
+    "source_meaning": "For every functional purpose; in every practical sense; in every important respect; practically speaking.",
+    "target_meaning": "for all intents and purposes"
+  },
+  {
+    "source_idiom": "to boot",
+    "target_idiom": "de quebra",
+    "source_meaning": "In addition, besides, also.",
+    "target_meaning": "to boot: additionally, besides, also (normally used to remark something positive)"
+  },
+  {
+    "source_idiom": "to high heaven",
+    "target_idiom": "na marra",
+    "source_meaning": "Immensely, forcefully.",
+    "target_meaning": "forcibly"
+  },
+  {
+    "source_idiom": "to say nothing of",
+    "target_idiom": "sem falar de",
+    "source_meaning": "An apophasis used to mention another important, usually related, point: not taking into account, not to mention, without considering.",
+    "target_meaning": "not to mention (used to introduce another important point)"
+  },
+  {
+    "source_idiom": "to the letter",
+    "target_idiom": "ao pé da letra",
+    "source_meaning": "Literally, exactly, following the rules as written.",
+    "target_meaning": "to the letter (exactly; literally)"
+  },
+  {
+    "source_idiom": "to the tonsils",
+    "target_idiom": "um mais que o outro",
+    "source_meaning": "Entirely, completely, extremely, to the greatest degree.",
+    "target_meaning": "Said when all people or things in this context are (some adjective) to a very high degree."
+  },
+  {
+    "source_idiom": "toot one's own horn",
+    "target_idiom": "puxar a brasa para a sardinha de alguém",
+    "source_meaning": "To promote oneself; to boast or brag; to tout oneself.",
+    "target_meaning": "to pull for one's side, to toot one's own horn"
+  },
+  {
+    "source_idiom": "tread carefully",
+    "target_idiom": "pisar menos",
+    "source_meaning": "To exercise precaution; to be careful with regards to the situation; to tread lightly.",
+    "target_meaning": "to tread lightly"
+  },
+  {
+    "source_idiom": "trick up one's sleeve",
+    "target_idiom": "carta nas mangas",
+    "source_meaning": "Synonym of ace up one's sleeve",
+    "target_meaning": "ace up one's sleeve (a surprise advantage of which others are not aware)"
+  },
+  {
+    "source_idiom": "true to form",
+    "target_idiom": "com efeito",
+    "source_meaning": "According to one's nature; as expected.",
+    "target_meaning": "as expected, predictably"
+  },
+  {
+    "source_idiom": "tune in",
+    "target_idiom": "prestar atenção",
+    "source_meaning": "To pay attention.",
+    "target_meaning": "to pay attention (to be attentive)"
+  },
+  {
+    "source_idiom": "twist of fate",
+    "target_idiom": "não deu outra",
+    "source_meaning": "An unfortunate, often ironic turn of events.",
+    "target_meaning": "phrase used when a situation previously expected as undesirable actually occurs"
+  },
+  {
+    "source_idiom": "two left feet",
+    "target_idiom": "ter dois pés esquerdos",
+    "source_meaning": "Clumsiness, especially at dancing or in sports involving kicking a ball.",
+    "target_meaning": "to have two left feet; to be clumsy"
+  },
+  {
+    "source_idiom": "two-way street",
+    "target_idiom": "toma lá dá cá",
+    "source_meaning": "Any interaction in which both parties give and take equally.",
+    "target_meaning": "a favor exchange; an instance in which two or more people do something that benefits everyone involved"
+  },
+  {
+    "source_idiom": "under the rose",
+    "target_idiom": "entre quatro paredes",
+    "source_meaning": "In secret; secretly, privately. [from 16th c.]",
+    "target_meaning": "behind closed doors (privately or secretly)"
+  },
+  {
+    "source_idiom": "university of the streets",
+    "target_idiom": "escola da vida",
+    "source_meaning": "Synonym of school of hard knocks",
+    "target_meaning": "school of hard knocks; university of life (adverse real-world experiences)"
+  },
+  {
+    "source_idiom": "uno ab alto",
+    "target_idiom": "acima de tudo",
+    "source_meaning": "One over all.",
+    "target_meaning": "above all"
+  },
+  {
+    "source_idiom": "up a gum tree",
+    "target_idiom": "entre a cruz e a espada",
+    "source_meaning": "In a difficult situation; in a predicament.",
+    "target_meaning": "between a rock and a hard place (in a bad situation without an easy solution)"
+  },
+  {
+    "source_idiom": "up to no good",
+    "target_idiom": "mijar fora do penico",
+    "source_meaning": "Misbehaving, being mischievous.",
+    "target_meaning": "to misbehave, to do something one shouldn't be doing"
+  },
+  {
+    "source_idiom": "use one's noggin",
+    "target_idiom": "não dar ponto sem nó",
+    "source_meaning": "To think, especially in a careful or clever manner.",
+    "target_meaning": "to plan and think carefully before acting"
+  },
+  {
+    "source_idiom": "vote with one's feet",
+    "target_idiom": "votar com os pés",
+    "source_meaning": "To express one's preferences through one's actions, by voluntarily participating in or withdrawing from an activity, group, or process; especially, by physical migration to leave a situation one does not like, or to move to a situation one regards as more beneficial.",
+    "target_meaning": "to vote with one's feet (to express one's preferences through one's actions)"
+  },
+  {
+    "source_idiom": "wake up and smell the coffee",
+    "target_idiom": "acordar para a vida",
+    "source_meaning": ": to face reality and stop deluding oneself.",
+    "target_meaning": "wake up and smell the coffee (stop deluding oneself)"
+  },
+  {
+    "source_idiom": "walk the floor",
+    "target_idiom": "ligado no 220",
+    "source_meaning": "To pace back and forth restlessly, because of worry, excitement, distress, etc.",
+    "target_meaning": "restless, uneasy (unable to hold still, continually moving)"
+  },
+  {
+    "source_idiom": "walk the streets",
+    "target_idiom": "lavar urubu",
+    "source_meaning": "To be unemployed; to be looking for work.",
+    "target_meaning": "to be on the wallaby track (to be unemployed)"
+  },
+  {
+    "source_idiom": "walk the talk",
+    "target_idiom": "matar a cobra e mostrar o pau",
+    "source_meaning": "To perform actions consistent with one's claims.",
+    "target_meaning": "to do something and provide evidence one has done it"
+  },
+  {
+    "source_idiom": "want someone's nachos",
+    "target_idiom": "crescer o olho",
+    "source_meaning": "(idiomatic, neologism, LGBTQ slang) To covet another; to envy one's accomplishments or qualities.",
+    "target_meaning": "to covet (to wish for with eagerness; to desire possession of, often enviously)"
+  },
+  {
+    "source_idiom": "wash oneself of",
+    "target_idiom": "ligar o foda-se",
+    "source_meaning": "To stop caring about (something); to reject any semblance of (something).",
+    "target_meaning": "to stop caring"
+  },
+  {
+    "source_idiom": "watch the world burn",
+    "target_idiom": "ver o circo pegar fogo",
+    "source_meaning": "To watch the chaos, pain or death that results from the actions of others or oneself with an attitude of detachment or indifference.",
+    "target_meaning": "to observe someone else's misfortune"
+  },
+  {
+    "source_idiom": "wear yellow stockings",
+    "target_idiom": "morrer de inveja",
+    "source_meaning": "be jealous",
+    "target_meaning": "to feel extremely jealous"
+  },
+  {
+    "source_idiom": "well-seen",
+    "target_idiom": "nas costas",
+    "source_meaning": "Having seen a lot; accomplished, experienced.",
+    "target_meaning": "under one's belt (within one's life experience)"
+  },
+  {
+    "source_idiom": "wet one's whistle",
+    "target_idiom": "molhar a garganta",
+    "source_meaning": "To have a drink; to quench one's thirst.",
+    "target_meaning": "to wet one's whistle (to have drink)"
+  },
+  {
+    "source_idiom": "what did your last slave die of",
+    "target_idiom": "caga-regras",
+    "source_meaning": "Used to indicate that someone is being unreasonably bossy and demanding.",
+    "target_meaning": "tyrannical, bossy, demanding"
+  },
+  {
+    "source_idiom": "what in time",
+    "target_idiom": "o que diabos",
+    "source_meaning": "Used as an intensifier of an interrogative word or phrase.",
+    "target_meaning": "what the hell (introducing a question with a mildly vulgar intensifier)"
+  },
+  {
+    "source_idiom": "when all is said and done",
+    "target_idiom": "no fim das contas",
+    "source_meaning": "In the end; ultimately.",
+    "target_meaning": "at the end of the day; ultimately; after all"
+  },
+  {
+    "source_idiom": "whip hand",
+    "target_idiom": "lei da vantagem",
+    "source_meaning": "An advantage over another; the dominant position.",
+    "target_meaning": "advantage law ()"
+  },
+  {
+    "source_idiom": "whip up a storm",
+    "target_idiom": "fazer correr muita tinta",
+    "source_meaning": "To cause an uproar or controversy.",
+    "target_meaning": "to cause something to be much talked or written about, to cause a great stir, to spill ink"
+  },
+  {
+    "source_idiom": "whistle in the wind",
+    "target_idiom": "dar murro em ponta de faca",
+    "source_meaning": "To attempt something that is futile; to say something that is not heeded.",
+    "target_meaning": "to insistently try something one knows will not work"
+  },
+  {
+    "source_idiom": "white lie",
+    "target_idiom": "mentira branca",
+    "source_meaning": "A deliberately untrue statement which is intended to produce a favorable result; especially, one which is judged to be better than an overhonest alternative, as for example to remain polite in a superficial social exchange, or to choose one's battles.",
+    "target_meaning": "white lie (untrue, good-willed statement)"
+  },
+  {
+    "source_idiom": "why on Earth",
+    "target_idiom": "por que diabos",
+    "source_meaning": "used to add emphasis to \"why\" when beginning a question.",
+    "target_meaning": "why the hell; why the heck (introducing a question with a mildly vulgar intensifier)"
+  },
+  {
+    "source_idiom": "wipe the slate clean",
+    "target_idiom": "começar do zero",
+    "source_meaning": "To make a fresh start, for example by forgetting about previous differences and disagreements.",
+    "target_meaning": "to wipe the slate clean (to make a fresh start)"
+  },
+  {
+    "source_idiom": "with a will",
+    "target_idiom": "do fundo do coração",
+    "source_meaning": "With willingness and zeal; with all one's heart or strength; earnestly, heartily.",
+    "target_meaning": "from the bottom of one's heart"
+  },
+  {
+    "source_idiom": "with pleasure",
+    "target_idiom": "com prazer",
+    "source_meaning": "Willingly; without argument.",
+    "target_meaning": "with pleasure (willingly, without argument)"
+  },
+  {
+    "source_idiom": "wolf in sheep's clothing",
+    "target_idiom": "lobo em pele de cordeiro",
+    "source_meaning": "Someone who or something which is harmful or threatening but disguised as something peaceful or pleasant.",
+    "target_meaning": "wolf in sheep's clothing (a disguised danger)"
+  },
+  {
+    "source_idiom": "work like a dog",
+    "target_idiom": "matar um leão por dia",
+    "source_meaning": "To work very hard.",
+    "target_meaning": "to work extremely hard every day"
+  },
+  {
+    "source_idiom": "work someone's arse off",
+    "target_idiom": "tirar o couro",
+    "source_meaning": "Alternative form of work someone's ass off.",
+    "target_meaning": "to work someone's ass off (to make someone work excessively)"
+  },
+  {
+    "source_idiom": "worst of both worlds",
+    "target_idiom": "juntar a fome com a vontade de comer",
+    "source_meaning": "A solution or scenario which combines the disadvantages of two opposed prior solutions, often having been intended to combine their benefits instead.",
+    "target_meaning": "to combine two different plans or goals into one"
+  },
+  {
+    "source_idiom": "wouldn't be seen dead",
+    "target_idiom": "ver graça",
+    "source_meaning": "To find incredibly horrifying; embarrassing or otherwise entirely unsuitable for oneself.",
+    "target_meaning": "to find funny or interesting (used mostly in the negative)"
+  },
+  {
+    "source_idiom": "year dot",
+    "target_idiom": "desde que o mundo é mundo",
+    "source_meaning": "A very long time ago, from the beginning or as far back as one can remember.",
+    "target_meaning": "since time immemorial; since the beginning of time"
+  },
+  {
+    "source_idiom": "yield the ghost",
+    "target_idiom": "vestir o paletó de madeira",
+    "source_meaning": "To give up the ghost.",
+    "target_meaning": "to give up the ghost (to die)"
+  },
+  {
+    "source_idiom": "you know what",
+    "target_idiom": "quer saber",
+    "source_meaning": "Used, often as a question, to get someone's attention before announcing something.",
+    "target_meaning": "you know what (used to get attention before announcing something)"
+  },
+  {
+    "source_idiom": "you think",
+    "target_idiom": "não me diga",
+    "source_meaning": "A sarcastic, rhetorical response to an obvious statement.",
+    "target_meaning": "you don't say (expression of surprise; often used sarcastically to express that an affirmation was obvious)"
+  }
+]

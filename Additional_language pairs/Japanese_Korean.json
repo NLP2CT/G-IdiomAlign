@@ -1,0 +1,56 @@
+[
+  {
+    "source_idiom": "一から十まで",
+    "target_idiom": "갑과 을",
+    "source_meaning": "from A to Z",
+    "target_meaning": "A and B, former and latter"
+  },
+  {
+    "source_idiom": "弱音を吐く",
+    "target_idiom": "교하질쉬",
+    "source_meaning": "to complain; to whine",
+    "target_meaning": "\"scolding the village head under the bridge\": complaining behind someone's back"
+  },
+  {
+    "source_idiom": "念を押す",
+    "target_idiom": "까마귀 고기를 먹었나",
+    "source_meaning": "remind, emphasize to someone",
+    "target_meaning": "Used to criticize or tease someone for forgetting something."
+  },
+  {
+    "source_idiom": "手を抜く",
+    "target_idiom": "문 닫고",
+    "source_meaning": "cut corners",
+    "target_meaning": "just barely making the cut"
+  },
+  {
+    "source_idiom": "折に触れて",
+    "target_idiom": "시도 때도 없이",
+    "source_meaning": "whenever possible, at every opportunity, occasionally",
+    "target_meaning": "adverbial form of 시(時)도 때도 없다 (sido ttaedo eopda, “to be recurrent”): recurrently"
+  },
+  {
+    "source_idiom": "身から出た錆",
+    "target_idiom": "쌤통",
+    "source_meaning": "reap what one sows, getting one's just deserts",
+    "target_meaning": "something that happens to someone who is thought to deserve it; something that serves someone right"
+  },
+  {
+    "source_idiom": "胸を借りる",
+    "target_idiom": "을",
+    "source_meaning": "a less powerful person partners with a more powerful person, such as for practicing",
+    "target_meaning": "the weaker or disadvantaged party in a relationship between two sides"
+  },
+  {
+    "source_idiom": "焼け石に水",
+    "target_idiom": "헛걸음",
+    "source_meaning": "vain attempt due to inadequate efforts; a drop in the bucket; a drop in the ocean",
+    "target_meaning": "fruitless undertaking"
+  },
+  {
+    "source_idiom": "役に立つ",
+    "target_idiom": "힘이 되다",
+    "source_meaning": "to be useful, to help",
+    "target_meaning": "to be supportive, to be of help"
+  }
+]

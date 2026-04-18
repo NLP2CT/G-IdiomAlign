@@ -1,0 +1,1508 @@
+[
+  {
+    "source_idiom": "(joko) hyvällä tai pahalla",
+    "target_idiom": "有無を言わさず",
+    "source_meaning": "Willingly or by force.",
+    "target_meaning": "forcibly"
+  },
+  {
+    "source_idiom": "(jollain on) lepakoita tapulissa",
+    "target_idiom": "頭の悪い",
+    "source_meaning": "A slow-witted or mentally handicapped person",
+    "target_meaning": "dumb, slow, stupid"
+  },
+  {
+    "source_idiom": "(olla) mustasukkainen",
+    "target_idiom": "やきもちをやく",
+    "source_meaning": "to be (possessively) jealous of someone (a person)",
+    "target_meaning": "(idiomatic) to be jealous (usually of a rival in love)"
+  },
+  {
+    "source_idiom": "(seisoa kuin) Ö aapisen laidalla",
+    "target_idiom": "益体もない",
+    "source_meaning": "Not having a clue, being useless.",
+    "target_meaning": "useless"
+  },
+  {
+    "source_idiom": "Kankkulan kaivoon",
+    "target_idiom": "たからのもちぐされ",
+    "source_meaning": "To go to waste.",
+    "target_meaning": "having great potential but not utilizing it; waste of potential"
+  },
+  {
+    "source_idiom": "Luojan lykky",
+    "target_idiom": "渡りに船",
+    "source_meaning": "thank God",
+    "target_meaning": "godsend, lifesaver"
+  },
+  {
+    "source_idiom": "aikainen lintu madon nappaa",
+    "target_idiom": "早寝早起き",
+    "source_meaning": "the early bird gets the worm",
+    "target_meaning": "early to bed early to rise"
+  },
+  {
+    "source_idiom": "aloittaa puhtaalta pöydältä",
+    "target_idiom": "水に流す",
+    "source_meaning": "to wipe the slate clean",
+    "target_meaning": "let the water carry it away, wipe the slate clean"
+  },
+  {
+    "source_idiom": "alusta alkaen",
+    "target_idiom": "初めとする",
+    "source_meaning": "from the very beginning, from the outset, from the inception, from the word go, from the get-go",
+    "target_meaning": "commence with, including"
+  },
+  {
+    "source_idiom": "ampua itseään jalkaan",
+    "target_idiom": "引き金を引く",
+    "source_meaning": "to shoot oneself in the foot",
+    "target_meaning": "to pull the trigger"
+  },
+  {
+    "source_idiom": "ampua tykillä kärpästä",
+    "target_idiom": "鉄槌を下す",
+    "source_meaning": "to use a sledgehammer to crack a nut (to use disproportionate or significantly excessive force to carry out an action)",
+    "target_meaning": "to crack down, to bring down the hammer on"
+  },
+  {
+    "source_idiom": "antaa palaa",
+    "target_idiom": "背水の陣",
+    "source_meaning": "to go all out, go for broke, go for the burn (to reserve nothing; to put forth all possible effort or resources)",
+    "target_meaning": "burning one's boats; going for broke"
+  },
+  {
+    "source_idiom": "antaa piupaut",
+    "target_idiom": "痛くも痒くもない",
+    "source_meaning": "to not give a toss; to not care, to not mind [ allative ]",
+    "target_meaning": "Not caring at all, being no skin off one's nose, being of no concern at all."
+  },
+  {
+    "source_idiom": "ei ihme",
+    "target_idiom": "然もありなん",
+    "source_meaning": "no wonder",
+    "target_meaning": "it stands to reason, unsurprisingly"
+  },
+  {
+    "source_idiom": "eilisen teeren poika",
+    "target_idiom": "井底の蛙",
+    "source_meaning": "Inexperienced, gullible (usually used with a negative, \"nobody's fool\", cf. \"born yesterday\")",
+    "target_meaning": "a person of very limited outlook and experience"
+  },
+  {
+    "source_idiom": "eläinten kuningas",
+    "target_idiom": "鳥無き里の蝙蝠",
+    "source_meaning": "king of beasts (lion)",
+    "target_meaning": "in the land of the blind, the one-eyed man is king"
+  },
+  {
+    "source_idiom": "elää ja hengittää",
+    "target_idiom": "息を切らす",
+    "source_meaning": "to breathe (to be very passionate about a thing)",
+    "target_meaning": "to be out of breath"
+  },
+  {
+    "source_idiom": "elää kädestä suuhun",
+    "target_idiom": "爪に火を灯す",
+    "source_meaning": "to live hand-to-mouth, live paycheck to paycheck",
+    "target_meaning": "pinch pennies, live a stingy life"
+  },
+  {
+    "source_idiom": "enemmän tai vähemmän",
+    "target_idiom": "多かれ少なかれ",
+    "source_meaning": "more or less (approximately or almost)",
+    "target_meaning": "more or less"
+  },
+  {
+    "source_idiom": "haastaa riitaa",
+    "target_idiom": "喧嘩を売る",
+    "source_meaning": "to pick a fight, pick a quarrel (deliberately provoke someone into an argument or a fight) [reciprocal allative ]",
+    "target_meaning": "to look for a fight, to pick a fight"
+  },
+  {
+    "source_idiom": "harva se päivä",
+    "target_idiom": "折に触れて",
+    "source_meaning": "almost daily, quite often",
+    "target_meaning": "whenever possible, at every opportunity, occasionally"
+  },
+  {
+    "source_idiom": "heittää helmiä sikojen eteen",
+    "target_idiom": "馬の耳に念仏",
+    "source_meaning": "to cast pearls before swine",
+    "target_meaning": "cast pearls before swine"
+  },
+  {
+    "source_idiom": "heittää hyvää rahaa huonon perään",
+    "target_idiom": "焼け跡の釘拾い",
+    "source_meaning": "to throw good money after bad",
+    "target_meaning": "to try to save a little only to lose a lot; to spoil the ship for a ha'p'orth of tar; to be penny wise and pound foolish"
+  },
+  {
+    "source_idiom": "heittää kapuloita rattaisiin",
+    "target_idiom": "出鼻をくじく",
+    "source_meaning": "to throw a spanner in the works, throw a wrench in the works",
+    "target_meaning": "to spoil someone's start; to kill someone's enthusiasm; to take the wind out of someone's sails"
+  },
+  {
+    "source_idiom": "heittää pyyhe kehään",
+    "target_idiom": "さじをなげる",
+    "source_meaning": "to throw in the towel",
+    "target_meaning": "匙を投げる: literally, “to throw the spoon” → to throw in the towel, to give up, to quit"
+  },
+  {
+    "source_idiom": "helppo nakki",
+    "target_idiom": "おちゃのこさいさい",
+    "source_meaning": "piece of cake, snap (easy task)",
+    "target_meaning": "being a piece of cake (easy)"
+  },
+  {
+    "source_idiom": "henkensä edestä",
+    "target_idiom": "命に代えても",
+    "source_meaning": "for one's life, like one's life depended on it",
+    "target_meaning": "at the cost of one's life"
+  },
+  {
+    "source_idiom": "heti paikalla",
+    "target_idiom": "一刻も早く",
+    "source_meaning": "right away (at this very moment; used often to strengthen a demand)",
+    "target_meaning": "as soon as possible, immediately"
+  },
+  {
+    "source_idiom": "hevosmiesten uutistoimisto",
+    "target_idiom": "負け惜しみ",
+    "source_meaning": "grapevine ‎(informal means of circulating gossip‎)",
+    "target_meaning": "sour grapes"
+  },
+  {
+    "source_idiom": "hieraista silmiään",
+    "target_idiom": "狐につままれる",
+    "source_meaning": "to be surprised or in disbelief",
+    "target_meaning": "to be taken aback or dumbfounded by something unexpected"
+  },
+  {
+    "source_idiom": "hinnalla millä hyvänsä",
+    "target_idiom": "何が何でも",
+    "source_meaning": "at all costs, no matter what",
+    "target_meaning": "at all costs, whatever it takes"
+  },
+  {
+    "source_idiom": "hymyillä korvasta korvaan",
+    "target_idiom": "笑う門には福来る",
+    "source_meaning": "to smile from ear to ear",
+    "target_meaning": "good fortune comes to the homes of those who smile"
+  },
+  {
+    "source_idiom": "hyvän sään aikana",
+    "target_idiom": "未雨綢繆",
+    "source_meaning": "before it's too late, while one still can",
+    "target_meaning": "to plan ahead; to prepare before it is too late; to take precautions"
+  },
+  {
+    "source_idiom": "häntä koipien välissä",
+    "target_idiom": "尻尾を巻く",
+    "source_meaning": "tail between one's legs",
+    "target_meaning": "to tuck one's tail between one's legs; to admit defeat; to turn tail (and run)​"
+  },
+  {
+    "source_idiom": "hävetä silmät päästään",
+    "target_idiom": "穴があったら入りたい",
+    "source_meaning": "to feel ashamed enough to drop one's eyes out (feeling so ashamed about what is happening that one would rather even lose the ability to see it)",
+    "target_meaning": "ashamed and unable to show one's face"
+  },
+  {
+    "source_idiom": "ilman rihman kiertämää",
+    "target_idiom": "裸の王様",
+    "source_meaning": "without a stitch on (naked)",
+    "target_meaning": "emperor without clothes"
+  },
+  {
+    "source_idiom": "iskeä kyntensä",
+    "target_idiom": "胸ぐらを掴む",
+    "source_meaning": "to get one's claws into, pounce (into) [ illative]",
+    "target_meaning": "to grab (someone) by the collar"
+  },
+  {
+    "source_idiom": "jalat maassa",
+    "target_idiom": "草の根",
+    "source_meaning": "feet on the ground",
+    "target_meaning": "grass roots"
+  },
+  {
+    "source_idiom": "joka iikka",
+    "target_idiom": "猫も杓子も",
+    "source_meaning": "everyone; every man Jack",
+    "target_meaning": "everyone and their dog; literally “cats and ladles too”"
+  },
+  {
+    "source_idiom": "joka kumartaa yhdelle, pyllistää toisille",
+    "target_idiom": "魚心あれば水心あり",
+    "source_meaning": "If you favour one, you'll discriminate the others.",
+    "target_meaning": "if you show someone favor, they will show favor to you in return"
+  },
+  {
+    "source_idiom": "jos vanhat merkit pitävät paikkansa",
+    "target_idiom": "二度ある事は三度ある",
+    "source_meaning": "if the past is anything to go by",
+    "target_meaning": "what happens twice will happen three times, if it happens twice it will happen again"
+  },
+  {
+    "source_idiom": "juosta pää kolmantena jalkana",
+    "target_idiom": "死活問題",
+    "source_meaning": "To be in a great hurry",
+    "target_meaning": "an extremely urgent matter"
+  },
+  {
+    "source_idiom": "jälkijuna",
+    "target_idiom": "人後",
+    "source_meaning": "An allegory for being late or behind others in action.",
+    "target_meaning": "losing out to others, coming after or behind another person"
+  },
+  {
+    "source_idiom": "järki jäässä",
+    "target_idiom": "空気を読まない",
+    "source_meaning": "Being clueless about something or understanding the point slowly.",
+    "target_meaning": "unable to pick up on social cues or the situation; lacking social awareness or situational awareness; not able to read the room"
+  },
+  {
+    "source_idiom": "jäädä mieleen",
+    "target_idiom": "心に残る",
+    "source_meaning": "to stick [ allative ], stick to one's mind, be memorable",
+    "target_meaning": "to stay in one's heart; to be enduringly memorable; to be unforgettable"
+  },
+  {
+    "source_idiom": "jäädä paitsi",
+    "target_idiom": "蚊帳の外",
+    "source_meaning": "to miss out [ elative ] (miss an experience or lose an opportunity)",
+    "target_meaning": "being excluded; being ignored; being kept in the dark (about); being kept out of the loop"
+  },
+  {
+    "source_idiom": "jäädä rysän päältä kiinni",
+    "target_idiom": "尻尾を掴む",
+    "source_meaning": "to be/get caught red-handed",
+    "target_meaning": "to have something on someone; to catch someone out; to trip someone up; to have evidence; to get a lead"
+  },
+  {
+    "source_idiom": "kaataa öljyä liekkeihin",
+    "target_idiom": "火に油を注ぐ",
+    "source_meaning": "to add fuel to the fire",
+    "target_meaning": "[from early 1900s] to add fuel to the fire"
+  },
+  {
+    "source_idiom": "kaikki kaikessa",
+    "target_idiom": "何も彼も",
+    "source_meaning": "the be-all and end-all, everything",
+    "target_meaning": "everything"
+  },
+  {
+    "source_idiom": "kaksiteräinen",
+    "target_idiom": "諸刃の剣",
+    "source_meaning": "double-edged",
+    "target_meaning": "double-edged sword"
+  },
+  {
+    "source_idiom": "kallella kypärin",
+    "target_idiom": "青菜に塩",
+    "source_meaning": "down, depressed, sad, blue (feeling low)",
+    "target_meaning": "depressed"
+  },
+  {
+    "source_idiom": "kantaa kaunaa",
+    "target_idiom": "目の敵にする",
+    "source_meaning": "to hold a grudge, bear/have hard feelings",
+    "target_meaning": "to hate the very sight of; to hold a grudge against; to treat like an enemy; to bear constant enmity; to be gunning for; to have it in for"
+  },
+  {
+    "source_idiom": "kantaa oma taakkansa",
+    "target_idiom": "箔を付ける",
+    "source_meaning": "to carry one's weight",
+    "target_meaning": "to give some dignity, to give some weight"
+  },
+  {
+    "source_idiom": "kanto kaskessa",
+    "target_idiom": "支障をきたす",
+    "source_meaning": "obstacle, hindrance, someone resisting an idea, etc.",
+    "target_meaning": "to obstruct, to hinder"
+  },
+  {
+    "source_idiom": "katkaista napanuora",
+    "target_idiom": "快刀乱麻を断つ",
+    "source_meaning": "to cut the umbilical cord",
+    "target_meaning": "to cut the Gordian knot"
+  },
+  {
+    "source_idiom": "katsoa kieroon",
+    "target_idiom": "白い目で見る",
+    "source_meaning": "to look askance, to dislike",
+    "target_meaning": "give somebody the cold shoulder, look at with disdain"
+  },
+  {
+    "source_idiom": "kauan sitten",
+    "target_idiom": "今は昔",
+    "source_meaning": "long ago",
+    "target_meaning": "used in the beginning of narratives or story literature: once upon a time, long ago"
+  },
+  {
+    "source_idiom": "kehäkettu",
+    "target_idiom": "裸足で逃げる",
+    "source_meaning": "a person experienced in their field (particularly sports)",
+    "target_meaning": "(of a professional) superior"
+  },
+  {
+    "source_idiom": "keksiä pyörä uudelleen",
+    "target_idiom": "車輪の再発明",
+    "source_meaning": "to reinvent the wheel",
+    "target_meaning": "reinventing the wheel"
+  },
+  {
+    "source_idiom": "keskellä kirkasta päivää",
+    "target_idiom": "日の下",
+    "source_meaning": "in broad daylight",
+    "target_meaning": "under the sun"
+  },
+  {
+    "source_idiom": "kiehua omassa liemessään",
+    "target_idiom": "自業自得",
+    "source_meaning": "to endure a difficult situation that one has brought upon oneself; to (make one's bed and) lie in it",
+    "target_meaning": "make one's bed and lie in it, reap what one sows"
+  },
+  {
+    "source_idiom": "kieli keskellä suuta",
+    "target_idiom": "石橋を叩いて渡る",
+    "source_meaning": "very cautiously, especially when talking of a sensitive subject or performing a task that requires precision",
+    "target_meaning": "to be very careful"
+  },
+  {
+    "source_idiom": "kiertää kuin kissa kuumaa puuroa",
+    "target_idiom": "二階から目薬",
+    "source_meaning": "To constantly and obviously covet something without actually making a move to get it, or to try to approach a difficult topic of speech in a roundabout way.",
+    "target_meaning": "being roundabout or indirect to the point of being ineffective, often irritatingly so"
+  },
+  {
+    "source_idiom": "kiireestä kantapäähän",
+    "target_idiom": "隅から隅まで",
+    "source_meaning": "from top to toe",
+    "target_meaning": "from A to Z, from cover to cover, in every nook and corner"
+  },
+  {
+    "source_idiom": "kova kovaa vastaan",
+    "target_idiom": "燎原の火",
+    "source_meaning": "fire with fire",
+    "target_meaning": "wildfire"
+  },
+  {
+    "source_idiom": "kuin Naantalin aurinko",
+    "target_idiom": "顔の道具",
+    "source_meaning": "Of a wide-smile face.",
+    "target_meaning": "facial features"
+  },
+  {
+    "source_idiom": "kuin palmun alta",
+    "target_idiom": "板につく",
+    "source_meaning": "very smoothly and/or quickly (in verb phrases describing starting up, especially in reference to vehicles or machines)",
+    "target_meaning": "with high proficiency and facility"
+  },
+  {
+    "source_idiom": "kuin viilipytty",
+    "target_idiom": "気が緩む",
+    "source_meaning": "Very calm.",
+    "target_meaning": "feel relaxed"
+  },
+  {
+    "source_idiom": "kultainen häkki",
+    "target_idiom": "ゴールデンパラシュート",
+    "source_meaning": "gilded cage",
+    "target_meaning": "golden parachute"
+  },
+  {
+    "source_idiom": "kärpäsenpaskan kokoinen",
+    "target_idiom": "一糸",
+    "source_meaning": "tiny ass, really damn tiny",
+    "target_meaning": "something extremely small or slight"
+  },
+  {
+    "source_idiom": "käydä järkeen",
+    "target_idiom": "計画を立てる",
+    "source_meaning": "to make sense",
+    "target_meaning": "to make plans"
+  },
+  {
+    "source_idiom": "käydä ohraisesti",
+    "target_idiom": "縁起でもない",
+    "source_meaning": "to end up unluckily or unfortunately, to be unlucky",
+    "target_meaning": "unlucky, ill-omened"
+  },
+  {
+    "source_idiom": "käydä oikeutta",
+    "target_idiom": "出る所へ出る",
+    "source_meaning": "to litigate [ elative ]",
+    "target_meaning": "to appeal to the court, police or other public place, and compete which one is correct publicly; to bring a lawsuit"
+  },
+  {
+    "source_idiom": "käydä päinsä",
+    "target_idiom": "滅相もない",
+    "source_meaning": "to do, be acceptable, (in negative) to be out of question.",
+    "target_meaning": "Don't be absurd; That's out of the question; Nonsense; Don't mention it"
+  },
+  {
+    "source_idiom": "kääntyä jonkun puoleen",
+    "target_idiom": "相談に乗る",
+    "source_meaning": "to turn to, consult (to consult for advice)",
+    "target_meaning": "to serve as the other party to someone who needs advice; to give advice; to provide consultation"
+  },
+  {
+    "source_idiom": "kääntyä kannoillaan",
+    "target_idiom": "踵を返す",
+    "source_meaning": "to turn on one's heel",
+    "target_meaning": "turn one's heel, go back"
+  },
+  {
+    "source_idiom": "kääntää kelkkansa",
+    "target_idiom": "舵を切る",
+    "source_meaning": "To do an about-face/turnabout.",
+    "target_meaning": "to change direction (of policy, etc.)"
+  },
+  {
+    "source_idiom": "käärmeissään",
+    "target_idiom": "癪に障る",
+    "source_meaning": "annoyed, angry, pissed off",
+    "target_meaning": "to be irritated, to be annoyed"
+  },
+  {
+    "source_idiom": "laittaa lusikat jakoon",
+    "target_idiom": "袂を分かつ",
+    "source_meaning": "to separate, get divorced",
+    "target_meaning": "to break off relation with, to part from"
+  },
+  {
+    "source_idiom": "laittaa vahinko kiertämään",
+    "target_idiom": "轍を踏む",
+    "source_meaning": "to let someone else suffer the same mishap as one did (has a cynical nuance)",
+    "target_meaning": "make the same mistake that someone else did"
+  },
+  {
+    "source_idiom": "lapsenkengissä",
+    "target_idiom": "日が浅い",
+    "source_meaning": "in its infancy, at an early stage",
+    "target_meaning": "be new, it has not been long since, still in the early days of, not many days have passed since"
+  },
+  {
+    "source_idiom": "laskea yhden käden sormin",
+    "target_idiom": "当てにする",
+    "source_meaning": "to count on the fingers of one hand",
+    "target_meaning": "to count on, to expect, to depend on"
+  },
+  {
+    "source_idiom": "latvasta laho",
+    "target_idiom": "頭がおかしい",
+    "source_meaning": "nutty, barmy; mad, insane",
+    "target_meaning": "insane, crazy, nuts, out of one's mind"
+  },
+  {
+    "source_idiom": "lautoihin",
+    "target_idiom": "帰らぬ人",
+    "source_meaning": "dead",
+    "target_meaning": "deceased person"
+  },
+  {
+    "source_idiom": "leijua ilmassa",
+    "target_idiom": "心が晴れる",
+    "source_meaning": "to walk on air",
+    "target_meaning": "to be refreshed; to be carefree"
+  },
+  {
+    "source_idiom": "levätä laakereillaan",
+    "target_idiom": "あぐらをかく",
+    "source_meaning": "to rest on one's laurels (to rely on a past success instead of trying to improve oneself further)",
+    "target_meaning": "rest on one's laurels"
+  },
+  {
+    "source_idiom": "liian hyvä ollakseen totta",
+    "target_idiom": "想像を絶する",
+    "source_meaning": "too good to be true",
+    "target_meaning": "beyond imagination"
+  },
+  {
+    "source_idiom": "lukea rivien välistä",
+    "target_idiom": "行間を読む",
+    "source_meaning": "to read between the lines",
+    "target_meaning": "to read between the lines"
+  },
+  {
+    "source_idiom": "luopua aseista",
+    "target_idiom": "手を拱く",
+    "source_meaning": "to lay down one's arms",
+    "target_meaning": "to fold one's arms"
+  },
+  {
+    "source_idiom": "lyödä ällikällä",
+    "target_idiom": "肝を冷やす",
+    "source_meaning": "to strike with awe, knock back, awestrike",
+    "target_meaning": "to struck with terror"
+  },
+  {
+    "source_idiom": "lähteä lapasesta",
+    "target_idiom": "箍が外れる",
+    "source_meaning": "to get out of control, to get out of hand",
+    "target_meaning": "to become out of control, to lose restraint"
+  },
+  {
+    "source_idiom": "läpi harmaan kiven",
+    "target_idiom": "骨折り損の草臥れ儲け",
+    "source_meaning": "through (extreme) toil or hardship",
+    "target_meaning": "great trouble and pains but in vain"
+  },
+  {
+    "source_idiom": "maailmankartalle",
+    "target_idiom": "顔が広い",
+    "source_meaning": "famous (worldwide)",
+    "target_meaning": "widely known, well-known, well connected"
+  },
+  {
+    "source_idiom": "maalata pirua seinälle",
+    "target_idiom": "人目が煩い",
+    "source_meaning": "to expect a misfortune to happen by speaking about it and the chance of it happening",
+    "target_meaning": "things will turn out unfavorably if attention were attracted"
+  },
+  {
+    "source_idiom": "maata näkyvissä",
+    "target_idiom": "喉元過ぎれば熱さを忘れる",
+    "source_meaning": "land ahoy!",
+    "target_meaning": "once on shore, we pray no more, danger past and God forgotten"
+  },
+  {
+    "source_idiom": "mailla halmeilla",
+    "target_idiom": "影も形もない",
+    "source_meaning": "nowhere to be found, nowhere to be seen",
+    "target_meaning": "nowhere to be seen, nowhere to be found, disappeared without trace"
+  },
+  {
+    "source_idiom": "maistaa omaa lääkettään",
+    "target_idiom": "身から出た錆",
+    "source_meaning": "to get a taste of one's own medicine",
+    "target_meaning": "reap what one sows, getting one's just deserts"
+  },
+  {
+    "source_idiom": "maksaa samalla mitalla",
+    "target_idiom": "恨みを晴らす",
+    "source_meaning": "to pay back (to exact revenge)",
+    "target_meaning": "to take vengeance, to revenge"
+  },
+  {
+    "source_idiom": "mennä lukkoon",
+    "target_idiom": "頭の中が真っ白になる",
+    "source_meaning": "to seize up, to freeze up",
+    "target_meaning": "for one's mind to go blank, to freeze"
+  },
+  {
+    "source_idiom": "mennä myttyyn",
+    "target_idiom": "気の遠くなる",
+    "source_meaning": "to fail, collapse",
+    "target_meaning": "to faint, to lose consciousness; to be overwhelmed"
+  },
+  {
+    "source_idiom": "mennä naimisiin",
+    "target_idiom": "赤縄を結ぶ",
+    "source_meaning": "to marry, get married [reciprocal ] (to take someone as husband or wife; to be joined in marriage)",
+    "target_meaning": "The bethrothed are to tie the knot. The newlyweds' fingers are bound together by a red rope, symbolizing that their destinies are now bound forever."
+  },
+  {
+    "source_idiom": "mennä niin kuin Strömsössä",
+    "target_idiom": "案の定",
+    "source_meaning": "to go as planned, go according to plan, go smoothly",
+    "target_meaning": "expectedly; as expected; sure enough"
+  },
+  {
+    "source_idiom": "mennä pieleen",
+    "target_idiom": "臨渇掘井",
+    "source_meaning": "to go wrong, to fail, to not succeed",
+    "target_meaning": "to fail to make a timed preparation"
+  },
+  {
+    "source_idiom": "mennä päin mäntyä",
+    "target_idiom": "水泡に帰す",
+    "source_meaning": "to go wrong, to fall through",
+    "target_meaning": "come to nothing"
+  },
+  {
+    "source_idiom": "mennä retkuun",
+    "target_idiom": "一杯食わす",
+    "source_meaning": "to get fooled, to fall for (a trap, scam, etc.)",
+    "target_meaning": "deceive, play a trick on someone"
+  },
+  {
+    "source_idiom": "mennä syyhyttä saunaan",
+    "target_idiom": "てをそめる",
+    "source_meaning": "to get involved in something troublesome that one has no business getting involved in",
+    "target_meaning": "to become involved (with)"
+  },
+  {
+    "source_idiom": "mennä tunteisiin",
+    "target_idiom": "胸が塞がる",
+    "source_meaning": "to affect emotionally, cause (someone) to get emotional",
+    "target_meaning": "to be emotionally moved"
+  },
+  {
+    "source_idiom": "mennä yli",
+    "target_idiom": "図に乗る",
+    "source_meaning": "to go overboard, go too far",
+    "target_meaning": "to get carried away, to become overexcited, to push one's luck"
+  },
+  {
+    "source_idiom": "mennä yli hilseen",
+    "target_idiom": "目に余る",
+    "source_meaning": "To be too difficult for one to comprehend.",
+    "target_meaning": "be intolerable"
+  },
+  {
+    "source_idiom": "mennä yli siitä mistä aita on matalin",
+    "target_idiom": "手を抜く",
+    "source_meaning": "to do something the easy way, cut corners",
+    "target_meaning": "cut corners"
+  },
+  {
+    "source_idiom": "merenantimet",
+    "target_idiom": "海老鯛",
+    "source_meaning": "seafood",
+    "target_meaning": "fish a sea bream with shrimp; throw a sprat to catch a mackerel"
+  },
+  {
+    "source_idiom": "miettiä päänsä puhki",
+    "target_idiom": "知恵を絞る",
+    "source_meaning": "to rack one's brain (to struggle to think of or remember something)",
+    "target_meaning": "to rack one's brain, to think really hard"
+  },
+  {
+    "source_idiom": "muistua mieleen",
+    "target_idiom": "頭に浮かぶ",
+    "source_meaning": "to spring to mind, come to mind",
+    "target_meaning": "to come into mind, to pop into one's head"
+  },
+  {
+    "source_idiom": "myötäkarvaan",
+    "target_idiom": "心が広い",
+    "source_meaning": "favorably, sympathetically",
+    "target_meaning": "generous, big-hearted"
+  },
+  {
+    "source_idiom": "nostaa hattua",
+    "target_idiom": "一目置く",
+    "source_meaning": "to tip one's hat (express or acknowledge respect)",
+    "target_meaning": "to take one's hat off; to acknowledge another's superiority"
+  },
+  {
+    "source_idiom": "nostaa jalustalle",
+    "target_idiom": "買い被る",
+    "source_meaning": "to put on a pedestal (hold in very high esteem)",
+    "target_meaning": "to overestimate (someone), to think highly of, to overrate"
+  },
+  {
+    "source_idiom": "nostaa kissa pöydälle",
+    "target_idiom": "話を切り出す",
+    "source_meaning": "to bring up a difficult issue; to address the elephant in the room",
+    "target_meaning": "to break the ice; to broach a subject; to begin a conversation"
+  },
+  {
+    "source_idiom": "nostaa rimaa",
+    "target_idiom": "手を上げる",
+    "source_meaning": "to raise the bar",
+    "target_meaning": "to improve, to raise one's level of skill or competence"
+  },
+  {
+    "source_idiom": "nostaa tikun nokkaan",
+    "target_idiom": "槍玉に挙げる",
+    "source_meaning": "to single out (for negative attention)",
+    "target_meaning": "single out for ridicule"
+  },
+  {
+    "source_idiom": "nousta arvoon arvaamattomaan",
+    "target_idiom": "ためになる",
+    "source_meaning": "to become unexpectedly valuable, become unexpectedly useful",
+    "target_meaning": "to be of benefit, to be useful"
+  },
+  {
+    "source_idiom": "nousta kusi päähän",
+    "target_idiom": "胸を張る",
+    "source_meaning": "to get full of oneself (start acting arrogant and/or egotistical)",
+    "target_meaning": "to throw out one's chest; to be puffed up with pride"
+  },
+  {
+    "source_idiom": "nousta latvasta puuhun",
+    "target_idiom": "泥棒を捕らえて縄を綯う",
+    "source_meaning": "to put the cart before the horse",
+    "target_meaning": "to make one's preparations after events have already begun: to put the cart before the horse, to start something in the eleventh hour"
+  },
+  {
+    "source_idiom": "nähdä naamasta",
+    "target_idiom": "骨に刻み、肝に銘ずる",
+    "source_meaning": "to be written all over someone's face",
+    "target_meaning": "To have one's resolve carved on the forehead."
+  },
+  {
+    "source_idiom": "näyttää kyntensä",
+    "target_idiom": "腕を振るう",
+    "source_meaning": "to show one's claws",
+    "target_meaning": "to display one's ability"
+  },
+  {
+    "source_idiom": "näyttää miten heränneet veisaa",
+    "target_idiom": "破邪顕正",
+    "source_meaning": "To show someone how to properly do a thing they are attempting to do.",
+    "target_meaning": "To reveal heretical views and teachings, and to demonstrate the correct views, practices and teachings of Buddhism."
+  },
+  {
+    "source_idiom": "näyttää todelliset karvansa",
+    "target_idiom": "尻尾を出す",
+    "source_meaning": "to show one's true colors, show the cloven foot",
+    "target_meaning": "to show one's true colors (colours); to expose one's faults; to give oneself away and run"
+  },
+  {
+    "source_idiom": "odottaa kun kuuta nousevaa",
+    "target_idiom": "首を洗って待つ",
+    "source_meaning": "To wait for something very anxiously, to the point of desperation.",
+    "target_meaning": "to wait for one's punishment, to wait and see"
+  },
+  {
+    "source_idiom": "olla homma hanskassa",
+    "target_idiom": "弱みを握る",
+    "source_meaning": "to have something covered or taken care of, have a handle on, have something under control (particularly some kind of problem)",
+    "target_meaning": "to have something on (someone)"
+  },
+  {
+    "source_idiom": "olla hyvää pataa jonkun kanssa",
+    "target_idiom": "気が合う",
+    "source_meaning": "to be on good terms with someone",
+    "target_meaning": "to get along (with someone)"
+  },
+  {
+    "source_idiom": "olla hätää kärsimässä",
+    "target_idiom": "切羽詰まる",
+    "source_meaning": "to be in trouble or in distress, be in a dire situation",
+    "target_meaning": "to be in a fix, to be at one's wit's end, to be driven into a corner"
+  },
+  {
+    "source_idiom": "olla jonkun mieleen",
+    "target_idiom": "気に入る",
+    "source_meaning": "to be to someone's liking",
+    "target_meaning": "to like, to be fond of, to prefer, to be pleased with"
+  },
+  {
+    "source_idiom": "olla jäniksen selässä",
+    "target_idiom": "手が早い",
+    "source_meaning": "to be in a hurry",
+    "target_meaning": "be a fast worker"
+  },
+  {
+    "source_idiom": "olla kiikarissa",
+    "target_idiom": "目を付ける",
+    "source_meaning": "to have one's eye on, seek, pursue, aim at",
+    "target_meaning": "have an eye on"
+  },
+  {
+    "source_idiom": "olla kujalla",
+    "target_idiom": "虎に成る",
+    "source_meaning": "to be completely confused, for example (but not necessarily) as a result of being under the influence or intoxicated by either alcohol or drugs",
+    "target_meaning": "to be so intoxicated as to be out of control; drunk"
+  },
+  {
+    "source_idiom": "olla kukkona tunkiolla",
+    "target_idiom": "出入",
+    "source_meaning": "to rule the roost",
+    "target_meaning": "run of the house (i.e., control of what happens in the house)"
+  },
+  {
+    "source_idiom": "olla lätkässä",
+    "target_idiom": "現を抜かす",
+    "source_meaning": "to be infatuated, enamoured, to have a crush",
+    "target_meaning": "to be infatuated (with); to be hooked (on); to lose one's heart (on); to be engrossed"
+  },
+  {
+    "source_idiom": "olla mielin kielin",
+    "target_idiom": "尻尾を振る",
+    "source_meaning": "to suck up (to), to brownnose, to be a yes man (to)",
+    "target_meaning": "to flatter; to butter up"
+  },
+  {
+    "source_idiom": "olla monta rautaa tulessa",
+    "target_idiom": "船頭多くして船山に登る",
+    "source_meaning": "to have many irons in the fire",
+    "target_meaning": "too many cooks spoil the broth"
+  },
+  {
+    "source_idiom": "olla otsaa",
+    "target_idiom": "肝が据わる",
+    "source_meaning": "to have the nerve [ first infinitive ] (do something that the speaker considers impudent)",
+    "target_meaning": "to have guts; to be plucky; to have nerves of steel"
+  },
+  {
+    "source_idiom": "olla perhosia vatsassa",
+    "target_idiom": "胸キュン",
+    "source_meaning": "to have butterflies in one's stomach",
+    "target_meaning": "heart pounding; butterflies in one's stomach"
+  },
+  {
+    "source_idiom": "olla poissa tolaltaan",
+    "target_idiom": "泡を食う",
+    "source_meaning": "to be upset, to be out of one's mind, to be out of one's right mind (to be temporarily mentally unstable; very distressed)",
+    "target_meaning": "to be confused, to be shocked, to lose one's head"
+  },
+  {
+    "source_idiom": "olla pää sitä varten, ettei selkäranka valu housuihin",
+    "target_idiom": "止むに止まれぬ",
+    "source_meaning": "To be helplessly stupid.",
+    "target_meaning": "without being able to help oneself, irresistable, against one's will"
+  },
+  {
+    "source_idiom": "olla sanomattakin selvää",
+    "target_idiom": "言うまでも無い",
+    "source_meaning": "to go without saying",
+    "target_meaning": "needless to say, goes without saying"
+  },
+  {
+    "source_idiom": "omaa luokkaansa",
+    "target_idiom": "またとない",
+    "source_meaning": "something else, exceptional, special",
+    "target_meaning": "unique, matchless, unparalleled"
+  },
+  {
+    "source_idiom": "oman menestyksensä uhri",
+    "target_idiom": "失敗は成功の母",
+    "source_meaning": "victim of one's own success",
+    "target_meaning": "failure leads to success"
+  },
+  {
+    "source_idiom": "ominta omaa",
+    "target_idiom": "十人十色",
+    "source_meaning": "one's thing",
+    "target_meaning": "to each his own; different strokes for different folks; there's no accounting for taste"
+  },
+  {
+    "source_idiom": "omissa maailmoissaan",
+    "target_idiom": "無我夢中",
+    "source_meaning": "in a world of one's own (unaware of one's surroundings because of being focused in one's thoughts)",
+    "target_meaning": "entirely engrossed in something"
+  },
+  {
+    "source_idiom": "osua naulan kantaan",
+    "target_idiom": "頭が切れる",
+    "source_meaning": "to hit the nail on the head",
+    "target_meaning": "to be sharp; to be keen; to be on the ball; to have a mind like a steel trap; to be clever"
+  },
+  {
+    "source_idiom": "ottaa härkää sarvista",
+    "target_idiom": "先を越す",
+    "source_meaning": "to take the bull by the horns",
+    "target_meaning": "to take the initiative; to forestall; to beat to the punch"
+  },
+  {
+    "source_idiom": "ottaa opiksi",
+    "target_idiom": "習うより慣れろ",
+    "source_meaning": "to learn the hard way, learn one's lesson",
+    "target_meaning": "experience is the best teacher, practice makes perfect; literally, \"it is better to grow accustomed than be taught\""
+  },
+  {
+    "source_idiom": "ottaa parempaan käyttöön",
+    "target_idiom": "狗盗",
+    "source_meaning": "to steal",
+    "target_meaning": "sneak thief, literally \"to steal like a dog\""
+  },
+  {
+    "source_idiom": "ottaa silmä käteen",
+    "target_idiom": "耳を澄ます",
+    "source_meaning": "to pay attention more closely",
+    "target_meaning": "to listen closely"
+  },
+  {
+    "source_idiom": "ottaa sydämelleen",
+    "target_idiom": "真に受ける",
+    "source_meaning": "to take to heart",
+    "target_meaning": "to take seriously, to believe to be true"
+  },
+  {
+    "source_idiom": "outolintu",
+    "target_idiom": "海の物とも山の物ともつかない",
+    "source_meaning": "strange bird, neither fish nor fowl",
+    "target_meaning": "neither fish nor fowl, up in the air"
+  },
+  {
+    "source_idiom": "pahan päivän varalle",
+    "target_idiom": "まさかの時",
+    "source_meaning": "for a rainy day",
+    "target_meaning": "time of need, rainy day"
+  },
+  {
+    "source_idiom": "painaa muistiin",
+    "target_idiom": "頭に入れる",
+    "source_meaning": "to memorize",
+    "target_meaning": "to keep in mind"
+  },
+  {
+    "source_idiom": "painaa villaisella",
+    "target_idiom": "茶にする",
+    "source_meaning": "to downplay, soft-pedal",
+    "target_meaning": "to make fun of, to make light of"
+  },
+  {
+    "source_idiom": "painonsa arvoinen kultaa",
+    "target_idiom": "一字千金",
+    "source_meaning": "worth one's weight in gold",
+    "target_meaning": "a word of great value"
+  },
+  {
+    "source_idiom": "palaa halusta",
+    "target_idiom": "食指が動く",
+    "source_meaning": "to burn with desire [ first infinitive ]",
+    "target_meaning": "have a craving for, have a strong desire for, itch for"
+  },
+  {
+    "source_idiom": "panna riita halki",
+    "target_idiom": "貸し借りなしにする",
+    "source_meaning": "to split the difference (make a compromise)",
+    "target_meaning": "call it square with someone, call it even with someone"
+  },
+  {
+    "source_idiom": "panna tuulemaan",
+    "target_idiom": "弾みが付く",
+    "source_meaning": "to get into action, get going (strong) (to begin or commence with determination and energy)",
+    "target_meaning": "to develop momentum, to pick up steam"
+  },
+  {
+    "source_idiom": "panna vastaan",
+    "target_idiom": "手向かう",
+    "source_meaning": "to resist",
+    "target_meaning": "to resist"
+  },
+  {
+    "source_idiom": "parantaa tapansa",
+    "target_idiom": "心を入れ替える",
+    "source_meaning": "to mend one's ways",
+    "target_meaning": "to turn over a new leaf; to mend one's ways; to reform"
+  },
+  {
+    "source_idiom": "pata kattilaa soimaa",
+    "target_idiom": "目糞鼻糞を笑う",
+    "source_meaning": "Used to claim that a person is guilty of the very thing of which they accuse another. Cf. English \"pot calling kettle black\".",
+    "target_meaning": "pot calling the kettle black"
+  },
+  {
+    "source_idiom": "pelastaa kasvonsa",
+    "target_idiom": "顔を立てる",
+    "source_meaning": "to save face",
+    "target_meaning": "to save face"
+  },
+  {
+    "source_idiom": "pelata aikaa",
+    "target_idiom": "時間をつぶす",
+    "source_meaning": "to play for time",
+    "target_meaning": "to kill time"
+  },
+  {
+    "source_idiom": "pelata jonkun pussiin",
+    "target_idiom": "てだまにとる",
+    "source_meaning": "to play into someone's hands",
+    "target_meaning": "to play (manipulate) someone"
+  },
+  {
+    "source_idiom": "pelata upporikasta ja rutiköyhää",
+    "target_idiom": "当たって砕けろ",
+    "source_meaning": "to take a flyer, roll the dice, take a gamble, take a risk, take a chance (to invest against odds; to make a choice with an uncertain outcome)",
+    "target_meaning": "take a chance, give it a shot"
+  },
+  {
+    "source_idiom": "pilkka osuu omaan nilkkaan",
+    "target_idiom": "人を呪わば穴二つ",
+    "source_meaning": "the chickens come home to roost; when one's mockery of something backfires and leads to unwanted consequences for them",
+    "target_meaning": "chickens come home to roost, so you should be prepared for your curse to come back to you. Also said to admonish someone against cursing another person casually."
+  },
+  {
+    "source_idiom": "pisara meressä",
+    "target_idiom": "焼け石に水",
+    "source_meaning": "drop in the bucket",
+    "target_meaning": "vain attempt due to inadequate efforts; a drop in the bucket; a drop in the ocean"
+  },
+  {
+    "source_idiom": "piste i:n päällä",
+    "target_idiom": "画竜点睛",
+    "source_meaning": "the cherry on top, the icing on the cake",
+    "target_meaning": "putting on the finishing touches"
+  },
+  {
+    "source_idiom": "pistää silmään",
+    "target_idiom": "目を引く",
+    "source_meaning": "to stand out, to catch someone's eye [ genitive and/or possessive form ]",
+    "target_meaning": "stand out, attract notice"
+  },
+  {
+    "source_idiom": "pitkin hampain",
+    "target_idiom": "尻がこそばゆい",
+    "source_meaning": "reluctantly",
+    "target_meaning": "uncomfortable, guilty, hesitant"
+  },
+  {
+    "source_idiom": "pitää kynttiläänsä vakan alla",
+    "target_idiom": "光を韜む",
+    "source_meaning": "to hide one's light under a bushel (to conceal one's talents or positive qualities, especially due to modesty or shyness; to avoid attention)",
+    "target_meaning": "to hide one's talents"
+  },
+  {
+    "source_idiom": "pitää matalaa profiilia",
+    "target_idiom": "人目を忍ぶ",
+    "source_meaning": "to keep a low profile",
+    "target_meaning": "to avoid being seen; to be clandestine"
+  },
+  {
+    "source_idiom": "pitää mykkäkoulua",
+    "target_idiom": "袖にする",
+    "source_meaning": "to give someone the silent treatment (to refuse to speak to someone for an extended period of time)",
+    "target_meaning": "to ignore (someone)"
+  },
+  {
+    "source_idiom": "pitää peukkua",
+    "target_idiom": "健闘を祈る",
+    "source_meaning": "to cross one's fingers (to wish someone good luck)",
+    "target_meaning": "to wish someone a good luck, to wish someone success"
+  },
+  {
+    "source_idiom": "pitää sanansa",
+    "target_idiom": "梃子でも動かない",
+    "source_meaning": "to keep one's word",
+    "target_meaning": "to never go back on one's decision no matter what"
+  },
+  {
+    "source_idiom": "pitää varansa",
+    "target_idiom": "気を付ける",
+    "source_meaning": "to watch out, watch one's step, be on one's guard, keep one's eyes open",
+    "target_meaning": "be careful, watch out"
+  },
+  {
+    "source_idiom": "polkea paikallaan",
+    "target_idiom": "埒が明かない",
+    "source_meaning": "to stagnate, to tread water",
+    "target_meaning": "make no progress, remain unsettled"
+  },
+  {
+    "source_idiom": "polttaa päreensä",
+    "target_idiom": "業を沸かす",
+    "source_meaning": "to blow a gasket, lose one's temper, fly off the handle",
+    "target_meaning": "to lose one's temper, to fly off the handle"
+  },
+  {
+    "source_idiom": "puhaltaa yhteen hiileen",
+    "target_idiom": "二人三脚",
+    "source_meaning": "to work together (for a common goal)",
+    "target_meaning": "cooperating and working together to accomplish a task"
+  },
+  {
+    "source_idiom": "puhjeta itkuun",
+    "target_idiom": "べそをかく",
+    "source_meaning": "to burst into tears",
+    "target_meaning": "to be on the verge of tears"
+  },
+  {
+    "source_idiom": "puhua muiden päälle",
+    "target_idiom": "口を挟む",
+    "source_meaning": "to talk out of turn",
+    "target_meaning": "to cut into a conversation, to get a word in edgeways, to interject"
+  },
+  {
+    "source_idiom": "puhua rumia",
+    "target_idiom": "暴言を吐く",
+    "source_meaning": "to swear, have a foul mouth, talk dirty (use inappropriate or profane language)",
+    "target_meaning": "to utter harsh words; to use abusive language"
+  },
+  {
+    "source_idiom": "puhua vastoin parempaa tietoaan",
+    "target_idiom": "虚勢を張る",
+    "source_meaning": "to lie, talk through one's hat",
+    "target_meaning": "to bluff, to put up a bold front"
+  },
+  {
+    "source_idiom": "pukeutua säkkiin ja tuhkaan",
+    "target_idiom": "喪に服す",
+    "source_meaning": "to wear sackcloth and ashes",
+    "target_meaning": "to go into mourning"
+  },
+  {
+    "source_idiom": "pukki kaalimaan vartijana",
+    "target_idiom": "猫に鰹節",
+    "source_meaning": "fox in the henhouse, fox guarding the henhouse (someone untrustworthy placed in a position of trust in which they will be harmful, damaging or detrimental to benefit themselves)",
+    "target_meaning": "setting a wolf to mind the sheep; fox in the henhouse"
+  },
+  {
+    "source_idiom": "pukukummitus",
+    "target_idiom": "鶏鳴狗盗",
+    "source_meaning": "A person who insists on being sharply and formally dressed, but who appears to do little, if any, actual work. Almost always used of men, but sometimes of women too.",
+    "target_meaning": "a person, of a small caliber, who resorts to (or is only capable of) petty tricks"
+  },
+  {
+    "source_idiom": "purkaa kiukkuaan",
+    "target_idiom": "怒りを遷す",
+    "source_meaning": "to vent one's spleen",
+    "target_meaning": "to lash out, vent one's anger on people who had nothing to do with the source of one's anger"
+  },
+  {
+    "source_idiom": "pysyä housuissaan",
+    "target_idiom": "能ある鷹は爪を隠す",
+    "source_meaning": "to hold one's horses",
+    "target_meaning": "To hold back."
+  },
+  {
+    "source_idiom": "pyörällä päästään",
+    "target_idiom": "首を傾げる",
+    "source_meaning": "baffled, bewildered, confused, perplexed",
+    "target_meaning": "be puzzled"
+  },
+  {
+    "source_idiom": "päivät ovat luetut",
+    "target_idiom": "日を追う",
+    "source_meaning": "days are numbered (some period of time is coming to an end)",
+    "target_meaning": "day by day; with each passing day; as the days go by"
+  },
+  {
+    "source_idiom": "päästä pitkälle",
+    "target_idiom": "身を起こす",
+    "source_meaning": "to go far, go places, succeed",
+    "target_meaning": "be successful in life, build a fortune, rise"
+  },
+  {
+    "source_idiom": "päästää kärsimyksistä",
+    "target_idiom": "胸を撫で下ろす",
+    "source_meaning": "to put someone out of their misery",
+    "target_meaning": "to be relieved"
+  },
+  {
+    "source_idiom": "ripustaa pelikenkänsä naulaan",
+    "target_idiom": "野に下る",
+    "source_meaning": "to hang up one's boots",
+    "target_meaning": "to leave the government service"
+  },
+  {
+    "source_idiom": "ruokahalu kasvaa syödessä",
+    "target_idiom": "腹が減る",
+    "source_meaning": "appetite comes with eating (when one gets something good one wants more)",
+    "target_meaning": "to get hungry"
+  },
+  {
+    "source_idiom": "saada käkättimeen",
+    "target_idiom": "鎧袖一触",
+    "source_meaning": "to get defeated",
+    "target_meaning": "to defeat an opponent in a single blow"
+  },
+  {
+    "source_idiom": "saada käsiinsä",
+    "target_idiom": "手に入れる",
+    "source_meaning": "to get hold of, get one's hands on, lay hands on (to find, obtain or procure)",
+    "target_meaning": "obtain"
+  },
+  {
+    "source_idiom": "salama kirkkaalta taivaalta",
+    "target_idiom": "寝耳に水",
+    "source_meaning": "bolt from the blue (complete surprise; something totally unexpected)",
+    "target_meaning": "out of the blue, bolt from the blue, great surprise"
+  },
+  {
+    "source_idiom": "samalla aaltopituudella",
+    "target_idiom": "阿吽の呼吸",
+    "source_meaning": "on the same wavelength (same meaning)",
+    "target_meaning": "having minds that are in sync, two heart beat as one"
+  },
+  {
+    "source_idiom": "samasta puusta veistetty",
+    "target_idiom": "千編一律",
+    "source_meaning": "cut from the same cloth, of the same stripe",
+    "target_meaning": "all of the same pattern; stereotyped"
+  },
+  {
+    "source_idiom": "sanalla sanottuna",
+    "target_idiom": "単刀直入",
+    "source_meaning": "in a word, frankly (briefly, concisely)",
+    "target_meaning": "straight to the point; point-blank; frank; direct​"
+  },
+  {
+    "source_idiom": "sanopa muuta",
+    "target_idiom": "右に同じ",
+    "source_meaning": "you can say that again (in response to another person: that is very true)",
+    "target_meaning": "ditto, what someone said"
+  },
+  {
+    "source_idiom": "sataa kaatamalla",
+    "target_idiom": "踏んだり蹴ったり",
+    "source_meaning": "to rain cats and dogs (to rain very heavily)",
+    "target_meaning": "it never rains but it pours"
+  },
+  {
+    "source_idiom": "savolainen projekti",
+    "target_idiom": "しりきれとんぼ",
+    "source_meaning": "A project never completed, a non-starter. (Is there an English equivalent to this definition?)",
+    "target_meaning": "\"cut-tailed dragonfly\": (idiomatic) cut off and unfinished"
+  },
+  {
+    "source_idiom": "se ja sama",
+    "target_idiom": "取るに足らない",
+    "source_meaning": "insignificant, all the same, something that doesn't matter",
+    "target_meaning": "negligible, worthless"
+  },
+  {
+    "source_idiom": "seisoa omilla jaloillaan",
+    "target_idiom": "女になる",
+    "source_meaning": "to stand on one's own two feet",
+    "target_meaning": "to mature; to gain independence and maturity"
+  },
+  {
+    "source_idiom": "seurata aikaansa",
+    "target_idiom": "舟に刻みて剣を求む",
+    "source_meaning": "to move with the times",
+    "target_meaning": "Foolish it is to ignore that times are changing."
+  },
+  {
+    "source_idiom": "seurata jalanjäljissä",
+    "target_idiom": "爪の垢を煎じて飲む",
+    "source_meaning": "to follow in someone's footsteps [ genitive and/or possessive form]",
+    "target_meaning": "learn something (from someone serving as an example), follow in someone's footsteps"
+  },
+  {
+    "source_idiom": "siinä näet",
+    "target_idiom": "百聞は一見に如かず",
+    "source_meaning": "you see, you know",
+    "target_meaning": "you understand better by seeing for yourself than hearing about it, seeing is believing"
+  },
+  {
+    "source_idiom": "silmä kovana",
+    "target_idiom": "神経をとがらせる",
+    "source_meaning": "vigilant, watchful, alert",
+    "target_meaning": "to be extremely or excessively vigilant"
+  },
+  {
+    "source_idiom": "sinetöidä huulensa",
+    "target_idiom": "問うに落ちず語るに落ちる",
+    "source_meaning": "to keep one's lips sealed, to seal one's lips",
+    "target_meaning": "to keep a secret when asked about it, but let it slip inadvertently when chatting on another occasion"
+  },
+  {
+    "source_idiom": "sinne tänne",
+    "target_idiom": "当てもない",
+    "source_meaning": "hither and thither",
+    "target_meaning": "aimless, random"
+  },
+  {
+    "source_idiom": "soutaa ja huovata",
+    "target_idiom": "油を売る",
+    "source_meaning": "to shilly-shally, tergiversate, procrastinate, vacillate, hem and haw, hum and haw",
+    "target_meaning": "waste time, dawdle"
+  },
+  {
+    "source_idiom": "syntynyt kultalusikka suussa",
+    "target_idiom": "乳母日傘",
+    "source_meaning": "born with a silver spoon in one's mouth",
+    "target_meaning": "having been indulged and spoiled since childhood"
+  },
+  {
+    "source_idiom": "syödä miestä",
+    "target_idiom": "癇に障る",
+    "source_meaning": "to displease, to irk, to annoy, to make feel bad",
+    "target_meaning": "to irritate, to get on one's nerves"
+  },
+  {
+    "source_idiom": "särkeä jonkun sydän",
+    "target_idiom": "心を動かす",
+    "source_meaning": "to break someone's heart",
+    "target_meaning": "move someone's heart"
+  },
+  {
+    "source_idiom": "tahrata maineensa",
+    "target_idiom": "襤褸が出る",
+    "source_meaning": "to have egg on one's face",
+    "target_meaning": "to have one's faults exposed; to have one's secrets blown"
+  },
+  {
+    "source_idiom": "tarttua aseisiin",
+    "target_idiom": "喧嘩を買う",
+    "source_meaning": "to take up arms",
+    "target_meaning": "to take on a fight, to take up the gauntlet"
+  },
+  {
+    "source_idiom": "tehdä numero",
+    "target_idiom": "人目に立つ",
+    "source_meaning": "to try to get attention towards, make a scene of; (of negative things) blow out of proportion; (of self) toot one's own horn",
+    "target_meaning": "to be conspicuous; to attract public attention"
+  },
+  {
+    "source_idiom": "tehdä voitavansa",
+    "target_idiom": "最善を尽くす",
+    "source_meaning": "to do what one can, to strive, to do one's utmost, to spare no effort",
+    "target_meaning": "to do one's best; to do something to the best of one's ability"
+  },
+  {
+    "source_idiom": "tietää mikä on mitäkin",
+    "target_idiom": "明るけりゃ月夜だと思う",
+    "source_meaning": "to know what is what",
+    "target_meaning": "to know only one aspect of a thing"
+  },
+  {
+    "source_idiom": "tuijottaa omaan napaansa",
+    "target_idiom": "胸に手を当てる",
+    "source_meaning": "to contemplate one's navel",
+    "target_meaning": "to self-reflect, to give a serious thought"
+  },
+  {
+    "source_idiom": "tulla hyvään saumaan",
+    "target_idiom": "持って来い",
+    "source_meaning": "to hit the spot (to be particularly pleasing or appropriate; to be just right)",
+    "target_meaning": "just right, most suitable"
+  },
+  {
+    "source_idiom": "tuntematon tekijä",
+    "target_idiom": "赤の他人",
+    "source_meaning": "an unknown",
+    "target_meaning": "a complete stranger"
+  },
+  {
+    "source_idiom": "tuoda päivänvaloon",
+    "target_idiom": "人目に晒す",
+    "source_meaning": "to bring to light",
+    "target_meaning": "to publicly expose"
+  },
+  {
+    "source_idiom": "tuottaa tulosta",
+    "target_idiom": "実を結ぶ",
+    "source_meaning": "to bear fruit (produce a result)",
+    "target_meaning": "to bear fruit"
+  },
+  {
+    "source_idiom": "tuulentupa",
+    "target_idiom": "砂上の楼閣",
+    "source_meaning": "castle in the air",
+    "target_meaning": "house of cards"
+  },
+  {
+    "source_idiom": "tuulesta temmattu",
+    "target_idiom": "根も葉もない",
+    "source_meaning": "made from whole cloth, fabricated out of (having no basis in the truth)",
+    "target_meaning": "baseless, unsubstantiated, having no evidence"
+  },
+  {
+    "source_idiom": "tyhjää täynnä",
+    "target_idiom": "見る影もない",
+    "source_meaning": "empty, empty as a pauper's purse",
+    "target_meaning": "a mere shadow of, a pathetic sight"
+  },
+  {
+    "source_idiom": "työntää nenänsä",
+    "target_idiom": "首を突っ込む",
+    "source_meaning": "to stick one's nose into [ illative]",
+    "target_meaning": "pry, stick one's nose into"
+  },
+  {
+    "source_idiom": "täysin rinnoin",
+    "target_idiom": "心を籠める",
+    "source_meaning": "wholeheartedly (in a wholehearted manner; with one's whole heart; enthusiastically; without reserve)",
+    "target_meaning": "to do wholeheartedly; to put one's heart into something"
+  },
+  {
+    "source_idiom": "täyttää taskujaan",
+    "target_idiom": "うまい汁を吸う",
+    "source_meaning": "to line one's pockets, feather one's nest",
+    "target_meaning": "to line one's pockets; to reap without sowing"
+  },
+  {
+    "source_idiom": "uskoa korviaan",
+    "target_idiom": "耳を疑う",
+    "source_meaning": "to believe one's ears",
+    "target_meaning": "to doubt what one just heard; hearing something surprising"
+  },
+  {
+    "source_idiom": "vaatia tilille",
+    "target_idiom": "鍵を握る",
+    "source_meaning": "to hold to account",
+    "target_meaning": "to hold the key (to)"
+  },
+  {
+    "source_idiom": "vaihtaa hiippakuntaa",
+    "target_idiom": "息を引き取る",
+    "source_meaning": "To die.",
+    "target_meaning": "to die"
+  },
+  {
+    "source_idiom": "valopilkku",
+    "target_idiom": "不幸中の幸い",
+    "source_meaning": "bright spot, saving grace",
+    "target_meaning": "small mercy (from some misfortune); silver lining of a dark cloud; consolation in sadness; blessing in disguise"
+  },
+  {
+    "source_idiom": "vanha parta",
+    "target_idiom": "年寄りの冷や水",
+    "source_meaning": "old man",
+    "target_meaning": "indiscretions of an old man"
+  },
+  {
+    "source_idiom": "vannoa käsi Raamatulla",
+    "target_idiom": "指切り拳万",
+    "source_meaning": "to swear on a stack of Bibles, swear on the Bible",
+    "target_meaning": "pinky swearing phrase"
+  },
+  {
+    "source_idiom": "venyä ja paukkua",
+    "target_idiom": "歯止めがかかる",
+    "source_meaning": "to be stretched (of limits or restrictions)",
+    "target_meaning": "to be limited, to be restrained"
+  },
+  {
+    "source_idiom": "vetää herne nenäänsä",
+    "target_idiom": "臍を曲げる",
+    "source_meaning": "to get one's knickers in a twist, become irritated, to get angry, to take something personally",
+    "target_meaning": "to get angry, to be irritated"
+  },
+  {
+    "source_idiom": "viime metreillä",
+    "target_idiom": "土壇場",
+    "source_meaning": "on the home stretch, in the final stage(s)",
+    "target_meaning": "the last minute; the eleventh hour"
+  },
+  {
+    "source_idiom": "viitata kintaalla",
+    "target_idiom": "不問に付す",
+    "source_meaning": "to remain indifferent to, to dismiss or disregard [ allative partitive]",
+    "target_meaning": "ignore, disregard"
+  },
+  {
+    "source_idiom": "voittaa omassa pelissään",
+    "target_idiom": "引けを取る",
+    "source_meaning": "to beat someone at their own game",
+    "target_meaning": "be outdone by"
+  },
+  {
+    "source_idiom": "vähin äänin",
+    "target_idiom": "目を盗む",
+    "source_meaning": "quietly, without much fanfare (of doing some action as quietly as possible without making any unnecessary noise, especially when to do something surreptitiously)",
+    "target_meaning": "to do without being seen (by); to do behind (someone's) back; to do without the knowledge of (e.g. one's parents)"
+  },
+  {
+    "source_idiom": "väistää luoti",
+    "target_idiom": "肩透かしを食わせる",
+    "source_meaning": "to dodge a bullet",
+    "target_meaning": "to dodge (an attack, question, etc.), to sidestep, to evade"
+  },
+  {
+    "source_idiom": "vääntää rautalangasta",
+    "target_idiom": "簡単のため",
+    "source_meaning": "To explain with very simple terms.",
+    "target_meaning": "for simplicity; for the sake of simplicity"
+  },
+  {
+    "source_idiom": "väärillä raiteilla",
+    "target_idiom": "反りが合わない",
+    "source_meaning": "on the wrong track",
+    "target_meaning": "unable to get along"
+  },
+  {
+    "source_idiom": "yhteen ääneen",
+    "target_idiom": "口を揃える",
+    "source_meaning": "with one voice, in unison, together, simultaneously (of voices, uttered in the same time)",
+    "target_meaning": "say unanimously, for two or more people to say the same thing"
+  },
+  {
+    "source_idiom": "ymmärtää yskä",
+    "target_idiom": "一を聞いて十を知る",
+    "source_meaning": "to get it, get the hint, take a hint, get the message (correctly infer a meaning that is not stated explicitly)",
+    "target_meaning": "be quick on the uptake, understand the whole situation from just a few clues"
+  }
+]

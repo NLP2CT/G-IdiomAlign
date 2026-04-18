@@ -1,0 +1,3122 @@
+[
+  {
+    "source_idiom": "Adam's ale",
+    "target_idiom": "nasses Element",
+    "source_meaning": "Water.",
+    "target_meaning": "water"
+  },
+  {
+    "source_idiom": "Catch-22",
+    "target_idiom": "die Katze beißt sich in den Schwanz",
+    "source_meaning": "A difficult situation from which there is no escape because it involves mutually conflicting or dependent conditions.",
+    "target_meaning": "it's a vicious circle, every solution leads to a dead end or creates new problems"
+  },
+  {
+    "source_idiom": "Chinaman's chance",
+    "target_idiom": "außer Frage",
+    "source_meaning": "No chance; zero possibility.",
+    "target_meaning": "out of the question"
+  },
+  {
+    "source_idiom": "I just work here",
+    "target_idiom": "bin ich Jesus",
+    "source_meaning": "Indicates that the speaker cannot answer their interrogator's question, because of lack of experience with or knowledge on the topic.",
+    "target_meaning": "Said in response when asked something one could not be expected to know or be able to do."
+  },
+  {
+    "source_idiom": "I'm not being funny",
+    "target_idiom": "bei aller Liebe",
+    "source_meaning": "Used as a softening preface to a statement that might be taken as offensive or malicious.",
+    "target_meaning": "Used to soften a criticism."
+  },
+  {
+    "source_idiom": "John Henry",
+    "target_idiom": "unter Dach und Fach",
+    "source_meaning": "One's signature.",
+    "target_meaning": "signed and sealed"
+  },
+  {
+    "source_idiom": "Officer Friendly",
+    "target_idiom": "das Auge des Gesetzes",
+    "source_meaning": "A police officer.",
+    "target_meaning": "police, police officer"
+  },
+  {
+    "source_idiom": "Yankee dime",
+    "target_idiom": "leck mich am Arsch",
+    "source_meaning": "A kiss.",
+    "target_meaning": "kiss my ass"
+  },
+  {
+    "source_idiom": "a short drop and a sudden stop",
+    "target_idiom": "sich den Strick nehmen",
+    "source_meaning": "A fall to one's death by hanging.",
+    "target_meaning": "to hang oneself"
+  },
+  {
+    "source_idiom": "above one's bend",
+    "target_idiom": "eine Nummer zu groß",
+    "source_meaning": "Beyond one's power or ability.",
+    "target_meaning": "out of one's league"
+  },
+  {
+    "source_idiom": "against the world",
+    "target_idiom": "mit Kind und Kegel",
+    "source_meaning": "Together; as a group, unit, or couple.",
+    "target_meaning": "as a large group; with all of one's family, contents, and/or livestock"
+  },
+  {
+    "source_idiom": "all and some",
+    "target_idiom": "ein für alle Mal",
+    "source_meaning": "one and all",
+    "target_meaning": "once and for all"
+  },
+  {
+    "source_idiom": "all fur coat and no knickers",
+    "target_idiom": "außen hui, innen pfui",
+    "source_meaning": "Having a superficially positive appearance that is belied by the reality, e.g., superficially elegant and beautiful but actually common.",
+    "target_meaning": "expresses that something is attractive by first appearance, but repugnant underneath/in truth; generally applicable, e.g. to packaged goods, houses, people, ideologies, etc."
+  },
+  {
+    "source_idiom": "all that jazz",
+    "target_idiom": "mit allem Drum und Dran",
+    "source_meaning": "everything; all that is to be had.",
+    "target_meaning": "lock, stock, and barrel"
+  },
+  {
+    "source_idiom": "all the way to Egery and back",
+    "target_idiom": "über die Dörfer",
+    "source_meaning": "The long way; a roundabout route; a long distance to travel.",
+    "target_meaning": "through the countryside; via country roads (as opposed to highways)"
+  },
+  {
+    "source_idiom": "all thumbs",
+    "target_idiom": "zwei linke Hände haben",
+    "source_meaning": "Clumsy; awkward; not dextrous.",
+    "target_meaning": "to be all thumbs, to be very clumsy"
+  },
+  {
+    "source_idiom": "along about",
+    "target_idiom": "die Ecke",
+    "source_meaning": "Approximately; at around some time.",
+    "target_meaning": "thereabout, approximately, roughly"
+  },
+  {
+    "source_idiom": "amber nectar",
+    "target_idiom": "Hopfen und Malz, Gott erhalt's",
+    "source_meaning": "Beer.",
+    "target_meaning": "A praise for beer, often displayed in traditional taverns etc."
+  },
+  {
+    "source_idiom": "and I don't mean maybe",
+    "target_idiom": "Ernst",
+    "source_meaning": "Indicating that one is serious and not joking about a matter.",
+    "target_meaning": "a serious statement, a seriously meant action"
+  },
+  {
+    "source_idiom": "arsy varsy",
+    "target_idiom": "Hals über Kopf",
+    "source_meaning": "Tumbling upside down; head over heels; backwards.",
+    "target_meaning": "head over heels"
+  },
+  {
+    "source_idiom": "as best one can",
+    "target_idiom": "beim besten Willen",
+    "source_meaning": "In the best possible way, given one's circumstances and abilities.",
+    "target_meaning": "with the best will in the world"
+  },
+  {
+    "source_idiom": "as far as one knows",
+    "target_idiom": "meines Wissens",
+    "source_meaning": "To the best of one's knowledge, as far as someone knows about the topic, subject, aspect, or situation.",
+    "target_meaning": "to my knowledge"
+  },
+  {
+    "source_idiom": "as if there were no tomorrow",
+    "target_idiom": "mit dem Kopf durch die Wand",
+    "source_meaning": "To an excessive degree, oftentimes with little to no regard to future consequences; desperately; recklessly or wantonly; frantically; very quickly or very much.",
+    "target_meaning": "hell-bent and without consideration for others"
+  },
+  {
+    "source_idiom": "as the day is long",
+    "target_idiom": "am laufenden Band",
+    "source_meaning": "Unceasingly; very; thoroughly; to a very high degree.",
+    "target_meaning": "incessantly"
+  },
+  {
+    "source_idiom": "as you know",
+    "target_idiom": "kein unbeschriebenes Blatt sein",
+    "source_meaning": "as it is already known.",
+    "target_meaning": "to be a known quantity"
+  },
+  {
+    "source_idiom": "at a canter",
+    "target_idiom": "aus dem Handgelenk",
+    "source_meaning": "Without much effort; effortlessly; easily.",
+    "target_meaning": "without much effort or preparation"
+  },
+  {
+    "source_idiom": "at stake",
+    "target_idiom": "auf dem Spiel",
+    "source_meaning": "At issue, at risk.",
+    "target_meaning": "at stake, on the line, at issue, at risk"
+  },
+  {
+    "source_idiom": "at the drop of a hat",
+    "target_idiom": "ohne mit der Wimper zu zucken",
+    "source_meaning": "Without any hesitation; instantly.",
+    "target_meaning": "without batting an eyelash"
+  },
+  {
+    "source_idiom": "at the very least",
+    "target_idiom": "gelinde gesagt",
+    "source_meaning": "at least; as an absolute minimum; emphatic form of at the least.",
+    "target_meaning": "to say the least"
+  },
+  {
+    "source_idiom": "at will",
+    "target_idiom": "nach Lust und Laune",
+    "source_meaning": "At one's preference; as one sees fit.",
+    "target_meaning": "as one pleases"
+  },
+  {
+    "source_idiom": "average bear",
+    "target_idiom": "gemeiner Mitteleuropäer",
+    "source_meaning": "The norm; an average person; Used in comparisons",
+    "target_meaning": "the average person in German-speaking Europe and its environs (not necessarily referring to Central Europe as a geographical term)"
+  },
+  {
+    "source_idiom": "bad company",
+    "target_idiom": "an der falschen Adresse sein",
+    "source_meaning": "The wrong crowd.",
+    "target_meaning": "to have the wrong person/place"
+  },
+  {
+    "source_idiom": "balloon goes up",
+    "target_idiom": "im Gebälk rascheln",
+    "source_meaning": "something exciting, risky, or troublesome begins.",
+    "target_meaning": "trouble is brewing"
+  },
+  {
+    "source_idiom": "band together",
+    "target_idiom": "an einem Strang ziehen",
+    "source_meaning": "to unite, to come together",
+    "target_meaning": "to pull together, work together"
+  },
+  {
+    "source_idiom": "bark up the wrong tree",
+    "target_idiom": "auf dem falschen Dampfer",
+    "source_meaning": "To take the wrong approach to a situation; to follow a false lead; to attempt to solve a problem using mistaken assumptions about its true nature.",
+    "target_meaning": "incorrect, on the wrong track, off the mark"
+  },
+  {
+    "source_idiom": "bat five hundred",
+    "target_idiom": "halbe Miete",
+    "source_meaning": "To be successful half of the time; to have a success rate of 50%.",
+    "target_meaning": "half the battle, half of the story"
+  },
+  {
+    "source_idiom": "bat for the other team",
+    "target_idiom": "anderes Ufer",
+    "source_meaning": "To be homosexual.",
+    "target_meaning": "batting for the other team; being gay, queerness, homosexuality"
+  },
+  {
+    "source_idiom": "be in luck",
+    "target_idiom": "Schwein haben",
+    "source_meaning": "To be lucky in getting something that one wants.",
+    "target_meaning": "to be lucky"
+  },
+  {
+    "source_idiom": "bear fruit",
+    "target_idiom": "Früchte tragen",
+    "source_meaning": "To produce good results; to yield benefits; to succeed.",
+    "target_meaning": "to bear fruit"
+  },
+  {
+    "source_idiom": "bear in mind",
+    "target_idiom": "im Kopf haben",
+    "source_meaning": "To hold (something) in the memory; to remember; also, to be mindful of or pay attention to (something); to consider; to note.",
+    "target_meaning": "to remember, to know by heart"
+  },
+  {
+    "source_idiom": "beat off with a stick",
+    "target_idiom": "einen Korb geben",
+    "source_meaning": "To reject (a person making an unwanted amorous approach).",
+    "target_meaning": "to jilt, to snub, to turn down (to decline someone's advances)"
+  },
+  {
+    "source_idiom": "beat one's brain",
+    "target_idiom": "sich den Kopf zerbrechen",
+    "source_meaning": "To struggle to think or remember something.",
+    "target_meaning": "rack one's brain"
+  },
+  {
+    "source_idiom": "beaver away",
+    "target_idiom": "sich ins Zeug legen",
+    "source_meaning": "To work hard at a task.",
+    "target_meaning": "to work hard (at something)"
+  },
+  {
+    "source_idiom": "bells and whistles",
+    "target_idiom": "mit allen Schikanen",
+    "source_meaning": "Extra features added for show rather than function; fancy additions or features.",
+    "target_meaning": "with all the bells and whistles"
+  },
+  {
+    "source_idiom": "bend the brain",
+    "target_idiom": "Chinesisch sprechen",
+    "source_meaning": "To be difficult to comprehend.",
+    "target_meaning": "to be unintelligible"
+  },
+  {
+    "source_idiom": "bet one's bottom dollar",
+    "target_idiom": "auf etwas Gift nehmen können",
+    "source_meaning": "To be absolutely sure of something; to be certain enough of something to wager everything.",
+    "target_meaning": "to bet one's bottom dollar, to bet the farm (to be absolutely sure of something)"
+  },
+  {
+    "source_idiom": "between Scylla and Charybdis",
+    "target_idiom": "zwischen Skylla und Charybdis sein",
+    "source_meaning": "Between two dangers.",
+    "target_meaning": "to be between Scylla and Charybdis"
+  },
+  {
+    "source_idiom": "between you, me, and the bedpost",
+    "target_idiom": "unter uns",
+    "source_meaning": "between you and me",
+    "target_meaning": "between you and me"
+  },
+  {
+    "source_idiom": "bit by a barn mouse",
+    "target_idiom": "einen im Tee haben",
+    "source_meaning": "tipsy; slightly drunk",
+    "target_meaning": "to be tipsy"
+  },
+  {
+    "source_idiom": "black-and-white",
+    "target_idiom": "Schwarzweißdenken",
+    "source_meaning": "Classifying people, objects or concepts as two polar opposites, especially \"right\" and \"wrong\"; dichotomous and inflexible.",
+    "target_meaning": "black-and-white thinking"
+  },
+  {
+    "source_idiom": "blow one's own trumpet",
+    "target_idiom": "sich in die Brust werfen",
+    "source_meaning": "To praise oneself.",
+    "target_meaning": "to puff oneself up"
+  },
+  {
+    "source_idiom": "blow smoke",
+    "target_idiom": "Blech reden",
+    "source_meaning": "To speak with a lack of credibility, sense, purpose, or truth; to speak nonsense.",
+    "target_meaning": "to talk nonsense"
+  },
+  {
+    "source_idiom": "blow someone's mind",
+    "target_idiom": "aus allen Wolken fallen",
+    "source_meaning": "To astonish someone; to flabbergast someone.",
+    "target_meaning": "to be flabbergasted"
+  },
+  {
+    "source_idiom": "boiling frog",
+    "target_idiom": "Selbstmord aus Angst vor dem Tod",
+    "source_meaning": "A person who, or thing which, is in a gradually worsening situation without any realization of the peril until it is too late.",
+    "target_meaning": "a hazardous and foredoomed course of action taken by someone who finds themselves in a slowly but continually deteriorating position"
+  },
+  {
+    "source_idiom": "boiling mad",
+    "target_idiom": "auf 180",
+    "source_meaning": "extremely angry; furious.",
+    "target_meaning": "fuming, enraged"
+  },
+  {
+    "source_idiom": "bone in the throat",
+    "target_idiom": "Stein des Anstoßes",
+    "source_meaning": "A source of continuing annoyance; a hindrance.",
+    "target_meaning": "a source of annoyance"
+  },
+  {
+    "source_idiom": "bottle away",
+    "target_idiom": "etwas zu den Akten legen",
+    "source_meaning": "To store up or stock up.",
+    "target_meaning": "to file away; to shelve"
+  },
+  {
+    "source_idiom": "bottom dollar",
+    "target_idiom": "auf Heller und Pfennig",
+    "source_meaning": "The last of one's money; all of one's money.",
+    "target_meaning": "to the last penny"
+  },
+  {
+    "source_idiom": "box oneself into a corner",
+    "target_idiom": "mit gewaschenem Hals",
+    "source_meaning": "To create a predicament or problem for oneself; to do something that leaves one with no good alternatives or solutions.",
+    "target_meaning": "finding oneself in an awkward situation, especially because one has done something in vain or relied on something that has not turned out"
+  },
+  {
+    "source_idiom": "brassed off",
+    "target_idiom": "die Schnauze voll haben",
+    "source_meaning": "Fed up; annoyed.",
+    "target_meaning": "to be fed up"
+  },
+  {
+    "source_idiom": "break a leg",
+    "target_idiom": "Hals- und Beinbruch",
+    "source_meaning": "Said to someone wishing they perform well in a theatrical production or comparable endeavor.",
+    "target_meaning": "break a leg!"
+  },
+  {
+    "source_idiom": "breathe a sigh of relief",
+    "target_idiom": "jemandem fällt ein Stein vom Herzen",
+    "source_meaning": "to be relieved; to feel relief.",
+    "target_meaning": "it is a weight off one's shoulders"
+  },
+  {
+    "source_idiom": "bring down the curtain",
+    "target_idiom": "einen Schlussstrich ziehen",
+    "source_meaning": "To bring something to an end.",
+    "target_meaning": "to put an end to"
+  },
+  {
+    "source_idiom": "bring down the hammer",
+    "target_idiom": "mit jemandem Schlitten fahren",
+    "source_meaning": "To treat very harshly.",
+    "target_meaning": "to treat someone hard and ruthless"
+  },
+  {
+    "source_idiom": "bring forward",
+    "target_idiom": "in Betracht kommen",
+    "source_meaning": "To call up for consideration.",
+    "target_meaning": "to come into consideration"
+  },
+  {
+    "source_idiom": "bubble over",
+    "target_idiom": "Feuer und Flamme sein",
+    "source_meaning": "To be very enthusiastic, or highly excited.",
+    "target_meaning": "to be full of enthusiasm; to be keen as mustard"
+  },
+  {
+    "source_idiom": "buck the trend",
+    "target_idiom": "aus der Art schlagen",
+    "source_meaning": "To go against the norm or the current stand of the main population; have a differing opinion from the majority.",
+    "target_meaning": "to differ from the rest"
+  },
+  {
+    "source_idiom": "buy the farm",
+    "target_idiom": "den Tod erleiden",
+    "source_meaning": "To die; generally, to die in battle or in a plane crash.",
+    "target_meaning": "to die (in an accident or in battle)"
+  },
+  {
+    "source_idiom": "by hook or by crook",
+    "target_idiom": "mit Haken und Ösen",
+    "source_meaning": "By any means possible; one way or another. [from 14th c.]",
+    "target_meaning": "by hook or by crook"
+  },
+  {
+    "source_idiom": "by the skin of one's teeth",
+    "target_idiom": "um ein Haar",
+    "source_meaning": "Barely; closely; by a narrow margin; with nothing to spare.",
+    "target_meaning": "by a hair's breadth"
+  },
+  {
+    "source_idiom": "call a spade a spade",
+    "target_idiom": "kein Blatt vor den Mund nehmen",
+    "source_meaning": "To put it bluntly, to be outspoken; to speak the truth, to say things as they really are.",
+    "target_meaning": "to be outspoken; not to mince words; to call a spade a spade"
+  },
+  {
+    "source_idiom": "cap in hand",
+    "target_idiom": "bei allem gebotenen Respekt",
+    "source_meaning": "In a humble and respectful manner.",
+    "target_meaning": "with all due respect"
+  },
+  {
+    "source_idiom": "cast aside",
+    "target_idiom": "in den Wind schlagen",
+    "source_meaning": "To throw away, to reject.",
+    "target_meaning": "to throw to the wind"
+  },
+  {
+    "source_idiom": "cat in the sack",
+    "target_idiom": "dem Braten nicht trauen",
+    "source_meaning": "Something to be suspicious of.",
+    "target_meaning": "to suspect something fishy, to have doubts about something, e.g. a proposal or a seemingly advantageous development"
+  },
+  {
+    "source_idiom": "catch a packet",
+    "target_idiom": "Schuss vor den Bug",
+    "source_meaning": "To be fired upon.",
+    "target_meaning": "shot across the bow"
+  },
+  {
+    "source_idiom": "catch air",
+    "target_idiom": "hingehen, wo der Pfeffer wächst",
+    "source_meaning": "To make a jump.",
+    "target_meaning": "to go jump in the lake"
+  },
+  {
+    "source_idiom": "catch someone's eye",
+    "target_idiom": "ins Ohr gehen",
+    "source_meaning": "To capture someone's attention.",
+    "target_meaning": "to be catchy"
+  },
+  {
+    "source_idiom": "cause a stir",
+    "target_idiom": "Staub aufwirbeln",
+    "source_meaning": "To cause controversy, or raise a disturbance.",
+    "target_meaning": "to kick up dust"
+  },
+  {
+    "source_idiom": "chalk up to",
+    "target_idiom": "zu Buche schlagen",
+    "source_meaning": "To attribute or account for something; to ascribe.",
+    "target_meaning": "to cost, to account for, to be accounted for, to be added to an account"
+  },
+  {
+    "source_idiom": "charm the birds from the trees",
+    "target_idiom": "um den Finger wickeln",
+    "source_meaning": "To behave in a very charming manner.",
+    "target_meaning": "to wrap around one's little finger; but typically with the implication of winning someone over by one’s charms"
+  },
+  {
+    "source_idiom": "clamp down on",
+    "target_idiom": "an die Kandare nehmen",
+    "source_meaning": "To take measures to stop (something); to put an end to (something); to exert tighter control of (something); to treat (someone or something) more harshly.",
+    "target_meaning": "to put a tight rein on, to rein, to curb"
+  },
+  {
+    "source_idiom": "clap eyes on",
+    "target_idiom": "zu Gesicht bekommen",
+    "source_meaning": "To see; to lay eyes on.",
+    "target_meaning": "to set eyes on"
+  },
+  {
+    "source_idiom": "clock the tea",
+    "target_idiom": "einer Sache auf den Grund gehen",
+    "source_meaning": "To discover the truth about something.",
+    "target_meaning": "to get to the bottom of something"
+  },
+  {
+    "source_idiom": "cock-and-bull story",
+    "target_idiom": "an den Haaren herbeigezogen",
+    "source_meaning": "A far-fetched and fanciful story or tale of highly dubious validity.",
+    "target_meaning": "far-fetched; absurd (highly unlikely)"
+  },
+  {
+    "source_idiom": "come to light",
+    "target_idiom": "ans Licht kommen",
+    "source_meaning": "To become known; to be revealed.",
+    "target_meaning": "come to light"
+  },
+  {
+    "source_idiom": "come unstuck",
+    "target_idiom": "aus den Fugen geraten",
+    "source_meaning": "To get into trouble, to have an accident or mishap, to go off the rails.",
+    "target_meaning": "to go off the rails, out of joint"
+  },
+  {
+    "source_idiom": "come up with",
+    "target_idiom": "einfädeln",
+    "source_meaning": "To manage to produce, deliver, or present (something) by inventing, creating, thinking of, or obtaining it.",
+    "target_meaning": "to contrive, orchestrate"
+  },
+  {
+    "source_idiom": "common-and-garden",
+    "target_idiom": "Feld-Wald-und-Wiesen-",
+    "source_meaning": "ordinary, standard.",
+    "target_meaning": "common-or-garden; everyday, ordinary"
+  },
+  {
+    "source_idiom": "coon's age",
+    "target_idiom": "ewig und drei Tage",
+    "source_meaning": "A very long time.",
+    "target_meaning": "a very long time"
+  },
+  {
+    "source_idiom": "cop one's whack",
+    "target_idiom": "über den Jordan gehen",
+    "source_meaning": "To die.",
+    "target_meaning": "to die"
+  },
+  {
+    "source_idiom": "crap in someone's mouth",
+    "target_idiom": "Lügen strafen",
+    "source_meaning": "To accuse someone of lying.",
+    "target_meaning": "to give the lie"
+  },
+  {
+    "source_idiom": "cross my heart",
+    "target_idiom": "beim Barte des Propheten",
+    "source_meaning": "A declaration that the speaker is telling the truth.",
+    "target_meaning": "pledge to tell the truth"
+  },
+  {
+    "source_idiom": "cross the Rubicon",
+    "target_idiom": "den Rubikon überschreiten",
+    "source_meaning": "To make an irreversible decision or to take an action with consequences.",
+    "target_meaning": "to cross the Rubicon (to make an irreversible decision)"
+  },
+  {
+    "source_idiom": "cry foul",
+    "target_idiom": "auf die Barrikaden gehen",
+    "source_meaning": "To protest about something which appears to be unjust.",
+    "target_meaning": "to protest"
+  },
+  {
+    "source_idiom": "cry wolf",
+    "target_idiom": "Alarm schlagen",
+    "source_meaning": "To raise a false alarm; to constantly warn others about an imagined threat, thereby failing to get assistance when a real threat appears.",
+    "target_meaning": "to sound the alarm, to raise the alarm"
+  },
+  {
+    "source_idiom": "cut one loose",
+    "target_idiom": "einen fliegen lassen",
+    "source_meaning": "To flatulate; to fart.",
+    "target_meaning": "to flatulate"
+  },
+  {
+    "source_idiom": "day in, day out",
+    "target_idiom": "tagein tagaus",
+    "source_meaning": "Every day; daily; constantly or continuously (especially, of something that has become routine or monotonous).",
+    "target_meaning": "day in and day out"
+  },
+  {
+    "source_idiom": "day or night",
+    "target_idiom": "rund um die Uhr",
+    "source_meaning": "At any time; 24/7",
+    "target_meaning": "around the clock, 24/7"
+  },
+  {
+    "source_idiom": "death warmed up",
+    "target_idiom": "kreidebleich",
+    "source_meaning": "A person who appears pale or sickly.",
+    "target_meaning": "pale, especially pale-faced; white as a sheet"
+  },
+  {
+    "source_idiom": "do down",
+    "target_idiom": "ins Bockshorn jagen",
+    "source_meaning": "To belittle or intimidate",
+    "target_meaning": "to buffalo, to intimidate"
+  },
+  {
+    "source_idiom": "do drugs",
+    "target_idiom": "Drogenfalle",
+    "source_meaning": "To abuse an illegal drug or drugs, especially as a result of chemical addiction.",
+    "target_meaning": "trap relating to addiction to drugs"
+  },
+  {
+    "source_idiom": "do one's own thing",
+    "target_idiom": "tun, was man nicht lassen kann",
+    "source_meaning": "To do what one considers to be best suited or most satisfying for oneself; to do what expresses one's distinctive interests or talents; to do as one chooses.",
+    "target_meaning": "to do what one thinks one must do; to do what one wants"
+  },
+  {
+    "source_idiom": "dog-tired",
+    "target_idiom": "fix und fertig",
+    "source_meaning": "Exhausted.",
+    "target_meaning": "bushed, burnt out"
+  },
+  {
+    "source_idiom": "drop in the ocean",
+    "target_idiom": "ein Tropfen auf den heißen Stein",
+    "source_meaning": "A very small or insignificant amount; something of little importance, especially an inconsequential effort or action as compared to a huge problem.",
+    "target_meaning": "a drop in the bucket"
+  },
+  {
+    "source_idiom": "easier said than done",
+    "target_idiom": "leichter gesagt als getan",
+    "source_meaning": "Easy to propose, but difficult to accomplish.",
+    "target_meaning": "easier said than done"
+  },
+  {
+    "source_idiom": "easy come, easy go",
+    "target_idiom": "wie gewonnen, so zerronnen",
+    "source_meaning": "Easily won and easily lost (usually said when resigned to a loss; something that comes in the same way, goes in the same way)",
+    "target_meaning": "easy come, easy go"
+  },
+  {
+    "source_idiom": "eat and leave no crumbs",
+    "target_idiom": "einen Lauf haben",
+    "source_meaning": "to be very good at something; to rule; to rock",
+    "target_meaning": "to be on a roll"
+  },
+  {
+    "source_idiom": "eat for two",
+    "target_idiom": "einen Braten in der Röhre haben",
+    "source_meaning": "To be pregnant",
+    "target_meaning": "to have a bun in the oven"
+  },
+  {
+    "source_idiom": "eat humble pie",
+    "target_idiom": "zu Kreuze kriechen",
+    "source_meaning": "To admit one's faults; to make a humiliating apology.",
+    "target_meaning": "to eat humble pie (humble oneself and make an apology or plea)"
+  },
+  {
+    "source_idiom": "eat one's gun",
+    "target_idiom": "ins Wasser gehen",
+    "source_meaning": "To commit suicide, especially by use of a firearm discharged into the victim's mouth.",
+    "target_meaning": "to drown oneself, commit suicide by drowning"
+  },
+  {
+    "source_idiom": "eat someone out of house and home",
+    "target_idiom": "die Haare vom Kopf fressen",
+    "source_meaning": "To consume so much of someone's store of food that little or none is left for the owner.",
+    "target_meaning": "to eat someone out of house and home"
+  },
+  {
+    "source_idiom": "emotional cripple",
+    "target_idiom": "gebranntes Kind",
+    "source_meaning": "A person who has been rendered indecisive, alienated, uncaring, confused, or helpless through experiencing debilitating emotions, such as worry, fear, panic, despair, etc.",
+    "target_meaning": "someone who is fearful, overcautious or generally burdened because of a bad experience, trauma"
+  },
+  {
+    "source_idiom": "end in smoke",
+    "target_idiom": "in die Binsen gehen",
+    "source_meaning": "To be destroyed or ruined; to go up in smoke.",
+    "target_meaning": "to go down the drain, to go up in smoke"
+  },
+  {
+    "source_idiom": "escape fire",
+    "target_idiom": "um die Ecke denken",
+    "source_meaning": "An unconventional or counterintuitive solution to a difficult problem.",
+    "target_meaning": "to think outside the box, to think laterally"
+  },
+  {
+    "source_idiom": "everything in the garden is rosy",
+    "target_idiom": "alles in Butter",
+    "source_meaning": "Things are going well; everything is fine.",
+    "target_meaning": "Everything is OK"
+  },
+  {
+    "source_idiom": "extract the urine",
+    "target_idiom": "auf die Schippe nehmen",
+    "source_meaning": "to mock, make fun of something",
+    "target_meaning": "to send up, satirise, mock"
+  },
+  {
+    "source_idiom": "fall by the wayside",
+    "target_idiom": "zu kurz kommen",
+    "source_meaning": "To fail to be completed, particularly for lack of interest; to be left out, to suffer from neglect.",
+    "target_meaning": "to be neglected, to fall short"
+  },
+  {
+    "source_idiom": "fall into someone's lap",
+    "target_idiom": "zu etwas kommen wie die Jungfrau zum Kind",
+    "source_meaning": "Of something desirable, to be received by someone with little or no effort or by chance.",
+    "target_meaning": "to fall into one's lap"
+  },
+  {
+    "source_idiom": "fall off the back of a truck",
+    "target_idiom": "sich etwas unter den Nagel reißen",
+    "source_meaning": "Of an item of merchandise, to come into a person's possession through illegal or otherwise dubious means.",
+    "target_meaning": "to acquire, get one's hands on (especially in a forcible or questionable way, or something that one doesn't own)"
+  },
+  {
+    "source_idiom": "fancy one's chances",
+    "target_idiom": "breite Brust",
+    "source_meaning": "To believe that one has a good chance of success.",
+    "target_meaning": "self-confidence; being sure of victory"
+  },
+  {
+    "source_idiom": "fat of the land",
+    "target_idiom": "Crème de la Crème",
+    "source_meaning": "The greatest part of anything; the finest and most abundant share of resources; the cream of the crop.",
+    "target_meaning": "crème de la crème"
+  },
+  {
+    "source_idiom": "fetch way",
+    "target_idiom": "fehl am Platz",
+    "source_meaning": "To move from the proper place; to come loose.",
+    "target_meaning": "misplaced, out of place"
+  },
+  {
+    "source_idiom": "fight shy of",
+    "target_idiom": "wie die Pest meiden",
+    "source_meaning": "To avoid something.",
+    "target_meaning": "to avoid like the plague"
+  },
+  {
+    "source_idiom": "fire in anger",
+    "target_idiom": "an die Wand stellen",
+    "source_meaning": "To fire a weapon with the intent of causing damage or harm to an opponent (as opposed to a warning shot or a practice shot).",
+    "target_meaning": "to put (someone) up against a wall; to line people up and shoot them"
+  },
+  {
+    "source_idiom": "flap one's gums",
+    "target_idiom": "in den Wind sprechen",
+    "source_meaning": "To speak idly; to talk without effect.",
+    "target_meaning": "to talk in vain"
+  },
+  {
+    "source_idiom": "flash the cash",
+    "target_idiom": "aus der Portokasse zahlen",
+    "source_meaning": "To spend money, especially in an ostentatious manner; to pay up.",
+    "target_meaning": "to pay out of petty cash (to be able to pay a considerable sum easily)"
+  },
+  {
+    "source_idiom": "fly in the ointment",
+    "target_idiom": "Haar in der Suppe",
+    "source_meaning": "Something (especially a minor thing) which ruins or spoils everything else, or makes it less pleasant; a nuisance or problem; a disagreeable or unpleasant detail.",
+    "target_meaning": "fly in the ointment"
+  },
+  {
+    "source_idiom": "fly off at a tangent",
+    "target_idiom": "vom Hundertsten ins Tausendste kommen",
+    "source_meaning": "To digress from a topic.",
+    "target_meaning": "to jump from topic to topic"
+  },
+  {
+    "source_idiom": "fly off the shelves",
+    "target_idiom": "an den Mann bringen",
+    "source_meaning": "To be sold in large quantities, very rapidly.",
+    "target_meaning": "to sell off (a commodity)"
+  },
+  {
+    "source_idiom": "fog a mirror",
+    "target_idiom": "gesund und munter",
+    "source_meaning": "To be alive.",
+    "target_meaning": "alive and kicking"
+  },
+  {
+    "source_idiom": "follow the crowd",
+    "target_idiom": "mit den Wölfen heulen",
+    "source_meaning": "To conform to majority beliefs, opinions, or practices.",
+    "target_meaning": "to follow the masses"
+  },
+  {
+    "source_idiom": "for a song",
+    "target_idiom": "etwas für einen Apfel und ein Ei kaufen",
+    "source_meaning": "For a very low price; very cheaply.",
+    "target_meaning": "to buy something for a song, for peanuts"
+  },
+  {
+    "source_idiom": "for real and for true",
+    "target_idiom": "guten Glaubens",
+    "source_meaning": "Genuinely; truly.",
+    "target_meaning": "bona fide"
+  },
+  {
+    "source_idiom": "for the love of",
+    "target_idiom": "da lachen ja die Hühner",
+    "source_meaning": "Used to form interjections expressing exasperation.",
+    "target_meaning": "Exclamation at something ridiculous, silly, or completely unsatisfactory."
+  },
+  {
+    "source_idiom": "from A to Z",
+    "target_idiom": "von A bis Z",
+    "source_meaning": "Covering a complete range; comprehensively; from beginning to end.",
+    "target_meaning": "from A to Z (comprehensively)"
+  },
+  {
+    "source_idiom": "get a grip",
+    "target_idiom": "bei sich sein",
+    "source_meaning": "To come to one's senses and become more rational after having experienced a strong emotion.",
+    "target_meaning": "to have come to; to be calm or conscious (especially after having fainted or been in shock or rage)"
+  },
+  {
+    "source_idiom": "get a wriggle on",
+    "target_idiom": "einen Zahn zulegen",
+    "source_meaning": "To hurry up.",
+    "target_meaning": "to hurry up"
+  },
+  {
+    "source_idiom": "get late",
+    "target_idiom": "Einbruch der Dunkelheit",
+    "source_meaning": "To approach nighttime.",
+    "target_meaning": "nightfall, dark"
+  },
+  {
+    "source_idiom": "get misty",
+    "target_idiom": "auf die Tränendrüse drücken",
+    "source_meaning": "To get tears in someone's eyes; to feel sentimental.",
+    "target_meaning": "to tug at the heartstrings"
+  },
+  {
+    "source_idiom": "get off lightly",
+    "target_idiom": "mit einem blauen Auge davonkommen",
+    "source_meaning": "To end up with a mild punishment, or without serious harm.",
+    "target_meaning": "to get off with a slap on the wrist"
+  },
+  {
+    "source_idiom": "get one's bowels in an uproar",
+    "target_idiom": "ein Fass aufmachen",
+    "source_meaning": "to become upset",
+    "target_meaning": "to get worked up"
+  },
+  {
+    "source_idiom": "get one's fill",
+    "target_idiom": "die Faxen dicke haben",
+    "source_meaning": "to be satisfied, to have enough of something.",
+    "target_meaning": "to have had enough"
+  },
+  {
+    "source_idiom": "get one's fuck on",
+    "target_idiom": "eine Nummer schieben",
+    "source_meaning": "to have sex",
+    "target_meaning": "to have sex"
+  },
+  {
+    "source_idiom": "get one's hands dirty",
+    "target_idiom": "mit einem Bein im Gefängnis stehen",
+    "source_meaning": "To get involved with the unpleasant parts of a task, such as manual labor or unethical activities.",
+    "target_meaning": "to be involved in illegal activities"
+  },
+  {
+    "source_idiom": "get straight",
+    "target_idiom": "ins Reine bringen",
+    "source_meaning": "to make clear, to reach an understanding.",
+    "target_meaning": "to iron out, to sort out, to clean up"
+  },
+  {
+    "source_idiom": "get the ball rolling",
+    "target_idiom": "in die Wege leiten",
+    "source_meaning": "To begin; to start some action; to set in motion.",
+    "target_meaning": "to initiate, launch, set in motion, line up for"
+  },
+  {
+    "source_idiom": "get the wind up",
+    "target_idiom": "zur Salzsäule erstarren",
+    "source_meaning": "To become frightened or disturbed.",
+    "target_meaning": "to become immobilized with fear"
+  },
+  {
+    "source_idiom": "get up on the wrong side of the bed",
+    "target_idiom": "mit dem linken Fuß zuerst aufgestanden sein",
+    "source_meaning": "To feel irritable; to be in a bad mood; to have a bad day from the start, for no particular reason.",
+    "target_meaning": "to get up on the wrong side of the bed"
+  },
+  {
+    "source_idiom": "get wind of",
+    "target_idiom": "von etwas Wind bekommen",
+    "source_meaning": "To hear about; to learn of, especially with respect to facts intended to have been kept confidential or secret.",
+    "target_meaning": "to get wind of something"
+  },
+  {
+    "source_idiom": "give a monkey's",
+    "target_idiom": "Anteil nehmen",
+    "source_meaning": "To care; to have an interest or concern.",
+    "target_meaning": "to take an interest"
+  },
+  {
+    "source_idiom": "give and take",
+    "target_idiom": "Vorschlag zur Güte",
+    "source_meaning": "A process of compromise or accommodation.",
+    "target_meaning": "a proposal for a compromise, implying that the offerer thinks their previous offer was already fair, but that they are willing to go one step further in order to avoid conflict"
+  },
+  {
+    "source_idiom": "give it one's best shot",
+    "target_idiom": "sich Mühe geben",
+    "source_meaning": "To make one's best effort or attempt; to try as hard as possible.",
+    "target_meaning": "to make an effort, to give it one's best shot, to try one's best."
+  },
+  {
+    "source_idiom": "give one's all",
+    "target_idiom": "zu Tode kommen",
+    "source_meaning": "To lose one's life while making the utmost effort with full commitment.",
+    "target_meaning": "to lose one's life"
+  },
+  {
+    "source_idiom": "go against the grain",
+    "target_idiom": "aus dem Rahmen fallen",
+    "source_meaning": "To defy convention or norms; to do something in a manner that is unusual or out of the ordinary.",
+    "target_meaning": "to be out of the ordinary"
+  },
+  {
+    "source_idiom": "go around the houses",
+    "target_idiom": "um den heißen Brei herumreden",
+    "source_meaning": "Do something (especially talking) circuitously.",
+    "target_meaning": "beat about the bush"
+  },
+  {
+    "source_idiom": "go down the drain",
+    "target_idiom": "ins Wasser fallen",
+    "source_meaning": "to fail.",
+    "target_meaning": "to fall through"
+  },
+  {
+    "source_idiom": "go left",
+    "target_idiom": "auf dem absteigenden Ast sein",
+    "source_meaning": "To take a turn for the worse, to go horribly wrong.",
+    "target_meaning": "to go south, to take a turn for the worse"
+  },
+  {
+    "source_idiom": "go overboard",
+    "target_idiom": "den Bogen überspannen",
+    "source_meaning": "To go too far; to exceed reasonable bounds.",
+    "target_meaning": "to go too far, overstep the mark"
+  },
+  {
+    "source_idiom": "go to the bow-wows",
+    "target_idiom": "vor die Hunde gehen",
+    "source_meaning": "To go to the dogs, to decline or deteriorate.",
+    "target_meaning": "to go to the dogs"
+  },
+  {
+    "source_idiom": "go up in smoke",
+    "target_idiom": "im Eimer sein",
+    "source_meaning": "To be completely ruined, devastated, or reduced to nothingness.",
+    "target_meaning": "to be ruined"
+  },
+  {
+    "source_idiom": "go walking",
+    "target_idiom": "sich in Luft auflösen",
+    "source_meaning": "to disappear; to go missing",
+    "target_meaning": "to vanish into thin air"
+  },
+  {
+    "source_idiom": "golden goose",
+    "target_idiom": "Melkkuh",
+    "source_meaning": "Something that generates much profit or gives great advantages.",
+    "target_meaning": "cash cow"
+  },
+  {
+    "source_idiom": "good and",
+    "target_idiom": "ganz schön",
+    "source_meaning": "Very; exceptionally; utterly.",
+    "target_meaning": "pretty, quite, rather (to an usual or surprising degree)"
+  },
+  {
+    "source_idiom": "good turn",
+    "target_idiom": "Spendierhosen",
+    "source_meaning": "A good deed; a thoughtful or selfless act.",
+    "target_meaning": "a metaphorical representation of a feeling of generosity"
+  },
+  {
+    "source_idiom": "green fingers",
+    "target_idiom": "den grünen Daumen haben",
+    "source_meaning": "A seemingly natural gardening ability.",
+    "target_meaning": "to have a green thumb"
+  },
+  {
+    "source_idiom": "grist to the mill",
+    "target_idiom": "Wasser auf jemandes Mühle leiten",
+    "source_meaning": "Alternative form of grist for the mill",
+    "target_meaning": "to be grist for someone's mill"
+  },
+  {
+    "source_idiom": "grit one's teeth",
+    "target_idiom": "die Suppe auslöffeln",
+    "source_meaning": "To face up to a difficult or disagreeable situation and deal with it.",
+    "target_meaning": "to face the music"
+  },
+  {
+    "source_idiom": "hand someone his hat",
+    "target_idiom": "zum Teufel schicken",
+    "source_meaning": "To require someone to depart; to dismiss someone.",
+    "target_meaning": "to send someone packing"
+  },
+  {
+    "source_idiom": "hang in the balance",
+    "target_idiom": "an einem seidenen Faden hängen",
+    "source_meaning": "To be in a precarious situation, unsure of the future.",
+    "target_meaning": "to hang by a thread"
+  },
+  {
+    "source_idiom": "hard cheese",
+    "target_idiom": "Witz, komm raus",
+    "source_meaning": "An unsympathetic retort to someone suffering misfortune.",
+    "target_meaning": "A reply to an unfunny remark."
+  },
+  {
+    "source_idiom": "have a bite",
+    "target_idiom": "warm essen",
+    "source_meaning": "To eat a quick, light snack.",
+    "target_meaning": "to eat a warm meal"
+  },
+  {
+    "source_idiom": "have a word with oneself",
+    "target_idiom": "vor der eigenen Tür kehren",
+    "source_meaning": "To consider one's attitudes or behavior with a view to reform.",
+    "target_meaning": "to be self-critical"
+  },
+  {
+    "source_idiom": "have bats in one's belfry",
+    "target_idiom": "einen an der Waffel haben",
+    "source_meaning": "To be crazy or eccentric.",
+    "target_meaning": "to be a bit crazy"
+  },
+  {
+    "source_idiom": "have had it up to here",
+    "target_idiom": "den Kaffee aufhaben",
+    "source_meaning": "To have become very frustrated or angry; to have reached the limit of one's patience or forbearance.",
+    "target_meaning": "to lose patience, to be frustrated and/or angry, to have had it up to here"
+  },
+  {
+    "source_idiom": "have more money than God",
+    "target_idiom": "Geld wie Heu haben",
+    "source_meaning": "To be extremely or excessively rich",
+    "target_meaning": "to be rolling in dough"
+  },
+  {
+    "source_idiom": "have one's hands full",
+    "target_idiom": "viel um die Ohren haben",
+    "source_meaning": "To be busy or thoroughly preoccupied.",
+    "target_meaning": "to be busy, to have a lot to worry about"
+  },
+  {
+    "source_idiom": "have one's heart in the right place",
+    "target_idiom": "das Herz am rechten Fleck haben",
+    "source_meaning": "To have good intentions.",
+    "target_meaning": "to have one's heart in the right place"
+  },
+  {
+    "source_idiom": "have the biscuit",
+    "target_idiom": "in den letzten Zügen liegen",
+    "source_meaning": "To be of no further use; to be near death.",
+    "target_meaning": "to be on one's last legs; to be in one's death throes"
+  },
+  {
+    "source_idiom": "heart of gold",
+    "target_idiom": "Herz aus Gold",
+    "source_meaning": "a kind, compassionate, or caring attitude; kindheartedness.",
+    "target_meaning": "heart of gold (kind-heartedness)"
+  },
+  {
+    "source_idiom": "heart of stone",
+    "target_idiom": "Herz aus Stein",
+    "source_meaning": "A hardhearted character, stern or cruel nature.",
+    "target_meaning": "heart of stone (stern, cold nature)"
+  },
+  {
+    "source_idiom": "here's to",
+    "target_idiom": "Fisch muss schwimmen",
+    "source_meaning": "A phrase used before drinking a toast.",
+    "target_meaning": "A jocular expression used to encourage or justify the consumption of alcohol, especially wine, with fish dishes."
+  },
+  {
+    "source_idiom": "hide one's light under a bushel",
+    "target_idiom": "sein Licht unter den Scheffel stellen",
+    "source_meaning": "To conceal one's positive qualities or talents, especially due to modesty or shyness; to avoid attention.",
+    "target_meaning": "to hide one's light under a bushel"
+  },
+  {
+    "source_idiom": "hit below one's weight",
+    "target_idiom": "unter die Gürtellinie gehen",
+    "source_meaning": "Alternative form of punch below one's weight",
+    "target_meaning": "to go below the belt"
+  },
+  {
+    "source_idiom": "hit pay dirt",
+    "target_idiom": "fündig werden",
+    "source_meaning": "To strike it rich; to get lucky or have a big break.",
+    "target_meaning": "to hit paydirt, to strike it rich"
+  },
+  {
+    "source_idiom": "hit the fan",
+    "target_idiom": "zum Tragen kommen",
+    "source_meaning": "To have a dramatic, usually negative, effect.",
+    "target_meaning": "to have an effect, to take effect"
+  },
+  {
+    "source_idiom": "hit two targets with one arrow",
+    "target_idiom": "zwei Fliegen mit einer Klappe schlagen",
+    "source_meaning": "Synonym of kill two birds with one stone",
+    "target_meaning": "kill two birds with one stone"
+  },
+  {
+    "source_idiom": "hold a light",
+    "target_idiom": "das Wasser reichen können",
+    "source_meaning": "Synonym of hold a candle",
+    "target_meaning": "to hold a candle"
+  },
+  {
+    "source_idiom": "hold fast",
+    "target_idiom": "sich nicht vom Fleck rühren",
+    "source_meaning": "hold firm",
+    "target_meaning": "stay put"
+  },
+  {
+    "source_idiom": "hold the cards",
+    "target_idiom": "alle Trümpfe in der Hand halten",
+    "source_meaning": "To be in a strong position, possessing significant advantages over someone else; to be in control of a situation involving multiple parties.",
+    "target_meaning": "to hold all the aces"
+  },
+  {
+    "source_idiom": "holy moley",
+    "target_idiom": "kein Wunder",
+    "source_meaning": "wow, an expression of surprise.",
+    "target_meaning": "no wonder"
+  },
+  {
+    "source_idiom": "hope against hope",
+    "target_idiom": "die Hoffnung stirbt zuletzt",
+    "source_meaning": "To continue to hope, even when what is hoped for seems unlikely or impossible.",
+    "target_meaning": "hope springs eternal"
+  },
+  {
+    "source_idiom": "hot on the trail",
+    "target_idiom": "dicht auf den Fersen",
+    "source_meaning": "Synonym of hot on someone's heels",
+    "target_meaning": "hot on the heels"
+  },
+  {
+    "source_idiom": "hot shit",
+    "target_idiom": "Kaiser von China",
+    "source_meaning": "An exceptionally impressive person or thing",
+    "target_meaning": "someone magnificent that one is not"
+  },
+  {
+    "source_idiom": "in Dickie's meadow",
+    "target_idiom": "in der Tinte sitzen",
+    "source_meaning": "in trouble, in a predicament, in a difficult situation",
+    "target_meaning": "to be in a fix; to be in trouble"
+  },
+  {
+    "source_idiom": "in a real state",
+    "target_idiom": "ganz dicht sein",
+    "source_meaning": "Synonym of in a right state",
+    "target_meaning": "to be in one's right mind"
+  },
+  {
+    "source_idiom": "in a real state",
+    "target_idiom": "drunter und drüber",
+    "source_meaning": "in a mess or in a state of chaos; very unkempt, in poor condition; in a state of panic or confusion",
+    "target_meaning": "chaotic, haywire, higgledy-piggledy"
+  },
+  {
+    "source_idiom": "in bad odor",
+    "target_idiom": "in Acht und Bann",
+    "source_meaning": "Regarded with disapproval; in a situation of being disliked; shunned.",
+    "target_meaning": "banished, ostracized"
+  },
+  {
+    "source_idiom": "in jig time",
+    "target_idiom": "von einem Tag auf den anderen",
+    "source_meaning": "Rapidly; in a very short amount of time.",
+    "target_meaning": "in a short period of time; overnight; suddenly"
+  },
+  {
+    "source_idiom": "in other words",
+    "target_idiom": "mit anderen Worten",
+    "source_meaning": "Stated or interpreted another way; Used to introduce an explanation, simplification, or clarification.",
+    "target_meaning": "in other words"
+  },
+  {
+    "source_idiom": "in shape",
+    "target_idiom": "auf dem Damm",
+    "source_meaning": "In a good state of physical fitness or bodily appearance.",
+    "target_meaning": "well, fit, capable, usually after a period of illness or the like"
+  },
+  {
+    "source_idiom": "in the altogether",
+    "target_idiom": "wie Gott ihn schuf",
+    "source_meaning": "Naked.",
+    "target_meaning": "in his birthday suit (naked)"
+  },
+  {
+    "source_idiom": "in the books",
+    "target_idiom": "in trockenen Tüchern",
+    "source_meaning": "Finished; concluded; able to be regarded as a matter of record.",
+    "target_meaning": "final; safe; in the bag; said and done"
+  },
+  {
+    "source_idiom": "in the lead",
+    "target_idiom": "Treppchen",
+    "source_meaning": "in first place in a contest",
+    "target_meaning": "winners’ podium"
+  },
+  {
+    "source_idiom": "in the pink of health",
+    "target_idiom": "gesund wie ein Fisch im Wasser",
+    "source_meaning": "In very good health.",
+    "target_meaning": "as sound as a bell"
+  },
+  {
+    "source_idiom": "in the reign of Queen Dick",
+    "target_idiom": "an Sankt Nimmerlein",
+    "source_meaning": "when pigs fly; never",
+    "target_meaning": "when pigs fly, never"
+  },
+  {
+    "source_idiom": "in the same breath",
+    "target_idiom": "im selben Atemzug",
+    "source_meaning": "Said or done almost simultaneously, in one sequence.",
+    "target_meaning": "in the same breath"
+  },
+  {
+    "source_idiom": "in words of one syllable",
+    "target_idiom": "auf gut Deutsch",
+    "source_meaning": "In simple, clear, straightforward language; in blunt language.",
+    "target_meaning": "clearly, bluntly, possibly involving bad language"
+  },
+  {
+    "source_idiom": "ironing board",
+    "target_idiom": "Holz vor der Hütte",
+    "source_meaning": "A flat-chested woman.",
+    "target_meaning": "(large) breasts"
+  },
+  {
+    "source_idiom": "ivory tower",
+    "target_idiom": "Elfenbeinturm",
+    "source_meaning": "A sheltered, overly-academic existence or perspective, implying a disconnection or lack of awareness of reality or practical considerations.",
+    "target_meaning": "ivory tower"
+  },
+  {
+    "source_idiom": "jack of all trades",
+    "target_idiom": "Hans Dampf in allen Gassen",
+    "source_meaning": "One competent in many endeavours, sometimes regarded as not excelling in any of them. [from early 17th c.]",
+    "target_meaning": "jack of all trades (talented and versatile person who is involved in many endeavours, implying initiative and great activity, but possibly also a certain rashness or recklessness)"
+  },
+  {
+    "source_idiom": "joined at the hip",
+    "target_idiom": "wie Kastor und Pollux sein",
+    "source_meaning": "Closely connected, as in an intimate friendship.",
+    "target_meaning": "to be very close friends"
+  },
+  {
+    "source_idiom": "jump on the bandwagon",
+    "target_idiom": "auf den Zug aufspringen",
+    "source_meaning": "To profit from a craze; to join a trend.",
+    "target_meaning": "to jump on the bandwagon"
+  },
+  {
+    "source_idiom": "just like that",
+    "target_idiom": "mir nichts, dir nichts",
+    "source_meaning": "Suddenly and unexpectedly; without warning.",
+    "target_meaning": "suddenly; without warning, or consideration, or regard for own detriment"
+  },
+  {
+    "source_idiom": "keep a cool head",
+    "target_idiom": "ruhig Blut bewahren",
+    "source_meaning": "To keep one's cool; to stay calm.",
+    "target_meaning": "to keep one's cool"
+  },
+  {
+    "source_idiom": "keep one's head on a swivel",
+    "target_idiom": "auf der Hut sein",
+    "source_meaning": ") To be on the alert, to be watchful.",
+    "target_meaning": "to be on one's guard, to be on guard"
+  },
+  {
+    "source_idiom": "keep someone on their toes",
+    "target_idiom": "auf Trab halten",
+    "source_meaning": "To keep someone attentive, active, busy or alert.",
+    "target_meaning": "to keep someone on the run"
+  },
+  {
+    "source_idiom": "keep someone posted",
+    "target_idiom": "auf dem Laufenden halten",
+    "source_meaning": "To inform (someone) regularly of the latest developments.",
+    "target_meaning": "to keep (someone) in the loop, to keep (someone) informed, to keep (someone) up-to-date"
+  },
+  {
+    "source_idiom": "keep tabs on",
+    "target_idiom": "ein Auge auf etwas werfen",
+    "source_meaning": "To monitor; to keep track of; to watch.",
+    "target_meaning": "to keep an eye on something"
+  },
+  {
+    "source_idiom": "keep up appearances",
+    "target_idiom": "den Schein wahren",
+    "source_meaning": "To artificially maintain an outward sign of normality; to maintain an appearance of wealth, comfort, or propriety.",
+    "target_meaning": "to keep up appearances"
+  },
+  {
+    "source_idiom": "keep up with the times",
+    "target_idiom": "mit der Zeit gehen",
+    "source_meaning": "To change one's ideas, views or way of living in order to stay current or modern.",
+    "target_meaning": "to keep up with the times"
+  },
+  {
+    "source_idiom": "kick loose",
+    "target_idiom": "jemandem Saures geben",
+    "source_meaning": "to give someone the freedom to do what they want",
+    "target_meaning": "to let someone have it"
+  },
+  {
+    "source_idiom": "kick rocks",
+    "target_idiom": "Fersengeld geben",
+    "source_meaning": "To leave or run away; to skedaddle; (often used imperatively and dismissively).",
+    "target_meaning": "to flee, to leave, to skedaddle"
+  },
+  {
+    "source_idiom": "kiss and make up",
+    "target_idiom": "das Kriegsbeil begraben",
+    "source_meaning": "To settle one's differences and forgive.",
+    "target_meaning": "bury the hatchet"
+  },
+  {
+    "source_idiom": "kiss arse",
+    "target_idiom": "in den Arsch kriechen",
+    "source_meaning": "Alternative form of kiss ass, to curry favour with the powerful by obsequious flattery.",
+    "target_meaning": "to kiss arse"
+  },
+  {
+    "source_idiom": "kiss arse",
+    "target_idiom": "sich lieb Kind machen",
+    "source_meaning": "to curry favour with the powerful by obsequious flattery.",
+    "target_meaning": "to curry favor"
+  },
+  {
+    "source_idiom": "know someone",
+    "target_idiom": "einen guten Draht haben",
+    "source_meaning": "To have personal or social connections.",
+    "target_meaning": "to be on good terms with someone, to have a connection with someone or something, to be attuned to"
+  },
+  {
+    "source_idiom": "know someone from Adam",
+    "target_idiom": "seine Pappenheimer kennen",
+    "source_meaning": "To know or recognize someone at all.",
+    "target_meaning": "to know who one's dealing with"
+  },
+  {
+    "source_idiom": "know what is what",
+    "target_idiom": "im Bilde über etwas sein",
+    "source_meaning": "To understand the current situation; to know what is going on.",
+    "target_meaning": "to be in the picture about something"
+  },
+  {
+    "source_idiom": "last nail in the coffin",
+    "target_idiom": "i-Tüpfelchen",
+    "source_meaning": "Alternative form of final nail in the coffin",
+    "target_meaning": "the finishing touch."
+  },
+  {
+    "source_idiom": "lead someone up the garden path",
+    "target_idiom": "jemandem ein X für ein U vormachen",
+    "source_meaning": "To deceive, hoodwink, mislead, or seduce someone.",
+    "target_meaning": "to deceive, to hoodwink, to trick, to lead someone up the garden path"
+  },
+  {
+    "source_idiom": "leave someone to their fate",
+    "target_idiom": "zu Grabe tragen",
+    "source_meaning": "to abandon; to give up on; to leave on their own – chiefly in regard to avoid upcoming misfortune",
+    "target_meaning": "to give up, to bury, to write off"
+  },
+  {
+    "source_idiom": "let's get this circus on the road",
+    "target_idiom": "ab durch die Mitte",
+    "source_meaning": "Let's start; let's begin (a journey, undertaking, etc.).",
+    "target_meaning": "off we go"
+  },
+  {
+    "source_idiom": "lion's share",
+    "target_idiom": "Löwenanteil",
+    "source_meaning": "The majority; a large or generous portion.",
+    "target_meaning": "lion's share"
+  },
+  {
+    "source_idiom": "listen up",
+    "target_idiom": "die Ohren spitzen",
+    "source_meaning": "To listen closely; to pay attention.",
+    "target_meaning": "to listen attentively; to prick up one's ears"
+  },
+  {
+    "source_idiom": "live beyond one's means",
+    "target_idiom": "über seine Verhältnisse leben",
+    "source_meaning": "Have a lifestyle where one's spending regularly exceeds one's income.",
+    "target_meaning": "to live beyond one's means"
+  },
+  {
+    "source_idiom": "live large",
+    "target_idiom": "auf großem Fuß leben",
+    "source_meaning": "To have a lavish or overly extravagant lifestyle.",
+    "target_meaning": "to have an expensive life-style, to live the high life"
+  },
+  {
+    "source_idiom": "live over the brush",
+    "target_idiom": "ohne Trauschein",
+    "source_meaning": "To cohabit without being married.",
+    "target_meaning": "unmarried, without being married (of a couple, especially in the context of cohabitation)"
+  },
+  {
+    "source_idiom": "live paycheck to paycheck",
+    "target_idiom": "von der Hand in den Mund leben",
+    "source_meaning": "To have the entirety of what one earns consumed by living expenses, thus having nothing left over to save; make just enough (money, etc.) to survive; to scratch by.",
+    "target_meaning": "to live paycheck to paycheck, hand-to-mouth"
+  },
+  {
+    "source_idiom": "loaf around",
+    "target_idiom": "auf der Bärenhaut liegen",
+    "source_meaning": "to do nothing in particular, be idle.",
+    "target_meaning": "to laze"
+  },
+  {
+    "source_idiom": "lock horns",
+    "target_idiom": "die Klingen kreuzen",
+    "source_meaning": "To come into conflict.",
+    "target_meaning": "to cross swords"
+  },
+  {
+    "source_idiom": "look on the dark side",
+    "target_idiom": "dem Frieden nicht trauen",
+    "source_meaning": "To examine a situation, usually unfavorable, from a negative perspective; to be pessimistic or miserable.",
+    "target_meaning": "to be pessimistic about a seemingly positive development, to expect that an apparent solution to a problem will not last"
+  },
+  {
+    "source_idiom": "look the other way",
+    "target_idiom": "ein Auge zudrücken",
+    "source_meaning": "To ignore something wrong; to turn a blind eye to something; to connive at something.",
+    "target_meaning": "to turn a blind eye"
+  },
+  {
+    "source_idiom": "lose one's shit",
+    "target_idiom": "die Nerven verlieren",
+    "source_meaning": "To lose one's temper.",
+    "target_meaning": "to lose one's cool"
+  },
+  {
+    "source_idiom": "lose one's tongue",
+    "target_idiom": "jemandem fehlen die Worte",
+    "source_meaning": "To find oneself unable to speak; to be unable to come up with anything to say.",
+    "target_meaning": "words fail someone, lost for words, at a loss for words"
+  },
+  {
+    "source_idiom": "love it or lump it",
+    "target_idiom": "ob man will oder nicht",
+    "source_meaning": "Synonym of like it or lump it",
+    "target_meaning": "willy-nilly; whether we like it or not"
+  },
+  {
+    "source_idiom": "low-pressure",
+    "target_idiom": "locker vom Hocker",
+    "source_meaning": "Calm, easy, relaxed.",
+    "target_meaning": "easy, rested, without haste"
+  },
+  {
+    "source_idiom": "lower one's sights",
+    "target_idiom": "kleine Brötchen backen",
+    "source_meaning": "to lower one's expectations and accept less than one was hoping for or striving toward",
+    "target_meaning": "to dial down one's future plans and ambitions (often in response to a setback)"
+  },
+  {
+    "source_idiom": "lush it up",
+    "target_idiom": "über den Durst trinken",
+    "source_meaning": "To drink alcohol to excess; to get drunk.",
+    "target_meaning": "to drink more (usually alcohol) than is appropriate (usually accompanied by einen or some measure such as ein paar Gläser)"
+  },
+  {
+    "source_idiom": "made of sterner stuff",
+    "target_idiom": "starker Tobak",
+    "source_meaning": "strong and determined (especially more so than someone else, to whom one is being compared).",
+    "target_meaning": "strong stuff, strong meat"
+  },
+  {
+    "source_idiom": "make a clean breast",
+    "target_idiom": "reinen Wein einschenken",
+    "source_meaning": ": to be honest about something; to confess.",
+    "target_meaning": "to come clean (to tell someone the plain truth)"
+  },
+  {
+    "source_idiom": "make a virtue of necessity",
+    "target_idiom": "aus der Not eine Tugend machen",
+    "source_meaning": "To make the best of a difficult situation; to recast or portray an action or situation in which one has no alternatives as an action or situation which was deliberately chosen on its merits.",
+    "target_meaning": "to make a virtue of necessity (embrace something forced on one such that one pursues it to the full extent)"
+  },
+  {
+    "source_idiom": "make believe",
+    "target_idiom": "so tun, als ob",
+    "source_meaning": "To pretend or imagine.",
+    "target_meaning": "to make believe"
+  },
+  {
+    "source_idiom": "make ground",
+    "target_idiom": "an Boden gewinnen",
+    "source_meaning": "gain ground; make progress.",
+    "target_meaning": "to gain ground"
+  },
+  {
+    "source_idiom": "make happen",
+    "target_idiom": "mit sich bringen",
+    "source_meaning": "To realize, to cause or bring about a thing.",
+    "target_meaning": "to entail, to implicate, to bring about"
+  },
+  {
+    "source_idiom": "make light of",
+    "target_idiom": "auf die leichte Schulter nehmen",
+    "source_meaning": "To regard without due seriousness; to joke about.",
+    "target_meaning": "to make light of"
+  },
+  {
+    "source_idiom": "make shit of",
+    "target_idiom": "an den Bettelstab bringen",
+    "source_meaning": "To ruin or destroy.",
+    "target_meaning": "to ruin"
+  },
+  {
+    "source_idiom": "make up one's mind",
+    "target_idiom": "ein Machtwort sprechen",
+    "source_meaning": "To decide; to reach a conclusion.",
+    "target_meaning": "to decide a matter; to exercise one's authority"
+  },
+  {
+    "source_idiom": "mouthful of marbles",
+    "target_idiom": "spanisch sprechen",
+    "source_meaning": "An indistinct, muffled or garbled manner of speaking.",
+    "target_meaning": "to say something unintelligible"
+  },
+  {
+    "source_idiom": "much ado about nothing",
+    "target_idiom": "Sturm im Wasserglas",
+    "source_meaning": "A lot of fuss or bother about something trivial.",
+    "target_meaning": "storm in a tea-kettle, storm in a teacup"
+  },
+  {
+    "source_idiom": "mugged by reality",
+    "target_idiom": "böses Erwachen",
+    "source_meaning": "Of a person, having experienced a sudden, harsh, confrontation with the truth or reality of a situation.",
+    "target_meaning": "rude awakening (a spontaneous realization that one's previous assumptions (or illusions) were false)"
+  },
+  {
+    "source_idiom": "my eye",
+    "target_idiom": "jemanden kreuzweise können",
+    "source_meaning": "Expression of disapproval, disregard, disdain, disgust, or disbelief.",
+    "target_meaning": "expression of disdain"
+  },
+  {
+    "source_idiom": "nail the hammer on the head",
+    "target_idiom": "den Nagel auf den Kopf treffen",
+    "source_meaning": "Nonstandard form of hit the nail on the head.",
+    "target_meaning": "to hit the nail on the head"
+  },
+  {
+    "source_idiom": "name and shame",
+    "target_idiom": "an den Pranger stellen",
+    "source_meaning": "To publish the name of (a person or organization that has committed some transgression) so as to single them out for individual blame and censure.",
+    "target_meaning": "to publicly denounce"
+  },
+  {
+    "source_idiom": "near and dear",
+    "target_idiom": "lieb und teuer",
+    "source_meaning": "Loved or cared about greatly.",
+    "target_meaning": "cared about deeply, near and dear"
+  },
+  {
+    "source_idiom": "needle in a haystack",
+    "target_idiom": "Nadel im Heuhaufen",
+    "source_meaning": "Something that is difficult or impossible to locate.",
+    "target_meaning": "needle in a haystack"
+  },
+  {
+    "source_idiom": "next thing one knows",
+    "target_idiom": "aus blauem Himmel",
+    "source_meaning": "suddenly, out of the blue.",
+    "target_meaning": "out of the blue"
+  },
+  {
+    "source_idiom": "nip in the bud",
+    "target_idiom": "etwas im Keim ersticken",
+    "source_meaning": "To stop (something) at an early stage.",
+    "target_meaning": "to nip (something) in the bud"
+  },
+  {
+    "source_idiom": "no biggie",
+    "target_idiom": "keine Rolle spielen",
+    "source_meaning": "not important, not something to worry about.",
+    "target_meaning": "to not matter, to not be important"
+  },
+  {
+    "source_idiom": "not do someone any favors",
+    "target_idiom": "jemandem ein Kuckucksei ins Nest legen",
+    "source_meaning": "To reflect badly on or to hurt in some way.",
+    "target_meaning": "to hurt someone such in a way that it only becomes apparent later"
+  },
+  {
+    "source_idiom": "not in the least",
+    "target_idiom": "nicht die Bohne",
+    "source_meaning": "not at all, not in any way",
+    "target_meaning": "not at all"
+  },
+  {
+    "source_idiom": "not touch with a barge pole",
+    "target_idiom": "nicht einmal mit der Kneifzange anfassen",
+    "source_meaning": "To avoid something at all costs; to refuse to associate with something; (signifies a strong aversion).",
+    "target_meaning": "to not touch something with a barge pole (to avoid contact with someone or something at all costs)"
+  },
+  {
+    "source_idiom": "not worth a brass farthing",
+    "target_idiom": "keinen Pfifferling wert sein",
+    "source_meaning": "Worth nothing or next to nothing.",
+    "target_meaning": "to not be worth a dime"
+  },
+  {
+    "source_idiom": "not worth writing home about",
+    "target_idiom": "nicht der Rede wert sein",
+    "source_meaning": "Being nothing to write home about; unremarkable and mediocre.",
+    "target_meaning": "to be nothing worth mentioning"
+  },
+  {
+    "source_idiom": "nudge nudge wink wink",
+    "target_idiom": "Briefmarkensammlung",
+    "source_meaning": "A phrase used to hint that the speaker is euphemistically referring to something else.",
+    "target_meaning": "euphemistic code for a sexual encounter"
+  },
+  {
+    "source_idiom": "nuts-to-butts",
+    "target_idiom": "vier Buchstaben",
+    "source_meaning": "Alternative form of nuts to butts",
+    "target_meaning": "buttocks, bottom, rear end"
+  },
+  {
+    "source_idiom": "nuts-to-butts",
+    "target_idiom": "dicht an dicht",
+    "source_meaning": "Closely one behind the other; Crowdedly, tightly, compactly.",
+    "target_meaning": "very close together, tightly packed (e.g. of people in a crowded space)"
+  },
+  {
+    "source_idiom": "of a piece",
+    "target_idiom": "aus einem Guss",
+    "source_meaning": "Of the same kind.",
+    "target_meaning": "of a piece; of the same kind"
+  },
+  {
+    "source_idiom": "of all places",
+    "target_idiom": "wider Erwarten",
+    "source_meaning": "Surprisingly.",
+    "target_meaning": "contrary to expectations, unexpectedly"
+  },
+  {
+    "source_idiom": "of one mind",
+    "target_idiom": "auf der gleichen Wellenlänge",
+    "source_meaning": "Having the same viewpoint, opinion, or attitude; in agreement.",
+    "target_meaning": "on the same wavelength"
+  },
+  {
+    "source_idiom": "off balance",
+    "target_idiom": "durch den Wind",
+    "source_meaning": "surprised; perplexed",
+    "target_meaning": "dazzled; shocked; confused"
+  },
+  {
+    "source_idiom": "old saw",
+    "target_idiom": "alter Hut",
+    "source_meaning": "A cliché, saying, or overused expression; especially a proverb or maxim.",
+    "target_meaning": "Something familiar and hackneyed; something that is old hat."
+  },
+  {
+    "source_idiom": "on a lark",
+    "target_idiom": "wohl oder übel",
+    "source_meaning": "In a frolicky or frivolous manner; on a whim.",
+    "target_meaning": "willy-nilly"
+  },
+  {
+    "source_idiom": "on good terms",
+    "target_idiom": "auf gutem Fuß stehen",
+    "source_meaning": "being friendly; having good relations.",
+    "target_meaning": "to be on good terms"
+  },
+  {
+    "source_idiom": "on hold",
+    "target_idiom": "etwas auf die lange Bank schieben",
+    "source_meaning": "Delayed; postponed; suspended.",
+    "target_meaning": "to postpone something"
+  },
+  {
+    "source_idiom": "on someone's doorstep",
+    "target_idiom": "an der Ecke",
+    "source_meaning": "Very nearby.",
+    "target_meaning": "at the corner, nearby"
+  },
+  {
+    "source_idiom": "on the go",
+    "target_idiom": "durch die Weltgeschichte reisen",
+    "source_meaning": "Actively traveling; busy; moving often.",
+    "target_meaning": "to travel extensively (to different parts of the world), to be constantly on the move"
+  },
+  {
+    "source_idiom": "on the house",
+    "target_idiom": "Trittbrettfahrer",
+    "source_meaning": "free, complimentary.",
+    "target_meaning": "freeloader"
+  },
+  {
+    "source_idiom": "on the point of",
+    "target_idiom": "im Begriff sein",
+    "source_meaning": "Very near to; ready to; just about to; such that something is imminent.",
+    "target_meaning": "to want to begin doing something now; to be about to"
+  },
+  {
+    "source_idiom": "once in a blue moon",
+    "target_idiom": "alle Jubeljahre",
+    "source_meaning": "Very rarely; very infrequently.",
+    "target_meaning": "once in a blue moon"
+  },
+  {
+    "source_idiom": "once in a while",
+    "target_idiom": "ab und zu",
+    "source_meaning": "Occasionally; sometimes.",
+    "target_meaning": "now and then; occasionally"
+  },
+  {
+    "source_idiom": "one hundred and one",
+    "target_idiom": "wie Sand am Meer",
+    "source_meaning": "A great many; numerous.",
+    "target_meaning": "(in) an innumerable amount; extremely common"
+  },
+  {
+    "source_idiom": "one's back is up",
+    "target_idiom": "beleidigte Leberwurst",
+    "source_meaning": "One is offended or angry.",
+    "target_meaning": "someone who is offended; a sorehead"
+  },
+  {
+    "source_idiom": "one's hour",
+    "target_idiom": "Stunde der Wahrheit",
+    "source_meaning": "crucial moment, especially in which one can finally show his potential or must reckon with something",
+    "target_meaning": "moment of truth"
+  },
+  {
+    "source_idiom": "one-horse town",
+    "target_idiom": "Kuhdorf",
+    "source_meaning": "A very small town, especially one of a rural nature and/or offering very few or no attractions.",
+    "target_meaning": "one-horse town (US)"
+  },
+  {
+    "source_idiom": "out of central casting",
+    "target_idiom": "Schubladendenken",
+    "source_meaning": "Conforming to the stereotypical image of a particular type of person or group.",
+    "target_meaning": "pigeonholing, stereotyped thinking"
+  },
+  {
+    "source_idiom": "out of the frying pan, into the fire",
+    "target_idiom": "vom Regen in die Traufe kommen",
+    "source_meaning": "Move or get from an already bad situation to a worse one; end up in a worse situation when trying to escape from a bad or difficult one.",
+    "target_meaning": "out of the frying pan, into the fire ‎(from a bad situation to a worse one‎)"
+  },
+  {
+    "source_idiom": "out of the running",
+    "target_idiom": "außer Betracht bleiben",
+    "source_meaning": "No longer in a competition; eliminated from consideration.",
+    "target_meaning": "to remain out of consideration"
+  },
+  {
+    "source_idiom": "out to lunch",
+    "target_idiom": "von Tuten und Blasen keine Ahnung haben",
+    "source_meaning": "Clueless, inattentive, or careless.",
+    "target_meaning": "to be clueless"
+  },
+  {
+    "source_idiom": "overstep the mark",
+    "target_idiom": "silberne Löffel klauen",
+    "source_meaning": "To behave in an unacceptable or morally reprehensible way.",
+    "target_meaning": "to misconduct in a considerable and malevolent way, chiefly at the workplace"
+  },
+  {
+    "source_idiom": "pack of lies",
+    "target_idiom": "erstunken und erlogen",
+    "source_meaning": "Total lies, complete untruth",
+    "target_meaning": "completely made up"
+  },
+  {
+    "source_idiom": "par for the course",
+    "target_idiom": "gang und gäbe",
+    "source_meaning": "To be expected; normal; common.",
+    "target_meaning": "to be commonplace"
+  },
+  {
+    "source_idiom": "party hearty",
+    "target_idiom": "den Herrgott einen guten Mann sein lassen",
+    "source_meaning": "To engage in unrestrained merriment.",
+    "target_meaning": "to indulge, to let oneself go, to revel, to have a good time with food, drink and merriment"
+  },
+  {
+    "source_idiom": "pass the buck",
+    "target_idiom": "den Schwarzen Peter zuschieben",
+    "source_meaning": "To transfer responsibility or blame from oneself onto another; to absolve oneself of concern for a given matter by claiming to lack authority or jurisdiction.",
+    "target_meaning": "to pass the buck"
+  },
+  {
+    "source_idiom": "patience of Mother Teresa",
+    "target_idiom": "gut Ding will Weile haben",
+    "source_meaning": "A great deal of patience.",
+    "target_meaning": "good things are worth patience"
+  },
+  {
+    "source_idiom": "pay the bills",
+    "target_idiom": "wie die Made im Speck leben",
+    "source_meaning": "To provide enough income to sustain one's lifestyle.",
+    "target_meaning": "to live a comfortable life"
+  },
+  {
+    "source_idiom": "peel the onion",
+    "target_idiom": "auf den Zahn fühlen",
+    "source_meaning": "To investigate a matter more deeply, usually step by step, each step leading to a new discovery.",
+    "target_meaning": "to investigate or question (in depth)"
+  },
+  {
+    "source_idiom": "peg the needle",
+    "target_idiom": "alle Register ziehen",
+    "source_meaning": "To achieve the maximum level of something, to max out, to pull out all the stops.",
+    "target_meaning": "to pull out all the stops"
+  },
+  {
+    "source_idiom": "penny pincher",
+    "target_idiom": "aufs Geld gucken",
+    "source_meaning": "One who spends little money; one who is very frugal or cautious with money.",
+    "target_meaning": "to economize; to spend money carefully (literally: \"to watch the money\")"
+  },
+  {
+    "source_idiom": "people mountain people sea",
+    "target_idiom": "wie die Ölsardinen",
+    "source_meaning": "crowded or jam-packed with people",
+    "target_meaning": "packed like sardines"
+  },
+  {
+    "source_idiom": "piss money up the wall",
+    "target_idiom": "in den Sand setzen",
+    "source_meaning": "To waste money, normally through ineptness in business.",
+    "target_meaning": "(of a project) to botch; (of money) to waste, to burn"
+  },
+  {
+    "source_idiom": "piss more than one drinks",
+    "target_idiom": "große Töne spucken",
+    "source_meaning": "To boast; to brag.",
+    "target_meaning": "to brag, boast"
+  },
+  {
+    "source_idiom": "piss on someone's parade",
+    "target_idiom": "jemandem in die Suppe spucken",
+    "source_meaning": "To rain on someone's parade.",
+    "target_meaning": "to rain on someone's parade"
+  },
+  {
+    "source_idiom": "pitch woo",
+    "target_idiom": "den Hof machen",
+    "source_meaning": "To court; to make romantic advances.",
+    "target_meaning": "to court  "
+  },
+  {
+    "source_idiom": "play a part",
+    "target_idiom": "die Finger im Spiel haben",
+    "source_meaning": "To be involved in such a way to affect the outcome, to be a contributing factor.",
+    "target_meaning": "to be involved in, to have a hand in"
+  },
+  {
+    "source_idiom": "play first fiddle",
+    "target_idiom": "die erste Geige spielen",
+    "source_meaning": "To play a leading role.",
+    "target_meaning": "to play first fiddle"
+  },
+  {
+    "source_idiom": "play second fiddle",
+    "target_idiom": "die zweite Geige spielen",
+    "source_meaning": "To play a subsidiary or subordinate role to someone or something else.",
+    "target_meaning": "to take a back seat, to play second fiddle"
+  },
+  {
+    "source_idiom": "plunge in",
+    "target_idiom": "ins kalte Wasser springen",
+    "source_meaning": "To start a new endeavor enthusiastically and wholeheartedly, though possibly without experience.",
+    "target_meaning": "to jump in at the deep end"
+  },
+  {
+    "source_idiom": "pocket up",
+    "target_idiom": "etwas nicht auf sich sitzen lassen",
+    "source_meaning": "To receive (an insult, an affront, etc.) without open resentment, or without seeking redress.",
+    "target_meaning": "to not tolerate (an insult, an accusation)"
+  },
+  {
+    "source_idiom": "point the finger at",
+    "target_idiom": "jemandem etwas zur Last legen",
+    "source_meaning": "To accuse or blame (someone).",
+    "target_meaning": "to accuse, blame (someone for something)"
+  },
+  {
+    "source_idiom": "poor as a rat",
+    "target_idiom": "am Hungertuch nagen",
+    "source_meaning": "Very poor, to the point of starving or begging; utterly destitute.",
+    "target_meaning": "to be poor and starving"
+  },
+  {
+    "source_idiom": "porcelain skin",
+    "target_idiom": "dickes Fell",
+    "source_meaning": "smooth skin",
+    "target_meaning": "thick skin"
+  },
+  {
+    "source_idiom": "pound of flesh",
+    "target_idiom": "in der Kreide stehen",
+    "source_meaning": "Something which is owed and which will be hurtful or difficult to provide; a debt owed to someone who is merciless and demanding.",
+    "target_meaning": "to be in (someone's) debt"
+  },
+  {
+    "source_idiom": "pour honey on",
+    "target_idiom": "in den Himmel heben",
+    "source_meaning": "To praise or encourage wholeheartedly.",
+    "target_meaning": "to praise to the skies"
+  },
+  {
+    "source_idiom": "press the flesh",
+    "target_idiom": "Honig um den Bart schmieren",
+    "source_meaning": "To shake hands and socialize, especially in a political gathering.",
+    "target_meaning": "to schmooze"
+  },
+  {
+    "source_idiom": "pressed for time",
+    "target_idiom": "zwischen Tür und Angel",
+    "source_meaning": "in a hurry, without spare time.",
+    "target_meaning": "while standing; while in a hurry; in passing; in a situation where one does not have or take the time to do something properly"
+  },
+  {
+    "source_idiom": "pull an all-nighter",
+    "target_idiom": "alt werden",
+    "source_meaning": "To stay awake throughout the night, usually when working or studying.",
+    "target_meaning": "to stay up late"
+  },
+  {
+    "source_idiom": "pull out all the stops",
+    "target_idiom": "keine halben Sachen machen",
+    "source_meaning": "To reserve or hold back nothing.",
+    "target_meaning": "to not do things by halves"
+  },
+  {
+    "source_idiom": "pull out of one's arse",
+    "target_idiom": "etwas aus der Luft greifen",
+    "source_meaning": "Alternative form of pull out of one's ass.",
+    "target_meaning": "to pull out of thin air"
+  },
+  {
+    "source_idiom": "pull out of one's ass",
+    "target_idiom": "sich aus den Fingern saugen",
+    "source_meaning": "To fabricate (a factual-sounding claim) from no factual basis or evidence.",
+    "target_meaning": "to think of something, to make up, to make up out of thin air, to invent, to pull out of one's ass (fabricate a claim with no factual basis or evidence)"
+  },
+  {
+    "source_idiom": "pull the rug out from under",
+    "target_idiom": "den Stecker ziehen",
+    "source_meaning": "To suddenly remove support from.",
+    "target_meaning": "to pull the plug, to cease to support"
+  },
+  {
+    "source_idiom": "pull up stakes",
+    "target_idiom": "die Zelte abbrechen",
+    "source_meaning": "To prepare to move one's (usually temporary) habitation, especially rapidly.",
+    "target_meaning": "to pull up stakes"
+  },
+  {
+    "source_idiom": "pump out",
+    "target_idiom": "aus dem Ärmel schütteln",
+    "source_meaning": "to produce in large quantities",
+    "target_meaning": "to produce something with ease"
+  },
+  {
+    "source_idiom": "put a lid on",
+    "target_idiom": "etwas im Zaum halten",
+    "source_meaning": "To get under control, to prevent (something) from increasing or becoming more of a problem.",
+    "target_meaning": "to keep something under control"
+  },
+  {
+    "source_idiom": "put down roots",
+    "target_idiom": "Wurzeln schlagen",
+    "source_meaning": "To establish oneself in a place; to become settled.",
+    "target_meaning": "to put down roots"
+  },
+  {
+    "source_idiom": "put someone in a box",
+    "target_idiom": "über einen Kamm scheren",
+    "source_meaning": "To judge someone unfairly as a member of a category of person, based on very few factors.",
+    "target_meaning": "to tar with the same brush"
+  },
+  {
+    "source_idiom": "put someone under",
+    "target_idiom": "in den Tee tun",
+    "source_meaning": "To anesthetize someone or render them unconscious through the use of narcotic substances, usually either alcohol or pharmaceutical drugs.",
+    "target_meaning": "to slip something in someone’s drink (e.g. alcohol, drugs, poison)"
+  },
+  {
+    "source_idiom": "put someone's back up",
+    "target_idiom": "auf die Nerven gehen",
+    "source_meaning": "to annoy someone.",
+    "target_meaning": "to get on someone's nerves, to annoy"
+  },
+  {
+    "source_idiom": "put the wood in the hole",
+    "target_idiom": "erfroren sind schon viele, aber erstunken ist noch keiner",
+    "source_meaning": "To shut the door.",
+    "target_meaning": "a request to close an open window letting cold air in despite a bad smell in the room"
+  },
+  {
+    "source_idiom": "rain pitchforks",
+    "target_idiom": "Bindfäden regnen",
+    "source_meaning": "to rain heavily.",
+    "target_meaning": "to rain cats and dogs, rain heavily or copiously (literally )"
+  },
+  {
+    "source_idiom": "raise Cain",
+    "target_idiom": "die Hölle heißmachen",
+    "source_meaning": "Synonym of raise hell.",
+    "target_meaning": "to give (someone) hell  "
+  },
+  {
+    "source_idiom": "raise the flag and see who salutes",
+    "target_idiom": "Versuchsballon",
+    "source_meaning": "To float an idea, (or otherwise do some action) to see what response or controversy (if any) it generates, usually as a preliminary step.",
+    "target_meaning": "trial balloon"
+  },
+  {
+    "source_idiom": "rake over the coals",
+    "target_idiom": "ein Hühnchen rupfen",
+    "source_meaning": "To call to task or to reprimand severely.",
+    "target_meaning": "to take to task; to have a rebuking talk with; to have a bone to pick with"
+  },
+  {
+    "source_idiom": "rant and rave",
+    "target_idiom": "blind vor Wut sein",
+    "source_meaning": "To express furious anger.",
+    "target_meaning": "to be blind with rage"
+  },
+  {
+    "source_idiom": "ready up",
+    "target_idiom": "am Herd stehen",
+    "source_meaning": "to prepare for use, to get ready",
+    "target_meaning": "to cook, to prepare food"
+  },
+  {
+    "source_idiom": "real McCoy",
+    "target_idiom": "der wahre Jakob",
+    "source_meaning": "The genuine thing, neither a substitute nor an imitation.",
+    "target_meaning": "the real McCoy"
+  },
+  {
+    "source_idiom": "reap the whirlwind",
+    "target_idiom": "ausbaden",
+    "source_meaning": "To suffer bad consequences for one's actions.",
+    "target_meaning": "to handle the consequences of, to pay the price for"
+  },
+  {
+    "source_idiom": "reinvent the wheel",
+    "target_idiom": "das Rad neu erfinden",
+    "source_meaning": "To do work unnecessarily when it has already been done satisfactorily by others; to attempt to devise a solution to a problem when a solution already exists.",
+    "target_meaning": "to reinvent the wheel"
+  },
+  {
+    "source_idiom": "rest on one's laurels",
+    "target_idiom": "sich auf seinen Lorbeeren ausruhen",
+    "source_meaning": "To rely on a past success instead of trying to improve oneself further.",
+    "target_meaning": "to rest on one's laurels"
+  },
+  {
+    "source_idiom": "rhyme or reason",
+    "target_idiom": "Sinn und Verstand",
+    "source_meaning": "Logic; common sense.",
+    "target_meaning": "rhyme or reason, common sense"
+  },
+  {
+    "source_idiom": "rose-coloured",
+    "target_idiom": "guter Dinge",
+    "source_meaning": "cheerfully optimistic",
+    "target_meaning": "in good spirits, confident, optimistic"
+  },
+  {
+    "source_idiom": "rose-tint",
+    "target_idiom": "etwas durch die rosarote Brille sehen",
+    "source_meaning": "To look through rose-tinted glasses at; to view or describe as better than it actually is or was.",
+    "target_meaning": "to wear rose-colored glasses"
+  },
+  {
+    "source_idiom": "row in the same boat",
+    "target_idiom": "aus dem gleichen Holz geschnitzt sein",
+    "source_meaning": "To be in the same or similar situation.",
+    "target_meaning": "to be cut from the same cloth"
+  },
+  {
+    "source_idiom": "rue the day",
+    "target_idiom": "in Sack und Asche gehen",
+    "source_meaning": "To seriously regret one's actions.",
+    "target_meaning": "to do repentance"
+  },
+  {
+    "source_idiom": "run a temperature",
+    "target_idiom": "einen Frosch im Hals haben",
+    "source_meaning": "To have a fever.",
+    "target_meaning": "to have a frog in one's throat"
+  },
+  {
+    "source_idiom": "run rampant",
+    "target_idiom": "ins Kraut schießen",
+    "source_meaning": "To go unchecked or without control; to be wild or excessive.",
+    "target_meaning": "to run rampant"
+  },
+  {
+    "source_idiom": "run the gauntlet",
+    "target_idiom": "Feuerprobe",
+    "source_meaning": "To undergo a series of tests or challenges.",
+    "target_meaning": "trial by fire"
+  },
+  {
+    "source_idiom": "runt of the litter",
+    "target_idiom": "ein abgebrochener Riese",
+    "source_meaning": "the smallest and weakest person in a group, especially a group of siblings",
+    "target_meaning": "small-statured person"
+  },
+  {
+    "source_idiom": "same difference",
+    "target_idiom": "gehüpft wie gesprungen",
+    "source_meaning": "A distinction which makes no difference; a distinction which does not matter.",
+    "target_meaning": "same difference; six of one, half a dozen of the other"
+  },
+  {
+    "source_idiom": "save something for a rainy day",
+    "target_idiom": "etwas auf die hohe Kante legen",
+    "source_meaning": "To save something just in case one may need it.",
+    "target_meaning": "to save something for a rainy day"
+  },
+  {
+    "source_idiom": "scratch by",
+    "target_idiom": "über die Runden kommen",
+    "source_meaning": "To get by; make ends meet",
+    "target_meaning": "to make ends meet"
+  },
+  {
+    "source_idiom": "screw you",
+    "target_idiom": "fick dich",
+    "source_meaning": "less offensive version of fuck you.",
+    "target_meaning": "fuck you, screw you"
+  },
+  {
+    "source_idiom": "sea load",
+    "target_idiom": "ins Gewicht fallen",
+    "source_meaning": "The weight of the payload on a vessel.",
+    "target_meaning": "to carry weight"
+  },
+  {
+    "source_idiom": "see with half an eye",
+    "target_idiom": "auf der Hand liegen",
+    "source_meaning": "To see something without any difficulty, because it is obvious.",
+    "target_meaning": "to be obvious"
+  },
+  {
+    "source_idiom": "sell someone a bill of goods",
+    "target_idiom": "einen Bären aufbinden",
+    "source_meaning": "To deceive or cheat someone.",
+    "target_meaning": "to trick; to cheat someone"
+  },
+  {
+    "source_idiom": "separate the wheat from the chaff",
+    "target_idiom": "die Spreu vom Weizen trennen",
+    "source_meaning": "To select only that which is of value.",
+    "target_meaning": "to separate the wheat from the chaff (to select only that which is of value)"
+  },
+  {
+    "source_idiom": "settle into",
+    "target_idiom": "jemandem in Fleisch und Blut übergehen",
+    "source_meaning": "To become comfortable with a place or routine.",
+    "target_meaning": "to become second nature"
+  },
+  {
+    "source_idiom": "settle one's account",
+    "target_idiom": "sich ehrlich machen",
+    "source_meaning": "To return what one owes; to make good on one's debts; to pay back.",
+    "target_meaning": "to take on one's debts, to make good"
+  },
+  {
+    "source_idiom": "sexual relations",
+    "target_idiom": "die Bienchen und Blümchen",
+    "source_meaning": "Sexual activity.",
+    "target_meaning": "the birds and the bees (sexual activity)"
+  },
+  {
+    "source_idiom": "shake like a leaf",
+    "target_idiom": "wie Espenlaub zittern",
+    "source_meaning": "To tremble, as with fear, cold, etc.; to shiver.",
+    "target_meaning": "to shake like a leaf"
+  },
+  {
+    "source_idiom": "shanks' mare",
+    "target_idiom": "auf Schusters Rappen",
+    "source_meaning": "One's own legs used for walking; to \"travel by shanks' mare\" or \"ride [on] shanks' mare\" is to walk to your destination.",
+    "target_meaning": "on shanks' mare, on foot"
+  },
+  {
+    "source_idiom": "shanks' pony",
+    "target_idiom": "Beine bis zum Boden",
+    "source_meaning": "One's feet or legs, regarded as a means of transport.",
+    "target_meaning": "long and attractive legs (usually in a woman)"
+  },
+  {
+    "source_idiom": "shatter the ice",
+    "target_idiom": "das Eis brechen",
+    "source_meaning": "To break the ice in a sudden or dramatic fashion.",
+    "target_meaning": "to break the ice"
+  },
+  {
+    "source_idiom": "shift the dial",
+    "target_idiom": "das Kraut fett machen",
+    "source_meaning": "To make a significant change or impact in a particular situation or context.",
+    "target_meaning": "to make a difference, to matter"
+  },
+  {
+    "source_idiom": "shit one's pants",
+    "target_idiom": "sich die Seele aus dem Leib scheißen",
+    "source_meaning": "Synonym of crap one's pants",
+    "target_meaning": "to shit one's gut out"
+  },
+  {
+    "source_idiom": "shoot holes",
+    "target_idiom": "Fehl und Tadel",
+    "source_meaning": "Find faults.",
+    "target_meaning": "fault and blame"
+  },
+  {
+    "source_idiom": "shoot oneself in the foot",
+    "target_idiom": "den Ast absägen, auf dem man sitzt",
+    "source_meaning": "To act against one's own interests; to unintentionally behave self-destructively.",
+    "target_meaning": "to undermine one's own position; to act in a way that will eventually make one lose something that one is dependent on"
+  },
+  {
+    "source_idiom": "show one's teeth",
+    "target_idiom": "die Zähne zusammenbeißen",
+    "source_meaning": "Alternative form of bare one's teeth",
+    "target_meaning": "to grit one's teeth"
+  },
+  {
+    "source_idiom": "show one's teeth",
+    "target_idiom": "Flagge zeigen",
+    "source_meaning": "To show aggression.",
+    "target_meaning": "to show the flag"
+  },
+  {
+    "source_idiom": "shut one's eyes",
+    "target_idiom": "etwas in den Wind schlagen",
+    "source_meaning": "To ignore or deliberately overlook.",
+    "target_meaning": "to ignore or disregard something"
+  },
+  {
+    "source_idiom": "shut one's trap",
+    "target_idiom": "mundtot machen",
+    "source_meaning": "To stop talking; to be quiet.",
+    "target_meaning": "to silence"
+  },
+  {
+    "source_idiom": "sick to the back teeth",
+    "target_idiom": "etwas satt haben",
+    "source_meaning": "Extremely annoyed about, fed up, tired of.",
+    "target_meaning": "to be fed up (with something)"
+  },
+  {
+    "source_idiom": "silver-lined",
+    "target_idiom": "Silberstreifen am Horizont",
+    "source_meaning": "having a silver lining",
+    "target_meaning": "light at the end of the tunnel"
+  },
+  {
+    "source_idiom": "sing off the same hymn sheet",
+    "target_idiom": "ins gleiche Horn blasen",
+    "source_meaning": "Alternative form of sing from the same hymnbook",
+    "target_meaning": "to sing from the same hymnbook"
+  },
+  {
+    "source_idiom": "sing the same tune",
+    "target_idiom": "bei jemandem sein",
+    "source_meaning": "To hold the same opinion or understanding as another; to be in agreement on a matter.",
+    "target_meaning": "to be with, to agree (to understand someone's point of view)"
+  },
+  {
+    "source_idiom": "sinking ship",
+    "target_idiom": "das Kind fällt in den Brunnen",
+    "source_meaning": "Something which is doomed; an impending debacle; an ongoing disaster.",
+    "target_meaning": "a disaster happens or becomes inevitable; it is too late for precautions that should have been taken earlier"
+  },
+  {
+    "source_idiom": "sit on one's ass",
+    "target_idiom": "die Ruhe weghaben",
+    "source_meaning": "To be very lazy and idle, especially when immediate action is required.",
+    "target_meaning": "to be very calm, especially in situations where others would not be; may be used positively, but also negatively, then implying lack of interest, tardiness"
+  },
+  {
+    "source_idiom": "sitting duck",
+    "target_idiom": "ins Visier geraten",
+    "source_meaning": "An obvious, vulnerable target.",
+    "target_meaning": "to become a target"
+  },
+  {
+    "source_idiom": "six and two threes",
+    "target_idiom": "Jacke wie Hose",
+    "source_meaning": "Two equivalent choices or situations.",
+    "target_meaning": "six of one, half a dozen of the other"
+  },
+  {
+    "source_idiom": "skeleton in the cupboard",
+    "target_idiom": "Leiche im Keller",
+    "source_meaning": "A shameful secret.",
+    "target_meaning": "skeleton in the cupboard, skeleton in the closet (shameful secret)"
+  },
+  {
+    "source_idiom": "slam down",
+    "target_idiom": "auf ex trinken",
+    "source_meaning": "To eat or drink (something) quickly.",
+    "target_meaning": "to down, to drink up in one draught"
+  },
+  {
+    "source_idiom": "smell a rat",
+    "target_idiom": "den Braten riechen",
+    "source_meaning": "To sense something suspicious.",
+    "target_meaning": "to figure out someone’s plan or intent, to sense something, to smell a rat"
+  },
+  {
+    "source_idiom": "smell blood",
+    "target_idiom": "die Nase vorn haben",
+    "source_meaning": "To sense that one has an advantage over an adversary or rival.",
+    "target_meaning": "to have the advantage"
+  },
+  {
+    "source_idiom": "soften the ground",
+    "target_idiom": "den Boden bereiten",
+    "source_meaning": "To prepare or create favorable conditions (for something), especially with the intent of improving public acceptance of the forthcoming occurrence.",
+    "target_meaning": "to set the stage, to pave the way"
+  },
+  {
+    "source_idiom": "someone's heart out",
+    "target_idiom": "mit Hängen und Würgen",
+    "source_meaning": "With great effort or enthusiasm.",
+    "target_meaning": "with great effort"
+  },
+  {
+    "source_idiom": "spare someone's blushes",
+    "target_idiom": "das Gesicht wahren",
+    "source_meaning": "To save someone from embarrassment.",
+    "target_meaning": "to save face"
+  },
+  {
+    "source_idiom": "spare tyre",
+    "target_idiom": "Rettungsring",
+    "source_meaning": "A large paunch and rolls of fat around the waist.",
+    "target_meaning": "spare tyre (UK), spare tire (North America), flab, roll of fat, love handle"
+  },
+  {
+    "source_idiom": "speak in circles",
+    "target_idiom": "sich im Kreis drehen",
+    "source_meaning": "Synonym of talk in circles",
+    "target_meaning": "to go round in circles"
+  },
+  {
+    "source_idiom": "speak one's mind",
+    "target_idiom": "aus seinem Herzen keine Mördergrube machen",
+    "source_meaning": "To state one's thoughts or opinions honestly or frankly.",
+    "target_meaning": "to speak openly and frankly"
+  },
+  {
+    "source_idiom": "speak someone's language",
+    "target_idiom": "von Mann zu Mann",
+    "source_meaning": "To speak about concerns, feelings, ideas, etc. which someone understands well and can relate to intimately.",
+    "target_meaning": "in private and in total honesty (of two men; sometimes used to indicate that the person is familiar with the matter at hand, especially if concerning male topics)"
+  },
+  {
+    "source_idiom": "spill one's seed",
+    "target_idiom": "kalter Bauer",
+    "source_meaning": "To ejaculate.",
+    "target_meaning": "ejaculate, especially resulting from ejaculation while sleeping; wet dream"
+  },
+  {
+    "source_idiom": "spill the beans",
+    "target_idiom": "auf die Nase binden",
+    "source_meaning": "To reveal a secret; to disclose information.",
+    "target_meaning": "to reveal (i.e. a secret)"
+  },
+  {
+    "source_idiom": "spin one's wheels",
+    "target_idiom": "auf keinen grünen Zweig kommen",
+    "source_meaning": "To make no progress despite making an effort; to get nowhere.",
+    "target_meaning": "to get nowhere, to not be able to accomplish anything"
+  },
+  {
+    "source_idiom": "splice the mainbrace",
+    "target_idiom": "sich einen hinter die Binde kippen",
+    "source_meaning": "To have an alcoholic drink.",
+    "target_meaning": "to knock back a drink"
+  },
+  {
+    "source_idiom": "split one's sides",
+    "target_idiom": "Tränen lachen",
+    "source_meaning": "To laugh hysterically.",
+    "target_meaning": "to laugh to tears"
+  },
+  {
+    "source_idiom": "square on",
+    "target_idiom": "nach Adam Riese",
+    "source_meaning": "accurately, correctly.",
+    "target_meaning": "calculating correctly, by the rules of mathematics"
+  },
+  {
+    "source_idiom": "stand behind",
+    "target_idiom": "jemandem zur Seite stehen",
+    "source_meaning": "To support; express one's support for, especially despite opposition; to stick with a decision.",
+    "target_meaning": "to stand by someone (i.e. to support)"
+  },
+  {
+    "source_idiom": "stand on one's own two feet",
+    "target_idiom": "auf eigenen Beinen stehen",
+    "source_meaning": "To be independent and self-sufficient; to survive without any help.",
+    "target_meaning": "to stand on one's own two feet"
+  },
+  {
+    "source_idiom": "stand tall",
+    "target_idiom": "sich wacker schlagen",
+    "source_meaning": "To behave in a brave, proud, or unyielding manner, without retreating from confrontation, danger, or adversity.",
+    "target_meaning": "to fight bravely, bear oneself bravely (especially in a losing situation)"
+  },
+  {
+    "source_idiom": "start over",
+    "target_idiom": "von vorn",
+    "source_meaning": "to begin again; to return to the beginning",
+    "target_meaning": "over again; from the start"
+  },
+  {
+    "source_idiom": "steady the ship",
+    "target_idiom": "im Griff haben",
+    "source_meaning": "To bring under control.",
+    "target_meaning": "to have under control"
+  },
+  {
+    "source_idiom": "stepping stone",
+    "target_idiom": "Mittel zum Zweck",
+    "source_meaning": "Something used as a way to progress to something or somewhere else.",
+    "target_meaning": "means to an end"
+  },
+  {
+    "source_idiom": "stick by",
+    "target_idiom": "die Stange halten",
+    "source_meaning": "to follow or adhere to somebody or something, to remain loyal and unswerving in one's attitude towards somebody or something",
+    "target_meaning": "to remain loyal to, to stand by  "
+  },
+  {
+    "source_idiom": "stick one's foot in one's mouth",
+    "target_idiom": "ins Fettnäpfchen treten",
+    "source_meaning": "To put one's foot in one's mouth.",
+    "target_meaning": "to put one's foot in one's mouth"
+  },
+  {
+    "source_idiom": "stick one's head in the sand",
+    "target_idiom": "den Kopf in den Sand stecken",
+    "source_meaning": "Synonym of bury one's head in the sand",
+    "target_meaning": "to bury one's head in the sand"
+  },
+  {
+    "source_idiom": "stick one's neck out",
+    "target_idiom": "sich aus dem Fenster lehnen",
+    "source_meaning": "To take a risk, putting oneself in a vulnerable position.",
+    "target_meaning": "stick one's neck out"
+  },
+  {
+    "source_idiom": "stick one's oar in",
+    "target_idiom": "in die Quere kommen",
+    "source_meaning": "To meddle; to stick one's nose into (something)",
+    "target_meaning": "to get in the way"
+  },
+  {
+    "source_idiom": "sticky-finger",
+    "target_idiom": "mitgehen lassen",
+    "source_meaning": "To steal, to pilfer; to make off with (something).",
+    "target_meaning": "to steal, to pilfer (especially while being some place for some other purpose)"
+  },
+  {
+    "source_idiom": "stink on ice",
+    "target_idiom": "unterste Schublade",
+    "source_meaning": "To be of very poor quality, even repulsive.",
+    "target_meaning": "reprehensible, abysmal, bottom of the barrel (regarding either honorableness or quality)"
+  },
+  {
+    "source_idiom": "stir shit",
+    "target_idiom": "nichts Gutes im Schilde führen",
+    "source_meaning": "to deliberately cause trouble",
+    "target_meaning": "to be up to no good"
+  },
+  {
+    "source_idiom": "stop cold",
+    "target_idiom": "ins Stocken geraten",
+    "source_meaning": "To halt suddenly and completely.",
+    "target_meaning": "to grind to a halt"
+  },
+  {
+    "source_idiom": "strain at a gnat",
+    "target_idiom": "aus einer Mücke einen Elefanten machen",
+    "source_meaning": "to make a mountain out of a molehill",
+    "target_meaning": "to make a mountain out of a mole hill"
+  },
+  {
+    "source_idiom": "strut one's stuff",
+    "target_idiom": "zur Schau tragen",
+    "source_meaning": "To behave or perform in a showy or ostentatious manner, as if to impress others; to show off.",
+    "target_meaning": "to flaunt, to show off, to sport, to put on display"
+  },
+  {
+    "source_idiom": "suck and blow",
+    "target_idiom": "Widerspruch in sich",
+    "source_meaning": "To perform two incompatible actions; to hold views which are in contradiction.",
+    "target_meaning": "paradox, contradiction"
+  },
+  {
+    "source_idiom": "suck donkey balls",
+    "target_idiom": "unter aller Kanone",
+    "source_meaning": "to be terrible, of extremely poor quality.",
+    "target_meaning": "dreadful, abysmal"
+  },
+  {
+    "source_idiom": "suit down to the ground",
+    "target_idiom": "jemandem in den Kram passen",
+    "source_meaning": "To suit perfectly.",
+    "target_meaning": "to suit someone"
+  },
+  {
+    "source_idiom": "swaddling clothes",
+    "target_idiom": "noch in den Kinderschuhen stecken",
+    "source_meaning": "An early period in development, infancy, the beginnings of something; inception.",
+    "target_meaning": "to be in its infancy"
+  },
+  {
+    "source_idiom": "swallow a bitter pill",
+    "target_idiom": "in Kauf nehmen",
+    "source_meaning": "To accept or endure an unpleasant situation.",
+    "target_meaning": "to put up with, accept (a negative secondary effect)"
+  },
+  {
+    "source_idiom": "sweat bricks",
+    "target_idiom": "Blut und Wasser schwitzen",
+    "source_meaning": "Synonym of sweat bullets (“to sweat profusely”)",
+    "target_meaning": "to sweat bullets"
+  },
+  {
+    "source_idiom": "sweat the small stuff",
+    "target_idiom": "Mücken seihen und Kamele verschlucken",
+    "source_meaning": "To worry about petty issues or insignificant matters.",
+    "target_meaning": "to focus on little things and ignore the important things"
+  },
+  {
+    "source_idiom": "swing by",
+    "target_idiom": "einen Besuch abstatten",
+    "source_meaning": "To pay a brief, informal visit.",
+    "target_meaning": "to pay a visit"
+  },
+  {
+    "source_idiom": "take a bead on",
+    "target_idiom": "ins Visier nehmen",
+    "source_meaning": "To aim a gun at something.",
+    "target_meaning": "to target, to set sight on"
+  },
+  {
+    "source_idiom": "take a chance",
+    "target_idiom": "etwas in die Schanze schlagen",
+    "source_meaning": "To risk doing something; to try something risky.",
+    "target_meaning": "to risk something"
+  },
+  {
+    "source_idiom": "take a gander",
+    "target_idiom": "einen Blick werfen",
+    "source_meaning": "To take a look; to check or examine.",
+    "target_meaning": "to take a look"
+  },
+  {
+    "source_idiom": "take a leaf out of someone's book",
+    "target_idiom": "sich etwas zu eigen machen",
+    "source_meaning": "To adopt an idea or practice of another person.",
+    "target_meaning": "to appropriate, to acquire, to adopt"
+  },
+  {
+    "source_idiom": "take a licking and keep on ticking",
+    "target_idiom": "abkönnen",
+    "source_meaning": "To be tough; to have endurance; to have the capacity to absorb stress or damage, but still be able to function.",
+    "target_meaning": "to be able to (with)stand or endure something or someone"
+  },
+  {
+    "source_idiom": "take a pew",
+    "target_idiom": "Platz nehmen",
+    "source_meaning": "To take a seat; to sit down.",
+    "target_meaning": "to have a seat, to take a seat"
+  },
+  {
+    "source_idiom": "take into consideration",
+    "target_idiom": "einer Sache Rechnung tragen",
+    "source_meaning": "To take into account.",
+    "target_meaning": "to take something into account"
+  },
+  {
+    "source_idiom": "take leave of one's senses",
+    "target_idiom": "am Rad drehen",
+    "source_meaning": "To go crazy; to stop behaving rationally.",
+    "target_meaning": "to go crazy"
+  },
+  {
+    "source_idiom": "take occasion",
+    "target_idiom": "aus etwas Kapital schlagen",
+    "source_meaning": "To take advantage of an opportunity.",
+    "target_meaning": "to capitalize on something"
+  },
+  {
+    "source_idiom": "take one's hook",
+    "target_idiom": "sich vom Acker machen",
+    "source_meaning": "To depart in a hurry; to clear out.",
+    "target_meaning": "to clear off, to scram"
+  },
+  {
+    "source_idiom": "take someone's part",
+    "target_idiom": "eine Lanze brechen",
+    "source_meaning": "To show support for or defend the actions of someone in the course of a debate, argument, etc.",
+    "target_meaning": "to take up the cudgel for, to support"
+  },
+  {
+    "source_idiom": "take someone's word for it",
+    "target_idiom": "etwas für bare Münze nehmen",
+    "source_meaning": "To believe what someone claims, especially without checking or verifying for oneself.",
+    "target_meaning": "to take something at face value"
+  },
+  {
+    "source_idiom": "take stock",
+    "target_idiom": "mit jemandem ins Gericht gehen",
+    "source_meaning": "To scrutinize or size up something; to assess a situation.",
+    "target_meaning": "to take a hard look at someone, to judge someone"
+  },
+  {
+    "source_idiom": "take the Browns to the Super Bowl",
+    "target_idiom": "einen Neger abseilen",
+    "source_meaning": "To defecate.",
+    "target_meaning": "to defecate"
+  },
+  {
+    "source_idiom": "take the cake",
+    "target_idiom": "den Vogel abschießen",
+    "source_meaning": "Used as an affirmation or accolade when one is deemed the top position in a comparison or contest; to win or be the best (at).",
+    "target_meaning": "to take the cake"
+  },
+  {
+    "source_idiom": "take the mask off",
+    "target_idiom": "sein wahres Gesicht zeigen",
+    "source_meaning": "To drop a facade and reveal one's true nature.",
+    "target_meaning": "to show one's true colors"
+  },
+  {
+    "source_idiom": "take the rap",
+    "target_idiom": "den Kopf hinhalten",
+    "source_meaning": "To be blamed or punished for something, especially for the wrongful actions of another; to willingly allow oneself to be so blamed or punished.",
+    "target_meaning": "to take the blame"
+  },
+  {
+    "source_idiom": "take time by the forelock",
+    "target_idiom": "die Gunst der Stunde nutzen",
+    "source_meaning": "To seize an opportunity quickly before it is no longer available.",
+    "target_meaning": "to seize the moment"
+  },
+  {
+    "source_idiom": "talk about the weather",
+    "target_idiom": "über Gott und die Welt reden",
+    "source_meaning": "To chit-chat; to shoot the breeze.",
+    "target_meaning": "to chit-chat (to engage in small talk, to discuss unimportant matters)"
+  },
+  {
+    "source_idiom": "talk of the devil",
+    "target_idiom": "wenn man vom Teufel spricht, kommt er",
+    "source_meaning": "Alternative form of speak of the devil",
+    "target_meaning": "speak of the devil and he shall appear"
+  },
+  {
+    "source_idiom": "tan someone's hide",
+    "target_idiom": "das Fell gerben",
+    "source_meaning": "To beat or spank someone.",
+    "target_meaning": "to tan someone's hide"
+  },
+  {
+    "source_idiom": "team up with",
+    "target_idiom": "gemeinsame Sache machen",
+    "source_meaning": "To associate with another in a joint enterprise.",
+    "target_meaning": "to make common cause"
+  },
+  {
+    "source_idiom": "that's your lot",
+    "target_idiom": "Ende der Fahnenstange",
+    "source_meaning": "That is the end; there is no more; that's it; that's all",
+    "target_meaning": "end of the line, end of the road"
+  },
+  {
+    "source_idiom": "the die is cast",
+    "target_idiom": "die Würfel sind gefallen",
+    "source_meaning": "Conclusive action has been taken, so events will proceed in an irreversible manner; the point of no return has been passed; the future is determined; there are no more options.",
+    "target_meaning": "the die is cast"
+  },
+  {
+    "source_idiom": "the finger",
+    "target_idiom": "Stinkefinger",
+    "source_meaning": "An obscene gesture, typically consisting of extending the middle finger at somebody.",
+    "target_meaning": "the finger"
+  },
+  {
+    "source_idiom": "the organ grinder, not the monkey",
+    "target_idiom": "Drahtzieher",
+    "source_meaning": "Synonym of organ grinder (“the person who is in charge, rather than a lackey or representative; the person truly responsible for another's actions”)",
+    "target_meaning": "string puller, puppet master, mastermind, svengali"
+  },
+  {
+    "source_idiom": "the organ grinder, not the monkey",
+    "target_idiom": "Strippenzieher",
+    "source_meaning": "Synonym of organ grinder (“the person who is in charge, rather than a lackey or representative; the person truly responsible for another's actions”)",
+    "target_meaning": "string puller, puppet master, mastermind, svengali"
+  },
+  {
+    "source_idiom": "the shirt off one's back",
+    "target_idiom": "mit Sack und Pack",
+    "source_meaning": "Everything currently in the possession of a person.",
+    "target_meaning": "with all his/her/their belongings, bag and baggage"
+  },
+  {
+    "source_idiom": "the stroke that broke the camel's back",
+    "target_idiom": "Tropfen, der das Fass zum Überlaufen bringt",
+    "source_meaning": "Synonym of the straw that broke the camel's back",
+    "target_meaning": "final straw, last straw, the straw that broke the camel's back"
+  },
+  {
+    "source_idiom": "there we go",
+    "target_idiom": "gesagt, getan",
+    "source_meaning": "said after an action has been performed successfully",
+    "target_meaning": "no sooner said than done"
+  },
+  {
+    "source_idiom": "throw good money after bad",
+    "target_idiom": "gutes Geld schlechtem hinterherwerfen",
+    "source_meaning": "To waste money in a fruitless attempt to recoup losses previously incurred.",
+    "target_meaning": "to throw good money after bad"
+  },
+  {
+    "source_idiom": "throw in the towel",
+    "target_idiom": "seinen Hut nehmen",
+    "source_meaning": "To quit; to give up.",
+    "target_meaning": "to resign; to quit"
+  },
+  {
+    "source_idiom": "throw money away",
+    "target_idiom": "das Geld zum Fenster hinauswerfen",
+    "source_meaning": "To spend money foolishly or indiscriminately; to waste money without regard of the consequences.",
+    "target_meaning": "to throw money away"
+  },
+  {
+    "source_idiom": "throw off balance",
+    "target_idiom": "in die Enge treiben",
+    "source_meaning": "To unsettle, to catch by surprise.",
+    "target_meaning": "to trap, to scare, to corner"
+  },
+  {
+    "source_idiom": "throw off the trail",
+    "target_idiom": "vom rechten Weg abbringen",
+    "source_meaning": "To misguide.",
+    "target_meaning": "to lead astray"
+  },
+  {
+    "source_idiom": "throw stones",
+    "target_idiom": "in die Pfanne hauen",
+    "source_meaning": "To insult or criticize someone or something.",
+    "target_meaning": "to criticize or deride (someone) harshly, especially in a disloyal manner; to slam, to throw under the bus"
+  },
+  {
+    "source_idiom": "throw the baby out with the bathwater",
+    "target_idiom": "das Kind mit dem Bade ausschütten",
+    "source_meaning": "To discard, inadvertently or through overzealousness, something valuable or essential (\"the baby\") in the process of removing or rejecting something unwanted or undesirable (\"the bathwater\").",
+    "target_meaning": "to throw the baby out with the bathwater"
+  },
+  {
+    "source_idiom": "throw up the sponge",
+    "target_idiom": "das Handtuch werfen",
+    "source_meaning": "To give up a contest; to acknowledge defeat; to throw in the towel.",
+    "target_meaning": "to throw in the towel"
+  },
+  {
+    "source_idiom": "tickle the ear",
+    "target_idiom": "Süßholz raspeln",
+    "source_meaning": "To flatter someone.",
+    "target_meaning": "to flatter, to sweet-talk"
+  },
+  {
+    "source_idiom": "tip of the hat",
+    "target_idiom": "Hut ab",
+    "source_meaning": "A gesture of acknowledgement; often, an expression of gratitude; originally by doffing one's hat.",
+    "target_meaning": "hats off, chapeau (expression of admiration or appreciation)"
+  },
+  {
+    "source_idiom": "tip of the iceberg",
+    "target_idiom": "Spitze des Eisbergs",
+    "source_meaning": "A small indication of a larger possibility; the first part encountered of a problem that is much bigger than it seems.",
+    "target_meaning": "tip of the iceberg"
+  },
+  {
+    "source_idiom": "tip the scales",
+    "target_idiom": "das Zünglein an der Waage sein",
+    "source_meaning": "To turn to one side of a balanced situation.",
+    "target_meaning": "to tip the scales"
+  },
+  {
+    "source_idiom": "to spare",
+    "target_idiom": "zum Saufüttern",
+    "source_meaning": "In abundance.",
+    "target_meaning": "in abundance, plentiful"
+  },
+  {
+    "source_idiom": "track down",
+    "target_idiom": "zur Strecke bringen",
+    "source_meaning": "To hunt for or locate; to search for; to find.",
+    "target_meaning": "to hunt down"
+  },
+  {
+    "source_idiom": "track record",
+    "target_idiom": "etwas Revue passieren lassen",
+    "source_meaning": "The past performance of a person, organization, or product, viewed in its entirety and usually for the purpose of making a judgment.",
+    "target_meaning": "to review (some past event) in its entirety"
+  },
+  {
+    "source_idiom": "tread on someone's toes",
+    "target_idiom": "jemandem zu nahe treten",
+    "source_meaning": "To offend someone.",
+    "target_meaning": "to offend someone"
+  },
+  {
+    "source_idiom": "trick up one's sleeve",
+    "target_idiom": "Ass im Ärmel",
+    "source_meaning": "Synonym of ace up one's sleeve",
+    "target_meaning": "ace up one's sleeve, ace in the hole"
+  },
+  {
+    "source_idiom": "turn a corner",
+    "target_idiom": "über den Berg sein",
+    "source_meaning": "Alternative form of turn the corner",
+    "target_meaning": "to turn the corner, to get out of the woods"
+  },
+  {
+    "source_idiom": "turn a deaf ear",
+    "target_idiom": "Bohnen in den Ohren haben",
+    "source_meaning": "To refuse to listen to. ",
+    "target_meaning": "to turn a deaf ear"
+  },
+  {
+    "source_idiom": "turn loose",
+    "target_idiom": "laufen lassen",
+    "source_meaning": "To release or let go; to permit (someone or something) to roam freely or to act freely.",
+    "target_meaning": "to release (literally: \"to let run\")"
+  },
+  {
+    "source_idiom": "turn one's nose up",
+    "target_idiom": "eine Nase drehen",
+    "source_meaning": "Alternative form of turn up one's nose",
+    "target_meaning": "to thumb one's nose"
+  },
+  {
+    "source_idiom": "turn tail",
+    "target_idiom": "den Schwanz einziehen",
+    "source_meaning": "To turn away from someone or something, in preparation for running away; to reverse direction; to leave or flee.",
+    "target_meaning": "to turn tail, to be a coward"
+  },
+  {
+    "source_idiom": "turn the other cheek",
+    "target_idiom": "die andere Wange hinhalten",
+    "source_meaning": "To accept punishment or injury without retaliating.",
+    "target_meaning": "to turn the other cheek"
+  },
+  {
+    "source_idiom": "turn the tables",
+    "target_idiom": "den Spieß umdrehen",
+    "source_meaning": "To reverse a situation, so that the advantage has shifted to the party which was previously disadvantaged.",
+    "target_meaning": "turn the tables (literally: turn the pike)"
+  },
+  {
+    "source_idiom": "twenty to the dozen",
+    "target_idiom": "ohne Punkt und Komma",
+    "source_meaning": "very fast, fluently",
+    "target_meaning": "lengthy and rapid, without pause, possibly also somewhat incoherent"
+  },
+  {
+    "source_idiom": "two slips of latinum",
+    "target_idiom": "seinen Senf dazugeben",
+    "source_meaning": "Synonym of two cents (“one's opinion or thoughts”).",
+    "target_meaning": "to add one's two cents (literally: \"to add one's mustard\")"
+  },
+  {
+    "source_idiom": "under one's very eyes",
+    "target_idiom": "auf offener Straße",
+    "source_meaning": "in plain sight; while someone is watching",
+    "target_meaning": "in broad daylight"
+  },
+  {
+    "source_idiom": "under the covers",
+    "target_idiom": "unter vier Augen",
+    "source_meaning": "In secret.",
+    "target_meaning": "in private"
+  },
+  {
+    "source_idiom": "under the rug",
+    "target_idiom": "unter den Teppich kehren",
+    "source_meaning": "Synonym of under the carpet.",
+    "target_meaning": "sweep something under the rug"
+  },
+  {
+    "source_idiom": "under the surface",
+    "target_idiom": "Leber",
+    "source_meaning": "Inwardly; inside; deep down.",
+    "target_meaning": "someplace deep within one"
+  },
+  {
+    "source_idiom": "up to something",
+    "target_idiom": "etwas im Schilde führen",
+    "source_meaning": "Doing something mischievous or scheming.",
+    "target_meaning": "to be up to something, to scheme, to carry on one's mind, to have something up one's sleeve"
+  },
+  {
+    "source_idiom": "upon the tapis",
+    "target_idiom": "zur Sprache kommen",
+    "source_meaning": "Under discussion or consideration.",
+    "target_meaning": "to come up for discussion"
+  },
+  {
+    "source_idiom": "ups and downs",
+    "target_idiom": "Höhen und Tiefen",
+    "source_meaning": "Periods of positive and negative events, moods, or interactions; highs and lows.",
+    "target_meaning": "ups and downs, peaks and troughs"
+  },
+  {
+    "source_idiom": "wait for the ball to drop",
+    "target_idiom": "abwarten und Tee trinken",
+    "source_meaning": "To wait in expectation of an occurrence.",
+    "target_meaning": "to wait and see"
+  },
+  {
+    "source_idiom": "walk a mile in someone's shoes",
+    "target_idiom": "wer nie sein Brot im Bette aß, weiß nicht, wie Krümel piken",
+    "source_meaning": "To experience what someone has experienced.",
+    "target_meaning": "one must experience something to understand it properly (but sometimes used without context merely for comedic effect)"
+  },
+  {
+    "source_idiom": "watch one's step",
+    "target_idiom": "auf Nummer sicher gehen",
+    "source_meaning": "To be cautious.",
+    "target_meaning": "to play it safe"
+  },
+  {
+    "source_idiom": "wear the trousers",
+    "target_idiom": "die Hosen anhaben",
+    "source_meaning": "(typically of a woman) To be the dominant partner in a relationship.",
+    "target_meaning": "to wear the trousers (UK), to wear the pants (US)"
+  },
+  {
+    "source_idiom": "wear yellow stockings",
+    "target_idiom": "gelb vor Neid",
+    "source_meaning": "be jealous",
+    "target_meaning": "green with envy"
+  },
+  {
+    "source_idiom": "weigh against",
+    "target_idiom": "einen Strick drehen",
+    "source_meaning": "To be disadvantageous to someone.",
+    "target_meaning": "to use something against someone in order to hurt them (e.g. to have them fired or the like)"
+  },
+  {
+    "source_idiom": "wet behind the ears",
+    "target_idiom": "feucht hinter den Ohren",
+    "source_meaning": "Inexperienced; just beginning; immature (especially in judgment).",
+    "target_meaning": "wet behind the ears"
+  },
+  {
+    "source_idiom": "what is more",
+    "target_idiom": "näher",
+    "source_meaning": "furthermore, or in addition, moreover.",
+    "target_meaning": "further, more precise or detailed"
+  },
+  {
+    "source_idiom": "when it comes to",
+    "target_idiom": "in puncto",
+    "source_meaning": "as for; with regard to",
+    "target_meaning": "regarding"
+  },
+  {
+    "source_idiom": "when push comes to shove",
+    "target_idiom": "der Hut brennt",
+    "source_meaning": "When the pressure is on; when the situation is critical or urgent; when the time has come for action, even if it is difficult.",
+    "target_meaning": "a dire, urgent, pressing situation requiring action; push comes to shove"
+  },
+  {
+    "source_idiom": "when two Sundays come together",
+    "target_idiom": "nie im Leben",
+    "source_meaning": "never",
+    "target_meaning": "never ever"
+  },
+  {
+    "source_idiom": "whip up a storm",
+    "target_idiom": "Sturm der Entrüstung",
+    "source_meaning": "To cause an uproar or controversy.",
+    "target_meaning": "outcry, storm of protest"
+  },
+  {
+    "source_idiom": "with a will",
+    "target_idiom": "von ganzem Herzen",
+    "source_meaning": "With willingness and zeal; with all one's heart or strength; earnestly, heartily.",
+    "target_meaning": "wholeheartedly"
+  },
+  {
+    "source_idiom": "with bated breath",
+    "target_idiom": "mit angehaltenem Atem",
+    "source_meaning": "Eagerly; with great anticipation.",
+    "target_meaning": "with bated breath"
+  },
+  {
+    "source_idiom": "with one's bare hands",
+    "target_idiom": "mit leeren Händen",
+    "source_meaning": "Barehandedly.",
+    "target_meaning": "empty-handed"
+  },
+  {
+    "source_idiom": "with whole skin",
+    "target_idiom": "Kopf und Kragen",
+    "source_meaning": "safe; unscathed",
+    "target_meaning": "safety, well-being"
+  },
+  {
+    "source_idiom": "woe to",
+    "target_idiom": "ein Exempel statuieren",
+    "source_meaning": "Used to warn someone of trouble or danger if they carry out a certain risky action.",
+    "target_meaning": "to set a warning example"
+  },
+  {
+    "source_idiom": "woman of the hour",
+    "target_idiom": "in aller Munde sein",
+    "source_meaning": "A woman who has recently caught the attention of, or is being admired or honoured by, a large number of people.",
+    "target_meaning": "to be on everyone's lips"
+  },
+  {
+    "source_idiom": "worst comes to worst",
+    "target_idiom": "hart auf hart kommen",
+    "source_meaning": "If a possible worst-case scenario actually occurs.",
+    "target_meaning": "worst comes to worst"
+  },
+  {
+    "source_idiom": "wouldn't be seen dead",
+    "target_idiom": "die Krätze kriegen",
+    "source_meaning": "To find incredibly horrifying; embarrassing or otherwise entirely unsuitable for oneself.",
+    "target_meaning": "to find something loathsome (highly offensive or uncomfortable)"
+  },
+  {
+    "source_idiom": "write checks one can't cash",
+    "target_idiom": "das Blaue vom Himmel versprechen",
+    "source_meaning": "To make promises one cannot keep, or to make boasts that are not true.",
+    "target_meaning": "to make a promise that cannot be fulfilled. ( to promise [someone] the Blue out of the Blue Sky)"
+  },
+  {
+    "source_idiom": "year in, year out",
+    "target_idiom": "jahraus, jahrein",
+    "source_meaning": "During every year; always.",
+    "target_meaning": "year in, year out"
+  },
+  {
+    "source_idiom": "yes man",
+    "target_idiom": "zu allem Ja und Amen sagen",
+    "source_meaning": "A person who always agrees with their employer or superior.",
+    "target_meaning": "to be a yes man"
+  },
+  {
+    "source_idiom": "yield the ghost",
+    "target_idiom": "den Geist aufgeben",
+    "source_meaning": "To give up the ghost.",
+    "target_meaning": "to give up the ghost"
+  },
+  {
+    "source_idiom": "you shouldn't have",
+    "target_idiom": "sich erkenntlich zeigen",
+    "source_meaning": "Used to express gratitude at unnecessary generosity, especially when receiving a gift.",
+    "target_meaning": "to show one's gratitude"
+  },
+  {
+    "source_idiom": "your guess is as good as mine",
+    "target_idiom": "mein Name ist Hase",
+    "source_meaning": "I don't know; I have no idea.",
+    "target_meaning": "I know (of) nothing; I am not involved"
+  },
+  {
+    "source_idiom": "zig when one should zag",
+    "target_idiom": "aus der Reihe tanzen",
+    "source_meaning": "To misstep or err.",
+    "target_meaning": "to step out of line"
+  }
+]

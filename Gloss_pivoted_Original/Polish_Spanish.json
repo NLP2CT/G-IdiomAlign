@@ -1,0 +1,5330 @@
+[
+  {
+    "source_idiom": "Matko Boska",
+    "target_idiom": "Virgen Santa",
+    "source_meaning": "Holy Mother of God, Mother of God (expression of surprise)",
+    "target_meaning": "good Lord, holy moley, Jesus, Mary and Joseph"
+  },
+  {
+    "source_idiom": "Polak nie wielbłąd, pić musi",
+    "target_idiom": "bendecir la mesa",
+    "source_meaning": "a common toast",
+    "target_meaning": "to say grace"
+  },
+  {
+    "source_idiom": "a więc",
+    "target_idiom": "así pues",
+    "source_meaning": "ergo, so, that is",
+    "target_meaning": "thus; hence"
+  },
+  {
+    "source_idiom": "achy i ochy",
+    "target_idiom": "la leche",
+    "source_meaning": "oohs and ahhs (something that is exceptionally good)",
+    "target_meaning": "for something to be amazing, very good"
+  },
+  {
+    "source_idiom": "albo rybka, albo pipka",
+    "target_idiom": "querer el oro y el moro",
+    "source_meaning": "you can't have your cake and eat it too",
+    "target_meaning": "to have one's cake and eat it too"
+  },
+  {
+    "source_idiom": "amator kwaśnych jabłek",
+    "target_idiom": "bicho raro",
+    "source_meaning": "person with strange or unusual tastes, person with acquired tastes",
+    "target_meaning": "freak, oddball, weirdo"
+  },
+  {
+    "source_idiom": "ani chybi",
+    "target_idiom": "qué duda cabe",
+    "source_meaning": "no doubt, undoubtedly",
+    "target_meaning": "no doubt; without a doubt"
+  },
+  {
+    "source_idiom": "ani mru-mru",
+    "target_idiom": "no decir ni mu",
+    "source_meaning": "mum's the word, not a word, not a peep, keep it under your hat",
+    "target_meaning": "to keep mum; to not breathe a word; to not say a word"
+  },
+  {
+    "source_idiom": "aż nadto",
+    "target_idiom": "más de la cuenta",
+    "source_meaning": "all too, way too (an excessive amount) [ genitive]",
+    "target_meaning": "too much"
+  },
+  {
+    "source_idiom": "ba i co to",
+    "target_idiom": "cuéntaselo a Rita",
+    "source_meaning": "yeah right!; tell me another!; a likely story!",
+    "target_meaning": "yeah right, sure, pull the other one (an expression of disbelief)"
+  },
+  {
+    "source_idiom": "baba z wozu, koniom lżej",
+    "target_idiom": "adiós Madrid, que te quedas sin gente",
+    "source_meaning": "good riddance to bad rubbish, good riddance",
+    "target_meaning": "good riddance (Used to indicate that a departure, or loss is welcome.)"
+  },
+  {
+    "source_idiom": "badać grunt",
+    "target_idiom": "poner a prueba",
+    "source_meaning": "to test the waters",
+    "target_meaning": "to put to the test, to pilot"
+  },
+  {
+    "source_idiom": "bajka z mchu i paproci",
+    "target_idiom": "arco de iglesia",
+    "source_meaning": "tall tale",
+    "target_meaning": "tall order"
+  },
+  {
+    "source_idiom": "bajońskie sumy",
+    "target_idiom": "pagar a tocateja",
+    "source_meaning": "very large amounts of money",
+    "target_meaning": "to pay a lot of money in cash"
+  },
+  {
+    "source_idiom": "bez czucia",
+    "target_idiom": "a humo de pajas",
+    "source_meaning": "insensately, unconsciously",
+    "target_meaning": "unthinkingly"
+  },
+  {
+    "source_idiom": "bez kitu",
+    "target_idiom": "de verdad",
+    "source_meaning": "no kidding, for real",
+    "target_meaning": "really; for real"
+  },
+  {
+    "source_idiom": "bez końca",
+    "target_idiom": "dale que dale",
+    "source_meaning": "endlessly, on and on",
+    "target_meaning": "again and again; on and on"
+  },
+  {
+    "source_idiom": "bez mała",
+    "target_idiom": "a pique",
+    "source_meaning": "almost, nearly, practically",
+    "target_meaning": "almost; practically"
+  },
+  {
+    "source_idiom": "bez ogródki",
+    "target_idiom": "por lo claro",
+    "source_meaning": "bluntly, straight up",
+    "target_meaning": "clearly; straight up"
+  },
+  {
+    "source_idiom": "bez pamięci",
+    "target_idiom": "cachondo mental",
+    "source_meaning": "to the point where one cannot think about anything else",
+    "target_meaning": "person with a one-track mind"
+  },
+  {
+    "source_idiom": "bez pośpiechu",
+    "target_idiom": "pisando huevos",
+    "source_meaning": "slowly",
+    "target_meaning": "very slowly"
+  },
+  {
+    "source_idiom": "bez serca",
+    "target_idiom": "no tener corazón",
+    "source_meaning": "heartless (without feeling)",
+    "target_meaning": "to be heartless; to have no compassion or conscience"
+  },
+  {
+    "source_idiom": "bez skutku",
+    "target_idiom": "al ñudo",
+    "source_meaning": "to no avail",
+    "target_meaning": "in vain"
+  },
+  {
+    "source_idiom": "bez trudności",
+    "target_idiom": "en dos patadas",
+    "source_meaning": "easily, effortlessly, readily",
+    "target_meaning": "effortlessly"
+  },
+  {
+    "source_idiom": "bez zarzutu",
+    "target_idiom": "sobre ruedas",
+    "source_meaning": "without a hitch, perfectly, impeccably",
+    "target_meaning": "well, smoothly; swimmingly"
+  },
+  {
+    "source_idiom": "biały związek",
+    "target_idiom": "amistad con derechos",
+    "source_meaning": "sexless relationship",
+    "target_meaning": "friendship with benefits (non-emotional sexual friendship)"
+  },
+  {
+    "source_idiom": "biedny jak mysz kościelna",
+    "target_idiom": "por puertas",
+    "source_meaning": "poor as a church mouse",
+    "target_meaning": "poor as Job"
+  },
+  {
+    "source_idiom": "bić brawo",
+    "target_idiom": "frotarse las manos",
+    "source_meaning": "to applaud, to clap, to put one's hands together  ",
+    "target_meaning": "to rub one's hands together"
+  },
+  {
+    "source_idiom": "bić na alarm",
+    "target_idiom": "dar la voz de alarma",
+    "source_meaning": "to raise the alarm, to sound the alarm (to bring attention to some danger or negative thing, to warn people to avoid said thing)",
+    "target_meaning": "to raise the alarm"
+  },
+  {
+    "source_idiom": "bić pianę",
+    "target_idiom": "hablar por boca de ganso",
+    "source_meaning": "to blow hot air, to waffle, to talk about a topic without introducing anything new",
+    "target_meaning": "to talk through one's hat"
+  },
+  {
+    "source_idiom": "bić się z myślami",
+    "target_idiom": "no saber a qué carta quedarse",
+    "source_meaning": "to hesitate, to be of two minds",
+    "target_meaning": "to be in two minds; to be undecided"
+  },
+  {
+    "source_idiom": "bić w dach",
+    "target_idiom": "chocarla",
+    "source_meaning": "to salute  ",
+    "target_meaning": "to high five"
+  },
+  {
+    "source_idiom": "boso, ale w ostrogach",
+    "target_idiom": "contra viento y marea",
+    "source_meaning": "against all odds, bravely",
+    "target_meaning": "against all odds, come hell or high water, through thick and thin"
+  },
+  {
+    "source_idiom": "brać górę",
+    "target_idiom": "ganar la partida",
+    "source_meaning": "to get the better of [ (+ instrumental) ]",
+    "target_meaning": "to get one up (over someone); to get the better of"
+  },
+  {
+    "source_idiom": "brać na klatę",
+    "target_idiom": "tragarse un marrón",
+    "source_meaning": "to take on (to consider oneself obligated to or responsible for something and bravely and persistently endure some kind of setback, trouble, misfortune, or negative consequence of an event)",
+    "target_meaning": "To take on a burden"
+  },
+  {
+    "source_idiom": "brać pod bajer",
+    "target_idiom": "vender la moto",
+    "source_meaning": "to take for a ride, to pull a fast one (to deceive)",
+    "target_meaning": "to take for a ride"
+  },
+  {
+    "source_idiom": "brać się w garść",
+    "target_idiom": "hacer de tripas corazón",
+    "source_meaning": "to get ahold of oneself, to get one's act together, to get a grip, to get it together, to suck it up, to pull oneself together",
+    "target_meaning": "to pull oneself together"
+  },
+  {
+    "source_idiom": "brać sobie do serca",
+    "target_idiom": "tomar a pecho",
+    "source_meaning": "to take to heart (to take something seriously; to internalize or live according to something)",
+    "target_meaning": "to take to heart"
+  },
+  {
+    "source_idiom": "brać z sufitu",
+    "target_idiom": "tirar fruta",
+    "source_meaning": "to pull out of thin air, to confabulate, to cook up, to make up",
+    "target_meaning": "to pull out of one's ass; make it up as one goes along"
+  },
+  {
+    "source_idiom": "brać ślub",
+    "target_idiom": "contraer matrimonio",
+    "source_meaning": "to get married",
+    "target_meaning": "to get married, to marry"
+  },
+  {
+    "source_idiom": "brudzić sobie ręce",
+    "target_idiom": "sacar el ascua con mano ajena",
+    "source_meaning": "to get one's hands dirty (to get involved with the unpleasant parts of a task, such as manual labour or unethical activities)",
+    "target_meaning": "to get someone else to do one's dirty work"
+  },
+  {
+    "source_idiom": "brzydki jak noc listopadowa",
+    "target_idiom": "más feo que Carracuca",
+    "source_meaning": "ugly as sin",
+    "target_meaning": "ugly as sin"
+  },
+  {
+    "source_idiom": "brzydkie kaczątko",
+    "target_idiom": "patito feo",
+    "source_meaning": "ugly duckling",
+    "target_meaning": "ugly duckling"
+  },
+  {
+    "source_idiom": "budowa ciała",
+    "target_idiom": "cuerpo serrano",
+    "source_meaning": "build, physique",
+    "target_meaning": "an attractive body"
+  },
+  {
+    "source_idiom": "budować zamki na lodzie",
+    "target_idiom": "hablar de la mar",
+    "source_meaning": "to build castles in the air",
+    "target_meaning": "to build castles in the air"
+  },
+  {
+    "source_idiom": "bujać w obłokach",
+    "target_idiom": "estar en la higuera",
+    "source_meaning": "to have one's head in the clouds, to daydream",
+    "target_meaning": "to have one's head in the clouds"
+  },
+  {
+    "source_idiom": "bura suka",
+    "target_idiom": "mosca muerta",
+    "source_meaning": "bitch (woman towards whom the speaker feels disdain)",
+    "target_meaning": "two-faced cow, two-faced bitch"
+  },
+  {
+    "source_idiom": "burdel na kółkach",
+    "target_idiom": "manga por hombro",
+    "source_meaning": "mess; disarray",
+    "target_meaning": "messy; in a right mess"
+  },
+  {
+    "source_idiom": "bułka z masłem",
+    "target_idiom": "coser y cantar",
+    "source_meaning": "piece of cake, walk in the park",
+    "target_meaning": "a piece of cake, a breeze"
+  },
+  {
+    "source_idiom": "byle jak",
+    "target_idiom": "sin orden ni concierto",
+    "source_meaning": "slapdash (in a hasty or careless manner)",
+    "target_meaning": "haphazardly; in a slipshod manner"
+  },
+  {
+    "source_idiom": "byle zbyć",
+    "target_idiom": "al tuntún",
+    "source_meaning": "carelessly, any which way, to get it over with",
+    "target_meaning": "haphazardly, any old how"
+  },
+  {
+    "source_idiom": "być kwita",
+    "target_idiom": "estar a pre",
+    "source_meaning": "to be even, to be quits, to be all square",
+    "target_meaning": "to be even (not owing or being owed)"
+  },
+  {
+    "source_idiom": "być może",
+    "target_idiom": "de pronto",
+    "source_meaning": "maybe, perhaps",
+    "target_meaning": "maybe, perhaps"
+  },
+  {
+    "source_idiom": "być od świtu na nogach",
+    "target_idiom": "hacer la vida",
+    "source_meaning": "to be all day on one's feet (to be active all day)",
+    "target_meaning": "to spend most of one's waking hours (at a place)"
+  },
+  {
+    "source_idiom": "być solą w oku",
+    "target_idiom": "china en el zapato",
+    "source_meaning": "to be a thorn in someone's side [ (+ genitive)],",
+    "target_meaning": "thorn in the side"
+  },
+  {
+    "source_idiom": "być sto lat za Murzynami",
+    "target_idiom": "a la zaga",
+    "source_meaning": "to be very backward in some area",
+    "target_meaning": "lagging behind"
+  },
+  {
+    "source_idiom": "być w błędzie",
+    "target_idiom": "irse en la chicagüita",
+    "source_meaning": "to be wrong, to be mistaken",
+    "target_meaning": "to make a mistake; to err"
+  },
+  {
+    "source_idiom": "być w domu",
+    "target_idiom": "tener claro",
+    "source_meaning": "to understand, to get the point of something",
+    "target_meaning": "to understand, to be clear about"
+  },
+  {
+    "source_idiom": "być w swoim żywiole",
+    "target_idiom": "como pez en el agua",
+    "source_meaning": "to take to something like a duck to water",
+    "target_meaning": "like a duck takes to water"
+  },
+  {
+    "source_idiom": "błądzić myślami",
+    "target_idiom": "pensar en la inmortalidad del cangrejo",
+    "source_meaning": "to zone out, to be lost in thought",
+    "target_meaning": "to become lost in thought, to ponder"
+  },
+  {
+    "source_idiom": "całe szczęście",
+    "target_idiom": "por fortuna",
+    "source_meaning": "luckily",
+    "target_meaning": "luckily"
+  },
+  {
+    "source_idiom": "cały czas",
+    "target_idiom": "a cada rato",
+    "source_meaning": "all the time, incessantly, constantly",
+    "target_meaning": "all the time, constantly"
+  },
+  {
+    "source_idiom": "cały i zdrowy",
+    "target_idiom": "sano y salvo",
+    "source_meaning": "safe and sound, in one piece",
+    "target_meaning": "safe and sound"
+  },
+  {
+    "source_idiom": "całym pędem",
+    "target_idiom": "antes y con antes",
+    "source_meaning": "as quickly as possible",
+    "target_meaning": "as soon as possible"
+  },
+  {
+    "source_idiom": "chapać dzidę",
+    "target_idiom": "soplar la vela",
+    "source_meaning": "to fellate (to perform oral sex on a man)",
+    "target_meaning": "to suck (to perform fellatio)"
+  },
+  {
+    "source_idiom": "chcąc nie chcąc",
+    "target_idiom": "mal que te pese",
+    "source_meaning": "willy-nilly, like it or not",
+    "target_meaning": "like it or not, like it or lump it"
+  },
+  {
+    "source_idiom": "chodzić jak błędna owca",
+    "target_idiom": "aplanar calles",
+    "source_meaning": "to walk about aimlessly; to be lost and confused",
+    "target_meaning": "to wander; to roam"
+  },
+  {
+    "source_idiom": "chodzić jak struty",
+    "target_idiom": "estar hecho un manojo de nervios",
+    "source_meaning": "to be worried sick",
+    "target_meaning": "be a nervous wreck"
+  },
+  {
+    "source_idiom": "chodzić od drzwi do drzwi",
+    "target_idiom": "abrir la puerta",
+    "source_meaning": "to go door to door",
+    "target_meaning": "to open the door"
+  },
+  {
+    "source_idiom": "chodzić po retentach",
+    "target_idiom": "estar al pedo",
+    "source_meaning": "to idle",
+    "target_meaning": "to do nothing; to be idle"
+  },
+  {
+    "source_idiom": "chodzić własnymi drogami",
+    "target_idiom": "ir cada uno por su lado",
+    "source_meaning": "to do one's own thing",
+    "target_meaning": "to go one's own way"
+  },
+  {
+    "source_idiom": "chodzić z kapeluszem",
+    "target_idiom": "pasar la gorra",
+    "source_meaning": "to request many people money for something",
+    "target_meaning": "to pass round the hat"
+  },
+  {
+    "source_idiom": "cholera wzięła",
+    "target_idiom": "clamar al cielo",
+    "source_meaning": "someone got upset and outraged by the given state of affairs",
+    "target_meaning": "to be an outrage"
+  },
+  {
+    "source_idiom": "chować głowę w piasek",
+    "target_idiom": "táctica de avestruz",
+    "source_meaning": "to bury one's head in the sand",
+    "target_meaning": "the burying of one's head in the sand"
+  },
+  {
+    "source_idiom": "choćby skały srały",
+    "target_idiom": "llueva, truene o relampaguee",
+    "source_meaning": "no matter what (the thing in question is happening, will happen, is being done, or will be done no matter what, regardless of any adversity)",
+    "target_meaning": "come rain or shine (regardless of the circumstances)"
+  },
+  {
+    "source_idiom": "chudy jak patyk",
+    "target_idiom": "estar en los huesos",
+    "source_meaning": "thin as a rail",
+    "target_meaning": "to be skin and bones"
+  },
+  {
+    "source_idiom": "chuj ci w dupę",
+    "target_idiom": "a tomar por culo",
+    "source_meaning": "fuck you; shove it up your ass",
+    "target_meaning": "fuck you, screw you"
+  },
+  {
+    "source_idiom": "chwila prawdy",
+    "target_idiom": "hora menguada",
+    "source_meaning": "moment of truth",
+    "target_meaning": "moment of truth"
+  },
+  {
+    "source_idiom": "chyba tak",
+    "target_idiom": "puede que",
+    "source_meaning": "maybe so (statement of acceptance, but with some uncertainty)",
+    "target_meaning": "it may be that, it might be that (Used to express possibility of something happening)"
+  },
+  {
+    "source_idiom": "chytry jak lis",
+    "target_idiom": "saber más que los ratones colorados",
+    "source_meaning": "cunning as a fox, sly as a fox",
+    "target_meaning": "to be sly as a fox"
+  },
+  {
+    "source_idiom": "chłostać biczem satyry",
+    "target_idiom": "dar carrilla",
+    "source_meaning": "to lampoon, to bust on, to satirize",
+    "target_meaning": "to poke fun at"
+  },
+  {
+    "source_idiom": "ciche dni",
+    "target_idiom": "ley del hielo",
+    "source_meaning": "silent treatment (form of social sanction that consists of ignoring a particular individual, neither speaking to that person nor responding to his or her words)",
+    "target_meaning": "cold shoulder, silent treatment"
+  },
+  {
+    "source_idiom": "cienka skóra",
+    "target_idiom": "piel fina",
+    "source_meaning": "thin skin (oversensitivity to criticism)",
+    "target_meaning": "thin skin (state of being overly sensitive to criticism; quickness to take offence; irritability; touchiness)"
+  },
+  {
+    "source_idiom": "cierp ciało, skoroś chciało",
+    "target_idiom": "de aquellos polvos, estos lodos",
+    "source_meaning": "the chickens come home to roost",
+    "target_meaning": "the chickens come home to roost"
+  },
+  {
+    "source_idiom": "cisza przed burzą",
+    "target_idiom": "capear el temporal",
+    "source_meaning": "calm before the storm",
+    "target_meaning": "to weather the storm"
+  },
+  {
+    "source_idiom": "ciężki kawałek chleba",
+    "target_idiom": "contante y sonante",
+    "source_meaning": "hard-earned money",
+    "target_meaning": "cold hard (said of money)"
+  },
+  {
+    "source_idiom": "co do joty",
+    "target_idiom": "a la letra",
+    "source_meaning": "to a T, to the letter",
+    "target_meaning": "to the letter"
+  },
+  {
+    "source_idiom": "co drugi",
+    "target_idiom": "un día sí y otro no",
+    "source_meaning": "every other, every second",
+    "target_meaning": "every other day"
+  },
+  {
+    "source_idiom": "co dwie głowy, to nie jedna",
+    "target_idiom": "cuatro ojos ven más que dos",
+    "source_meaning": "two heads are better than one",
+    "target_meaning": "two heads are better than one"
+  },
+  {
+    "source_idiom": "co gorsza",
+    "target_idiom": "para más inri",
+    "source_meaning": "add insult to injury, for the worse, to make matters worse, to top it all off",
+    "target_meaning": "to add insult to injury, to make matters worse, on top of that"
+  },
+  {
+    "source_idiom": "co i rusz",
+    "target_idiom": "día sí, día también",
+    "source_meaning": "daily, day after day, day in, day out, every day",
+    "target_meaning": "day in day out"
+  },
+  {
+    "source_idiom": "co najmniej",
+    "target_idiom": "como mínimo",
+    "source_meaning": "at least, no fewer than",
+    "target_meaning": "at least"
+  },
+  {
+    "source_idiom": "co najwyżej",
+    "target_idiom": "cuando mucho",
+    "source_meaning": "at most, tops",
+    "target_meaning": "at most"
+  },
+  {
+    "source_idiom": "co niemiara",
+    "target_idiom": "una barbaridad",
+    "source_meaning": "a lot (to a large amount)",
+    "target_meaning": "a lot, very much"
+  },
+  {
+    "source_idiom": "coraz to",
+    "target_idiom": "más y más",
+    "source_meaning": "used with comparatives to show a growing rate of change; more and more, increasingly, ever; often; every now and then",
+    "target_meaning": "more and more"
+  },
+  {
+    "source_idiom": "coś na ząb",
+    "target_idiom": "llevarse a la boca",
+    "source_meaning": "something to munch on (food)",
+    "target_meaning": "to have (something) to eat"
+  },
+  {
+    "source_idiom": "coś tu nie gra",
+    "target_idiom": "oler a pólvora",
+    "source_meaning": "something's off, something's not right here, something is wrong, something doesn't add up, something's up",
+    "target_meaning": "to smell fishy; to seem as though there's something fishy going on"
+  },
+  {
+    "source_idiom": "czarna owca",
+    "target_idiom": "oveja negra",
+    "source_meaning": "black sheep (person who is not wholesome)",
+    "target_meaning": "black sheep (a person who is not wholesome, honest, or trustworthy)"
+  },
+  {
+    "source_idiom": "czarna robota",
+    "target_idiom": "tirar del carro",
+    "source_meaning": "donkey work, grunt work",
+    "target_meaning": "to do the donkey work"
+  },
+  {
+    "source_idiom": "czarno na białym",
+    "target_idiom": "de cajón",
+    "source_meaning": "black and white, clear as day (clear)",
+    "target_meaning": "plain as day"
+  },
+  {
+    "source_idiom": "czarny jak smoła",
+    "target_idiom": "negro como un zapato",
+    "source_meaning": "black as coal, pitch-black",
+    "target_meaning": "jet black; black as coal"
+  },
+  {
+    "source_idiom": "czochrać bobra",
+    "target_idiom": "jalar el ganso",
+    "source_meaning": "to beat one's meat",
+    "target_meaning": "to beat one's meat; to masturbate"
+  },
+  {
+    "source_idiom": "czysty jak łza",
+    "target_idiom": "mondo y lirondo",
+    "source_meaning": "as pure as the driven snow",
+    "target_meaning": "pure and simple"
+  },
+  {
+    "source_idiom": "czytać jak w otwartej księdze",
+    "target_idiom": "de manual",
+    "source_meaning": "to read like a book [ (+ locative) ]",
+    "target_meaning": "like a book; easy to read"
+  },
+  {
+    "source_idiom": "czytać między wierszami",
+    "target_idiom": "leer entre líneas",
+    "source_meaning": "to read between the lines",
+    "target_meaning": "to read between the lines"
+  },
+  {
+    "source_idiom": "człowiek czynu",
+    "target_idiom": "hombre de pelo en pecho",
+    "source_meaning": "man of action",
+    "target_meaning": "a real man"
+  },
+  {
+    "source_idiom": "dawać czadu",
+    "target_idiom": "petarlo",
+    "source_meaning": "to cook, to rock (to do something in an exceptionally energetic, spectacular, or surprising way for one's abilities, making a big impression)",
+    "target_meaning": "to kick ass; to be a smash hit; to kill it; all the rage"
+  },
+  {
+    "source_idiom": "dawać drapaka",
+    "target_idiom": "pirárselas",
+    "source_meaning": "to get away; to escape, to skedaddle",
+    "target_meaning": "to scram; to skedaddle; to beat it"
+  },
+  {
+    "source_idiom": "dawać z siebie wszystko",
+    "target_idiom": "poner toda la carne en el asador",
+    "source_meaning": "to do one's best, to give one's all, to go all out, to pull out all the stops (to make the utmost effort)",
+    "target_meaning": "to give one's all; to pull out all the stops"
+  },
+  {
+    "source_idiom": "dawno temu",
+    "target_idiom": "tiempo ha",
+    "source_meaning": "long ago, long since, many moons ago",
+    "target_meaning": "long ago; many moons ago"
+  },
+  {
+    "source_idiom": "dać bobu",
+    "target_idiom": "enmendar la plana",
+    "source_meaning": "to fix someone's wagon  ",
+    "target_meaning": "to fix up; to correct; to shine up"
+  },
+  {
+    "source_idiom": "dać kosza",
+    "target_idiom": "hacer un feo",
+    "source_meaning": "to jilt, to snub, to turn down (to decline someone's advances)",
+    "target_meaning": "to snub; turn down"
+  },
+  {
+    "source_idiom": "dać się we znaki",
+    "target_idiom": "cagar el palo",
+    "source_meaning": "to pester, to bother, to trouble",
+    "target_meaning": "to pester; to bother, to piss off."
+  },
+  {
+    "source_idiom": "dać wiarę",
+    "target_idiom": "dar crédito",
+    "source_meaning": "to believe, to credit (to put credence in)",
+    "target_meaning": "to believe; to trust"
+  },
+  {
+    "source_idiom": "dać za wygraną",
+    "target_idiom": "echarse atrás",
+    "source_meaning": "to back down, to fink out, to give up, to throw in the towel",
+    "target_meaning": "to back out; back down"
+  },
+  {
+    "source_idiom": "diabeł tkwi w szczegółach",
+    "target_idiom": "con pelos y señales",
+    "source_meaning": "devil is in the details",
+    "target_meaning": "in fine detail"
+  },
+  {
+    "source_idiom": "dla picu",
+    "target_idiom": "hacer gala",
+    "source_meaning": "for show",
+    "target_meaning": "to show off"
+  },
+  {
+    "source_idiom": "dmuchać na zimne",
+    "target_idiom": "curarse en salud",
+    "source_meaning": "to play it safe",
+    "target_meaning": "to play it safe; to be on the safe side"
+  },
+  {
+    "source_idiom": "do bólu",
+    "target_idiom": "hasta decir basta",
+    "source_meaning": "to a fault, painfully (to an excessive degree)",
+    "target_meaning": "incredibly; to a fault"
+  },
+  {
+    "source_idiom": "do głębi",
+    "target_idiom": "por los cuatro costados",
+    "source_meaning": "through and through (entirely)",
+    "target_meaning": "through and through"
+  },
+  {
+    "source_idiom": "do niczego",
+    "target_idiom": "pájaro de mal agüero",
+    "source_meaning": "for the birds, the worst",
+    "target_meaning": "bird of ill omen"
+  },
+  {
+    "source_idiom": "do ostatniej kropli",
+    "target_idiom": "a todo gas",
+    "source_meaning": "full throttle",
+    "target_meaning": "at full throttle"
+  },
+  {
+    "source_idiom": "do rany przyłóż",
+    "target_idiom": "ser un sol",
+    "source_meaning": "all sweetness and light",
+    "target_meaning": "to be a sweetie"
+  },
+  {
+    "source_idiom": "do reszty",
+    "target_idiom": "pero que muy",
+    "source_meaning": "something has all ascribable traits to the speaker's surprise; completely, totally",
+    "target_meaning": "totally; damn; shockingly"
+  },
+  {
+    "source_idiom": "do skretesu",
+    "target_idiom": "puesto a precisar",
+    "source_meaning": "exactly (in an exact manner); abundantly ",
+    "target_meaning": "precisely, specifically"
+  },
+  {
+    "source_idiom": "do szczętu",
+    "target_idiom": "de a tiro",
+    "source_meaning": "absolutely, completely, entirely, totally",
+    "target_meaning": "totally; absolutely; completely"
+  },
+  {
+    "source_idiom": "do tego czasu",
+    "target_idiom": "a la sazón",
+    "source_meaning": "by then, meanwhile, until then, theretofore, thitherto",
+    "target_meaning": "at that time; back then"
+  },
+  {
+    "source_idiom": "do tej pory",
+    "target_idiom": "hasta el momento",
+    "source_meaning": "so far, until now, till now, hitherto",
+    "target_meaning": "so far, up to now"
+  },
+  {
+    "source_idiom": "do usranego końca",
+    "target_idiom": "hasta el valle de Josafat",
+    "source_meaning": "until hell freezes over, ad infinitum",
+    "target_meaning": "until hell freezes over"
+  },
+  {
+    "source_idiom": "do Świętego Ducha, nie zdejmuj kożucha",
+    "target_idiom": "año de nieves, año de bienes",
+    "source_meaning": "ne'er cast a clout till May be out (do not change from winter clothes to summer clothes until June, as there is often a sudden cold snap in May)",
+    "target_meaning": "April showers bring May flowers"
+  },
+  {
+    "source_idiom": "dobra wola",
+    "target_idiom": "ver con buenos ojos",
+    "source_meaning": "goodwill (favorably disposed attitude toward someone or something)",
+    "target_meaning": "to look favourably on"
+  },
+  {
+    "source_idiom": "dobry wujek",
+    "target_idiom": "manga ancha",
+    "source_meaning": "someone overly kind or indulgent to someone",
+    "target_meaning": "excessive indulgence"
+  },
+  {
+    "source_idiom": "dochodzić do skutku",
+    "target_idiom": "llevarse el gato al agua",
+    "source_meaning": "to come off, to come through (come to fruition)",
+    "target_meaning": "to pull it off (succeed)"
+  },
+  {
+    "source_idiom": "dochodzić do wniosku",
+    "target_idiom": "dar por concluido",
+    "source_meaning": "to come to a conclusion, to reach a conclusion",
+    "target_meaning": "to finalise; terminate"
+  },
+  {
+    "source_idiom": "dochodzić do władzy",
+    "target_idiom": "entrar en vigor",
+    "source_meaning": "to come to power",
+    "target_meaning": "to come into force"
+  },
+  {
+    "source_idiom": "dodać dwa do dwóch",
+    "target_idiom": "sumar dos más dos",
+    "source_meaning": "to put two and two together (to figure something out; to deduce or discern something)",
+    "target_meaning": "to put two and two together"
+  },
+  {
+    "source_idiom": "dojna krowa",
+    "target_idiom": "vaca lechera",
+    "source_meaning": "cash cow",
+    "target_meaning": "cash cow"
+  },
+  {
+    "source_idiom": "dolać oliwy do ognia",
+    "target_idiom": "echar leña al fuego",
+    "source_meaning": "to add fuel to the fire (to make matters worse)",
+    "target_meaning": "to add fuel to the fire, to pour gasoline on the fire"
+  },
+  {
+    "source_idiom": "doliczony czas",
+    "target_idiom": "hora muerta",
+    "source_meaning": "stoppage time, injury time",
+    "target_meaning": "dead time; down time"
+  },
+  {
+    "source_idiom": "dookoła Wojtek",
+    "target_idiom": "una y otra vez",
+    "source_meaning": "over and over again",
+    "target_meaning": "over and over; over and over again; again and again; time and again; time and time again; repeatedly"
+  },
+  {
+    "source_idiom": "dostawać kosza",
+    "target_idiom": "no comerse un rosco",
+    "source_meaning": "to get the mitten (to be romantically rejected)",
+    "target_meaning": "to have no luck flirting; to get nowhere (trying to pull someone); go home empty-handed (without scoring)"
+  },
+  {
+    "source_idiom": "dostawać kota",
+    "target_idiom": "faltarle un hervor",
+    "source_meaning": "to be few sandwiches short of a picnic, to have a screw loose, to not have one's elevator go all the way to the top",
+    "target_meaning": "to be a few sandwiches short of a picnic"
+  },
+  {
+    "source_idiom": "droga wolna",
+    "target_idiom": "dar el alto",
+    "source_meaning": "all clear, be my guest, good to go",
+    "target_meaning": "to give the all-clear"
+  },
+  {
+    "source_idiom": "druga połówka",
+    "target_idiom": "media naranja",
+    "source_meaning": "other half; better half; significant other",
+    "target_meaning": "better half, significant other"
+  },
+  {
+    "source_idiom": "drugi garnitur",
+    "target_idiom": "don nadie",
+    "source_meaning": "small fry (group of less important, insignificant people representing a given environment)",
+    "target_meaning": "nobody; zero; small fry (person of little value and unimportant)"
+  },
+  {
+    "source_idiom": "drzeć koty",
+    "target_idiom": "a la greña",
+    "source_meaning": "to be at loggerheads with someone",
+    "target_meaning": "at loggerheads"
+  },
+  {
+    "source_idiom": "duby smalone",
+    "target_idiom": "cuento chino",
+    "source_meaning": "bunkum, poppycock",
+    "target_meaning": "baloney, bull, nonsense, hogwash"
+  },
+  {
+    "source_idiom": "dumny jak paw",
+    "target_idiom": "tener más orgullo que don Rodrigo en la horca",
+    "source_meaning": "proud as a peacock",
+    "target_meaning": "to be proud as Punch"
+  },
+  {
+    "source_idiom": "dupa wołowa",
+    "target_idiom": "metida de pata",
+    "source_meaning": "blunderer (clumsy or inept person)",
+    "target_meaning": "blunder"
+  },
+  {
+    "source_idiom": "dupek żołędny",
+    "target_idiom": "cabeza de mierda",
+    "source_meaning": "asshole (mean or rude person)",
+    "target_meaning": "shithead (stupid or contemptible person)"
+  },
+  {
+    "source_idiom": "dzielić włos na czworo",
+    "target_idiom": "buscarle tres pies al gato",
+    "source_meaning": "to split hairs",
+    "target_meaning": "to look for something that doesn't exist, split hairs"
+  },
+  {
+    "source_idiom": "dzień dobry",
+    "target_idiom": "dar los buenos días",
+    "source_meaning": "good day, good morning, good afternoon",
+    "target_meaning": "to greet in the morning; to say hello to (in the morning)"
+  },
+  {
+    "source_idiom": "dziura zabita deskami",
+    "target_idiom": "donde Cristo dio las tres voces",
+    "source_meaning": "middle of nowhere, Nowheresville",
+    "target_meaning": "in the middle of nowhere"
+  },
+  {
+    "source_idiom": "dziurawa pamięć",
+    "target_idiom": "memoria de pollo",
+    "source_meaning": "mind like a sieve (very poor memory)",
+    "target_meaning": "memory of a goldfish (forgetfulness)"
+  },
+  {
+    "source_idiom": "eksperyment myślowy",
+    "target_idiom": "paja mental",
+    "source_meaning": "thought experiment",
+    "target_meaning": "an entertaining, unfounded thought experiment"
+  },
+  {
+    "source_idiom": "fakt faktem",
+    "target_idiom": "estado de la cuestión",
+    "source_meaning": "the fact is, the fact remains, the fact of the matter is",
+    "target_meaning": "fact of the matter"
+  },
+  {
+    "source_idiom": "folgę dać",
+    "target_idiom": "hacer antesala",
+    "source_meaning": "to wait ‎(to delay movement or action until the arrival or occurrence of‎)",
+    "target_meaning": "to wait in the porch"
+  },
+  {
+    "source_idiom": "gałązka oliwna",
+    "target_idiom": "rama de olivo",
+    "source_meaning": "olive branch (any symbol of peace, or a peace offering to an adversary to show goodwill and in the hope of securing peace)",
+    "target_meaning": "olive branch"
+  },
+  {
+    "source_idiom": "gdy tylko",
+    "target_idiom": "ni bien",
+    "source_meaning": "as soon as",
+    "target_meaning": "as soon as"
+  },
+  {
+    "source_idiom": "gdzie diabeł mówi dobranoc",
+    "target_idiom": "medio de la nada",
+    "source_meaning": "in the sticks, in the middle of nowhere (in a very distant place)",
+    "target_meaning": "middle of nowhere, the sticks, arse end of nowhere"
+  },
+  {
+    "source_idiom": "gdzie indziej",
+    "target_idiom": "en otra parte",
+    "source_meaning": "elsewhere",
+    "target_meaning": "elsewhere, somewhere else"
+  },
+  {
+    "source_idiom": "gdzie plecy tracą swoją szlachetną nazwę",
+    "target_idiom": "hacer un calvo",
+    "source_meaning": "buttocks",
+    "target_meaning": "to moon (show one's buttocks)"
+  },
+  {
+    "source_idiom": "godzina sapoty, godzina roboty",
+    "target_idiom": "a la bartola",
+    "source_meaning": "used in reference to a lazy worker",
+    "target_meaning": "lazily; like a slacker; slacking off"
+  },
+  {
+    "source_idiom": "gorzka pigułka",
+    "target_idiom": "trago amargo",
+    "source_meaning": "bitter pill to swallow, difficult pill to swallow, hard pill to swallow",
+    "target_meaning": "blow; bitter pill to swallow"
+  },
+  {
+    "source_idiom": "gorący kartofel",
+    "target_idiom": "patata caliente",
+    "source_meaning": "hot potato (awkward or delicate problem)",
+    "target_meaning": "hot potato (unwanted problem)"
+  },
+  {
+    "source_idiom": "grać na zwłokę",
+    "target_idiom": "ganar tiempo",
+    "source_meaning": "to play for time, to buy time, to stall (to delay a situation until one is prepared)",
+    "target_meaning": "to buy time"
+  },
+  {
+    "source_idiom": "gruba ryba",
+    "target_idiom": "pez gordo",
+    "source_meaning": "big cheese, bigwig",
+    "target_meaning": "head honcho, big cheese, fat cat"
+  },
+  {
+    "source_idiom": "grubymi nićmi szyty",
+    "target_idiom": "de pega",
+    "source_meaning": "highly suspicious, very likely to be false or fraudulent",
+    "target_meaning": "fake; phoney"
+  },
+  {
+    "source_idiom": "grunt pod nogami",
+    "target_idiom": "tierra alta",
+    "source_meaning": "a leg to stand on (sense of security and safety)",
+    "target_meaning": "high ground (advantageous or defensible position)"
+  },
+  {
+    "source_idiom": "gryźć ziemię",
+    "target_idiom": "morder el polvo",
+    "source_meaning": "to bite the dust (to be dead)",
+    "target_meaning": "to bite the dust"
+  },
+  {
+    "source_idiom": "grzech pierworodny",
+    "target_idiom": "ofender a Dios",
+    "source_meaning": "original sin",
+    "target_meaning": "to sin; to commit a sin"
+  },
+  {
+    "source_idiom": "głodny jak wilk",
+    "target_idiom": "hambre canina",
+    "source_meaning": "very hungry, hungry as a wolf",
+    "target_meaning": "great, ravenous hunger; the state of being hungry as a hog"
+  },
+  {
+    "source_idiom": "głowa rodziny",
+    "target_idiom": "rey del hogar",
+    "source_meaning": "head of household (person responsible for governing a group that lives together, such as a family)",
+    "target_meaning": "a male family member of a household, especially a husband."
+  },
+  {
+    "source_idiom": "głuchy jak pień",
+    "target_idiom": "como una tapia",
+    "source_meaning": "deaf as a post",
+    "target_meaning": "deaf as a post"
+  },
+  {
+    "source_idiom": "głupi jak but",
+    "target_idiom": "no tener dos dedos de frente",
+    "source_meaning": "dumber than a rock, thick as a brick",
+    "target_meaning": "to be an idiot, to be thick as a plank"
+  },
+  {
+    "source_idiom": "hojnie obdarzony przez naturę",
+    "target_idiom": "en la cama",
+    "source_meaning": "well-endowed (having a large penis)",
+    "target_meaning": "in bed (regarding sexual prowess)"
+  },
+  {
+    "source_idiom": "i tak",
+    "target_idiom": "de todos modos",
+    "source_meaning": "anyways, anyway, either way, anyhow, as it is",
+    "target_meaning": "anyway, in any case"
+  },
+  {
+    "source_idiom": "i tym podobne",
+    "target_idiom": "en plan",
+    "source_meaning": "and the like",
+    "target_meaning": "just as, like, -like, -style (a filler, implying doing something in a certain way)"
+  },
+  {
+    "source_idiom": "idź w chuj",
+    "target_idiom": "vete a tomar por culo",
+    "source_meaning": "fuck off, fuck you, go fuck yourself, get fucked",
+    "target_meaning": "fuck you, fuck off, get fucked, go fuck yourself, go to hell"
+  },
+  {
+    "source_idiom": "igrać z ogniem",
+    "target_idiom": "jugar con fuego",
+    "source_meaning": "to play with fire",
+    "target_meaning": "to play with fire"
+  },
+  {
+    "source_idiom": "ile dusza zapragnie",
+    "target_idiom": "como guste",
+    "source_meaning": "to one's heart's content (as much as one wants)",
+    "target_meaning": "as much as one likes, as one feels fit"
+  },
+  {
+    "source_idiom": "ile tchu",
+    "target_idiom": "a todo trapo",
+    "source_meaning": "at full tilt, as quickly as possible",
+    "target_meaning": "at full pelt"
+  },
+  {
+    "source_idiom": "ile wlezie",
+    "target_idiom": "ir para largo",
+    "source_meaning": "until the cows come home (for a very long time)",
+    "target_meaning": "to have a long time to go; to go on for a long time"
+  },
+  {
+    "source_idiom": "inna para kaloszy",
+    "target_idiom": "harina de otro costal",
+    "source_meaning": "another kettle of fish, horse of a different color (situation recognized as different from or as an alternative to some other situation)",
+    "target_meaning": "a horse of a different color; a different matter"
+  },
+  {
+    "source_idiom": "inna sprawa",
+    "target_idiom": "ser otro cantar",
+    "source_meaning": "(that's) another story, different story, separate issue, other thing",
+    "target_meaning": "to be another story; to be a whole nother story"
+  },
+  {
+    "source_idiom": "innymi słowy",
+    "target_idiom": "dicho de otro modo",
+    "source_meaning": "in other words",
+    "target_meaning": "in other words"
+  },
+  {
+    "source_idiom": "iść jak po grudzie",
+    "target_idiom": "encaje de bolillos",
+    "source_meaning": "to be hard going  ",
+    "target_meaning": "tough going; hard work"
+  },
+  {
+    "source_idiom": "iść na żywioł",
+    "target_idiom": "irse la olla",
+    "source_meaning": "to go rogue",
+    "target_meaning": "to go haywire"
+  },
+  {
+    "source_idiom": "iść po trupach",
+    "target_idiom": "hacer la estrecha",
+    "source_meaning": "to play hardball",
+    "target_meaning": "to play hard to get"
+  },
+  {
+    "source_idiom": "iść w diabły",
+    "target_idiom": "irse a tomar por culo",
+    "source_meaning": "to go away, to go to hell ",
+    "target_meaning": "to go fuck oneself; to go to hell"
+  },
+  {
+    "source_idiom": "jadło i chodło",
+    "target_idiom": "a tutiplén",
+    "source_meaning": "abundance",
+    "target_meaning": "in abundance"
+  },
+  {
+    "source_idiom": "jak Bóg da",
+    "target_idiom": "si Dios quiere",
+    "source_meaning": "God willing, please God",
+    "target_meaning": "God willing"
+  },
+  {
+    "source_idiom": "jak Kuba Bogu, tak Bóg Kubie",
+    "target_idiom": "toma y daca",
+    "source_meaning": "give as good as one gets, measure for measure, tit for tat, what goes around comes around",
+    "target_meaning": "give and take; tit for tat"
+  },
+  {
+    "source_idiom": "jak Pan Bóg przykazał",
+    "target_idiom": "como es debido",
+    "source_meaning": "just as God intended (as prescribed by the rules defining what is proper and decent)",
+    "target_meaning": "properly; aptly; the right way; how it should be done"
+  },
+  {
+    "source_idiom": "jak dwie krople wody",
+    "target_idiom": "tal para cual",
+    "source_meaning": "like two peas in a pod",
+    "target_meaning": "like two peas in a pod, like two of a kind"
+  },
+  {
+    "source_idiom": "jak kamień w wodę",
+    "target_idiom": "hacerse humo",
+    "source_meaning": "into thin air, without a trace",
+    "target_meaning": "to vanish into thin air; to disappear"
+  },
+  {
+    "source_idiom": "jak na lekarstwo",
+    "target_idiom": "poco o nada",
+    "source_meaning": "very little, next to nothing",
+    "target_meaning": "hardly at all; barely at all"
+  },
+  {
+    "source_idiom": "jak na skrzydłach",
+    "target_idiom": "a competencia",
+    "source_meaning": "fast and eagerly",
+    "target_meaning": "eagerly"
+  },
+  {
+    "source_idiom": "jak na szpilkach",
+    "target_idiom": "en ascuas",
+    "source_meaning": "on pins and needles, on tenterhooks",
+    "target_meaning": "on tenterhooks, on pins and needles"
+  },
+  {
+    "source_idiom": "jak psa",
+    "target_idiom": "sin cuartel",
+    "source_meaning": "badly and with contempt or mercilessly",
+    "target_meaning": "brutally; mercilessly"
+  },
+  {
+    "source_idiom": "jak się masz",
+    "target_idiom": "dime a ver",
+    "source_meaning": "how are you?, how's it going?, what's up? (what's happening?; what are you doing?)",
+    "target_meaning": "what's up"
+  },
+  {
+    "source_idiom": "jak sobie chcesz",
+    "target_idiom": "tener a bien",
+    "source_meaning": "suit yourself",
+    "target_meaning": "to see fit"
+  },
+  {
+    "source_idiom": "jak stróż w Boże Ciało",
+    "target_idiom": "de oro y azul",
+    "source_meaning": "dressed up like a dog's dinner (to be dressed in an ostentatious or overly formal manner)",
+    "target_meaning": "dressed to the nines"
+  },
+  {
+    "source_idiom": "jak ulał",
+    "target_idiom": "al pelo",
+    "source_meaning": "like a glove (fitting to the maximum extent)",
+    "target_meaning": "perfectly; like a glove"
+  },
+  {
+    "source_idiom": "jak w zegarku",
+    "target_idiom": "reloj de repetición",
+    "source_meaning": "like clockwork",
+    "target_meaning": "A person who works like clockwork"
+  },
+  {
+    "source_idiom": "jak wszyscy diabli",
+    "target_idiom": "del copón",
+    "source_meaning": "as hell (to a great extent or degree; very)",
+    "target_meaning": "a helluva; mighty"
+  },
+  {
+    "source_idiom": "jak za dotknięciem czarodziejskiej różdżki",
+    "target_idiom": "por ensalmo",
+    "source_meaning": "as if by magic, like magic",
+    "target_meaning": "as if by magic"
+  },
+  {
+    "source_idiom": "jak zdarta płyta",
+    "target_idiom": "disco rayado",
+    "source_meaning": "like a broken record (saying or doing the same thing repeatedly)",
+    "target_meaning": "broken record"
+  },
+  {
+    "source_idiom": "jakby nigdy nic",
+    "target_idiom": "quedarse tan fresco",
+    "source_meaning": "as if nothing had happened",
+    "target_meaning": "to act as if nothing has happened"
+  },
+  {
+    "source_idiom": "jakimś cudem",
+    "target_idiom": "de un modo u otro",
+    "source_meaning": "by some miracle, miraculously; somehow",
+    "target_meaning": "somehow, one way or another"
+  },
+  {
+    "source_idiom": "jako że",
+    "target_idiom": "en tanto",
+    "source_meaning": "as, because, for, given that",
+    "target_meaning": "inasmuch as"
+  },
+  {
+    "source_idiom": "jasna cholera",
+    "target_idiom": "hijo de la puta",
+    "source_meaning": "goddammit!",
+    "target_meaning": "son of a bitch!"
+  },
+  {
+    "source_idiom": "jasny jak słońce",
+    "target_idiom": "más claro que el agua",
+    "source_meaning": "crystal clear",
+    "target_meaning": "clear as mud"
+  },
+  {
+    "source_idiom": "jeden za drugim",
+    "target_idiom": "llover sobre mojado",
+    "source_meaning": "in single file, one after another",
+    "target_meaning": "to be one thing after another"
+  },
+  {
+    "source_idiom": "jedyny w swoim rodzaju",
+    "target_idiom": "sin par",
+    "source_meaning": "one of a kind",
+    "target_meaning": "one-of-a-kind, unparalleled, peerless, unique"
+  },
+  {
+    "source_idiom": "jeśli o to chodzi",
+    "target_idiom": "ya que estamos",
+    "source_meaning": "for that matter",
+    "target_meaning": "while we are at it, for that matter"
+  },
+  {
+    "source_idiom": "jeść do usru",
+    "target_idiom": "comer a dos carrillos",
+    "source_meaning": "to overeat; to stuff onself",
+    "target_meaning": "to stuff one's face"
+  },
+  {
+    "source_idiom": "jeżeli chodzi o",
+    "target_idiom": "de cara a",
+    "source_meaning": "when it comes to, as far as, concerning [ accusative ]",
+    "target_meaning": "when it comes to; as for"
+  },
+  {
+    "source_idiom": "język mieć na wiérzchu",
+    "target_idiom": "no callarse ni debajo del agua",
+    "source_meaning": "to be talkative",
+    "target_meaning": "to never shut up; to be a chatterbox"
+  },
+  {
+    "source_idiom": "kamień szlachetny",
+    "target_idiom": "joya de la corona",
+    "source_meaning": "gem, gemstone, jewel, precious stone",
+    "target_meaning": "jewel in the crown"
+  },
+  {
+    "source_idiom": "kapuściana głowa",
+    "target_idiom": "cabeza de chorlito",
+    "source_meaning": "bonehead",
+    "target_meaning": "airhead"
+  },
+  {
+    "source_idiom": "karta przetargowa",
+    "target_idiom": "tira y afloja",
+    "source_meaning": "bargaining chip",
+    "target_meaning": "bargaining, give and take, tug of war"
+  },
+  {
+    "source_idiom": "każdy kij ma dwa końce",
+    "target_idiom": "arma de doble filo",
+    "source_meaning": "it cuts both ways, something is a double-edged sword",
+    "target_meaning": "double-edged sword"
+  },
+  {
+    "source_idiom": "każdy sobie rzepkę skrobie",
+    "target_idiom": "barrer para casa",
+    "source_meaning": "it's every man for himself; everyone cares most about their own business",
+    "target_meaning": "to look out for number one"
+  },
+  {
+    "source_idiom": "kiszki marsza grają",
+    "target_idiom": "comerse las manos",
+    "source_meaning": "someone is starving; someone is very hungry  ",
+    "target_meaning": "to be starving"
+  },
+  {
+    "source_idiom": "kobieta fatalna",
+    "target_idiom": "canto de sirena",
+    "source_meaning": "femme fatale (attractive and seductive but ultimately dangerous woman)",
+    "target_meaning": "siren song"
+  },
+  {
+    "source_idiom": "kobieta lekkich obyczajów",
+    "target_idiom": "puta de quinta",
+    "source_meaning": "prostitute, woman of easy virtue (female person having sex for profit)",
+    "target_meaning": "a cumwhore, cuntwhore, dickhole, prostitute, trash"
+  },
+  {
+    "source_idiom": "kochający inaczej",
+    "target_idiom": "tronarle la reversa",
+    "source_meaning": "gay, homosexual (sexually attracted solely or primarily to the same sex)",
+    "target_meaning": "to be gay"
+  },
+  {
+    "source_idiom": "kopalnia złota",
+    "target_idiom": "mina de oro",
+    "source_meaning": "gold mine, lucky strike, sweet deal (very profitable economic venture)",
+    "target_meaning": "gold mine"
+  },
+  {
+    "source_idiom": "kopać leżącego",
+    "target_idiom": "hacer leña del árbol caído",
+    "source_meaning": "to kick someone when they are down",
+    "target_meaning": "to kick someone when they are down"
+  },
+  {
+    "source_idiom": "kopnąć w kalendarz",
+    "target_idiom": "estirar la pata",
+    "source_meaning": "to kick the bucket (to die)",
+    "target_meaning": "kick the bucket"
+  },
+  {
+    "source_idiom": "korona z głowy nie spada",
+    "target_idiom": "no llegar la sangre al río",
+    "source_meaning": "something doesn't kill someone (something is not be a big problem)",
+    "target_meaning": "to not be a big deal, to not escalate, to have no blood shed"
+  },
+  {
+    "source_idiom": "kozioł ofiarny",
+    "target_idiom": "cabeza de turco",
+    "source_meaning": "scapegoat (someone punished for someone else's errors)",
+    "target_meaning": "scapegoat"
+  },
+  {
+    "source_idiom": "koło ratunkowe",
+    "target_idiom": "pan de Dios",
+    "source_meaning": "lifesaver (something that is very useful or helpful)",
+    "target_meaning": "a godsend (person)"
+  },
+  {
+    "source_idiom": "końskie zdrowie",
+    "target_idiom": "más sano que una pera",
+    "source_meaning": "being healthy as a horse, good health",
+    "target_meaning": "fit as a fiddle"
+  },
+  {
+    "source_idiom": "kość niezgody",
+    "target_idiom": "caballo de batalla",
+    "source_meaning": "bone of contention, apple of discord (something that continues to be disputed)",
+    "target_meaning": "bone of contention"
+  },
+  {
+    "source_idiom": "krok po kroku",
+    "target_idiom": "por etapas",
+    "source_meaning": "step by step, little by little, gradually",
+    "target_meaning": "step by step; little by little"
+  },
+  {
+    "source_idiom": "krokodyle łzy",
+    "target_idiom": "lágrimas de cocodrilo",
+    "source_meaning": "crocodile tears",
+    "target_meaning": "crocodile tears"
+  },
+  {
+    "source_idiom": "kropla, która przelała czarę",
+    "target_idiom": "la gota que colmó el vaso",
+    "source_meaning": "the straw that broke the camel's back",
+    "target_meaning": "the straw that broke the camel's back"
+  },
+  {
+    "source_idiom": "krwawa jatka",
+    "target_idiom": "baño de sangre",
+    "source_meaning": "bloodbath",
+    "target_meaning": "bloodbath"
+  },
+  {
+    "source_idiom": "krysza",
+    "target_idiom": "tener el padre alcalde",
+    "source_meaning": "back (support); coattail benefits, friends in high places",
+    "target_meaning": "to have friends in high places"
+  },
+  {
+    "source_idiom": "krótko mówiąc",
+    "target_idiom": "en pocas palabras",
+    "source_meaning": "briefly speaking, in a word, in short, in sum",
+    "target_meaning": "in short, in a word, in a nutshell, in a few words, in brief"
+  },
+  {
+    "source_idiom": "kręcić nosem",
+    "target_idiom": "hacer el fuchi",
+    "source_meaning": "to turn up one's nose, to sniff at (to show dissatisfaction or displeasure with something)",
+    "target_meaning": "to snub; turn up one's nose (at)"
+  },
+  {
+    "source_idiom": "kto żyw",
+    "target_idiom": "el más pintado",
+    "source_meaning": "anyone and everyone (any person who could be affected by something)",
+    "target_meaning": "anybody; any old person; whoever"
+  },
+  {
+    "source_idiom": "któregoś dnia",
+    "target_idiom": "un día de estos",
+    "source_meaning": "one day, some day",
+    "target_meaning": "one of these days, someday"
+  },
+  {
+    "source_idiom": "kurwa mać",
+    "target_idiom": "del culo",
+    "source_meaning": "fucking hell, for fuck's sake",
+    "target_meaning": "fucking (used as an intensifier)"
+  },
+  {
+    "source_idiom": "kuć żelazo, póki gorące",
+    "target_idiom": "al hierro caliente batir de repente",
+    "source_meaning": "strike while the iron is hot (usually in the imperative)",
+    "target_meaning": "strike while the iron is hot"
+  },
+  {
+    "source_idiom": "kłaść na sercu",
+    "target_idiom": "como oro en paño",
+    "source_meaning": "to oblige someone to something that needs special care and attention  ",
+    "target_meaning": "treating something precious with extreme care"
+  },
+  {
+    "source_idiom": "kłaść na stole",
+    "target_idiom": "sacar a colación",
+    "source_meaning": "to bring to the table (to present an idea)",
+    "target_meaning": "to bring up (a topic for discussion)"
+  },
+  {
+    "source_idiom": "kłaść się Rejtanem",
+    "target_idiom": "con uñas y dientes",
+    "source_meaning": "to fight tooth and nail against something, to oppose intensely",
+    "target_meaning": "tooth and nail (passionately; intensely; at any cost)"
+  },
+  {
+    "source_idiom": "kłaść trupem",
+    "target_idiom": "dar muerte",
+    "source_meaning": "to kill",
+    "target_meaning": "to kill"
+  },
+  {
+    "source_idiom": "lać jak z cebra",
+    "target_idiom": "llover más que cuando enterraron a Zafra",
+    "source_meaning": "to rain cats and dogs, to rain buckets",
+    "target_meaning": "to rain cats and dogs; to bucket down"
+  },
+  {
+    "source_idiom": "lecieć w kulki",
+    "target_idiom": "hacer el tonto",
+    "source_meaning": "to screw around [ (+ instrumental) ]",
+    "target_meaning": "to fool around"
+  },
+  {
+    "source_idiom": "legnąć w gruzach",
+    "target_idiom": "parar en mal",
+    "source_meaning": "to come to grief",
+    "target_meaning": "to come to a sticky end"
+  },
+  {
+    "source_idiom": "lepiej późno niż wcale",
+    "target_idiom": "a buenas horas mangas verdes",
+    "source_meaning": "better late than never",
+    "target_meaning": "about time, better late than never"
+  },
+  {
+    "source_idiom": "lepszy rydz niż nic",
+    "target_idiom": "limosnero y con garrote",
+    "source_meaning": "beggars can't be choosers, if we can't as we would, we must do as we can",
+    "target_meaning": "beggars can't be choosers (those who receive help should be grateful and not complain about preferences)"
+  },
+  {
+    "source_idiom": "lew salonowy",
+    "target_idiom": "picha brava",
+    "source_meaning": "man about town (man who likes to stand out and lead, arousing the admiration of women and even seducing them)",
+    "target_meaning": "stud; player (man who has many sexual partners)"
+  },
+  {
+    "source_idiom": "lizać rany",
+    "target_idiom": "con el rabo entre las piernas",
+    "source_meaning": "to lick one's wounds",
+    "target_meaning": "with one's tail between one's legs"
+  },
+  {
+    "source_idiom": "lwia część",
+    "target_idiom": "tajada del león",
+    "source_meaning": "lion's share (generous portion)",
+    "target_meaning": "lion's share"
+  },
+  {
+    "source_idiom": "maczać palce",
+    "target_idiom": "tener algo que ver con",
+    "source_meaning": "to have a hand in (to contribute to, participate in, or influence) [ (+ locative)]",
+    "target_meaning": "to have something to do with, to concern, to have some relationship with"
+  },
+  {
+    "source_idiom": "małe piwo",
+    "target_idiom": "de chichinabo",
+    "source_meaning": "small beer (something that is of relatively little importance)",
+    "target_meaning": "of little importance"
+  },
+  {
+    "source_idiom": "mierzyć siły na zamiary",
+    "target_idiom": "dar la talla",
+    "source_meaning": "to measure up",
+    "target_meaning": "to hit the mark; fit the bill, measure up"
+  },
+  {
+    "source_idiom": "mieć coś z życia",
+    "target_idiom": "pasarlo",
+    "source_meaning": "to enjoy what life has to offer",
+    "target_meaning": "to enjoy (oneself in a certain way)"
+  },
+  {
+    "source_idiom": "mieć czym oddychać",
+    "target_idiom": "tener buen saque",
+    "source_meaning": "to have large breasts",
+    "target_meaning": "to have a large appetite"
+  },
+  {
+    "source_idiom": "mieć doła",
+    "target_idiom": "estar de capa caída",
+    "source_meaning": "to feel down, to be in low spirits (to feel unhappy)",
+    "target_meaning": "to be crestfallen; to be down in the dumps"
+  },
+  {
+    "source_idiom": "mieć dość",
+    "target_idiom": "estar hasta los huevos",
+    "source_meaning": "to have had enough, to be fed up",
+    "target_meaning": "to have had it up to here; to be fed up"
+  },
+  {
+    "source_idiom": "mieć forsy jak lodu",
+    "target_idiom": "cagar dinero",
+    "source_meaning": "to have money to burn, to roll in dough",
+    "target_meaning": "to have money to burn; to be rolling in it; to be filthy rich"
+  },
+  {
+    "source_idiom": "mieć gadane",
+    "target_idiom": "pico de oro",
+    "source_meaning": "to have the gift of the gab",
+    "target_meaning": "Someone with the gift of the gab"
+  },
+  {
+    "source_idiom": "mieć gdzieś",
+    "target_idiom": "sudársela",
+    "source_meaning": "to not give a shit, to disregard, to ignore, to flout",
+    "target_meaning": "to not give a shit"
+  },
+  {
+    "source_idiom": "mieć głowę na karku",
+    "target_idiom": "tener la cabeza sobre los hombros",
+    "source_meaning": "to have a head on one's shoulders, to have one's head screwed on",
+    "target_meaning": "to have one's head screwed on"
+  },
+  {
+    "source_idiom": "mieć miejsce",
+    "target_idiom": "tener lugar",
+    "source_meaning": "to take place, to happen",
+    "target_meaning": "to take place, to occur"
+  },
+  {
+    "source_idiom": "mieć mleko pod nosem",
+    "target_idiom": "en pañales",
+    "source_meaning": "to be (still) wet behind the ears",
+    "target_meaning": "in the very early stages of something; still green; wet behind the ears"
+  },
+  {
+    "source_idiom": "mieć muchy w nosie",
+    "target_idiom": "hacer pucheros",
+    "source_meaning": "to sulk",
+    "target_meaning": "to pout; make a face"
+  },
+  {
+    "source_idiom": "mieć na myśli",
+    "target_idiom": "querer decir",
+    "source_meaning": "to mean (to intend to express, to imply, to hint at, to allude)",
+    "target_meaning": "to mean, to get at, to be getting at (in the sense of the want to convey something)"
+  },
+  {
+    "source_idiom": "mieć na nazwisko",
+    "target_idiom": "pasar lista",
+    "source_meaning": "to be called",
+    "target_meaning": "to call roll"
+  },
+  {
+    "source_idiom": "mieć oczy szeroko otwarte",
+    "target_idiom": "estar ojo avizor",
+    "source_meaning": "to be alert, to be on guard, to be on the qui vive, to be wary, to keep one's eyes peeled",
+    "target_meaning": "to be on the lookout, to keep an eye out"
+  },
+  {
+    "source_idiom": "mieć pod górkę",
+    "target_idiom": "llevarlo crudo",
+    "source_meaning": "to have difficulties in carrying out one's plans",
+    "target_meaning": "to be difficult; to have a hard time doing something"
+  },
+  {
+    "source_idiom": "mieć potąd",
+    "target_idiom": "estar hasta el gorro",
+    "source_meaning": "to have had it up to here with someone or something [ genitive ]",
+    "target_meaning": "to have had it up to here"
+  },
+  {
+    "source_idiom": "mieć przejebane",
+    "target_idiom": "irse a la chucha",
+    "source_meaning": "to be fucked, to be screwed (to be in an extremely difficult situation)",
+    "target_meaning": "to go to shit; to be fucked up"
+  },
+  {
+    "source_idiom": "mieć przesrane",
+    "target_idiom": "caerle una buena",
+    "source_meaning": "to be in deep shit",
+    "target_meaning": "to be in for it; to be in serious trouble"
+  },
+  {
+    "source_idiom": "mieć rację",
+    "target_idiom": "por más señas",
+    "source_meaning": "to be right",
+    "target_meaning": "to be precise"
+  },
+  {
+    "source_idiom": "mieć słabą głowę",
+    "target_idiom": "tener cultura alcohólica",
+    "source_meaning": "to be unable to hold one's liquor",
+    "target_meaning": "to hold one's liquor"
+  },
+  {
+    "source_idiom": "mieć zryty beret",
+    "target_idiom": "tener flojos los tornillos",
+    "source_meaning": "to have a screw loose",
+    "target_meaning": "to have a screw loose"
+  },
+  {
+    "source_idiom": "między Scyllą a Charybdą",
+    "target_idiom": "entre Escila y Caribdis",
+    "source_meaning": "between Scylla and Charybdis",
+    "target_meaning": "between Scylla and Charybdis; between a rock and a hard place"
+  },
+  {
+    "source_idiom": "między młotem a kowadłem",
+    "target_idiom": "entre la espada y la pared",
+    "source_meaning": "between a rock and a hard place, between the hammer and the anvil",
+    "target_meaning": "back to the wall, between a rock and a hard place, between Scylla and Charybdis, caught between the devil and the deep blue sea, be on the horns of a dilemma"
+  },
+  {
+    "source_idiom": "mięsień piwny",
+    "target_idiom": "barriga cervecera",
+    "source_meaning": "beer belly, beer muscles (paunch attributed to beer)",
+    "target_meaning": "beer belly"
+  },
+  {
+    "source_idiom": "miłość od pierwszego wejrzenia",
+    "target_idiom": "amor a primera vista",
+    "source_meaning": "love at first sight",
+    "target_meaning": "love at first sight (an instantaneous attraction)"
+  },
+  {
+    "source_idiom": "moczyć łóżko",
+    "target_idiom": "mojar la cama",
+    "source_meaning": "to wet the bed (to urinate in bed)",
+    "target_meaning": "to wet the bed"
+  },
+  {
+    "source_idiom": "może być",
+    "target_idiom": "sale y vale",
+    "source_meaning": "OK, that will do (expresses acceptance with a hint of reluctance or indifference)",
+    "target_meaning": "OK!, roger that!, deal!"
+  },
+  {
+    "source_idiom": "mydlić oczy",
+    "target_idiom": "pegar un parche",
+    "source_meaning": "to pull the wool over someone's eyes, to deceive, to cheat  ",
+    "target_meaning": "to pull the wool over someone's eyes, to pull a fast one"
+  },
+  {
+    "source_idiom": "mól książkowy",
+    "target_idiom": "ratón de biblioteca",
+    "source_meaning": "bookworm (avid reader)",
+    "target_meaning": "bookworm"
+  },
+  {
+    "source_idiom": "mówić przez łzy",
+    "target_idiom": "romper a llorar",
+    "source_meaning": "to talk while crying",
+    "target_meaning": "to burst into tears"
+  },
+  {
+    "source_idiom": "młody wilk",
+    "target_idiom": "de altos vuelos",
+    "source_meaning": "highflier (young, ambitious person)",
+    "target_meaning": "high-flying"
+  },
+  {
+    "source_idiom": "na Małysza",
+    "target_idiom": "en cuclillas",
+    "source_meaning": "squatting, so as to avoid touching the toilet",
+    "target_meaning": "squatting"
+  },
+  {
+    "source_idiom": "na barana",
+    "target_idiom": "a hombros",
+    "source_meaning": "piggyback (on somebody's back or shoulders)",
+    "target_meaning": "on someone's shoulders, piggyback."
+  },
+  {
+    "source_idiom": "na bruku",
+    "target_idiom": "sin techo",
+    "source_meaning": "homeless",
+    "target_meaning": "homeless person"
+  },
+  {
+    "source_idiom": "na cacy",
+    "target_idiom": "de todo punto",
+    "source_meaning": "entirely, totally",
+    "target_meaning": "entirely; completely"
+  },
+  {
+    "source_idiom": "na całego",
+    "target_idiom": "jugarse el todo por el todo",
+    "source_meaning": "all in, all out, for broke, doubling down (risking everything, putting everything on the line)",
+    "target_meaning": "to go all in"
+  },
+  {
+    "source_idiom": "na chama",
+    "target_idiom": "a palos",
+    "source_meaning": "by brute force",
+    "target_meaning": "by force"
+  },
+  {
+    "source_idiom": "na czarno",
+    "target_idiom": "en B",
+    "source_meaning": "illegally, off the books, under the table (informally, without reporting to the government)",
+    "target_meaning": "illegally; cash in hand"
+  },
+  {
+    "source_idiom": "na darmo",
+    "target_idiom": "en balde",
+    "source_meaning": "futilely, in vain, to no avail",
+    "target_meaning": "in vain, for nothing"
+  },
+  {
+    "source_idiom": "na dniach",
+    "target_idiom": "de hoy a mañana",
+    "source_meaning": "any day now",
+    "target_meaning": "any time now"
+  },
+  {
+    "source_idiom": "na dobitek",
+    "target_idiom": "por añadidura",
+    "source_meaning": "in addition",
+    "target_meaning": "in addition"
+  },
+  {
+    "source_idiom": "na dobrą sprawę",
+    "target_idiom": "a todos los efectos",
+    "source_meaning": "for all intents and purposes, in practice",
+    "target_meaning": "for all intents and purposes"
+  },
+  {
+    "source_idiom": "na ful",
+    "target_idiom": "hasta los topes",
+    "source_meaning": "to the max, full blast (to the maximum possible degree or extent, usually about music)",
+    "target_meaning": "to the max"
+  },
+  {
+    "source_idiom": "na golasa",
+    "target_idiom": "en porretas",
+    "source_meaning": "in one's birthday suit, in the nude, stark naked, starkers (completely nude)",
+    "target_meaning": "in the buff, in the nuddy"
+  },
+  {
+    "source_idiom": "na gorącym uczynku",
+    "target_idiom": "con las manos en la masa",
+    "source_meaning": "in flagrante delicto, in the act, red-handed (in the act of committing a misdeed)",
+    "target_meaning": "red-handed"
+  },
+  {
+    "source_idiom": "na gwałt",
+    "target_idiom": "a vuelapluma",
+    "source_meaning": "fast, quickly, rapidly, swiftly",
+    "target_meaning": "speedily; really fast"
+  },
+  {
+    "source_idiom": "na głos",
+    "target_idiom": "en voz alta",
+    "source_meaning": "aloud, out loud (audibly, not silent)",
+    "target_meaning": "out loud; aloud; using the voice; not silently"
+  },
+  {
+    "source_idiom": "na jeźdźca",
+    "target_idiom": "a sentadillas",
+    "source_meaning": "cowgirl (sex position)",
+    "target_meaning": "sidesaddle"
+  },
+  {
+    "source_idiom": "na kopy",
+    "target_idiom": "a montones",
+    "source_meaning": "ten a penny, a dime a dozen, aplenty, in spades",
+    "target_meaning": "a dime a dozen, galore, by the bushel"
+  },
+  {
+    "source_idiom": "na końcu",
+    "target_idiom": "por fin",
+    "source_meaning": "finally, in conclusion, lastly",
+    "target_meaning": "finally, at last, at long last"
+  },
+  {
+    "source_idiom": "na końcu języka",
+    "target_idiom": "en la punta de la lengua",
+    "source_meaning": "on the tip of one's tongue",
+    "target_meaning": "on the tip of one's tongue"
+  },
+  {
+    "source_idiom": "na moje oko",
+    "target_idiom": "al parecer",
+    "source_meaning": "on the face of it, to all appearances",
+    "target_meaning": "seemingly, apparently"
+  },
+  {
+    "source_idiom": "na okrągło",
+    "target_idiom": "día y noche",
+    "source_meaning": "day and night, around the clock, all the time",
+    "target_meaning": "around the clock; day and night"
+  },
+  {
+    "source_idiom": "na opak",
+    "target_idiom": "fuera de control",
+    "source_meaning": "amiss, awry",
+    "target_meaning": "haywire; out of control"
+  },
+  {
+    "source_idiom": "na piechotę",
+    "target_idiom": "coche de San Fernando",
+    "source_meaning": "on foot (walking, jogging, running)",
+    "target_meaning": "shanks' mare (one's feet, used for getting around, as opposed to a vehicle)"
+  },
+  {
+    "source_idiom": "na pieska",
+    "target_idiom": "poner mirando pa' Cuenca",
+    "source_meaning": "doggy style (sex position)",
+    "target_meaning": "to fuck (someone) from behind; to fuck (someone) doggy style"
+  },
+  {
+    "source_idiom": "na porządku dziennym",
+    "target_idiom": "pan de cada día",
+    "source_meaning": "on a daily basis, on the daily (regular and normal, not strange)",
+    "target_meaning": "part and parcel of daily life, commonplace, daily/everyday occurrence, routine, standard"
+  },
+  {
+    "source_idiom": "na przekór",
+    "target_idiom": "a pesar de los pesares",
+    "source_meaning": "despite, in spite of [ dative]",
+    "target_meaning": "despite everything"
+  },
+  {
+    "source_idiom": "na przełaj",
+    "target_idiom": "a horcajadas",
+    "source_meaning": "across, across country, athwart",
+    "target_meaning": "astride, straddling"
+  },
+  {
+    "source_idiom": "na przyboś",
+    "target_idiom": "en mangas de camisa",
+    "source_meaning": "while wearing shoes but without socks",
+    "target_meaning": "in shirt sleeves"
+  },
+  {
+    "source_idiom": "na przykład",
+    "target_idiom": "para muestra basta un botón",
+    "source_meaning": "for example, for instance (as an example)",
+    "target_meaning": "for example; for instance; case in point"
+  },
+  {
+    "source_idiom": "na pusty żołądek",
+    "target_idiom": "sin probar bocado",
+    "source_meaning": "on an empty stomach",
+    "target_meaning": "on an empty stomach"
+  },
+  {
+    "source_idiom": "na później",
+    "target_idiom": "en lo por venir",
+    "source_meaning": "ahead, for later (in or for the future)",
+    "target_meaning": "in future"
+  },
+  {
+    "source_idiom": "na raz",
+    "target_idiom": "a la vez",
+    "source_meaning": "at one time, at once, simultaneously",
+    "target_meaning": "at once; at a time, at the same time"
+  },
+  {
+    "source_idiom": "na stojaka",
+    "target_idiom": "a la pata coja",
+    "source_meaning": "while standing",
+    "target_meaning": "(standing) on one leg"
+  },
+  {
+    "source_idiom": "na umór",
+    "target_idiom": "a muerte",
+    "source_meaning": "to death (a great degree)",
+    "target_meaning": "to death"
+  },
+  {
+    "source_idiom": "na wagę złota",
+    "target_idiom": "de provecho",
+    "source_meaning": "worth one's weight in gold",
+    "target_meaning": "worthwhile; worthy"
+  },
+  {
+    "source_idiom": "na widoku",
+    "target_idiom": "a plena luz del día",
+    "source_meaning": "in plain sight",
+    "target_meaning": "in broad daylight (in a blatant and visible manner)"
+  },
+  {
+    "source_idiom": "na wieki",
+    "target_idiom": "por los siglos de los siglos",
+    "source_meaning": "for ever and ever (for all time, for all eternity; for a lifetime; for an infinite amount of time)",
+    "target_meaning": "eternally; forever and ever"
+  },
+  {
+    "source_idiom": "na wszystkie świętości",
+    "target_idiom": "con la mano en el corazón",
+    "source_meaning": "by all that's holy (very honestly)",
+    "target_meaning": "honest to God"
+  },
+  {
+    "source_idiom": "na własne oczy",
+    "target_idiom": "a vista de ojos",
+    "source_meaning": "with one's own eyes",
+    "target_meaning": "with one's own eyes"
+  },
+  {
+    "source_idiom": "na zdrowy rozum",
+    "target_idiom": "en buena lógica",
+    "source_meaning": "using common sense, intellectually",
+    "target_meaning": "logically"
+  },
+  {
+    "source_idiom": "na łapu-capu",
+    "target_idiom": "a la zumba marumba",
+    "source_meaning": "hurry-skurry, on the fly (quickly and without due diligence and prior thought)",
+    "target_meaning": "without thinking or planning; in a hurry; haphazardly"
+  },
+  {
+    "source_idiom": "na łożu śmierci",
+    "target_idiom": "a las puertas de la muerte",
+    "source_meaning": "at death's door, on one's deathbed",
+    "target_meaning": "at death's door"
+  },
+  {
+    "source_idiom": "na świeczniku",
+    "target_idiom": "en el candelero",
+    "source_meaning": "in the spotlight",
+    "target_meaning": "in the limelight"
+  },
+  {
+    "source_idiom": "na świętego nigdy",
+    "target_idiom": "cuando las ranas críen pelo",
+    "source_meaning": "when pigs fly, never",
+    "target_meaning": "that'll be the day; never; when pigs fly"
+  },
+  {
+    "source_idiom": "nad ranem",
+    "target_idiom": "altas horas",
+    "source_meaning": "in the small hours (early in the morning)",
+    "target_meaning": "small hours; the very early morning, just after midnight, when most people are asleep, ungodly hours"
+  },
+  {
+    "source_idiom": "nadawać na tych samych falach",
+    "target_idiom": "estar en la cresta de la ola",
+    "source_meaning": "to be on the same wavelength",
+    "target_meaning": "to be on a wave"
+  },
+  {
+    "source_idiom": "nadać bieg",
+    "target_idiom": "poner en marcha",
+    "source_meaning": "to set in motion",
+    "target_meaning": "to set in motion; to implement"
+  },
+  {
+    "source_idiom": "nagły przypadek",
+    "target_idiom": "de emergencia",
+    "source_meaning": "emergency",
+    "target_meaning": "emergency"
+  },
+  {
+    "source_idiom": "najstarszy zawód świata",
+    "target_idiom": "profesión más antigua del mundo",
+    "source_meaning": "world's oldest profession",
+    "target_meaning": "the world's oldest profession"
+  },
+  {
+    "source_idiom": "napędzać strachu",
+    "target_idiom": "dar algo",
+    "source_meaning": "to scare, to frighten; to scare the pants off of  ",
+    "target_meaning": "to give the creeps; to creep out"
+  },
+  {
+    "source_idiom": "następować na pięty",
+    "target_idiom": "dar alcance",
+    "source_meaning": "to be hot on someone's heels ‎(to start to equal in competition‎)",
+    "target_meaning": "to catch up with"
+  },
+  {
+    "source_idiom": "nawalony jak Messerschmitt",
+    "target_idiom": "borracho como una cuba",
+    "source_meaning": "drunk as a skunk",
+    "target_meaning": "drunk as a skunk"
+  },
+  {
+    "source_idiom": "nawet mi nie mów",
+    "target_idiom": "vete a saber",
+    "source_meaning": "tell me about it",
+    "target_meaning": "you tell me"
+  },
+  {
+    "source_idiom": "nazywać rzeczy po imieniu",
+    "target_idiom": "llamar al pan, pan, y al vino, vino",
+    "source_meaning": "to call a spade a spade",
+    "target_meaning": "to call a spade a spade"
+  },
+  {
+    "source_idiom": "ni pies, ni wydra",
+    "target_idiom": "ni chicha ni limonada",
+    "source_meaning": "neither fish nor fowl (something or someone not easily categorized or not rightly belonging or fitting well in a given group or situation)",
+    "target_meaning": "neither fish nor fowl; not easily conforming to categorization (said of something that is unknown or unclear)"
+  },
+  {
+    "source_idiom": "ni z tego, ni z owego",
+    "target_idiom": "como llovido del cielo",
+    "source_meaning": "out of the blue",
+    "target_meaning": "out of the blue"
+  },
+  {
+    "source_idiom": "nic a nic",
+    "target_idiom": "lo más mínimo",
+    "source_meaning": "not at all, not in the slightest",
+    "target_meaning": "(not) in the slightest, not in the least"
+  },
+  {
+    "source_idiom": "nie brać jeńców",
+    "target_idiom": "a sangre y fuego",
+    "source_meaning": "to take no prisoners (to be uncompromising)",
+    "target_meaning": "brutally fierce; taking no prisoners"
+  },
+  {
+    "source_idiom": "nie chcieć znać",
+    "target_idiom": "no tener arte ni parte",
+    "source_meaning": "to not want anything to do with [ genitive ]",
+    "target_meaning": "to have absolutely nothing to do with"
+  },
+  {
+    "source_idiom": "nie czuć nóg",
+    "target_idiom": "no poder con su alma",
+    "source_meaning": "to be dead on one's feet (to feel very tired from long walking or standing)",
+    "target_meaning": "to be knackered; to be shattered"
+  },
+  {
+    "source_idiom": "nie daj Boże",
+    "target_idiom": "Dios me libre",
+    "source_meaning": "God forbid, heaven forbid",
+    "target_meaning": "God forbid"
+  },
+  {
+    "source_idiom": "nie do pojęcia",
+    "target_idiom": "ser para mear y no echar gota",
+    "source_meaning": "beyond comprehension, beyond belief, that beggars belief, mind-boggling, unconceivable, incomprehensible",
+    "target_meaning": "to be unfuckingbelievable"
+  },
+  {
+    "source_idiom": "nie do pomyślenia",
+    "target_idiom": "traído por los pelos",
+    "source_meaning": "inconceivable, undreamed-of, unimaginable, unthinkable (extremely improbable in a way that goes against common sense)",
+    "target_meaning": "far-fetched, unlikely"
+  },
+  {
+    "source_idiom": "nie kłaść palca między drzwi",
+    "target_idiom": "caérsele los anillos",
+    "source_meaning": "to not do something for fear of potential resulting problems",
+    "target_meaning": "(idiomatic) to have qualms (about doing something)"
+  },
+  {
+    "source_idiom": "nie ma",
+    "target_idiom": "brillar por su ausencia",
+    "source_meaning": "to be gone, to not be present, to not exist, there is no",
+    "target_meaning": "to be conspicuous by one's absence, to be conspicuously absent"
+  },
+  {
+    "source_idiom": "nie ma za co",
+    "target_idiom": "no faltaba más",
+    "source_meaning": "you're welcome",
+    "target_meaning": "don't mention it; you're welcome"
+  },
+  {
+    "source_idiom": "nie mieć chwili do stracenia",
+    "target_idiom": "no querer nada con",
+    "source_meaning": "to have no time to lose (to be in a big hurry because of the need to do something quickly while having very little time to do it)",
+    "target_meaning": "to have no time for"
+  },
+  {
+    "source_idiom": "nie mieć nic do stracenia",
+    "target_idiom": "de perdidos al río",
+    "source_meaning": "to have nothing to lose",
+    "target_meaning": "in for a penny, in for a pound; there is nothing to lose"
+  },
+  {
+    "source_idiom": "nie mieć pojęcia",
+    "target_idiom": "estar pez",
+    "source_meaning": "to not have a clue (to have no knowledge about a topic or situation) [ (+ locative) ]",
+    "target_meaning": "to not have a clue"
+  },
+  {
+    "source_idiom": "nie móc usiedzieć na tyłku",
+    "target_idiom": "ser culo de mal asiento",
+    "source_meaning": "to not be able to sit still",
+    "target_meaning": "to have ants in one's pants"
+  },
+  {
+    "source_idiom": "nie mów",
+    "target_idiom": "mira por dónde",
+    "source_meaning": "expresses surprise and disbelief; my word",
+    "target_meaning": "whoa; what the dickens; no shit (expression of surprise)"
+  },
+  {
+    "source_idiom": "nie mów hop, póki nie przeskoczysz",
+    "target_idiom": "no vendas la piel del oso antes de cazarlo",
+    "source_meaning": "don't count your chickens before they're hatched",
+    "target_meaning": "don't count your chickens before they're hatched"
+  },
+  {
+    "source_idiom": "nie mówiąc o",
+    "target_idiom": "por no hablar de",
+    "source_meaning": "let alone, to say nothing of, not to mention; all the more",
+    "target_meaning": "not to mention"
+  },
+  {
+    "source_idiom": "nie oceniaj książki po okładce",
+    "target_idiom": "que nadie se llame a engaño",
+    "source_meaning": "don't judge a book by its cover",
+    "target_meaning": "don't be fooled"
+  },
+  {
+    "source_idiom": "nie od razu Kraków zbudowano",
+    "target_idiom": "no se ganó Zamora en una hora",
+    "source_meaning": "Rome wasn't built in a day (it takes a long time to create something complicated or impressive)",
+    "target_meaning": "Rome wasn't built in a day (it takes a long time to do something complicated or impressive)"
+  },
+  {
+    "source_idiom": "nie owijać w bawełnę",
+    "target_idiom": "no tener pelos en la lengua",
+    "source_meaning": "to not beat around the bush, to not mince words",
+    "target_meaning": "to not mince one's words, to speak one's mind"
+  },
+  {
+    "source_idiom": "nie powiedzieć jeszcze ostatniego słowa",
+    "target_idiom": "pedir papas",
+    "source_meaning": "to not give up",
+    "target_meaning": "to give up"
+  },
+  {
+    "source_idiom": "nie rozdrapuj starych ran",
+    "target_idiom": "renovar la herida",
+    "source_meaning": "let sleeping dogs lie (literally: don't open old wounds)",
+    "target_meaning": "to reopen old wounds"
+  },
+  {
+    "source_idiom": "nie sposób",
+    "target_idiom": "imposible de toda imposibilidad",
+    "source_meaning": "there is no way, it is impossible, it cannot be done [ infinitive ]",
+    "target_meaning": "absolutely impossible"
+  },
+  {
+    "source_idiom": "nie tak",
+    "target_idiom": "con mal pie",
+    "source_meaning": "not so, incorrectly, bad, wrong (bad in some respect)",
+    "target_meaning": "unsuccessfully, badly, on the wrong foot"
+  },
+  {
+    "source_idiom": "nie w ciemię bity",
+    "target_idiom": "más listo que el hambre",
+    "source_meaning": "whip-smart, quick-witted (sharp and able to handle any situation)",
+    "target_meaning": "smart as a whip"
+  },
+  {
+    "source_idiom": "nie w porę",
+    "target_idiom": "correr malos vientos",
+    "source_meaning": "untimelily (so that something happens or is done at the wrong time)",
+    "target_meaning": "to be a bad time (for); be an inopportune moment"
+  },
+  {
+    "source_idiom": "nie w sosie",
+    "target_idiom": "hecho una pena",
+    "source_meaning": "out of sorts",
+    "target_meaning": "in a bad state"
+  },
+  {
+    "source_idiom": "nie wiedzieć czemu",
+    "target_idiom": "por h o por b",
+    "source_meaning": "for some reason (used to express uncertainty for the cause or justification of some event or happening)",
+    "target_meaning": "for one reason or another"
+  },
+  {
+    "source_idiom": "nie z tego świata",
+    "target_idiom": "de locura",
+    "source_meaning": "out of this world (of exceptionally high quality; wonderful; marvelous)",
+    "target_meaning": "extraordinary; out of this world"
+  },
+  {
+    "source_idiom": "nie zostawić suchej nitki",
+    "target_idiom": "dar un jabón",
+    "source_meaning": "to excoriate, to tear to pieces (to strongly denounce or censure) [ (+ locative) ]",
+    "target_meaning": "to castigate; to criticize harshly [ ]"
+  },
+  {
+    "source_idiom": "nie śmierdzieć groszem",
+    "target_idiom": "no tener ni para pipas",
+    "source_meaning": "to not have a pot to piss in",
+    "target_meaning": "to be skint, to be broke; to not have a pot to piss in"
+  },
+  {
+    "source_idiom": "niebieski ptak",
+    "target_idiom": "chupar del bote",
+    "source_meaning": "freeloader (a person who lives on other people's efforts or expense)",
+    "target_meaning": "to freeload"
+  },
+  {
+    "source_idiom": "niebotyk",
+    "target_idiom": "bóveda celeste",
+    "source_meaning": "skyscraper",
+    "target_meaning": "sky"
+  },
+  {
+    "source_idiom": "niech się dzieje wola nieba",
+    "target_idiom": "salga sapo o salga rana",
+    "source_meaning": "come what may",
+    "target_meaning": "come what may"
+  },
+  {
+    "source_idiom": "niespełna rozumu",
+    "target_idiom": "mal del coco",
+    "source_meaning": "feeble-minded, off one's chump, off one's nut, off one's rocker",
+    "target_meaning": "off one's head, off one's rocker (crazy)"
+  },
+  {
+    "source_idiom": "nigdy w życiu",
+    "target_idiom": "ni a tiros",
+    "source_meaning": "not on your life",
+    "target_meaning": "not a chance; no way; not for the world"
+  },
+  {
+    "source_idiom": "niskich lotów",
+    "target_idiom": "mal nacido",
+    "source_meaning": "lowbrow, unsophisticated",
+    "target_meaning": "ill-bred, mean"
+  },
+  {
+    "source_idiom": "nocny marek",
+    "target_idiom": "ave nocturna",
+    "source_meaning": "night owl",
+    "target_meaning": "night owl (someone who stays up late)"
+  },
+  {
+    "source_idiom": "nóż się w kieszeni otwiera",
+    "target_idiom": "echar humo",
+    "source_meaning": "to make one's blood boil (to make someone very angry)  ",
+    "target_meaning": "to blow one's top, to fume"
+  },
+  {
+    "source_idiom": "o dupie Maryny",
+    "target_idiom": "pintar la mona",
+    "source_meaning": "about jack shit (about nothing important)",
+    "target_meaning": "to do bugger all; to do jack shit"
+  },
+  {
+    "source_idiom": "o mały włos",
+    "target_idiom": "por un pelo",
+    "source_meaning": "by the skin of one's teeth, barely, only just",
+    "target_meaning": "by the skin of one's teeth, by a hair"
+  },
+  {
+    "source_idiom": "o wiele",
+    "target_idiom": "por mucho",
+    "source_meaning": "much, far (emphasizes a comparison)",
+    "target_meaning": "by far, by a lot"
+  },
+  {
+    "source_idiom": "o wilku mowa",
+    "target_idiom": "hablando del rey de Roma",
+    "source_meaning": "speak of the devil",
+    "target_meaning": "speak of the devil"
+  },
+  {
+    "source_idiom": "oberwanie chmury",
+    "target_idiom": "palo de agua",
+    "source_meaning": "cloudburst",
+    "target_meaning": "downpour"
+  },
+  {
+    "source_idiom": "obiecywać złote góry",
+    "target_idiom": "pedir cotufas en el golfo",
+    "source_meaning": "to promise the moon (to promise something impossible; to make a promise which one does not intend to fulfill; to make wildly exaggerated, unrealistic promises)",
+    "target_meaning": "to ask for the moon"
+  },
+  {
+    "source_idiom": "obrzucić błotem",
+    "target_idiom": "tirar veneno",
+    "source_meaning": "to talk trash, to sling mud",
+    "target_meaning": "to badmouth; to talk shit"
+  },
+  {
+    "source_idiom": "obrócić wniwecz",
+    "target_idiom": "echar a perder",
+    "source_meaning": "to bedevil, to ruin",
+    "target_meaning": "to spoil, ruin"
+  },
+  {
+    "source_idiom": "obudzić się z ręką w nocniku",
+    "target_idiom": "pillar el toro",
+    "source_meaning": "to catch on to something too late, to get the short end of the stick",
+    "target_meaning": "to miss the boat; to run out of time"
+  },
+  {
+    "source_idiom": "oczko w głowie",
+    "target_idiom": "ojo derecho",
+    "source_meaning": "apple of someone's eye",
+    "target_meaning": "apple of one's eye; favourite"
+  },
+  {
+    "source_idiom": "od chuja",
+    "target_idiom": "un huevo",
+    "source_meaning": "shitload, fuckload; a lot",
+    "target_meaning": "a shitload; fuck loads; a fuckton"
+  },
+  {
+    "source_idiom": "od groma",
+    "target_idiom": "a punta pala",
+    "source_meaning": "in droves, in spades (to excess)",
+    "target_meaning": "in spades, in droves, loads, heaps, a shedload"
+  },
+  {
+    "source_idiom": "od małego",
+    "target_idiom": "desde el vientre de su madre",
+    "source_meaning": "since childhood (from an early age)",
+    "target_meaning": "since before one was born; since one's conception"
+  },
+  {
+    "source_idiom": "od niedawna",
+    "target_idiom": "de nuevo cuño",
+    "source_meaning": "newly",
+    "target_meaning": "newly-made, new-style"
+  },
+  {
+    "source_idiom": "od nowa",
+    "target_idiom": "empezar de cero",
+    "source_meaning": "from scratch, from the beginning, one more time",
+    "target_meaning": "to start from scratch, to start over, to start fresh"
+  },
+  {
+    "source_idiom": "od początku",
+    "target_idiom": "al primer envite",
+    "source_meaning": "from the beginning, from the start",
+    "target_meaning": "at the very start; from the word go"
+  },
+  {
+    "source_idiom": "od teraz",
+    "target_idiom": "de aquí en adelante",
+    "source_meaning": "from now on",
+    "target_meaning": "from now on; from this point on"
+  },
+  {
+    "source_idiom": "od zera",
+    "target_idiom": "desde cero",
+    "source_meaning": "from scratch (starting from nothing)",
+    "target_meaning": "from scratch"
+  },
+  {
+    "source_idiom": "odcedzić kartofelki",
+    "target_idiom": "echar la araña",
+    "source_meaning": "to urinate",
+    "target_meaning": "to urinate; to pee."
+  },
+  {
+    "source_idiom": "odchodzić od zmysłów",
+    "target_idiom": "comerse la cabeza",
+    "source_meaning": "to worry out of one's mind (to be extremely worried)",
+    "target_meaning": "to fret, worry"
+  },
+  {
+    "source_idiom": "oddzielić ziarno od plew",
+    "target_idiom": "apartar el grano de la paja",
+    "source_meaning": "to separate the wheat from the chaff",
+    "target_meaning": "to separate the wheat from the chaff"
+  },
+  {
+    "source_idiom": "odejść do aniołków",
+    "target_idiom": "llegarle",
+    "source_meaning": "to pass away; to die",
+    "target_meaning": "to pass away (die)"
+  },
+  {
+    "source_idiom": "odejść z życia",
+    "target_idiom": "partir peras",
+    "source_meaning": "to leave someone's life (to end all relations with someone either by dying or by choice)",
+    "target_meaning": "to break up; split up (end a relationship)"
+  },
+  {
+    "source_idiom": "odkrywać wszystkie karty",
+    "target_idiom": "enseñar las cartas",
+    "source_meaning": "to put one's cards on the table",
+    "target_meaning": "to show one's cards"
+  },
+  {
+    "source_idiom": "odstawiać do lamusa",
+    "target_idiom": "en barbecho",
+    "source_meaning": "to put off to the way side (to consider something uninteresting or unneeded)",
+    "target_meaning": "on the back burner"
+  },
+  {
+    "source_idiom": "odwalić kitę",
+    "target_idiom": "pegar las mangas",
+    "source_meaning": "to kick the bucket, to snuff it (to die)",
+    "target_meaning": "to kick the bucket; snuff it"
+  },
+  {
+    "source_idiom": "odłożyć na stronę",
+    "target_idiom": "tener sin cuidado",
+    "source_meaning": "to put aside (to consider not important and not engage with)",
+    "target_meaning": "to not bother"
+  },
+  {
+    "source_idiom": "omackiem",
+    "target_idiom": "a ciegas",
+    "source_meaning": "blindly, distractedly, headlong (sightlessly)",
+    "target_meaning": "blindly"
+  },
+  {
+    "source_idiom": "ostatni dzwonek",
+    "target_idiom": "de última hora",
+    "source_meaning": "last call (moment when one can still perform an activity, and later it will no longer be possible)",
+    "target_meaning": "last minute"
+  },
+  {
+    "source_idiom": "ostatnia deska ratunku",
+    "target_idiom": "en último término",
+    "source_meaning": "last resort (the only remaining, often least desirable, option when all others have been excluded)",
+    "target_meaning": "as last resort"
+  },
+  {
+    "source_idiom": "ostatnimi czasy",
+    "target_idiom": "hoy en día",
+    "source_meaning": "as of late, recently (in recent times)",
+    "target_meaning": "nowadays; these days; in the present time or era"
+  },
+  {
+    "source_idiom": "ostrzyć sobie apetyt",
+    "target_idiom": "hacer boca",
+    "source_meaning": "to whet one's appetite (to become excited for something)",
+    "target_meaning": "to whet someone's appetite"
+  },
+  {
+    "source_idiom": "ot tak",
+    "target_idiom": "sin más ni más",
+    "source_meaning": "just like that (so that something is done or something happens without any specific reason)",
+    "target_meaning": "just like that"
+  },
+  {
+    "source_idiom": "owinąć sobie wokół palca",
+    "target_idiom": "tener en el bote",
+    "source_meaning": "to wrap around one's little finger",
+    "target_meaning": "to have someone eat out of one's hand"
+  },
+  {
+    "source_idiom": "pal gumę",
+    "target_idiom": "cómeme la polla",
+    "source_meaning": "get lost!, bite me!",
+    "target_meaning": "suck my dick, suck my cock, bite me, suck my balls, suck it, bite me, kiss my ass"
+  },
+  {
+    "source_idiom": "palce lizać",
+    "target_idiom": "para chuparse los dedos",
+    "source_meaning": "finger-lickin' good",
+    "target_meaning": "finger-lickin' good"
+  },
+  {
+    "source_idiom": "paluszek i główka to szkolna wymówka",
+    "target_idiom": "tener más cuento que Calleja",
+    "source_meaning": "one should not use small excuses to try and get out of responsibilities",
+    "target_meaning": "be someone who continually makes up excuses"
+  },
+  {
+    "source_idiom": "pan domu",
+    "target_idiom": "dueño y señor",
+    "source_meaning": "houselord, master of the house",
+    "target_meaning": "lord and master"
+  },
+  {
+    "source_idiom": "pani domu",
+    "target_idiom": "reina del hogar",
+    "source_meaning": "hostess, woman of the house",
+    "target_meaning": "a female family member of a household, especially a wife."
+  },
+  {
+    "source_idiom": "parszywa owca",
+    "target_idiom": "garbanzo negro",
+    "source_meaning": "black sheep",
+    "target_meaning": "black sheep"
+  },
+  {
+    "source_idiom": "pasować jak pięść do nosa",
+    "target_idiom": "no pegar ni con cola",
+    "source_meaning": "to stick out like a sore thumb",
+    "target_meaning": "to stick out like a sore thumb; to look totally out of place"
+  },
+  {
+    "source_idiom": "patrzeć wilkiem",
+    "target_idiom": "torcer el gesto",
+    "source_meaning": "to scowl (to look with hostility and distrustfulness)",
+    "target_meaning": "to scowl"
+  },
+  {
+    "source_idiom": "paść jak muchy",
+    "target_idiom": "caer como moscas",
+    "source_meaning": "to drop like flies",
+    "target_meaning": "to drop like flies"
+  },
+  {
+    "source_idiom": "paść trupem",
+    "target_idiom": "quedarse en el sitio",
+    "source_meaning": "to fall dead (to die suddenly)",
+    "target_meaning": "to drop dead"
+  },
+  {
+    "source_idiom": "pełnokrwisty",
+    "target_idiom": "de pura cepa",
+    "source_meaning": "full-blooded, purebred, thoroughbred (having genuine parents of the same breed)",
+    "target_meaning": "full-blooded"
+  },
+  {
+    "source_idiom": "pierdzieć w stołek",
+    "target_idiom": "tumbarse a la bartola",
+    "source_meaning": "to idle, to laze",
+    "target_meaning": "to laze about; loaf; mope"
+  },
+  {
+    "source_idiom": "pierwszej klasy",
+    "target_idiom": "de pura uva",
+    "source_meaning": "first class ‎(of high quality‎)",
+    "target_meaning": "top-class"
+  },
+  {
+    "source_idiom": "pierwszy lepszy",
+    "target_idiom": "hasta los gatos",
+    "source_meaning": "any, every Tom, Dick and Harry (selected without thought as the most readily available at any given time)",
+    "target_meaning": "every Tom, Dick and Harry"
+  },
+  {
+    "source_idiom": "pies ogrodnika",
+    "target_idiom": "ni come, ni deja comer",
+    "source_meaning": "dog in the manger",
+    "target_meaning": "dog in the manger"
+  },
+  {
+    "source_idiom": "pies z kulawą nogą",
+    "target_idiom": "ni rey ni roque",
+    "source_meaning": "no one, nobody",
+    "target_meaning": "absolutely nobody; no one at all"
+  },
+  {
+    "source_idiom": "pies łańcuchowy",
+    "target_idiom": "perro de mil leches",
+    "source_meaning": "bandog (person)",
+    "target_meaning": "mongrel, crossbred dog"
+  },
+  {
+    "source_idiom": "pięta achillesowa",
+    "target_idiom": "talón de Aquiles",
+    "source_meaning": "Achilles heel (vulnerability in an otherwise strong situation)",
+    "target_meaning": "Achilles heel; the weak point of a person, thing, or process"
+  },
+  {
+    "source_idiom": "pleść jak Piekarski na mękach",
+    "target_idiom": "darle a la lengua",
+    "source_meaning": "to babble, to blather (to talk nonsense)",
+    "target_meaning": "to jabber away; to prattle"
+  },
+  {
+    "source_idiom": "plus minus",
+    "target_idiom": "del orden de",
+    "source_meaning": "approximately, more or less",
+    "target_meaning": "around, roughly, more or less"
+  },
+  {
+    "source_idiom": "po cholerę",
+    "target_idiom": "porque hoy es hoy",
+    "source_meaning": "why, what the heck for",
+    "target_meaning": "just because; for the hell of it"
+  },
+  {
+    "source_idiom": "po chuj",
+    "target_idiom": "por menos de nada",
+    "source_meaning": "why, for what fucking reason, what the fuck for",
+    "target_meaning": "for no reason whatsoever"
+  },
+  {
+    "source_idiom": "po ciemku",
+    "target_idiom": "a oscuras",
+    "source_meaning": "in the dark (without light)",
+    "target_meaning": "in the dark"
+  },
+  {
+    "source_idiom": "po części",
+    "target_idiom": "quien más, quien menos",
+    "source_meaning": "partly, in part, to an extent, to some extent (not fully)",
+    "target_meaning": "mostly; to some extent"
+  },
+  {
+    "source_idiom": "po dziś dzień",
+    "target_idiom": "tal día como hoy",
+    "source_meaning": "to this very day",
+    "target_meaning": "on this very day (but another year)"
+  },
+  {
+    "source_idiom": "po fakcie",
+    "target_idiom": "a toro pasado",
+    "source_meaning": "after the fact, post factum",
+    "target_meaning": "in hindsight; after the fact"
+  },
+  {
+    "source_idiom": "po judaszowsku",
+    "target_idiom": "a traición",
+    "source_meaning": "falsely, treacherously",
+    "target_meaning": "treacherously"
+  },
+  {
+    "source_idiom": "po kryjomu",
+    "target_idiom": "entre bastidores",
+    "source_meaning": "under wraps, in secret [ (+ instrumental) ]",
+    "target_meaning": "behind the scenes (in secret)"
+  },
+  {
+    "source_idiom": "po prostu",
+    "target_idiom": "a secas",
+    "source_meaning": "just, simply",
+    "target_meaning": "only, purely, just plain"
+  },
+  {
+    "source_idiom": "po prośbie",
+    "target_idiom": "comer la sopa boba",
+    "source_meaning": "on the scrounge, with a begging bowl",
+    "target_meaning": "to scrounge for one's meals"
+  },
+  {
+    "source_idiom": "po raz wtóry",
+    "target_idiom": "otra vez",
+    "source_meaning": "once again (for the second time)",
+    "target_meaning": "again"
+  },
+  {
+    "source_idiom": "po uszy w gównie",
+    "target_idiom": "con la soga al cuello",
+    "source_meaning": "up shit creek (in a difficult or morally questionable situation)",
+    "target_meaning": "up a creek without a paddle, in a tight spot"
+  },
+  {
+    "source_idiom": "po znajomości",
+    "target_idiom": "tener enchufe",
+    "source_meaning": "happening due to or in connection with the fact that someone personally knows a certain person whose function, position, or action is relevant to the situation in question",
+    "target_meaning": "to have connections"
+  },
+  {
+    "source_idiom": "pobić na głowę",
+    "target_idiom": "dar cien mil vueltas",
+    "source_meaning": "to trump, to beat hands down, to be superior [ ]",
+    "target_meaning": "to beat the pants off, to wipe the floor with, to run rings around, to be much better (than), be far better at (something); to brood on, to chew on, to mull over, to go over"
+  },
+  {
+    "source_idiom": "pobić rekord",
+    "target_idiom": "hacer historia",
+    "source_meaning": "to break a record",
+    "target_meaning": "to make history"
+  },
+  {
+    "source_idiom": "pobożne życzenia",
+    "target_idiom": "cuentas de la lechera",
+    "source_meaning": "wishful thinking (illusion that what one would like is true)",
+    "target_meaning": "wishful thinking"
+  },
+  {
+    "source_idiom": "pociągnąć za język",
+    "target_idiom": "tercer grado",
+    "source_meaning": "to give the third degree (to question and interrogate in order to force someone to reveal a secret)",
+    "target_meaning": "third degree"
+  },
+  {
+    "source_idiom": "poczta pantoflowa",
+    "target_idiom": "de oídas",
+    "source_meaning": "grapevine, word of mouth",
+    "target_meaning": "from hearsay; from the grapevine"
+  },
+  {
+    "source_idiom": "poczuć miętę",
+    "target_idiom": "dar la gana",
+    "source_meaning": "to fancy (to feel affection or even attraction for someone or something) [ (+ genitive) ]",
+    "target_meaning": "to feel like (doing something); to fancy (doing something)"
+  },
+  {
+    "source_idiom": "poczuć się jak u siebie w domu",
+    "target_idiom": "a sus anchas",
+    "source_meaning": "to feel like at one's own home",
+    "target_meaning": "at home, at ease"
+  },
+  {
+    "source_idiom": "pod gołym niebem",
+    "target_idiom": "a campo abierto",
+    "source_meaning": "in the open, outdoors",
+    "target_meaning": "in the open air"
+  },
+  {
+    "source_idiom": "pod kluczem",
+    "target_idiom": "debajo de siete llaves",
+    "source_meaning": "under lock and key, locked up",
+    "target_meaning": "under lock and key"
+  },
+  {
+    "source_idiom": "pod nosem",
+    "target_idiom": "a media voz",
+    "source_meaning": "under one's breath (quietly and unclearly)",
+    "target_meaning": "under one's breath, quietly"
+  },
+  {
+    "source_idiom": "pod ręką",
+    "target_idiom": "a la mano",
+    "source_meaning": "at hand, on hand, to hand (nearby)",
+    "target_meaning": "to hand; within reach"
+  },
+  {
+    "source_idiom": "pod słońcem",
+    "target_idiom": "habido y por haber",
+    "source_meaning": "under the sun (used to emphasize that, in the speaker's opinion, the characteristic in question is enjoyed by someone or something to the maximum degree)",
+    "target_meaning": "under the sun, imaginable"
+  },
+  {
+    "source_idiom": "pod wrażeniem",
+    "target_idiom": "de vértigo",
+    "source_meaning": "impressed, awestruck [ genitive ]",
+    "target_meaning": "awe-inspiring; stunning; breathtaking"
+  },
+  {
+    "source_idiom": "podać w wątpliwość",
+    "target_idiom": "poner en tela de juicio",
+    "source_meaning": "to call into question",
+    "target_meaning": "to call into question, question; cast doubt"
+  },
+  {
+    "source_idiom": "podbić bębenka",
+    "target_idiom": "dar jabón",
+    "source_meaning": "to butter up, to toot someone's horn (to flatter in an attempt to please)  ",
+    "target_meaning": "to flatter, to butter up, to soft-soap [ ]"
+  },
+  {
+    "source_idiom": "podkładać głowę pod topór",
+    "target_idiom": "jugarse la cabeza",
+    "source_meaning": "to risk one's neck",
+    "target_meaning": "to risk one's neck"
+  },
+  {
+    "source_idiom": "podnosić na duchu",
+    "target_idiom": "levantar el espíritu",
+    "source_meaning": "to edify, to lift someone's spirits (to instruct or improve morally or intellectually)",
+    "target_meaning": "to raise one's spirits"
+  },
+  {
+    "source_idiom": "podwójny standard",
+    "target_idiom": "doble rasero",
+    "source_meaning": "double standard (situation where two groups or individuals are the same in pertinent ways, but one is condemned for it while the other is excused)",
+    "target_meaning": "double standard"
+  },
+  {
+    "source_idiom": "pogoda ducha",
+    "target_idiom": "balsa de aceite",
+    "source_meaning": "buoyancy, high spirits, placidity, serenity",
+    "target_meaning": "a place where there is smooth sailing; sea of tranquillity"
+  },
+  {
+    "source_idiom": "pogoda, że psa by nie wygnał",
+    "target_idiom": "tiempo de perros",
+    "source_meaning": "bad weather",
+    "target_meaning": "bad weather"
+  },
+  {
+    "source_idiom": "poniżej pasa",
+    "target_idiom": "no ser plan",
+    "source_meaning": "below the belt (unfair; not according to the rules)",
+    "target_meaning": "to be not on; to be no fair"
+  },
+  {
+    "source_idiom": "poruszać wszystkie sprężyny",
+    "target_idiom": "mover cielo y tierra",
+    "source_meaning": "to move heaven and earth",
+    "target_meaning": "to move heaven and earth; to go to extreme lengths or do whatever is necessary"
+  },
+  {
+    "source_idiom": "porywać się z motyką na słońce",
+    "target_idiom": "abarcar más de lo que se puede",
+    "source_meaning": "to bite off more than one can chew, to overestimate one's capabilities",
+    "target_meaning": "to bite off more than one can chew (to try to do too much)"
+  },
+  {
+    "source_idiom": "postawić na swoim",
+    "target_idiom": "salirse con la suya",
+    "source_meaning": "to carry one's point, to get one's own way",
+    "target_meaning": "to get one's way"
+  },
+  {
+    "source_idiom": "postradać zmysły",
+    "target_idiom": "perder un tornillo",
+    "source_meaning": "to be out of one's mind, to lose one's mind",
+    "target_meaning": "to lose one's mind"
+  },
+  {
+    "source_idiom": "powoływać do życia",
+    "target_idiom": "dar pie",
+    "source_meaning": "to bring to life (to cause to be)",
+    "target_meaning": "to give rise to"
+  },
+  {
+    "source_idiom": "poznaj samego siebie",
+    "target_idiom": "saber de qué pie cojea",
+    "source_meaning": "know thyself",
+    "target_meaning": "to know one's ideology; to know one's weaknesses"
+  },
+  {
+    "source_idiom": "pozostawić wiele do życzenia",
+    "target_idiom": "no ser moco de pavo",
+    "source_meaning": "to leave a lot to be desired",
+    "target_meaning": "to be nothing to sneeze at"
+  },
+  {
+    "source_idiom": "połamania długopisu",
+    "target_idiom": "mucha mierda",
+    "source_meaning": "good luck on the exam!",
+    "target_meaning": "break a leg!"
+  },
+  {
+    "source_idiom": "położyć kres",
+    "target_idiom": "poner coto",
+    "source_meaning": "to put an end to  ",
+    "target_meaning": "to put an end to"
+  },
+  {
+    "source_idiom": "położyć nacisk",
+    "target_idiom": "poner el acento",
+    "source_meaning": "to stress, to emphasize [ (+ accusative) ]",
+    "target_meaning": "to stress, highlight, underline"
+  },
+  {
+    "source_idiom": "pracowity jak mrówka",
+    "target_idiom": "mamá de Tarzán",
+    "source_meaning": "busy as a bee",
+    "target_meaning": "the bee's knees"
+  },
+  {
+    "source_idiom": "pranie mózgu",
+    "target_idiom": "lavar el cerebro",
+    "source_meaning": "brain-washing (act of indoctrination)",
+    "target_meaning": "to brainwash"
+  },
+  {
+    "source_idiom": "prawa ręka",
+    "target_idiom": "brazo derecho",
+    "source_meaning": "right-hand man, right-hand woman",
+    "target_meaning": "right-hand man"
+  },
+  {
+    "source_idiom": "prać brudy",
+    "target_idiom": "sacar los trapitos al sol",
+    "source_meaning": "to wash one's dirty laundry in public, to wash one's dirty linen in public",
+    "target_meaning": "to wash one's dirty linen in public"
+  },
+  {
+    "source_idiom": "prowadzić życie",
+    "target_idiom": "ir por la vida",
+    "source_meaning": "to lead a certain life",
+    "target_meaning": "to behave; go through life"
+  },
+  {
+    "source_idiom": "przeciągnąć strunę",
+    "target_idiom": "pasarse de la raya",
+    "source_meaning": "to cross the line, to go too far, to overstep the mark",
+    "target_meaning": "to cross the line, step out of line, go too far"
+  },
+  {
+    "source_idiom": "przejść do annałów",
+    "target_idiom": "darse a conocer",
+    "source_meaning": "to become popular and thus remembered in the future",
+    "target_meaning": "to make a name for oneself"
+  },
+  {
+    "source_idiom": "przejść ludzkie pojęcie",
+    "target_idiom": "pasar de castaño oscuro",
+    "source_meaning": "to be beyond all reason, to go beyond reason",
+    "target_meaning": "to be beyond a joke; to go too far"
+  },
+  {
+    "source_idiom": "przejść od słów do czynów",
+    "target_idiom": "poner en ejecución",
+    "source_meaning": "to walk the talk (to start implementing what was previously discussed)",
+    "target_meaning": "to put into practice"
+  },
+  {
+    "source_idiom": "przemoknąć do suchej nitki",
+    "target_idiom": "hecho una sopa",
+    "source_meaning": "to get soaked to the bone, to get soaked to the skin",
+    "target_meaning": "soaked to the bone"
+  },
+  {
+    "source_idiom": "przemówić do słuchu",
+    "target_idiom": "decir cuatro cosas",
+    "source_meaning": "to give what for, to give a piece of one's mind  ",
+    "target_meaning": "to give [someone] a piece of one's mind"
+  },
+  {
+    "source_idiom": "przemówić jednym głosem",
+    "target_idiom": "como un solo hombre",
+    "source_meaning": "to speak with one voice",
+    "target_meaning": "as one; as one man"
+  },
+  {
+    "source_idiom": "przesłonić cały świat",
+    "target_idiom": "importar un pepino",
+    "source_meaning": "to mean the world to someone (to blind someone to everything and everyone but oneself; to be so important for someone that they lose sight of everything else)",
+    "target_meaning": "to mean absolutely nothing (to someone)"
+  },
+  {
+    "source_idiom": "przewrócić oczami",
+    "target_idiom": "hablar con los ojos",
+    "source_meaning": "to roll one's eyes",
+    "target_meaning": "to express something with a look in one's eyes"
+  },
+  {
+    "source_idiom": "przez pomyłkę",
+    "target_idiom": "sin querer",
+    "source_meaning": "by mistake, by accident, mistakenly, accidentally",
+    "target_meaning": "inadvertently, unintentionally, unintended, unwanted"
+  },
+  {
+    "source_idiom": "przełożyć przez kolano",
+    "target_idiom": "hacer sonar",
+    "source_meaning": "to beat or hit as punishment for something",
+    "target_meaning": "to thrash; to severely punish"
+  },
+  {
+    "source_idiom": "przy kości",
+    "target_idiom": "entrado en carnes",
+    "source_meaning": "big-boned, chunky",
+    "target_meaning": "overweight; big-boned"
+  },
+  {
+    "source_idiom": "przy tym",
+    "target_idiom": "nada menos",
+    "source_meaning": "at that, also, in addition, no less",
+    "target_meaning": "no less"
+  },
+  {
+    "source_idiom": "przy zdrowych zmysłach",
+    "target_idiom": "en sus cabales",
+    "source_meaning": "in one's right mind, of sound mind, sane (usually with the verb być)",
+    "target_meaning": "in one's right mind"
+  },
+  {
+    "source_idiom": "przyjść na świat",
+    "target_idiom": "dar a luz",
+    "source_meaning": "to come into the world",
+    "target_meaning": "to give birth"
+  },
+  {
+    "source_idiom": "przykro mi",
+    "target_idiom": "estoy en chinga",
+    "source_meaning": "I'm sorry",
+    "target_meaning": "I'm working"
+  },
+  {
+    "source_idiom": "przykładać rękę",
+    "target_idiom": "probar la mano",
+    "source_meaning": "to turn one's hand to [ (+ genitive) ]",
+    "target_meaning": "to try one's hand"
+  },
+  {
+    "source_idiom": "przymknąć oko",
+    "target_idiom": "hacer la vista gorda",
+    "source_meaning": "to look the other way, to shut one's eyes, to turn a blind eye",
+    "target_meaning": "to turn a blind eye, to shut one's eyes, to look the other way"
+  },
+  {
+    "source_idiom": "przyprawić rogi",
+    "target_idiom": "poner los cachos",
+    "source_meaning": "to cuckold, to put horns on",
+    "target_meaning": "to cuckold; to cheat on"
+  },
+  {
+    "source_idiom": "przyzwyczajenie jest drugą naturą człowieka",
+    "target_idiom": "más sabe el diablo por viejo que por diablo",
+    "source_meaning": "you can't teach an old dog new tricks, old habits die hard",
+    "target_meaning": "wisdom comes with age; you can't put an old head on young shoulders"
+  },
+  {
+    "source_idiom": "prędzej czy później",
+    "target_idiom": "tarde o temprano",
+    "source_meaning": "sooner or later",
+    "target_meaning": "sooner or later"
+  },
+  {
+    "source_idiom": "psy dupami szczekają",
+    "target_idiom": "donde Cristo perdió el boli",
+    "source_meaning": "this place is the boonies; Bumfuck; middle of nowhere",
+    "target_meaning": "in the middle of nowhere; bumfuck nowhere"
+  },
+  {
+    "source_idiom": "pustogłowy",
+    "target_idiom": "cabeza hueca",
+    "source_meaning": "addle-brained, empty-headed",
+    "target_meaning": "empty-headed person"
+  },
+  {
+    "source_idiom": "puszczać kantem",
+    "target_idiom": "dejar tirado",
+    "source_meaning": "to ditch, to run out on [ accusative ]",
+    "target_meaning": "to leave someone in the lurch, abandon, to give up"
+  },
+  {
+    "source_idiom": "puszczać z torbami",
+    "target_idiom": "darle para el pelo",
+    "source_meaning": "to take to the cleaners; to bleed, to clean out, to ruin (to make insolvent; to put someone in bankruptcy)",
+    "target_meaning": "to rip to shreds; to wipe the floor (with) (a person)"
+  },
+  {
+    "source_idiom": "puścić bąka",
+    "target_idiom": "tirarse un pedo",
+    "source_meaning": "to fart (to release bodily gases)",
+    "target_meaning": "to fart"
+  },
+  {
+    "source_idiom": "puścić farbę",
+    "target_idiom": "cantar de plano",
+    "source_meaning": "to spill the beans, to let the cat out of the bag",
+    "target_meaning": "to spill the beans"
+  },
+  {
+    "source_idiom": "puścić kaczkę",
+    "target_idiom": "hacerse la rata",
+    "source_meaning": "to skip a stone",
+    "target_meaning": "to skip school"
+  },
+  {
+    "source_idiom": "puścić pawia",
+    "target_idiom": "echar la pava",
+    "source_meaning": "to blow chunks, to vomit",
+    "target_meaning": "to chuck up; to hurl (vomit)"
+  },
+  {
+    "source_idiom": "pójść na rękę",
+    "target_idiom": "hacer el caldo gordo",
+    "source_meaning": "to act in such a way as to make something easier for someone or to help them with something [ dative]",
+    "target_meaning": "to make things easy (for someone)"
+  },
+  {
+    "source_idiom": "pójść na udry",
+    "target_idiom": "habérselas",
+    "source_meaning": "to oppose (to have an intense conflict with someone) [ (+ instrumental) ]",
+    "target_meaning": "to deal (with); to be up (against)"
+  },
+  {
+    "source_idiom": "pójść w zaparte",
+    "target_idiom": "cerrarse de campiña",
+    "source_meaning": "to hold firm, to hold one's ground, to lean into",
+    "target_meaning": "to dig in one's heels"
+  },
+  {
+    "source_idiom": "pójść z duchem czasu",
+    "target_idiom": "ponerse en onda",
+    "source_meaning": "to move with the times",
+    "target_meaning": "to get down with the kids"
+  },
+  {
+    "source_idiom": "pójść z prądem",
+    "target_idiom": "seguir el rollo",
+    "source_meaning": "to go with the tide (to go along or agree with the prevailing or popularly held opinion or perspective)",
+    "target_meaning": "to go along with, play along with (something)"
+  },
+  {
+    "source_idiom": "póki co",
+    "target_idiom": "por lo pronto",
+    "source_meaning": "as yet, for the time being",
+    "target_meaning": "for now, for the time being"
+  },
+  {
+    "source_idiom": "pół na pół",
+    "target_idiom": "parir a medias",
+    "source_meaning": "fifty-fifty",
+    "target_meaning": "to go Dutch; go fifty-fifty; go halves"
+  },
+  {
+    "source_idiom": "pół żartem, pół serio",
+    "target_idiom": "entre bromas y veras",
+    "source_meaning": "half-jokingly",
+    "target_meaning": "half-jokingly"
+  },
+  {
+    "source_idiom": "rado bywa",
+    "target_idiom": "moneda corriente",
+    "source_meaning": "used when something occurs somewhere frequently; it happens",
+    "target_meaning": "(something) commonplace, a common thing"
+  },
+  {
+    "source_idiom": "raz a dobrze",
+    "target_idiom": "de una vez para siempre",
+    "source_meaning": "once and for all",
+    "target_meaning": "once and for all"
+  },
+  {
+    "source_idiom": "raz kozie śmierć",
+    "target_idiom": "aceptamos pulpo como animal de compañía",
+    "source_meaning": "here goes nothing",
+    "target_meaning": "anything goes"
+  },
+  {
+    "source_idiom": "raz na jakiś czas",
+    "target_idiom": "de vez en cuando",
+    "source_meaning": "from time to time, now and then, occasionally, once in a while",
+    "target_meaning": "occasionally; once in a while; now and then; from time to time"
+  },
+  {
+    "source_idiom": "raz na ruski rok",
+    "target_idiom": "de ciento a viento",
+    "source_meaning": "once in a blue moon",
+    "target_meaning": "once in a blue moon"
+  },
+  {
+    "source_idiom": "robić sobie jaja",
+    "target_idiom": "agarrar de pato",
+    "source_meaning": "to take the mickey, to make fun (to ridicule or mock) [ (+ genitive) ]",
+    "target_meaning": "to mock (someone)"
+  },
+  {
+    "source_idiom": "robić w konia",
+    "target_idiom": "meterla doblada",
+    "source_meaning": "to deceive, to trick [ accusative ]",
+    "target_meaning": "to trick, deceive"
+  },
+  {
+    "source_idiom": "rosnąć jak grzyby po deszczu",
+    "target_idiom": "subir como la espuma",
+    "source_meaning": "to mushroom (to grow quickly)",
+    "target_meaning": "to shoot up"
+  },
+  {
+    "source_idiom": "rozejść się po kościach",
+    "target_idiom": "de rositas",
+    "source_meaning": "to get off scot-free",
+    "target_meaning": "scot-free"
+  },
+  {
+    "source_idiom": "rozpalić do czerwoności",
+    "target_idiom": "echar las muelas",
+    "source_meaning": "to get someone white-hot ‎(excited or angry‎)",
+    "target_meaning": "to be hopping mad; to be in a massive rage"
+  },
+  {
+    "source_idiom": "rozpuszczony jak dziadowski bicz",
+    "target_idiom": "tener en palmitas",
+    "source_meaning": "spoiled like a princess, spoiled like a Siamese cat",
+    "target_meaning": "to spoil rotten"
+  },
+  {
+    "source_idiom": "rozumieć się samo przez się",
+    "target_idiom": "vérsele el plumero",
+    "source_meaning": "to go without saying (to be so obvious as to not need to be said)",
+    "target_meaning": "to be blindingly obvious"
+  },
+  {
+    "source_idiom": "rozłożyć na łopatki",
+    "target_idiom": "hacer añicos",
+    "source_meaning": "to smash, to destroy",
+    "target_meaning": "to shatter; to smash to bits"
+  },
+  {
+    "source_idiom": "ruja i porubstwo",
+    "target_idiom": "de mala vida",
+    "source_meaning": "used to describe something immoral and scandalous",
+    "target_meaning": "wicked; of ill repute; ill-reputed"
+  },
+  {
+    "source_idiom": "rwać sobie włosy z głowy",
+    "target_idiom": "rasgarse las vestiduras",
+    "source_meaning": "to tear one's hair out",
+    "target_meaning": "to pull one's hair out; to make a big deal out of"
+  },
+  {
+    "source_idiom": "rychło w czas",
+    "target_idiom": "a estas alturas del partido",
+    "source_meaning": "too little too late (of an action undertaken too late to be effective)",
+    "target_meaning": "at this point in the game; too late"
+  },
+  {
+    "source_idiom": "rzecz wiadoma",
+    "target_idiom": "claro está",
+    "source_meaning": "clearly",
+    "target_meaning": "clearly; blatantly"
+  },
+  {
+    "source_idiom": "rzucić lwom na pożarcie",
+    "target_idiom": "poner a los pies de los caballos",
+    "source_meaning": "to throw to the lions",
+    "target_meaning": "to throw under the bus"
+  },
+  {
+    "source_idiom": "rzucić okiem",
+    "target_idiom": "echar un vistazo",
+    "source_meaning": "to glance, to have a look, to take a look [ (+ accusative) ]",
+    "target_meaning": "to glance, have a look"
+  },
+  {
+    "source_idiom": "rzucić perły przed wieprze",
+    "target_idiom": "dar margaritas a los cerdos",
+    "source_meaning": "to cast pearls before swine",
+    "target_meaning": "to cast pearls before swine"
+  },
+  {
+    "source_idiom": "rzucić się w oczy",
+    "target_idiom": "llamar la atención",
+    "source_meaning": "to catch the eye, to stand out",
+    "target_meaning": "to attract attention, draw attention"
+  },
+  {
+    "source_idiom": "rzucić światło",
+    "target_idiom": "arrojar luz",
+    "source_meaning": "to shed light on something [ (+ accusative) ]",
+    "target_meaning": "to shed light"
+  },
+  {
+    "source_idiom": "ręce opadają",
+    "target_idiom": "sin palabras",
+    "source_meaning": "words fail someone  ",
+    "target_meaning": "speechless"
+  },
+  {
+    "source_idiom": "ręka rękę myje",
+    "target_idiom": "hoy por ti, mañana por mí",
+    "source_meaning": "a group of people supports each other in dishonest dealings; (roughly) you scratch my back and I'll scratch yours",
+    "target_meaning": "you scratch my back and I'll scratch yours"
+  },
+  {
+    "source_idiom": "sam na sam",
+    "target_idiom": "a escondidas",
+    "source_meaning": "in private",
+    "target_meaning": "in secret"
+  },
+  {
+    "source_idiom": "samotny jak palec",
+    "target_idiom": "más solo que la una",
+    "source_meaning": "lonely as can be; very lonely",
+    "target_meaning": "very lonely; so lonesome; in splendid isolation"
+  },
+  {
+    "source_idiom": "schodzić na psy",
+    "target_idiom": "venir a menos",
+    "source_meaning": "to go to the dogs (to become worse)",
+    "target_meaning": "to go downhill"
+  },
+  {
+    "source_idiom": "seksbomba",
+    "target_idiom": "la polla en vinagre",
+    "source_meaning": "bombshell, sex bomb (woman that is very sexually attractive)",
+    "target_meaning": "the bomb, fantastic"
+  },
+  {
+    "source_idiom": "serce z kamienia",
+    "target_idiom": "duro de pelar",
+    "source_meaning": "heart of stone",
+    "target_meaning": "hard as nails"
+  },
+  {
+    "source_idiom": "siedzieć jak na tureckim kazaniu",
+    "target_idiom": "sacar lo que el negro del sermón",
+    "source_meaning": "to not make head or tail of",
+    "target_meaning": "to not make head or tail of"
+  },
+  {
+    "source_idiom": "siedzieć jednym tyłkiem na dwóch stołkach",
+    "target_idiom": "hacer a pelo y pluma",
+    "source_meaning": "to work two jobs or positions;  to play both sides against the middle",
+    "target_meaning": "to swing both ways; to bat for both sides; to be AC/DC (bisexual)"
+  },
+  {
+    "source_idiom": "siedzieć po uszy w gównie",
+    "target_idiom": "cargársela",
+    "source_meaning": "to be up shit creek (to be in a difficult or morally questionable situation)",
+    "target_meaning": "to get into trouble; to be up shit creek"
+  },
+  {
+    "source_idiom": "silny jak wół",
+    "target_idiom": "estar hecho un toro",
+    "source_meaning": "strong as an ox",
+    "target_meaning": "to be strong as an ox"
+  },
+  {
+    "source_idiom": "siódme niebo",
+    "target_idiom": "séptimo cielo",
+    "source_meaning": "seventh heaven (state of great joy and satisfaction)",
+    "target_meaning": "seventh heaven"
+  },
+  {
+    "source_idiom": "sięgać bruku",
+    "target_idiom": "tocar fondo",
+    "source_meaning": "to hit rock bottom (to change from being high quality to being low quality)",
+    "target_meaning": "to hit rock bottom"
+  },
+  {
+    "source_idiom": "skok w bok",
+    "target_idiom": "lío de faldas",
+    "source_meaning": "affair, one-night stand, extramarital sex (single sexual encounter between two individuals, where at least one of the partners has no immediate intention or expectation of establishing a longer-term sexual or romantic relationship)",
+    "target_meaning": "affair (with a woman)"
+  },
+  {
+    "source_idiom": "skok wiary",
+    "target_idiom": "echarse al agua",
+    "source_meaning": "act of faith, leap of faith (act of believing in something despite lack of proof of its truth or existence, or the attempt of something without being sure of its possible outcome)",
+    "target_meaning": "to take a leap of faith"
+  },
+  {
+    "source_idiom": "skusić los",
+    "target_idiom": "tentar a la suerte",
+    "source_meaning": "to tempt fate",
+    "target_meaning": "to tempt fate"
+  },
+  {
+    "source_idiom": "składać legitymację",
+    "target_idiom": "colgar los botines",
+    "source_meaning": "to hand in one's badge (to quit working at some organization)",
+    "target_meaning": "to hang up one's boots"
+  },
+  {
+    "source_idiom": "składać oręż",
+    "target_idiom": "dejar las armas",
+    "source_meaning": "to lay down one's arms",
+    "target_meaning": "to lay down one's arms"
+  },
+  {
+    "source_idiom": "smalić cholewki",
+    "target_idiom": "meter fichas",
+    "source_meaning": "to court (to try to win a commitment to marry from) [ (+ genitive) ]",
+    "target_meaning": "to pick up, chat up, flirt with someone (to meet and seduce somebody for romantic purposes, especially in a social situation)"
+  },
+  {
+    "source_idiom": "sokoli wzrok",
+    "target_idiom": "vista de águila",
+    "source_meaning": "eagle eye (good eyesight)",
+    "target_meaning": "eagle eye (very good eyesight)"
+  },
+  {
+    "source_idiom": "spać jak suseł",
+    "target_idiom": "dormir a pierna suelta",
+    "source_meaning": "to sleep like a log (to be fast asleep)",
+    "target_meaning": "to sleep like a log"
+  },
+  {
+    "source_idiom": "spać na pieniądzach",
+    "target_idiom": "nadar en la abundancia",
+    "source_meaning": "to be rolling in money",
+    "target_meaning": "to roll in dough; to be filthy rich"
+  },
+  {
+    "source_idiom": "spać snem sprawiedliwego",
+    "target_idiom": "pegar ojo",
+    "source_meaning": "to sleep the sleep of the just",
+    "target_meaning": "to sleep"
+  },
+  {
+    "source_idiom": "spaść na cztery łapy",
+    "target_idiom": "caer de pie",
+    "source_meaning": "to land on one's feet",
+    "target_meaning": "to land on one's feet"
+  },
+  {
+    "source_idiom": "spełznąć na niczym",
+    "target_idiom": "irse al cuerno",
+    "source_meaning": "to come to nought, to fail",
+    "target_meaning": "to fall through"
+  },
+  {
+    "source_idiom": "spoczywać na laurach",
+    "target_idiom": "dormirse en los laureles",
+    "source_meaning": "to rest on one's laurels",
+    "target_meaning": "to rest on one's laurels"
+  },
+  {
+    "source_idiom": "spode łba",
+    "target_idiom": "con viento fresco",
+    "source_meaning": "with disdain",
+    "target_meaning": "with disgust or anger"
+  },
+  {
+    "source_idiom": "sprzedać kosę",
+    "target_idiom": "coser a puñaladas",
+    "source_meaning": "to stab, to shank with a knife  ",
+    "target_meaning": "to stab repeatedly"
+  },
+  {
+    "source_idiom": "sprzątnąć sprzed nosa",
+    "target_idiom": "cazar al vuelo",
+    "source_meaning": "to snatch right out of someone's hands (to take or win something unexpectedly, denying it from someone else)",
+    "target_meaning": "to snap up (take quickly)"
+  },
+  {
+    "source_idiom": "spłonąć ze wstydu",
+    "target_idiom": "dar cosa",
+    "source_meaning": "to feel extremely embarrassed",
+    "target_meaning": "to make somebody feel awkward or uncomfortable"
+  },
+  {
+    "source_idiom": "srać na to",
+    "target_idiom": "me la suda",
+    "source_meaning": "screw this; I don't give a rat's ass",
+    "target_meaning": "I don't give a fuck, whatever, i don't give a rat's arse"
+  },
+  {
+    "source_idiom": "srebrny ekran",
+    "target_idiom": "caja tonta",
+    "source_meaning": "television",
+    "target_meaning": "(UK, Canada) idiot box, (US) boob tube (television, television set, telly)"
+  },
+  {
+    "source_idiom": "stanąć na uszach",
+    "target_idiom": "sacar fuerzas de flaqueza",
+    "source_meaning": "to bend over backwards, to do one's damnedest",
+    "target_meaning": "to go to great lengths; to bend over backwards (make great effort)"
+  },
+  {
+    "source_idiom": "stanąć na wysokości zadania",
+    "target_idiom": "recoger el guante",
+    "source_meaning": "to rise to the challenge, to rise to the occasion",
+    "target_meaning": "to take up the gauntlet"
+  },
+  {
+    "source_idiom": "stanąć na własnych nogach",
+    "target_idiom": "estar de pie",
+    "source_meaning": "to stand on one's own two feet (to be independent and self-sufficient)",
+    "target_meaning": "to stand (to be upright, support oneself on the feet in an erect position)"
+  },
+  {
+    "source_idiom": "stanąć w prawdzie",
+    "target_idiom": "plantar cara",
+    "source_meaning": "to face up to the truth",
+    "target_meaning": "to face up to"
+  },
+  {
+    "source_idiom": "stara miłość nie rdzewieje",
+    "target_idiom": "volver a las andadas",
+    "source_meaning": "old habits die hard (old feelings toward a person, place, or activity do not fade away)",
+    "target_meaning": "to slip back to old ways"
+  },
+  {
+    "source_idiom": "stara śpiewka",
+    "target_idiom": "tres cuartos de lo mismo",
+    "source_meaning": "same old story",
+    "target_meaning": "the same story; the same again"
+  },
+  {
+    "source_idiom": "stare pudło",
+    "target_idiom": "perro viejo",
+    "source_meaning": "old bag",
+    "target_meaning": "old hand"
+  },
+  {
+    "source_idiom": "starej daty",
+    "target_idiom": "a la antigua",
+    "source_meaning": "of the old school, of the old guard",
+    "target_meaning": "in an traditional way; old school"
+  },
+  {
+    "source_idiom": "stary jak świat",
+    "target_idiom": "más viejo que la tos",
+    "source_meaning": "old as the hills, old as time",
+    "target_meaning": "old as the hills"
+  },
+  {
+    "source_idiom": "stawać na drodze",
+    "target_idiom": "cerrar el paso",
+    "source_meaning": "to get in the way, to stand in the way [ dative]",
+    "target_meaning": "to get in the way"
+  },
+  {
+    "source_idiom": "stawać w szranki",
+    "target_idiom": "subirse al carro",
+    "source_meaning": "to enter the fray, to throw one's hat in the ring",
+    "target_meaning": "to jump on the bandwagon, to get in on the act"
+  },
+  {
+    "source_idiom": "stawiać wszystko na jedną kartę",
+    "target_idiom": "jugárselo todo a una carta",
+    "source_meaning": "to put all one's eggs in one basket",
+    "target_meaning": "to put all one's eggs in one basket"
+  },
+  {
+    "source_idiom": "stawić czoła",
+    "target_idiom": "tenérselas tiesas con",
+    "source_meaning": "to breast, to face (to not give in to a person, animal, or phenomenon against the odds) [ dative]",
+    "target_meaning": "to stand up to; to affront"
+  },
+  {
+    "source_idiom": "stać na uboczu",
+    "target_idiom": "pasar a un segundo plano",
+    "source_meaning": "to stand aside, to stand on the sidelines",
+    "target_meaning": "to take a back seat, to play second fiddle, to be on the back burner, to fade into the background"
+  },
+  {
+    "source_idiom": "stać w miejscu",
+    "target_idiom": "no atar ni desatar",
+    "source_meaning": "to tread water, to make no headway, to not make any progress",
+    "target_meaning": "to make no progress; to go nowhere fast"
+  },
+  {
+    "source_idiom": "strusia polityka",
+    "target_idiom": "política de avestruz",
+    "source_meaning": "ostrichism, ostrich policy (policy of ignoring the reality of a situation)",
+    "target_meaning": "ostrich policy"
+  },
+  {
+    "source_idiom": "strzelać z armaty do muchy",
+    "target_idiom": "matar moscas a cañonazos",
+    "source_meaning": "to use a sledgehammer to crack a nut, to use excessive or inappropriate means to an end, sometimes counterproductively so",
+    "target_meaning": "to use a sledgehammer to crack a nut"
+  },
+  {
+    "source_idiom": "strzelić focha",
+    "target_idiom": "armarse la marimorena",
+    "source_meaning": "to throw a hissy fit (to behave capriciously and be easily offended)",
+    "target_meaning": "to throw a tantrum, to blow one's top, to blow a fuse"
+  },
+  {
+    "source_idiom": "strzelić sobie w kolano",
+    "target_idiom": "pegarse un tiro",
+    "source_meaning": "to shoot oneself in the foot (to act against one's own interests)",
+    "target_meaning": "to shoot oneself"
+  },
+  {
+    "source_idiom": "strzyc uszami",
+    "target_idiom": "aguzar las orejas",
+    "source_meaning": "to prick up one's ears",
+    "target_meaning": "to prick up one's ears"
+  },
+  {
+    "source_idiom": "stróż prawa",
+    "target_idiom": "franco de servicio",
+    "source_meaning": "lawman (officer of the law)",
+    "target_meaning": "off duty (police, soldier)"
+  },
+  {
+    "source_idiom": "stąpać po kruchym lodzie",
+    "target_idiom": "en la cuerda floja",
+    "source_meaning": "to be walking on thin ice (to take a risky action)",
+    "target_meaning": "on a tightrope; walking on eggshells"
+  },
+  {
+    "source_idiom": "swego czasu",
+    "target_idiom": "en otro tiempo",
+    "source_meaning": "of yore",
+    "target_meaning": "formerly, in days gone past"
+  },
+  {
+    "source_idiom": "swoją drogą",
+    "target_idiom": "por cierto",
+    "source_meaning": "by the way (incidentally)",
+    "target_meaning": "by the way, by the by, incidentally"
+  },
+  {
+    "source_idiom": "syf i malaria",
+    "target_idiom": "de mala muerte",
+    "source_meaning": "used to describe something that the speaker feels is disgusting because it is dirty, neglected, broken or of very poor quality",
+    "target_meaning": "crummy, shoddy, grotty, crappy, godforsaken, seedy"
+  },
+  {
+    "source_idiom": "szału nie ma",
+    "target_idiom": "nada entre dos platos",
+    "source_meaning": "nothing special (the thing in question is not stunning and remarkably good but simply mediocre)",
+    "target_meaning": "nothing special"
+  },
+  {
+    "source_idiom": "szczerze mówiąc",
+    "target_idiom": "ir con la verdad por delante",
+    "source_meaning": "frankly speaking, to tell the truth, in truth, in all honesty, to be honest",
+    "target_meaning": "to speak the truth; to be totally honest"
+  },
+  {
+    "source_idiom": "szlaka wart",
+    "target_idiom": "valer verga",
+    "source_meaning": "not worth a damn (not worth anything)",
+    "target_meaning": "to to be worthless, not to care, to be not worth a damn fight"
+  },
+  {
+    "source_idiom": "szukać dziury w całym",
+    "target_idiom": "cogérsela con papel de fumar",
+    "source_meaning": "to nitpick, to quibble (to look for faults where there are none)",
+    "target_meaning": "to nitpick, to be overscrupulous"
+  },
+  {
+    "source_idiom": "szukać igły w stogu siana",
+    "target_idiom": "buscar una aguja en un pajar",
+    "source_meaning": "to look for a needle in a haystack",
+    "target_meaning": "to look for a needle in a haystack"
+  },
+  {
+    "source_idiom": "szukać szczęścia",
+    "target_idiom": "probar suerte",
+    "source_meaning": "to seek one's fortune [ (+ locative) ]",
+    "target_meaning": "to try one's luck, have a go"
+  },
+  {
+    "source_idiom": "sól ziemi",
+    "target_idiom": "trigo limpio",
+    "source_meaning": "salt of the earth (decent, dependable person)",
+    "target_meaning": "an honest thing or person"
+  },
+  {
+    "source_idiom": "słodkich snów",
+    "target_idiom": "dulces sueños",
+    "source_meaning": "sweet dreams!",
+    "target_meaning": "sweet dreams"
+  },
+  {
+    "source_idiom": "słomiany zapał",
+    "target_idiom": "llamarada de petate",
+    "source_meaning": "flash in the pan (short-lived enthusiasm)",
+    "target_meaning": "flash in the pan"
+  },
+  {
+    "source_idiom": "słowo w słowo",
+    "target_idiom": "al pie de la palabra",
+    "source_meaning": "word for word, verbatim",
+    "target_meaning": "word-for-word (using exactly the same words as were originally used)"
+  },
+  {
+    "source_idiom": "słoń indyjski",
+    "target_idiom": "elefante blanco",
+    "source_meaning": "Indian elephant",
+    "target_meaning": "white elephant"
+  },
+  {
+    "source_idiom": "taki sobie",
+    "target_idiom": "regulín regulán",
+    "source_meaning": "so-so, middling",
+    "target_meaning": "so-so; not bad; okayish"
+  },
+  {
+    "source_idiom": "tam i z powrotem",
+    "target_idiom": "de ceca en meca",
+    "source_meaning": "there and back, back and forth, to and fro (from one place to another and back again)",
+    "target_meaning": "here and there; back and forth"
+  },
+  {
+    "source_idiom": "tam, gdzie król piechotą chodzi",
+    "target_idiom": "visitar al señor Roca",
+    "source_meaning": "to the bathroom, to the toilet",
+    "target_meaning": "to go to the little boy's room"
+  },
+  {
+    "source_idiom": "tego kwiatu jest pół światu",
+    "target_idiom": "a río revuelto, ganancia de pescadores",
+    "source_meaning": "there are plenty of fish in the sea",
+    "target_meaning": "it is common to fish in troubled waters"
+  },
+  {
+    "source_idiom": "to by było na tyle",
+    "target_idiom": "y para de contar",
+    "source_meaning": "this is it, that's a wrap (used to indicate that something has been finished, especially after a long speech or text)",
+    "target_meaning": "and that's all, and that's it, period (literally, \"stop counting\")"
+  },
+  {
+    "source_idiom": "towar pierwszej potrzeby",
+    "target_idiom": "hacer falta",
+    "source_meaning": "necessity, supply (something necessary to everyday life)",
+    "target_meaning": "to be necessary, have need of"
+  },
+  {
+    "source_idiom": "towarzystwo wzajemnej adoracji",
+    "target_idiom": "pescadilla que se muerde la cola",
+    "source_meaning": "circle jerk, echo chamber, mutual admiration society",
+    "target_meaning": "vicious circle"
+  },
+  {
+    "source_idiom": "tracić głowę",
+    "target_idiom": "perder la cabeza",
+    "source_meaning": "to lose one's head (to behave irrationally or lose self-control)",
+    "target_meaning": "to lose one's head"
+  },
+  {
+    "source_idiom": "tracić twarz",
+    "target_idiom": "salvar la cara",
+    "source_meaning": "to lose face",
+    "target_meaning": "to save face"
+  },
+  {
+    "source_idiom": "trafiać na afisz",
+    "target_idiom": "entrar en situación",
+    "source_meaning": "to get a role, to play in a play or movie",
+    "target_meaning": "to get into one's role; to get into character"
+  },
+  {
+    "source_idiom": "trafiać w dziesiątkę",
+    "target_idiom": "extraer oro",
+    "source_meaning": "to hit the jackpot",
+    "target_meaning": "to strike gold"
+  },
+  {
+    "source_idiom": "trafić w dziesiątkę",
+    "target_idiom": "dar en el blanco",
+    "source_meaning": "to hit the jackpot, to hit the spot",
+    "target_meaning": "to hit the target; to hit the nail on the head"
+  },
+  {
+    "source_idiom": "traktować jak powietrze",
+    "target_idiom": "hacer el vacío",
+    "source_meaning": "to cut someone dead, to give someone the cold shoulder (to completely ignore someone)",
+    "target_meaning": "to give the cold shoulder"
+  },
+  {
+    "source_idiom": "trzy po trzy",
+    "target_idiom": "sin pies ni cabeza",
+    "source_meaning": "meaningless, pointless, senseless",
+    "target_meaning": "senseless; nonsensical"
+  },
+  {
+    "source_idiom": "trzymać buzię na kłódkę",
+    "target_idiom": "tener los labios sellados",
+    "source_meaning": "to keep one's mouth shut, one's lips are sealed (to not reveal a secret)",
+    "target_meaning": "to keep one's lips sealed; to keep a secret"
+  },
+  {
+    "source_idiom": "trzymać kciuki",
+    "target_idiom": "cruzar los dedos",
+    "source_meaning": "to keep one's fingers crossed [ (+ accusative) ]",
+    "target_meaning": "to cross one's fingers."
+  },
+  {
+    "source_idiom": "trzymać rękę na pulsie",
+    "target_idiom": "estar en el cuento",
+    "source_meaning": "to keep one's finger on the pulse",
+    "target_meaning": "to be in the loop; to be in the know"
+  },
+  {
+    "source_idiom": "trzymać się za kieszeń",
+    "target_idiom": "mano de guagua",
+    "source_meaning": "to be stingy, to be ungenerous",
+    "target_meaning": "stingy person"
+  },
+  {
+    "source_idiom": "trzymać straż",
+    "target_idiom": "montar la guardia",
+    "source_meaning": "to keep guard, to keep watch, to stand guard, to stand watch",
+    "target_meaning": "to stand guard"
+  },
+  {
+    "source_idiom": "trzymać w ryzach",
+    "target_idiom": "meter en cintura",
+    "source_meaning": "to keep in check (to discipline)",
+    "target_meaning": "to restrict; to bring into line; to bring to heel"
+  },
+  {
+    "source_idiom": "trzymać łapy przy sobie",
+    "target_idiom": "guardar las distancias",
+    "source_meaning": "to keep one's hands to oneself",
+    "target_meaning": "to keep one's distance"
+  },
+  {
+    "source_idiom": "tu i ówdzie",
+    "target_idiom": "aquí y allí",
+    "source_meaning": "here and there, in places",
+    "target_meaning": "here and there"
+  },
+  {
+    "source_idiom": "tu leży pies pogrzebany",
+    "target_idiom": "la madre del cordero",
+    "source_meaning": "therein lies the rub; that's the crux of the matter; that's the main obstacle; that's the whole point",
+    "target_meaning": "the rub; the fact of the matter"
+  },
+  {
+    "source_idiom": "tu się zgina dziób pingwina",
+    "target_idiom": "decir misa",
+    "source_meaning": "used to express complete disregard for someone or something",
+    "target_meaning": "used in various expressions to radically dismiss what another person may say or do"
+  },
+  {
+    "source_idiom": "tupot białych mew",
+    "target_idiom": "estar de goma",
+    "source_meaning": "hangover, morning after (illness caused by heavy drinking)",
+    "target_meaning": "to be hungover"
+  },
+  {
+    "source_idiom": "tuż, tuż",
+    "target_idiom": "casi casi",
+    "source_meaning": "almost, nearly, right, just (very close in time or space)",
+    "target_meaning": "very close, almost"
+  },
+  {
+    "source_idiom": "twardy orzech do zgryzienia",
+    "target_idiom": "hueso duro de roer",
+    "source_meaning": "hard nut to crack (problem that is challenging to solve)",
+    "target_meaning": "tough nut to crack"
+  },
+  {
+    "source_idiom": "tym niemniej",
+    "target_idiom": "con todo",
+    "source_meaning": "however, nevertheless, nonetheless",
+    "target_meaning": "nevertheless, however, yet, nonetheless"
+  },
+  {
+    "source_idiom": "tył na przód",
+    "target_idiom": "a contramano",
+    "source_meaning": "backward, back to front, wrong side out (turned so that the back is now at the front)",
+    "target_meaning": "in the other direction; the wrong way"
+  },
+  {
+    "source_idiom": "uchodzić z życiem",
+    "target_idiom": "escaparse en una tabla",
+    "source_meaning": "to get out alive, to escape with one's life",
+    "target_meaning": "to have a lucky escape; to get out of a tight corner"
+  },
+  {
+    "source_idiom": "uchylić rąbka tajemnicy",
+    "target_idiom": "dar un cuarto al pregonero",
+    "source_meaning": "to let the cat out of the bag, to spill the tea",
+    "target_meaning": "to let the cat out of the bag"
+  },
+  {
+    "source_idiom": "udawać Greka",
+    "target_idiom": "hacerse el longuis",
+    "source_meaning": "to play stupid (to pretend not to know or understand something)",
+    "target_meaning": "to play dumb"
+  },
+  {
+    "source_idiom": "uderzać po kieszeni",
+    "target_idiom": "salir más caro que un hijo tonto",
+    "source_meaning": "to be hard on the pocket, to burn a hole in one's pocket [ accusative ]",
+    "target_meaning": "to cost a pretty penny; to cost an arm and a leg"
+  },
+  {
+    "source_idiom": "uderzać w kimono",
+    "target_idiom": "planchar la oreja",
+    "source_meaning": "to hit the sack",
+    "target_meaning": "to hit the sack"
+  },
+  {
+    "source_idiom": "umarł w butach",
+    "target_idiom": "no tener remedio",
+    "source_meaning": "used to indicate that the situation is hopeless and nothing can be done about it",
+    "target_meaning": "to be a lost cause; to be incorrigible"
+  },
+  {
+    "source_idiom": "umywać ręce",
+    "target_idiom": "lavarse las manos",
+    "source_meaning": "to wash one's hands [ (+ genitive) ]",
+    "target_meaning": "to wash one's hands of"
+  },
+  {
+    "source_idiom": "upiec dwie pieczenie na jednym ogniu",
+    "target_idiom": "matar dos pájaros de un tiro",
+    "source_meaning": "to kill two birds with one stone",
+    "target_meaning": "to kill two birds with one stone"
+  },
+  {
+    "source_idiom": "uprawiać miłość",
+    "target_idiom": "hacer el amor",
+    "source_meaning": "to make love (to have sex)",
+    "target_meaning": "to make love, have sex"
+  },
+  {
+    "source_idiom": "uprawiać seks",
+    "target_idiom": "echar un palo",
+    "source_meaning": "to have sex",
+    "target_meaning": "to have sex"
+  },
+  {
+    "source_idiom": "urodzić się w czepku",
+    "target_idiom": "nacer de pie",
+    "source_meaning": "to be born under a lucky star",
+    "target_meaning": "to be born lucky"
+  },
+  {
+    "source_idiom": "usiąść okrakiem na barykadzie",
+    "target_idiom": "entre dos aguas",
+    "source_meaning": "to sit on the fence",
+    "target_meaning": "on the fence"
+  },
+  {
+    "source_idiom": "ustąpić miejsca",
+    "target_idiom": "dar el brazo a torcer",
+    "source_meaning": "to give way (to be followed, succeeded, or replaced by)",
+    "target_meaning": "to give in or give way, concede one's opinions, allow yourself to be persuaded"
+  },
+  {
+    "source_idiom": "usłany różami",
+    "target_idiom": "lecho de rosas",
+    "source_meaning": "being a bed of roses",
+    "target_meaning": "bed of roses"
+  },
+  {
+    "source_idiom": "utrzeć nosa",
+    "target_idiom": "poner alguien en su sitio",
+    "source_meaning": "to cut down to size (to humble or humiliate, especially someone or something that is perceived as overly domineering or too proud)",
+    "target_meaning": "to put someone in their place"
+  },
+  {
+    "source_idiom": "utrzymywać się przy życiu",
+    "target_idiom": "quedarle cuerda",
+    "source_meaning": "to keep going, to keep living (to not die despite difficult conditions such as disease or age)",
+    "target_meaning": "to have plenty of life left in (one)"
+  },
+  {
+    "source_idiom": "uzbroić się w cierpliwość",
+    "target_idiom": "tener más paciencia que el santo Job",
+    "source_meaning": "to be patient",
+    "target_meaning": "to have the patience of Job"
+  },
+  {
+    "source_idiom": "w biegu",
+    "target_idiom": "a buen paso",
+    "source_meaning": "at a run, on the double, running, on the go",
+    "target_meaning": "on the double (fast)"
+  },
+  {
+    "source_idiom": "w cały świat",
+    "target_idiom": "sin ton ni son",
+    "source_meaning": "without rhyme or reason, incoherently, chaotically",
+    "target_meaning": "anyhow; haphazardly; without rhyme or reason"
+  },
+  {
+    "source_idiom": "w całym tego słowa znaczeniu",
+    "target_idiom": "por antonomasia",
+    "source_meaning": "in every sense of the word; par excellence",
+    "target_meaning": "par excellence"
+  },
+  {
+    "source_idiom": "w ciąży",
+    "target_idiom": "en estado de buena esperanza",
+    "source_meaning": "pregnant",
+    "target_meaning": "expecting (pregnant)"
+  },
+  {
+    "source_idiom": "w czarnych kolorach",
+    "target_idiom": "verlo todo negro",
+    "source_meaning": "with low hopes, pessimistically",
+    "target_meaning": "to be pessimistic"
+  },
+  {
+    "source_idiom": "w diabły",
+    "target_idiom": "a lo lejos",
+    "source_meaning": "far away",
+    "target_meaning": "far away; yonder"
+  },
+  {
+    "source_idiom": "w dobrej wierze",
+    "target_idiom": "de buena fe",
+    "source_meaning": "in good faith",
+    "target_meaning": "in good faith"
+  },
+  {
+    "source_idiom": "w dupie byłeś, gówno widziałeś",
+    "target_idiom": "zapatero, a tus zapatos",
+    "source_meaning": "you don't know what you're talking about, you don't know shit from Shinola",
+    "target_meaning": "cobbler, keep to your last (used to criticize someone who opines about a subject without knowing it)"
+  },
+  {
+    "source_idiom": "w dupie szczypie",
+    "target_idiom": "dar la tabarra",
+    "source_meaning": "something pisses someone off",
+    "target_meaning": "to piss someone off; get someone's goat"
+  },
+  {
+    "source_idiom": "w dwójnasób",
+    "target_idiom": "en tándem",
+    "source_meaning": "twice, doubly",
+    "target_meaning": "in twos; two-handed"
+  },
+  {
+    "source_idiom": "w gorącej wodzie kąpany",
+    "target_idiom": "de mecha corta",
+    "source_meaning": "impatient, impulsive, hotheaded",
+    "target_meaning": "short-tempered"
+  },
+  {
+    "source_idiom": "w gości",
+    "target_idiom": "visita conyugal",
+    "source_meaning": "for a visit",
+    "target_meaning": "conjugal visit"
+  },
+  {
+    "source_idiom": "w głos",
+    "target_idiom": "a voz en cuello",
+    "source_meaning": "at the top of one's voice",
+    "target_meaning": "at the top of one's voice"
+  },
+  {
+    "source_idiom": "w istocie",
+    "target_idiom": "para más datos",
+    "source_meaning": "as a matter of fact, essentially, in essence, in fact, in point of fact",
+    "target_meaning": "as a matter of fact; by the way; to be precise; to boot."
+  },
+  {
+    "source_idiom": "w kontakcie",
+    "target_idiom": "a tono",
+    "source_meaning": "in touch",
+    "target_meaning": "in tune"
+  },
+  {
+    "source_idiom": "w kupie",
+    "target_idiom": "al alimón",
+    "source_meaning": "jointly, together",
+    "target_meaning": "jointly, together"
+  },
+  {
+    "source_idiom": "w locie",
+    "target_idiom": "sobre la marcha",
+    "source_meaning": "on the fly (spontaneously or extemporaneously)",
+    "target_meaning": "on the fly, on the go, as one goes along"
+  },
+  {
+    "source_idiom": "w lot",
+    "target_idiom": "en cero coma",
+    "source_meaning": "in a flash, in no time",
+    "target_meaning": "in no time; in nothing flat; in a flash"
+  },
+  {
+    "source_idiom": "w myśl",
+    "target_idiom": "del mismo modo",
+    "source_meaning": "in the spirit of (similar to)",
+    "target_meaning": "similarly, in the same vein, in the same way, likewise, in the same manner, by the same token, in a similar way"
+  },
+  {
+    "source_idiom": "w najlepszym wypadku",
+    "target_idiom": "a todo tirar",
+    "source_meaning": "best-case scenario",
+    "target_meaning": "at most; best case scenario"
+  },
+  {
+    "source_idiom": "w ogniu",
+    "target_idiom": "estar que se sale",
+    "source_meaning": "ablaze, on fire",
+    "target_meaning": "to be on fire; to be on a roll"
+  },
+  {
+    "source_idiom": "w paszczy lwa",
+    "target_idiom": "en los cuernos del toro",
+    "source_meaning": "in the lion's den (in a hostile environment)",
+    "target_meaning": "in the lion's den"
+  },
+  {
+    "source_idiom": "w pełnej krasie",
+    "target_idiom": "por todo lo alto",
+    "source_meaning": "in all one's glory",
+    "target_meaning": "with pomp and circumstance; in all one's glory"
+  },
+  {
+    "source_idiom": "w pierwszym rzędzie",
+    "target_idiom": "antes que nada",
+    "source_meaning": "above all, first of all",
+    "target_meaning": "first of all, before anything else, first off, before all else, first and foremost, above all, before everything else"
+  },
+  {
+    "source_idiom": "w plecy",
+    "target_idiom": "con una mano atrás y otra delante",
+    "source_meaning": "down, behind, having lost",
+    "target_meaning": "down and out (poor)"
+  },
+  {
+    "source_idiom": "w podskokach",
+    "target_idiom": "en menos que canta un gallo",
+    "source_meaning": "in a flash, in two shakes (very quickly)",
+    "target_meaning": "in two shakes of a lamb's tail, in a jiffy (very quickly)"
+  },
+  {
+    "source_idiom": "w pogotowiu",
+    "target_idiom": "en ristre",
+    "source_meaning": "at the ready, on one's toes (ready; in a state of preparation or waiting; in position or anticipation)",
+    "target_meaning": "at the ready"
+  },
+  {
+    "source_idiom": "w pojedynkę",
+    "target_idiom": "a solas",
+    "source_meaning": "alone, solo, single-handedly",
+    "target_meaning": "on one's own, alone"
+  },
+  {
+    "source_idiom": "w porę",
+    "target_idiom": "a su hora",
+    "source_meaning": "in time, on time, timelily (so that something happens or is done at the right time)",
+    "target_meaning": "at the right time, on time"
+  },
+  {
+    "source_idiom": "w powijakach",
+    "target_idiom": "en ciernes",
+    "source_meaning": "aborning, in diapers (in its initial stages)",
+    "target_meaning": "in the making, fledgling, soon-to-be"
+  },
+  {
+    "source_idiom": "w przeciwnym wypadku",
+    "target_idiom": "de otro modo",
+    "source_meaning": "or, or else, otherwise",
+    "target_meaning": "otherwise"
+  },
+  {
+    "source_idiom": "w punkt",
+    "target_idiom": "de libro",
+    "source_meaning": "on point, spot-on (excellent; bold; performing well)",
+    "target_meaning": "spot on; perfecto; perfect"
+  },
+  {
+    "source_idiom": "w razie czego",
+    "target_idiom": "por si las moscas",
+    "source_meaning": "just in case (to provide for the possible event that)",
+    "target_meaning": "just in case"
+  },
+  {
+    "source_idiom": "w rzeczy samej",
+    "target_idiom": "de veras",
+    "source_meaning": "actually, forsooth, indeed, really, sure enough, verily",
+    "target_meaning": "truly, really"
+  },
+  {
+    "source_idiom": "w rzeczywistości",
+    "target_idiom": "de deveras",
+    "source_meaning": "actually, in fact",
+    "target_meaning": "really; actually"
+  },
+  {
+    "source_idiom": "w rękawiczkach",
+    "target_idiom": "a so capa",
+    "source_meaning": "discreetly",
+    "target_meaning": "secretly"
+  },
+  {
+    "source_idiom": "w samą porę",
+    "target_idiom": "como agua de mayo",
+    "source_meaning": "in the nick of time",
+    "target_meaning": "in the nick of time"
+  },
+  {
+    "source_idiom": "w sensie",
+    "target_idiom": "en son de",
+    "source_meaning": "as in (in the sense of)",
+    "target_meaning": "in; as (in a certain way)"
+  },
+  {
+    "source_idiom": "w skrytości serca",
+    "target_idiom": "en su fuero interno",
+    "source_meaning": "in one's heart of hearts",
+    "target_meaning": "deep down; in one's heart of hearts"
+  },
+  {
+    "source_idiom": "w szczególności",
+    "target_idiom": "en buena parte",
+    "source_meaning": "especially, mainly, mostly, particularly",
+    "target_meaning": "mostly, mainly, largely, for the most part"
+  },
+  {
+    "source_idiom": "w trymiga",
+    "target_idiom": "en un decir Jesús",
+    "source_meaning": "in a flash, in a jiffy, in no time, pronto, quickly",
+    "target_meaning": "in a jiffy, in no time at all"
+  },
+  {
+    "source_idiom": "w zasadzie",
+    "target_idiom": "a fe",
+    "source_meaning": "in fact (actually, in truth)",
+    "target_meaning": "actually; truth be told"
+  },
+  {
+    "source_idiom": "walić głową w mur",
+    "target_idiom": "darse de cabezadas",
+    "source_meaning": "to bang one's head against a brick wall",
+    "target_meaning": "To bang one's head against a brick wall"
+  },
+  {
+    "source_idiom": "wbijać nóż w plecy",
+    "target_idiom": "puñalada trapera",
+    "source_meaning": "to stab in the back  ",
+    "target_meaning": "stab in the back"
+  },
+  {
+    "source_idiom": "we własnej osobie",
+    "target_idiom": "en carne y hueso",
+    "source_meaning": "in the flesh",
+    "target_meaning": "in the flesh (with one's own body and presence)"
+  },
+  {
+    "source_idiom": "wejść na ambicję",
+    "target_idiom": "arrojar el guante",
+    "source_meaning": "to challenge someone to do something, calling into question their honor",
+    "target_meaning": "to throw down the gauntlet"
+  },
+  {
+    "source_idiom": "wejść w słowo",
+    "target_idiom": "cortarla",
+    "source_meaning": "to cut off, to interrupt  ",
+    "target_meaning": "to cut it out (stop, cease)"
+  },
+  {
+    "source_idiom": "wieczny sen",
+    "target_idiom": "sueño pesado",
+    "source_meaning": "eternal sleep (death)",
+    "target_meaning": "deep sleep"
+  },
+  {
+    "source_idiom": "wieczór kawalerski",
+    "target_idiom": "fiesta de salchichas",
+    "source_meaning": "bachelor party, stag party (party held for a man who is about to be married)",
+    "target_meaning": "sausage party; sausage fest"
+  },
+  {
+    "source_idiom": "wiek matuzalemowy",
+    "target_idiom": "tercera edad",
+    "source_meaning": "very old age",
+    "target_meaning": "old age, retirement age"
+  },
+  {
+    "source_idiom": "wierzchołek góry lodowej",
+    "target_idiom": "punta del iceberg",
+    "source_meaning": "tip of the iceberg (small indication of a larger possibility)",
+    "target_meaning": "tip of the iceberg"
+  },
+  {
+    "source_idiom": "wierzgać przeciw ościeniowi",
+    "target_idiom": "dar coces contra el aguijón",
+    "source_meaning": "to buck, to kick against the pricks (to oppose authority obstinately, to struggle against one's fate)",
+    "target_meaning": "to kick against the pricks"
+  },
+  {
+    "source_idiom": "wierzyć na słowo",
+    "target_idiom": "tomar la palabra",
+    "source_meaning": "to take someone's word for it  ",
+    "target_meaning": "to take someone's word for it; to believe what somebody says"
+  },
+  {
+    "source_idiom": "wieszać psy",
+    "target_idiom": "echar pestes",
+    "source_meaning": "to talk trash (to slander) [ (+ locative) ]",
+    "target_meaning": "to rant (at); to talk trash (about)"
+  },
+  {
+    "source_idiom": "wilk w jagnięcej skórze",
+    "target_idiom": "lobo con piel de cordero",
+    "source_meaning": "wolf in sheep's clothing",
+    "target_meaning": "wolf in sheep's clothing"
+  },
+  {
+    "source_idiom": "wisienka na torcie",
+    "target_idiom": "guinda de la tarta",
+    "source_meaning": "cherry on top, icing on the cake",
+    "target_meaning": "icing on the cake"
+  },
+  {
+    "source_idiom": "wisieć i powiewać",
+    "target_idiom": "dar igual",
+    "source_meaning": "to make no difference",
+    "target_meaning": "to not mind, couldn't care less, to make no difference either way"
+  },
+  {
+    "source_idiom": "wiązać koniec z końcem",
+    "target_idiom": "llegar a fin de mes",
+    "source_meaning": "to make do, to make ends meet",
+    "target_meaning": "to make ends meet"
+  },
+  {
+    "source_idiom": "wodzić rej",
+    "target_idiom": "no va más",
+    "source_meaning": "to be on the leading edge, to be top dog (to lead a group of people or to excel at something ) ",
+    "target_meaning": "top dog; number one; ultimate; something head and shoulders above the rest"
+  },
+  {
+    "source_idiom": "wolna miłość",
+    "target_idiom": "espíritu libre",
+    "source_meaning": "free love",
+    "target_meaning": "free spirit"
+  },
+  {
+    "source_idiom": "wolna ręka",
+    "target_idiom": "dar rienda suelta",
+    "source_meaning": "free hand, free rein",
+    "target_meaning": "to give free rein"
+  },
+  {
+    "source_idiom": "wozić drewno do lasu",
+    "target_idiom": "llevar hierro a Vizcaya",
+    "source_meaning": "to bring owls to Athens, to carry coals to Newcastle (to do something that is not needed)",
+    "target_meaning": "to carry coals to Newcastle"
+  },
+  {
+    "source_idiom": "wpaść z deszczu pod rynnę",
+    "target_idiom": "de Guatemala a Guatepeor",
+    "source_meaning": "to jump out of the frying pan, into the fire",
+    "target_meaning": "out of the frying pan into the fire; going from bad to worse"
+  },
+  {
+    "source_idiom": "wprowadzić w błąd",
+    "target_idiom": "dar atole con el dedo",
+    "source_meaning": "to mislead (to deceive by lies or other false impression)",
+    "target_meaning": "to deceive (someone)."
+  },
+  {
+    "source_idiom": "wrzucać na luz",
+    "target_idiom": "aflojar las riendas",
+    "source_meaning": "to lighten up, to take a chill pill, to take one's foot off the gas, to wind down",
+    "target_meaning": "to loosen up (act less seriously)"
+  },
+  {
+    "source_idiom": "wrzód na dupie",
+    "target_idiom": "grano en el culo",
+    "source_meaning": "pain in the ass, a troublesome irritation",
+    "target_meaning": "pain in the ass"
+  },
+  {
+    "source_idiom": "wróżyć z fusów",
+    "target_idiom": "echar las cartas",
+    "source_meaning": "to read the tea leaves (to predict and depict things about future events without relying on sufficiently certain and reliable premises)  ",
+    "target_meaning": "to read someone's fortune (using cards, for example tarot cards)"
+  },
+  {
+    "source_idiom": "wręcz przeciwnie",
+    "target_idiom": "todo lo contrario",
+    "source_meaning": "quite the contrary, quite the opposite",
+    "target_meaning": "just the opposite, on the contrary"
+  },
+  {
+    "source_idiom": "wsadzić kij w mrowisko",
+    "target_idiom": "revolver la feria",
+    "source_meaning": "to put the cat among the pigeons, to stir the pot",
+    "target_meaning": "to set the cat among the pigeons"
+  },
+  {
+    "source_idiom": "wsadzić kij w szprychy",
+    "target_idiom": "poner palos en las ruedas",
+    "source_meaning": "to put a spoke in someone's wheel",
+    "target_meaning": "to throw a spanner in the works"
+  },
+  {
+    "source_idiom": "wsadzić nos",
+    "target_idiom": "meter las narices en",
+    "source_meaning": "to stick one's nose in [ (+ accusative)]",
+    "target_meaning": "to stick one's nose in"
+  },
+  {
+    "source_idiom": "wstawać lewą nogą",
+    "target_idiom": "levantarse con el pie izquierdo",
+    "source_meaning": "to get up on the wrong side of the bed",
+    "target_meaning": "to get out of bed on the wrong side"
+  },
+  {
+    "source_idiom": "wszystkie ręce na pokład",
+    "target_idiom": "manos a la obra",
+    "source_meaning": "all hands on deck (call for everyone to participate in something)",
+    "target_meaning": "hands on deck, let's get to work, let's get to it, get down to work, get on with it, get down to business"
+  },
+  {
+    "source_idiom": "wszystko dobre, co się dobrze kończy",
+    "target_idiom": "al fin y al cabo",
+    "source_meaning": "all's well that ends well",
+    "target_meaning": "when all is said and done"
+  },
+  {
+    "source_idiom": "wte i wewte",
+    "target_idiom": "acá y allá",
+    "source_meaning": "hither and thither",
+    "target_meaning": "here and there; to and fro; hither and thither"
+  },
+  {
+    "source_idiom": "wycisnąć siódme poty",
+    "target_idiom": "pasar por el aro",
+    "source_meaning": "to make someone jump through hoops, to make someone leap through hoops",
+    "target_meaning": "to jump through hoops; to fall in line"
+  },
+  {
+    "source_idiom": "wyciągnąć holopy",
+    "target_idiom": "colgar los tenis",
+    "source_meaning": "to die",
+    "target_meaning": "to die"
+  },
+  {
+    "source_idiom": "wyjść na jaw",
+    "target_idiom": "salir a la luz",
+    "source_meaning": "to come to light",
+    "target_meaning": "to come to light"
+  },
+  {
+    "source_idiom": "wyjść naprzeciw",
+    "target_idiom": "hacer un hueco",
+    "source_meaning": "to accommodate, to reach out to, to meet halfway  ",
+    "target_meaning": "to fit in; to make space (for someone)"
+  },
+  {
+    "source_idiom": "wyjść po angielsku",
+    "target_idiom": "despedida a la francesa",
+    "source_meaning": "to take French leave (to take a sudden or unannounced departure)",
+    "target_meaning": "French leave; a sudden or unannounced departure, or one taken without permission; to go AWOL"
+  },
+  {
+    "source_idiom": "wykapany",
+    "target_idiom": "de tal palo, tal astilla",
+    "source_meaning": "chip off the old block, the spitting image of",
+    "target_meaning": "chip off the old block"
+  },
+  {
+    "source_idiom": "wylatywać z głowy",
+    "target_idiom": "dejarse en el tintero",
+    "source_meaning": "to slip someone's mind (to be forgotten by someone; to escape someone's memory)",
+    "target_meaning": "to forget about something; to have something slip one's mind"
+  },
+  {
+    "source_idiom": "wylać morze atramentu",
+    "target_idiom": "acabar con",
+    "source_meaning": "to exhaust (to write a lot about a given topic, to the point where nothing else can be said)",
+    "target_meaning": "to exhaust, use up"
+  },
+  {
+    "source_idiom": "wymówić posłuszeństwo",
+    "target_idiom": "descubrir el agua tibia",
+    "source_meaning": "to reinvent the wheel",
+    "target_meaning": "to reinvent the wheel"
+  },
+  {
+    "source_idiom": "wynosić pod niebiosa",
+    "target_idiom": "poner por las nubes",
+    "source_meaning": "to praise to the skies (to praise a lot)",
+    "target_meaning": "to praise to the skies, to sing the praises of (to speak highly of)"
+  },
+  {
+    "source_idiom": "wypaść z łask",
+    "target_idiom": "caer en desgracia",
+    "source_meaning": "to fall from grace (to fall from one's current social position to something lower; to lose one's prestige, status, or power.)",
+    "target_meaning": "to fall from grace"
+  },
+  {
+    "source_idiom": "wypierdek mamuta",
+    "target_idiom": "faltar el respeto",
+    "source_meaning": "someone who is not respected",
+    "target_meaning": "to have no respect"
+  },
+  {
+    "source_idiom": "wyprowadzić z równowagi",
+    "target_idiom": "inclinar la balanza",
+    "source_meaning": "to disequilibrate, to unhinge, to throw off balance [ accusative ]",
+    "target_meaning": "to tip the scales"
+  },
+  {
+    "source_idiom": "wypruwać sobie żyły",
+    "target_idiom": "sudar a mares",
+    "source_meaning": "to sweat blood, to sweat one's guts out",
+    "target_meaning": "to sweat buckets"
+  },
+  {
+    "source_idiom": "wyrzucić na bruk",
+    "target_idiom": "echar con cajas destempladas",
+    "source_meaning": "to kick to the curb (to evict a person that has no other dwelling; to make someone homeless)",
+    "target_meaning": "to kick out; send packing"
+  },
+  {
+    "source_idiom": "wyskoczyć jak filip z konopi",
+    "target_idiom": "salir por peteneras",
+    "source_meaning": "to say something unexpected, inappropriate, untimely, or out of the blue",
+    "target_meaning": "to come up with something odd; to say something inappropriate"
+  },
+  {
+    "source_idiom": "wywierać gębę",
+    "target_idiom": "montarse historias",
+    "source_meaning": "to make up stories; to invent",
+    "target_meaning": "to make things up; to fabricate lies"
+  },
+  {
+    "source_idiom": "wyścig z czasem",
+    "target_idiom": "contra el reloj",
+    "source_meaning": "race against time, race against the clock",
+    "target_meaning": "against the clock, race against time, with a deadline, in a hurry"
+  },
+  {
+    "source_idiom": "wyżej sra, niż dupę ma",
+    "target_idiom": "no tener abuela",
+    "source_meaning": "used when someone considers themselves better than the speaker thinks they ought to; (roughly) they have their head up their ass; they are full of themselves",
+    "target_meaning": "to have a high opinion of oneself; to be full of oneself"
+  },
+  {
+    "source_idiom": "wyższe sfery",
+    "target_idiom": "flor y nata",
+    "source_meaning": "high society, jet set, the quality, upper crust",
+    "target_meaning": "the crème de la crème; the cream (of society)"
+  },
+  {
+    "source_idiom": "wzdłuż i wszerz",
+    "target_idiom": "en el mundo mundial",
+    "source_meaning": "far and wide",
+    "target_meaning": "in the whole wide world"
+  },
+  {
+    "source_idiom": "wziąć nogi za pas",
+    "target_idiom": "poner pies en polvorosa",
+    "source_meaning": "to take to one's heels, to run away",
+    "target_meaning": "to take to one's heels; flee"
+  },
+  {
+    "source_idiom": "wziąć pełną odpowiedzialność",
+    "target_idiom": "hacerse cargo",
+    "source_meaning": "to take responsibility",
+    "target_meaning": "to take charge"
+  },
+  {
+    "source_idiom": "wziąć pod uwagę",
+    "target_idiom": "tomar en cuenta",
+    "source_meaning": "to take into account",
+    "target_meaning": "to take into account; to keep in mind"
+  },
+  {
+    "source_idiom": "wziąć sprawy w swoje ręce",
+    "target_idiom": "tomarse la justicia por su mano",
+    "source_meaning": "to take matters into one's own hands",
+    "target_meaning": "to take the law into one's own hands"
+  },
+  {
+    "source_idiom": "wziąć udział",
+    "target_idiom": "darse de alta",
+    "source_meaning": "to participate, to take part, to join in (to involve oneself in something) [ (+ locative) ]",
+    "target_meaning": "to sign up (to add one's own name to a list of people who are participating in something)"
+  },
+  {
+    "source_idiom": "wziąć w łapę",
+    "target_idiom": "entrar al trapo",
+    "source_meaning": "to take a bribe",
+    "target_meaning": "to take the bait"
+  },
+  {
+    "source_idiom": "wziąć za pewnik",
+    "target_idiom": "dar por hecho",
+    "source_meaning": "to take for granted",
+    "target_meaning": "to take for granted, assume"
+  },
+  {
+    "source_idiom": "wzloty i upadki",
+    "target_idiom": "tener sus más y sus menos",
+    "source_meaning": "ups and downs",
+    "target_meaning": "to have pros and cons; or ups and downs"
+  },
+  {
+    "source_idiom": "wąchać kwiatki od spodu",
+    "target_idiom": "criar malvas",
+    "source_meaning": "to push up daisies (to be dead)",
+    "target_meaning": "to push up daisies"
+  },
+  {
+    "source_idiom": "włazić w dupę",
+    "target_idiom": "lamer el culo",
+    "source_meaning": "to brownnose, to fawn, to lickspittle (to flatter someone (especially a superior) in an obsequious manner, and to support their every opinion)  ",
+    "target_meaning": "to kiss ass (US), to kiss arse (UK); to brownnose, to suck up"
+  },
+  {
+    "source_idiom": "włożyć między bajki",
+    "target_idiom": "comerse el marrón",
+    "source_meaning": "to come clean, to own up to something, to fess up (to admit that what one said is untrue)",
+    "target_meaning": "to own up, bite the bullet"
+  },
+  {
+    "source_idiom": "włożyć mundur",
+    "target_idiom": "entrar en quintas",
+    "source_meaning": "to join a police or military service",
+    "target_meaning": "to come of age for military service; to reach the age for call-up"
+  },
+  {
+    "source_idiom": "z biegiem czasu",
+    "target_idiom": "en cuestión de",
+    "source_meaning": "over time, in time (as time passes)",
+    "target_meaning": "over the course of, in a matter of"
+  },
+  {
+    "source_idiom": "z całego serca",
+    "target_idiom": "en cuerpo y alma",
+    "source_meaning": "wholeheartedly, with all one's heart",
+    "target_meaning": "with all one's heart"
+  },
+  {
+    "source_idiom": "z deka",
+    "target_idiom": "canto de un duro",
+    "source_meaning": "a little, a bit, slightly",
+    "target_meaning": "tiny weeny bit"
+  },
+  {
+    "source_idiom": "z drogi",
+    "target_idiom": "hacer sitio",
+    "source_meaning": "gangway, make way (clear a path!)",
+    "target_meaning": "to make space; to make room"
+  },
+  {
+    "source_idiom": "z dużej chmury mały deszcz",
+    "target_idiom": "mucho ruido y pocas nueces",
+    "source_meaning": "much ado about nothing; great cry and little wool; all talk and no action; all bark and no bite (big changes could have been expected, but they did not happen)",
+    "target_meaning": "much ado about nothing; all bark and no bite, all talk and no action"
+  },
+  {
+    "source_idiom": "z dziada pradziada",
+    "target_idiom": "de mano en mano",
+    "source_meaning": "for generations",
+    "target_meaning": "down through the generations"
+  },
+  {
+    "source_idiom": "z gwinta",
+    "target_idiom": "a boca de jarro",
+    "source_meaning": "directly from a bottle or a carton, without using a glass",
+    "target_meaning": "without a glass or cup"
+  },
+  {
+    "source_idiom": "z górki na pazurki",
+    "target_idiom": "cagando hostias",
+    "source_meaning": "very fast from top to bottom",
+    "target_meaning": "extremely fast"
+  },
+  {
+    "source_idiom": "z głębi serca",
+    "target_idiom": "de corazón",
+    "source_meaning": "from the bottom of one's heart",
+    "target_meaning": "from the bottom of one's heart; sincerely"
+  },
+  {
+    "source_idiom": "z kosmosu",
+    "target_idiom": "por las nubes",
+    "source_meaning": "outlandish, absurd, outrageously high",
+    "target_meaning": "sky-high, through the roof, off the charts, at an extortionate price"
+  },
+  {
+    "source_idiom": "z krwi i kości",
+    "target_idiom": "carne y sangre",
+    "source_meaning": "flesh and blood (real, substantial)",
+    "target_meaning": "flesh and blood"
+  },
+  {
+    "source_idiom": "z marszu",
+    "target_idiom": "al punto",
+    "source_meaning": "at once, immediately, instantly, right away, straight away (without waiting)",
+    "target_meaning": "immediately, straight away"
+  },
+  {
+    "source_idiom": "z miłą chęcią",
+    "target_idiom": "a solaz",
+    "source_meaning": "willingly, gladly",
+    "target_meaning": "willingly; happily"
+  },
+  {
+    "source_idiom": "z nagła",
+    "target_idiom": "de golpe",
+    "source_meaning": "suddenly",
+    "target_meaning": "suddenly; all of a sudden"
+  },
+  {
+    "source_idiom": "z oddali",
+    "target_idiom": "en lontananza",
+    "source_meaning": "from afar",
+    "target_meaning": "in the distance"
+  },
+  {
+    "source_idiom": "z osobna",
+    "target_idiom": "por separado",
+    "source_meaning": "individually, separately, singly",
+    "target_meaning": "separately, individually, independently, singly, severally"
+  },
+  {
+    "source_idiom": "z otwartymi rękami",
+    "target_idiom": "abiertos los brazos",
+    "source_meaning": "with open arms, willingly, enthusiastically",
+    "target_meaning": "with open arms"
+  },
+  {
+    "source_idiom": "z pewnością",
+    "target_idiom": "a ciencia cierta",
+    "source_meaning": "absolutely, certainly, definitely, for sure",
+    "target_meaning": "for sure, for certain, without doubt"
+  },
+  {
+    "source_idiom": "z początku",
+    "target_idiom": "al principio",
+    "source_meaning": "at first, initially, to begin with",
+    "target_meaning": "at first, initially"
+  },
+  {
+    "source_idiom": "z polskiego na nasze",
+    "target_idiom": "en buen romance",
+    "source_meaning": "in layman's terms",
+    "target_meaning": "in plain English"
+  },
+  {
+    "source_idiom": "z powodu",
+    "target_idiom": "por obra y gracia de",
+    "source_meaning": "because of, due to, owing to [ genitive]",
+    "target_meaning": "thanks to; due to"
+  },
+  {
+    "source_idiom": "z pozoru",
+    "target_idiom": "por lo visto",
+    "source_meaning": "apparently, by all accounts, outwardly",
+    "target_meaning": "apparently, seemingly, from what one can see"
+  },
+  {
+    "source_idiom": "z pośpiechem",
+    "target_idiom": "a la brava",
+    "source_meaning": "hurriedly, hastily",
+    "target_meaning": "hastily"
+  },
+  {
+    "source_idiom": "z przekąsem",
+    "target_idiom": "ironías de la vida",
+    "source_meaning": "ironically, jeeringly, sneeringly",
+    "target_meaning": "ironically"
+  },
+  {
+    "source_idiom": "z przyjemnością",
+    "target_idiom": "de mil amores",
+    "source_meaning": "with pleasure",
+    "target_meaning": "with pleasure; more than happily"
+  },
+  {
+    "source_idiom": "z przytupem",
+    "target_idiom": "a lo grande",
+    "source_meaning": "with a bang",
+    "target_meaning": "in style, with a bang, in a big way"
+  },
+  {
+    "source_idiom": "z reguły",
+    "target_idiom": "por lo general",
+    "source_meaning": "as a rule, at large, commonly, generally, in general, mostly, usually",
+    "target_meaning": "generally, in general, by and large, usually, typically"
+  },
+  {
+    "source_idiom": "z trudem",
+    "target_idiom": "a trancas y barrancas",
+    "source_meaning": "with difficulty",
+    "target_meaning": "with great difficulty"
+  },
+  {
+    "source_idiom": "z tyłu liceum, z przodu muzeum",
+    "target_idiom": "andar como quinceañera",
+    "source_meaning": "mutton dressed as lamb (woman who tries to look like a very young person but her face shows her older age)",
+    "target_meaning": "to be mutton dressed as lamb"
+  },
+  {
+    "source_idiom": "z uporem maniaka",
+    "target_idiom": "erre que erre",
+    "source_meaning": "stubbornly, obstinately",
+    "target_meaning": "stubbornly, pigheadedly"
+  },
+  {
+    "source_idiom": "z uwagą",
+    "target_idiom": "echarse la manta",
+    "source_meaning": "advertently, alertly, attentively, carefully, closely, heedfully, intently, steadily, studiously, watchfully",
+    "target_meaning": "to observe attentively, to pay close attention."
+  },
+  {
+    "source_idiom": "z wyprzedzeniem",
+    "target_idiom": "adelantado a su época",
+    "source_meaning": "in advance, ahead of time",
+    "target_meaning": "ahead of one's time"
+  },
+  {
+    "source_idiom": "z własnej woli",
+    "target_idiom": "al albedrío",
+    "source_meaning": "voluntarily, of one's own accord",
+    "target_meaning": "voluntarily, of one's own free will"
+  },
+  {
+    "source_idiom": "z zimną krwią",
+    "target_idiom": "a sangre fría",
+    "source_meaning": "cold-bloodedly, in cold blood (in a ruthless and unfeeling manner, particularly as applied to first-degree murder committed without provocation and with malice aforethought)",
+    "target_meaning": "in cold blood (in a ruthless and unfeeling manner)"
+  },
+  {
+    "source_idiom": "z życiem",
+    "target_idiom": "al vivo",
+    "source_meaning": "with life, lively (energetically and quickly)",
+    "target_meaning": "in a lively way"
+  },
+  {
+    "source_idiom": "za chińskiego boga",
+    "target_idiom": "ni por esas",
+    "source_meaning": "all the tea in China; no way Jose; not in a million years",
+    "target_meaning": "not for all the tea in China; no way José"
+  },
+  {
+    "source_idiom": "za dnia",
+    "target_idiom": "de día",
+    "source_meaning": "by day, during daytime, in the daytime",
+    "target_meaning": "in the daytime"
+  },
+  {
+    "source_idiom": "za friko",
+    "target_idiom": "de gratis",
+    "source_meaning": "for free, free of charge",
+    "target_meaning": "for free, at no cost"
+  },
+  {
+    "source_idiom": "za jednym obrotem",
+    "target_idiom": "de un plumazo",
+    "source_meaning": "in one fell swoop",
+    "target_meaning": "suddenly, in a flash, at one stroke"
+  },
+  {
+    "source_idiom": "za kratkami",
+    "target_idiom": "entre rejas",
+    "source_meaning": "behind bars, in jail, in prison",
+    "target_meaning": "behind bars"
+  },
+  {
+    "source_idiom": "za miskę soczewicy",
+    "target_idiom": "venderse por un plato de lentejas",
+    "source_meaning": "for a song, for a mess of pottage, very cheaply",
+    "target_meaning": "to sell out; to sell one's birthright for a mess of pottage"
+  },
+  {
+    "source_idiom": "za młodu",
+    "target_idiom": "en la flor de la juventud",
+    "source_meaning": "in one's youth",
+    "target_meaning": "in the flower of one's youth"
+  },
+  {
+    "source_idiom": "za pasem",
+    "target_idiom": "a puertas",
+    "source_meaning": "around the corner (imminent)",
+    "target_meaning": "around the corner; coming up; about to"
+  },
+  {
+    "source_idiom": "za potrzebą",
+    "target_idiom": "hacer sus necesidades",
+    "source_meaning": "relieve oneself",
+    "target_meaning": "to do one's business, relieve oneself (excrete)"
+  },
+  {
+    "source_idiom": "za półdarmo",
+    "target_idiom": "a precio de huevo",
+    "source_meaning": "for a song, very cheaply",
+    "target_meaning": "very cheap"
+  },
+  {
+    "source_idiom": "za sprawą",
+    "target_idiom": "en concepto de",
+    "source_meaning": "by means of, through, via [ genitive]",
+    "target_meaning": "by means of; by way of; through"
+  },
+  {
+    "source_idiom": "za wszelką cenę",
+    "target_idiom": "a toda costa",
+    "source_meaning": "at all costs",
+    "target_meaning": "at all costs"
+  },
+  {
+    "source_idiom": "za zamkniętymi drzwiami",
+    "target_idiom": "detrás de la puerta",
+    "source_meaning": "behind closed doors",
+    "target_meaning": "behind closed doors"
+  },
+  {
+    "source_idiom": "zachodzić w ciążę",
+    "target_idiom": "salir de cuentas",
+    "source_meaning": "to fall pregnant (to become pregnant)",
+    "target_meaning": "to be due (of a woman, to be expected to give birth)"
+  },
+  {
+    "source_idiom": "zachodzić w głowę",
+    "target_idiom": "romperse la cabeza",
+    "source_meaning": "to rack one's brain, to scratch one's head",
+    "target_meaning": "to rack one's brain"
+  },
+  {
+    "source_idiom": "zachować pozory",
+    "target_idiom": "guardar las apariencias",
+    "source_meaning": "to keep up appearances (to pretend to be all right or that everything is going well; to maintain an appearance of wealth, comfort, or propriety)",
+    "target_meaning": "to keep up appearances"
+  },
+  {
+    "source_idiom": "zachować zimną krew",
+    "target_idiom": "mantener el tipo",
+    "source_meaning": "to keep one's cool (to remain composed, calm, and even-tempered, especially in a provocative situation)",
+    "target_meaning": "to keep one's cool"
+  },
+  {
+    "source_idiom": "zaciskać pasa",
+    "target_idiom": "apretarse el cinturón",
+    "source_meaning": "to tighten one's belt (to be more frugal; to make difficult economic savings due to a lowering of expected income)",
+    "target_meaning": "to tighten one's belt"
+  },
+  {
+    "source_idiom": "zacisnąć zęby",
+    "target_idiom": "morder la bala",
+    "source_meaning": "to grit one's teeth (to face up to a difficult or disagreeable situation, and deal with it)",
+    "target_meaning": "to bite the bullet"
+  },
+  {
+    "source_idiom": "zadzierać nosa",
+    "target_idiom": "picársela",
+    "source_meaning": "to give oneself airs, to prance",
+    "target_meaning": "to act conceitedly"
+  },
+  {
+    "source_idiom": "zaglądać do kieliszka",
+    "target_idiom": "pillar una cogorza",
+    "source_meaning": "to hit the bottle (to drink alcohol steadily and in excess, particularly in response to a setback)",
+    "target_meaning": "to go on a bender; to go out boozing"
+  },
+  {
+    "source_idiom": "zakochany po uszy",
+    "target_idiom": "beber los vientos",
+    "source_meaning": "madly in love, head over heels in love",
+    "target_meaning": "to be head over heels in love (with)"
+  },
+  {
+    "source_idiom": "zakopywać topór wojenny",
+    "target_idiom": "hacer las paces",
+    "source_meaning": "to bury the hatchet",
+    "target_meaning": "to make peace, to make amends, to make up"
+  },
+  {
+    "source_idiom": "zaleźć za skórę",
+    "target_idiom": "crispar los nervios",
+    "source_meaning": "to get on someone's wick, to get in someone's hair, to get under someone's skin (to be a nuisance to someone)",
+    "target_meaning": "to get on someone's nerves"
+  },
+  {
+    "source_idiom": "zamienić się w słuch",
+    "target_idiom": "ser todo oídos",
+    "source_meaning": "to be all ears (to be ready to listen)",
+    "target_meaning": "to be all ears"
+  },
+  {
+    "source_idiom": "zamieść pod dywan",
+    "target_idiom": "echar balones fuera",
+    "source_meaning": "to sweep under the rug (to conceal a problem)",
+    "target_meaning": "to dodge the issue"
+  },
+  {
+    "source_idiom": "zamknąć mordę",
+    "target_idiom": "callarse la boca",
+    "source_meaning": "to shut [one's] mug",
+    "target_meaning": "to shut one's mouth"
+  },
+  {
+    "source_idiom": "zamykać na klucz",
+    "target_idiom": "echar la llave",
+    "source_meaning": "to lock (to fasten with a lock)",
+    "target_meaning": "to lock up"
+  },
+  {
+    "source_idiom": "zataczać koło",
+    "target_idiom": "cerrar el círculo",
+    "source_meaning": "to come full circle",
+    "target_meaning": "to come full circle"
+  },
+  {
+    "source_idiom": "zbierać kurz",
+    "target_idiom": "quedarse para vestir santos",
+    "source_meaning": "to gather dust (to remain unused for a long period of time)",
+    "target_meaning": "to remain on the shelf (of a woman, remain unmarried)"
+  },
+  {
+    "source_idiom": "zbity z tropu",
+    "target_idiom": "irse de culo",
+    "source_meaning": "taken aback (surprised, shocked)",
+    "target_meaning": "to be taken aback or shocked"
+  },
+  {
+    "source_idiom": "zesrać się metr przed kiblem",
+    "target_idiom": "quedarse a la puerta",
+    "source_meaning": "to make a mistake on the home stretch and fail to achieve the goal",
+    "target_meaning": "to not quite make it; fall at the last hurdle"
+  },
+  {
+    "source_idiom": "zielone płuca",
+    "target_idiom": "balón de oxígeno",
+    "source_meaning": "green lungs (area of natural parkland within an urban region, supposed to replenish the air with oxygen)",
+    "target_meaning": "breathing space"
+  },
+  {
+    "source_idiom": "zielone światło",
+    "target_idiom": "luz verde",
+    "source_meaning": "green light (permission)",
+    "target_meaning": "green light, go-ahead, endorsement, approval, OK, blessing"
+  },
+  {
+    "source_idiom": "ziemia mlekiem i miodem płynąca",
+    "target_idiom": "atar los perros con longaniza",
+    "source_meaning": "land of milk and honey",
+    "target_meaning": "to be very abundant; to have streets paved with gold; to be the land of milk and honey"
+  },
+  {
+    "source_idiom": "ziemia niczyja",
+    "target_idiom": "campo de minas",
+    "source_meaning": "no man's land (disputed or uncontrolled territory)",
+    "target_meaning": "minefield"
+  },
+  {
+    "source_idiom": "zmiana otoczenia",
+    "target_idiom": "cambiar de aires",
+    "source_meaning": "change of scenery",
+    "target_meaning": "to have a change of scenery"
+  },
+  {
+    "source_idiom": "zmieszać z błotem",
+    "target_idiom": "poner a caldo",
+    "source_meaning": "to chew out, to harshly criticize",
+    "target_meaning": "to tell off, scold"
+  },
+  {
+    "source_idiom": "zmowa milczenia",
+    "target_idiom": "ley del silencio",
+    "source_meaning": "conspiracy of silence",
+    "target_meaning": "blue wall of silence"
+  },
+  {
+    "source_idiom": "znać jak własną kieszeń",
+    "target_idiom": "conocer la tierra que pisa",
+    "source_meaning": "to know like the back of one's hand",
+    "target_meaning": "to be on familiar ground"
+  },
+  {
+    "source_idiom": "znać się na żartach",
+    "target_idiom": "caer en el chiste",
+    "source_meaning": "to take a joke (to accept a joke at one's expense)",
+    "target_meaning": "to play along (with a joke)"
+  },
+  {
+    "source_idiom": "zrobić kupę",
+    "target_idiom": "plantar un pino",
+    "source_meaning": "to drop anchor, to take a dump (to defecate)",
+    "target_meaning": "to take a dump (to defecate)"
+  },
+  {
+    "source_idiom": "zrobić się na bóstwo",
+    "target_idiom": "hecho un brazo de mar",
+    "source_meaning": "to dress to kill (to dress up so as to impress others (especially of the opposite sex))",
+    "target_meaning": "dressed to kill; dressed to the nines"
+  },
+  {
+    "source_idiom": "zrobić wielkie oczy",
+    "target_idiom": "caerse de culo",
+    "source_meaning": "to be very surprised",
+    "target_meaning": "to be flabbergasted"
+  },
+  {
+    "source_idiom": "zrobić z igły widły",
+    "target_idiom": "ahogarse en un vaso de agua",
+    "source_meaning": "to make a mountain out of a molehill",
+    "target_meaning": "to make a mountain out of a molehill"
+  },
+  {
+    "source_idiom": "zrzucić wagę",
+    "target_idiom": "echar carnes",
+    "source_meaning": "to lose weight",
+    "target_meaning": "to put on weight"
+  },
+  {
+    "source_idiom": "zrządzenie losu",
+    "target_idiom": "mala pata",
+    "source_meaning": "quirk of fate, twist of fate (unfortunate, often ironic turn of events)",
+    "target_meaning": "bad luck; misfortune"
+  },
+  {
+    "source_idiom": "zrównywać z ziemią",
+    "target_idiom": "no dejar piedra sobre piedra",
+    "source_meaning": "to raze to the ground",
+    "target_meaning": "to reduce to rubble"
+  },
+  {
+    "source_idiom": "złapać za słówka",
+    "target_idiom": "torcer las palabras",
+    "source_meaning": "to twist someone's words",
+    "target_meaning": "to twist (someone's) words"
+  },
+  {
+    "source_idiom": "złe oko",
+    "target_idiom": "mal de ojo",
+    "source_meaning": "evil eye (wicked look conveying dislike or envy believed to be able to cause bad luck or injury; the ability to cause bad luck or injury through such a look)",
+    "target_meaning": "evil eye (curse done by a malevolent gaze)"
+  },
+  {
+    "source_idiom": "złote serce",
+    "target_idiom": "ser todo corazón",
+    "source_meaning": "heart of gold",
+    "target_meaning": "to have a heart of gold"
+  },
+  {
+    "source_idiom": "złożyć na barki",
+    "target_idiom": "cargar el muerto",
+    "source_meaning": "to put something on someone's shoulders (to make someone responsible for something)",
+    "target_meaning": "to pin the blame (on someone)"
+  },
+  {
+    "source_idiom": "złożyć na ręce",
+    "target_idiom": "poner la proa",
+    "source_meaning": "to direct, to address (to aim verbal or written words at someone)",
+    "target_meaning": "To aim for; to put in one's sights"
+  },
+  {
+    "source_idiom": "ą-ę",
+    "target_idiom": "de postín",
+    "source_meaning": "hoity-toity, la-di-da, posh, snobbish",
+    "target_meaning": "posh, high-class"
+  },
+  {
+    "source_idiom": "łabędzi śpiew",
+    "target_idiom": "canto del cisne",
+    "source_meaning": "swan song (final performance or accomplishment, especially one before retirement)",
+    "target_meaning": "swan song"
+  },
+  {
+    "source_idiom": "ładnych parę lat",
+    "target_idiom": "para rato",
+    "source_meaning": "quite a few years, quite some time",
+    "target_meaning": "for a while"
+  },
+  {
+    "source_idiom": "łamiąca wiadomość",
+    "target_idiom": "hacer partícipe",
+    "source_meaning": "breaking news",
+    "target_meaning": "to share news (of)"
+  },
+  {
+    "source_idiom": "łapać okazję",
+    "target_idiom": "hacer dedo",
+    "source_meaning": "to hitchhike (to try to get a ride in a passing vehicle while standing at the side of a road)",
+    "target_meaning": "to hitchhike"
+  },
+  {
+    "source_idiom": "łgać jak pies",
+    "target_idiom": "mentir por la barba",
+    "source_meaning": "to lie through one's teeth",
+    "target_meaning": "to lie through one's teeth"
+  },
+  {
+    "source_idiom": "łut szczęścia",
+    "target_idiom": "a la buena ventura",
+    "source_meaning": "stroke of luck",
+    "target_meaning": "down to luck"
+  },
+  {
+    "source_idiom": "łykać jak pelikan",
+    "target_idiom": "hacer el primo",
+    "source_meaning": "to be very gullible",
+    "target_meaning": "to be a sucker; to be easily fooled"
+  },
+  {
+    "source_idiom": "łyżka do butów",
+    "target_idiom": "meter con calzador",
+    "source_meaning": "shoehorn (smooth tool that assists in putting the foot into a shoe, by sliding the heel in after the toe is in place)",
+    "target_meaning": "to shoehorn"
+  },
+  {
+    "source_idiom": "łyżka dziegciu",
+    "target_idiom": "jarro de agua fría",
+    "source_meaning": "fly in the ointment, blot on the landscape",
+    "target_meaning": "fly in the ointment"
+  },
+  {
+    "source_idiom": "ślepy jak kret",
+    "target_idiom": "no ver tres en un burro",
+    "source_meaning": "blind as a bat",
+    "target_meaning": "to be blind as a bat"
+  },
+  {
+    "source_idiom": "ślinka cieknie",
+    "target_idiom": "a gloria",
+    "source_meaning": "yum, yummy",
+    "target_meaning": "nice; delicious"
+  },
+  {
+    "source_idiom": "śmiać się do rozpuku",
+    "target_idiom": "soltar el chorro",
+    "source_meaning": "to crack up, to laugh one's head off, to split one's sides",
+    "target_meaning": "to crack up (with laughter)"
+  },
+  {
+    "source_idiom": "śmiać się do łez",
+    "target_idiom": "reír a boca llena",
+    "source_meaning": "to cry-laugh, to laugh one's head off",
+    "target_meaning": "to laugh one's head off"
+  },
+  {
+    "source_idiom": "śmiem wątpić",
+    "target_idiom": "ya veremos, dijo el ciego",
+    "source_meaning": "I dare doubt it (used when the speaker wants to politely question the validity or truthfulness of something)",
+    "target_meaning": "Used to express skepticism or uncertainty about something"
+  },
+  {
+    "source_idiom": "średnio na jeża",
+    "target_idiom": "no ser para tanto",
+    "source_meaning": "not particularly, not really",
+    "target_meaning": "to not be that great, that important"
+  },
+  {
+    "source_idiom": "światełko w tunelu",
+    "target_idiom": "luz al final del túnel",
+    "source_meaning": "light at the end of the tunnel, silver lining (better situation after long hardship)",
+    "target_meaning": "light at the end of the tunnel (a better situation after long hardship)"
+  },
+  {
+    "source_idiom": "świecić przykładem",
+    "target_idiom": "predicar con el ejemplo",
+    "source_meaning": "to set an example; to lead by example [ dative] or",
+    "target_meaning": "to lead by example; to practice what one preaches"
+  },
+  {
+    "source_idiom": "źdźbło w oku bliźniego widzisz, a belki w swoim nie dostrzegasz",
+    "target_idiom": "tirar la primera piedra",
+    "source_meaning": "judge not, that ye be not judged, people who live in glass houses shouldn't throw stones",
+    "target_meaning": "to cast the first stone"
+  },
+  {
+    "source_idiom": "żadną miarą",
+    "target_idiom": "ni por asomo",
+    "source_meaning": "by no means, nowise, in no way",
+    "target_meaning": "by no means"
+  },
+  {
+    "source_idiom": "że głowa mała",
+    "target_idiom": "que te cagas",
+    "source_meaning": "used to emphasize the inconvenience or excessive intensity of some action or phenomenon",
+    "target_meaning": "(used as an intensifier)"
+  },
+  {
+    "source_idiom": "żeby nie było",
+    "target_idiom": "poner de manifiesto",
+    "source_meaning": "for what it's worth, for the record, for clarity's sake, just so you know, I'll have you know, just so it's clear",
+    "target_meaning": "to put on record; to set out; to make clear; to explain"
+  },
+  {
+    "source_idiom": "żyć jak pies z kotem",
+    "target_idiom": "llevarse como el perro y el gato",
+    "source_meaning": "to fight like cats and dogs (to fight frequently or irreconcilably)",
+    "target_meaning": "to fight like cat and dog"
+  },
+  {
+    "source_idiom": "żyć na kocią łapę",
+    "target_idiom": "pillar cacho",
+    "source_meaning": "to shack up [ (+ instrumental) ]",
+    "target_meaning": "to hook up (with someone)"
+  },
+  {
+    "source_idiom": "żyć od pierwszego do pierwszego",
+    "target_idiom": "vivir al día",
+    "source_meaning": "to live paycheck to paycheck",
+    "target_meaning": "to live from day to day; to scrape a living"
+  },
+  {
+    "source_idiom": "żyć pełną piersią",
+    "target_idiom": "correrse una juerga",
+    "source_meaning": "to live one's life to the fullest",
+    "target_meaning": "to live it up, go wild"
+  },
+  {
+    "source_idiom": "żółwim krokiem",
+    "target_idiom": "a paso de buey",
+    "source_meaning": "at a snail's pace, very slowly",
+    "target_meaning": "at a snail's pace"
+  }
+]

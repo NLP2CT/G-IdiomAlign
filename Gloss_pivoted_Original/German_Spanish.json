@@ -1,0 +1,2738 @@
+[
+  {
+    "source_idiom": "'n Appel und 'n Ei",
+    "target_idiom": "por cuatro reales",
+    "source_meaning": "peanuts; a low, minuscule price",
+    "target_meaning": "for peanuts (little money)"
+  },
+  {
+    "source_idiom": "Alarm schlagen",
+    "target_idiom": "dar la voz de alarma",
+    "source_meaning": "to sound the alarm, to raise the alarm",
+    "target_meaning": "to raise the alarm"
+  },
+  {
+    "source_idiom": "Anteil nehmen",
+    "target_idiom": "agarrar el gusto",
+    "source_meaning": "to take an interest",
+    "target_meaning": "to take a liking"
+  },
+  {
+    "source_idiom": "Avancen machen",
+    "target_idiom": "mover fichas",
+    "source_meaning": "to make advances, to make overtures  ",
+    "target_meaning": "to make a move"
+  },
+  {
+    "source_idiom": "Beine bis zum Boden",
+    "target_idiom": "cuerpo serrano",
+    "source_meaning": "long and attractive legs (usually in a woman)",
+    "target_meaning": "an attractive body"
+  },
+  {
+    "source_idiom": "Blech reden",
+    "target_idiom": "hablar por boca de ganso",
+    "source_meaning": "to talk nonsense",
+    "target_meaning": "to talk through one's hat"
+  },
+  {
+    "source_idiom": "Blut und Wasser schwitzen",
+    "target_idiom": "sudar a mares",
+    "source_meaning": "to sweat bullets",
+    "target_meaning": "to sweat buckets"
+  },
+  {
+    "source_idiom": "Bohnen in den Ohren haben",
+    "target_idiom": "hacer oídos sordos",
+    "source_meaning": "to turn a deaf ear",
+    "target_meaning": "to turn a deaf ear"
+  },
+  {
+    "source_idiom": "Crème de la Crème",
+    "target_idiom": "flor y nata",
+    "source_meaning": "crème de la crème",
+    "target_meaning": "the crème de la crème; the cream (of society)"
+  },
+  {
+    "source_idiom": "Dorn im Auge",
+    "target_idiom": "china en el zapato",
+    "source_meaning": "thorn in someone's side",
+    "target_meaning": "thorn in the side"
+  },
+  {
+    "source_idiom": "Dreck am Stecken",
+    "target_idiom": "en el armario",
+    "source_meaning": "skeleton in the cupboard, skeleton in the closet",
+    "target_meaning": "in the closet"
+  },
+  {
+    "source_idiom": "Einbruch der Dunkelheit",
+    "target_idiom": "hacerse de noche",
+    "source_meaning": "nightfall, dark",
+    "target_meaning": "to become nighttime; to get dark; to be getting late"
+  },
+  {
+    "source_idiom": "Ende der Fahnenstange",
+    "target_idiom": "callejón sin salida",
+    "source_meaning": "end of the line, end of the road",
+    "target_meaning": "dead end, road to nowhere"
+  },
+  {
+    "source_idiom": "Eulen nach Athen tragen",
+    "target_idiom": "llevar hierro a Vizcaya",
+    "source_meaning": "bring owls to Athens, carry coals to Newcastle",
+    "target_meaning": "to carry coals to Newcastle"
+  },
+  {
+    "source_idiom": "Feld-Wald-und-Wiesen-",
+    "target_idiom": "del montón",
+    "source_meaning": "common-or-garden; everyday, ordinary",
+    "target_meaning": "common, average, ordinary"
+  },
+  {
+    "source_idiom": "Fersengeld geben",
+    "target_idiom": "pirárselas",
+    "source_meaning": "to flee, to leave, to skedaddle",
+    "target_meaning": "to scram; to skedaddle; to beat it"
+  },
+  {
+    "source_idiom": "Früchte tragen",
+    "target_idiom": "valer la pena",
+    "source_meaning": "to bear fruit",
+    "target_meaning": "to be worth the effort, to pay off"
+  },
+  {
+    "source_idiom": "Geld wie Heu haben",
+    "target_idiom": "nadar en la abundancia",
+    "source_meaning": "to be rolling in dough",
+    "target_meaning": "to roll in dough; to be filthy rich"
+  },
+  {
+    "source_idiom": "Haar in der Suppe",
+    "target_idiom": "jarro de agua fría",
+    "source_meaning": "fly in the ointment",
+    "target_meaning": "fly in the ointment"
+  },
+  {
+    "source_idiom": "Hals über Kopf",
+    "target_idiom": "beber los vientos",
+    "source_meaning": "head over heels",
+    "target_meaning": "to be head over heels in love (with)"
+  },
+  {
+    "source_idiom": "Hals- und Beinbruch",
+    "target_idiom": "mucha mierda",
+    "source_meaning": "break a leg!",
+    "target_meaning": "break a leg!"
+  },
+  {
+    "source_idiom": "Herz aus Gold",
+    "target_idiom": "ser todo corazón",
+    "source_meaning": "heart of gold (kind-heartedness)",
+    "target_meaning": "to have a heart of gold"
+  },
+  {
+    "source_idiom": "Himmel und Hölle in Bewegung setzen",
+    "target_idiom": "mover cielo y tierra",
+    "source_meaning": "to move heaven and earth",
+    "target_meaning": "to move heaven and earth; to go to extreme lengths or do whatever is necessary"
+  },
+  {
+    "source_idiom": "Hinz und Kunz",
+    "target_idiom": "hasta los gatos",
+    "source_meaning": "Tom, Dick and Harry",
+    "target_meaning": "every Tom, Dick and Harry"
+  },
+  {
+    "source_idiom": "Hopfen und Malz ist verloren",
+    "target_idiom": "en balde",
+    "source_meaning": "it's a waste, all hope is in vain",
+    "target_meaning": "in vain, for nothing"
+  },
+  {
+    "source_idiom": "Höhen und Tiefen",
+    "target_idiom": "tener sus más y sus menos",
+    "source_meaning": "ups and downs, peaks and troughs",
+    "target_meaning": "to have pros and cons; or ups and downs"
+  },
+  {
+    "source_idiom": "Kaiser von China",
+    "target_idiom": "del quince",
+    "source_meaning": "someone magnificent that one is not",
+    "target_meaning": "magnificent; tremendous; whopping"
+  },
+  {
+    "source_idiom": "Katz-und-Maus-Spiel",
+    "target_idiom": "Pepito paga doble",
+    "source_meaning": "cat and mouse game",
+    "target_meaning": "shell game"
+  },
+  {
+    "source_idiom": "Kopf und Kragen",
+    "target_idiom": "sano y salvo",
+    "source_meaning": "safety, well-being",
+    "target_meaning": "safe and sound"
+  },
+  {
+    "source_idiom": "Leber",
+    "target_idiom": "en su fuero interno",
+    "source_meaning": "someplace deep within one",
+    "target_meaning": "deep down; in one's heart of hearts"
+  },
+  {
+    "source_idiom": "Luftschloss",
+    "target_idiom": "torre de viento",
+    "source_meaning": "castle in the air, castle in the sky, pipe dream",
+    "target_meaning": "castles in the air"
+  },
+  {
+    "source_idiom": "Löwenanteil",
+    "target_idiom": "tajada del león",
+    "source_meaning": "lion's share",
+    "target_meaning": "lion's share"
+  },
+  {
+    "source_idiom": "Lügen strafen",
+    "target_idiom": "mentir por la barba",
+    "source_meaning": "to give the lie",
+    "target_meaning": "to lie through one's teeth"
+  },
+  {
+    "source_idiom": "Melkkuh",
+    "target_idiom": "vaca lechera",
+    "source_meaning": "cash cow",
+    "target_meaning": "cash cow"
+  },
+  {
+    "source_idiom": "Nadel im Heuhaufen",
+    "target_idiom": "aguja en un pajar",
+    "source_meaning": "needle in a haystack",
+    "target_meaning": "needle in a haystack"
+  },
+  {
+    "source_idiom": "Not kennt kein Gebot",
+    "target_idiom": "fuera de la ley",
+    "source_meaning": "necessity knows no law",
+    "target_meaning": "outside the law"
+  },
+  {
+    "source_idiom": "Perlen vor die Säue werfen",
+    "target_idiom": "Dios da pan a quien no tiene dientes",
+    "source_meaning": "cast pearls before swine",
+    "target_meaning": "cast pearls before swine"
+  },
+  {
+    "source_idiom": "Rettungsring",
+    "target_idiom": "curva de la felicidad",
+    "source_meaning": "spare tyre (UK), spare tire (North America), flab, roll of fat, love handle",
+    "target_meaning": "beer belly; pot belly; spare tire"
+  },
+  {
+    "source_idiom": "Sahnehäubchen",
+    "target_idiom": "guinda de la tarta",
+    "source_meaning": "icing on the cake",
+    "target_meaning": "icing on the cake"
+  },
+  {
+    "source_idiom": "Schmetterlinge im Bauch haben",
+    "target_idiom": "tener mariposas en el estómago",
+    "source_meaning": "to have butterflies in one's stomach (be in love or happy)",
+    "target_meaning": "have butterflies in one's stomach"
+  },
+  {
+    "source_idiom": "Schuss vor den Bug",
+    "target_idiom": "romper el fuego",
+    "source_meaning": "shot across the bow",
+    "target_meaning": "to fire away"
+  },
+  {
+    "source_idiom": "Schwarzweißmalerei",
+    "target_idiom": "negro sobre blanco",
+    "source_meaning": "painting everything in black and white",
+    "target_meaning": "in black and white (explicitly)"
+  },
+  {
+    "source_idiom": "Schwein haben",
+    "target_idiom": "nacer de pie",
+    "source_meaning": "to be lucky",
+    "target_meaning": "to be born lucky"
+  },
+  {
+    "source_idiom": "Silberstreifen am Horizont",
+    "target_idiom": "luz al final del túnel",
+    "source_meaning": "light at the end of the tunnel",
+    "target_meaning": "light at the end of the tunnel (a better situation after long hardship)"
+  },
+  {
+    "source_idiom": "Spendierhosen",
+    "target_idiom": "cuarto y mitad",
+    "source_meaning": "a metaphorical representation of a feeling of generosity",
+    "target_meaning": "a generous helping"
+  },
+  {
+    "source_idiom": "Spitze des Eisbergs",
+    "target_idiom": "punta del iceberg",
+    "source_meaning": "tip of the iceberg",
+    "target_meaning": "tip of the iceberg"
+  },
+  {
+    "source_idiom": "Staub aufwirbeln",
+    "target_idiom": "dar la barrila",
+    "source_meaning": "to kick up dust",
+    "target_meaning": "to kick up a fuss"
+  },
+  {
+    "source_idiom": "Stein und Bein schwören",
+    "target_idiom": "por mis muertos",
+    "source_meaning": "to swear on a stack of Bibles, to swear an absolute oath, to promise emphatically",
+    "target_meaning": "on my life; I swear to God"
+  },
+  {
+    "source_idiom": "Strippenzieher",
+    "target_idiom": "pez gordo",
+    "source_meaning": "string puller, puppet master, mastermind, svengali",
+    "target_meaning": "head honcho, big cheese, fat cat"
+  },
+  {
+    "source_idiom": "Stunde der Wahrheit",
+    "target_idiom": "hora menguada",
+    "source_meaning": "moment of truth",
+    "target_meaning": "moment of truth"
+  },
+  {
+    "source_idiom": "Sturm der Entrüstung",
+    "target_idiom": "la de Dios es Cristo",
+    "source_meaning": "outcry, storm of protest",
+    "target_meaning": "an uproar; a massive fuss"
+  },
+  {
+    "source_idiom": "Süßholz raspeln",
+    "target_idiom": "dar coba",
+    "source_meaning": "to flatter, to sweet-talk",
+    "target_meaning": "to suck up to; to sweet-talk"
+  },
+  {
+    "source_idiom": "Trittbrettfahrer",
+    "target_idiom": "chupar del bote",
+    "source_meaning": "freeloader",
+    "target_meaning": "to freeload"
+  },
+  {
+    "source_idiom": "Tropfen, der das Fass zum Überlaufen bringt",
+    "target_idiom": "la gota que colmó el vaso",
+    "source_meaning": "final straw, last straw, the straw that broke the camel's back",
+    "target_meaning": "the straw that broke the camel's back"
+  },
+  {
+    "source_idiom": "Tränen lachen",
+    "target_idiom": "partirse de risa",
+    "source_meaning": "to laugh to tears",
+    "target_meaning": "to laugh one's head off"
+  },
+  {
+    "source_idiom": "Versuchsballon",
+    "target_idiom": "poner a prueba",
+    "source_meaning": "trial balloon",
+    "target_meaning": "to put to the test, to pilot"
+  },
+  {
+    "source_idiom": "Vorschlag zur Güte",
+    "target_idiom": "tira y afloja",
+    "source_meaning": "a proposal for a compromise, implying that the offerer thinks their previous offer was already fair, but that they are willing to go one step further in order to avoid conflict",
+    "target_meaning": "bargaining, give and take, tug of war"
+  },
+  {
+    "source_idiom": "Wasser predigen und Wein trinken",
+    "target_idiom": "predicar con el ejemplo",
+    "source_meaning": "To preach water and drink wine; to fail to practice what one preaches.",
+    "target_meaning": "to lead by example; to practice what one preaches"
+  },
+  {
+    "source_idiom": "ab und zu",
+    "target_idiom": "una que otra vez",
+    "source_meaning": "now and then; occasionally",
+    "target_meaning": "now and again; every now and then"
+  },
+  {
+    "source_idiom": "abgekartete Sache",
+    "target_idiom": "lío de faldas",
+    "source_meaning": "put-up affair",
+    "target_meaning": "affair (with a woman)"
+  },
+  {
+    "source_idiom": "abgekartetes Spiel",
+    "target_idiom": "para andar por casa",
+    "source_meaning": "put-up job, put-up, stitch-up",
+    "target_meaning": "quick-fix; shoddy"
+  },
+  {
+    "source_idiom": "abwarten und Tee trinken",
+    "target_idiom": "dar tiempo al tiempo",
+    "source_meaning": "to wait and see",
+    "target_meaning": "to let time take its course"
+  },
+  {
+    "source_idiom": "alle Brücken hinter sich abbrechen",
+    "target_idiom": "quemar las naves",
+    "source_meaning": "to burn one's bridges",
+    "target_meaning": "to burn one's bridges"
+  },
+  {
+    "source_idiom": "alle Jubeljahre",
+    "target_idiom": "de ciento a viento",
+    "source_meaning": "once in a blue moon",
+    "target_meaning": "once in a blue moon"
+  },
+  {
+    "source_idiom": "alle Register ziehen",
+    "target_idiom": "emplearse a fondo",
+    "source_meaning": "to pull out all the stops",
+    "target_meaning": "to pull out all the stops"
+  },
+  {
+    "source_idiom": "alle Trümpfe in der Hand halten",
+    "target_idiom": "jugar bien sus bazas",
+    "source_meaning": "to hold all the aces",
+    "target_meaning": "to play one's cards right"
+  },
+  {
+    "source_idiom": "alles auf eine Karte setzen",
+    "target_idiom": "jugarse todo a una carta",
+    "source_meaning": "Risking everything, putting all one's eggs in one basket",
+    "target_meaning": "To put all one's eggs in one basket"
+  },
+  {
+    "source_idiom": "alles im grünen Bereich sein",
+    "target_idiom": "en regla",
+    "source_meaning": "to have everything be working; to have everything be okay",
+    "target_meaning": "in working order, correctly"
+  },
+  {
+    "source_idiom": "alt werden",
+    "target_idiom": "quemarse las cejas",
+    "source_meaning": "to stay up late",
+    "target_meaning": "to burn the midnight oil"
+  },
+  {
+    "source_idiom": "am Herd stehen",
+    "target_idiom": "poner la mesa",
+    "source_meaning": "to cook, to prepare food",
+    "target_meaning": "to set the table (arrange plates, etc. for a meal)"
+  },
+  {
+    "source_idiom": "am Hungertuch nagen",
+    "target_idiom": "comerse las manos",
+    "source_meaning": "to be poor and starving",
+    "target_meaning": "to be starving"
+  },
+  {
+    "source_idiom": "am laufenden Band",
+    "target_idiom": "por instantes",
+    "source_meaning": "incessantly",
+    "target_meaning": "continuously"
+  },
+  {
+    "source_idiom": "an Boden gewinnen",
+    "target_idiom": "ganar peso",
+    "source_meaning": "to gain ground",
+    "target_meaning": "to gain ground"
+  },
+  {
+    "source_idiom": "an den Bettelstab bringen",
+    "target_idiom": "echar a perder",
+    "source_meaning": "to ruin",
+    "target_meaning": "to spoil, ruin"
+  },
+  {
+    "source_idiom": "an den Haaren herbeigezogen",
+    "target_idiom": "traído por los pelos",
+    "source_meaning": "far-fetched; absurd (highly unlikely)",
+    "target_meaning": "far-fetched, unlikely"
+  },
+  {
+    "source_idiom": "an den Mann bringen",
+    "target_idiom": "venderse por un plato de lentejas",
+    "source_meaning": "to sell off (a commodity)",
+    "target_meaning": "to sell out; to sell one's birthright for a mess of pottage"
+  },
+  {
+    "source_idiom": "an der Ecke",
+    "target_idiom": "doblar la esquina",
+    "source_meaning": "at the corner, nearby",
+    "target_meaning": "to go round the corner"
+  },
+  {
+    "source_idiom": "an der Nase herumführen",
+    "target_idiom": "dar atole con el dedo",
+    "source_meaning": "to deceive",
+    "target_meaning": "to deceive (someone)."
+  },
+  {
+    "source_idiom": "an die Kandare nehmen",
+    "target_idiom": "parar el carro",
+    "source_meaning": "to put a tight rein on, to rein, to curb",
+    "target_meaning": "to rein in, to pull up, to put an end to something (stop somebody doing something by reprimanding)"
+  },
+  {
+    "source_idiom": "an die Wand stellen",
+    "target_idiom": "coser a balazos",
+    "source_meaning": "to put (someone) up against a wall; to line people up and shoot them",
+    "target_meaning": "to riddle with bullets"
+  },
+  {
+    "source_idiom": "an einem Strang ziehen",
+    "target_idiom": "acercar posturas",
+    "source_meaning": "to pull together, work together",
+    "target_meaning": "to build bridges, to come together"
+  },
+  {
+    "source_idiom": "anderes Ufer",
+    "target_idiom": "del otro bando",
+    "source_meaning": "batting for the other team; being gay, queerness, homosexuality",
+    "target_meaning": "batting for the other side (homosexual)"
+  },
+  {
+    "source_idiom": "ans Licht kommen",
+    "target_idiom": "salir a la luz",
+    "source_meaning": "come to light",
+    "target_meaning": "to come to light"
+  },
+  {
+    "source_idiom": "auch andere Mütter haben schöne Töchter",
+    "target_idiom": "a río revuelto, ganancia de pescadores",
+    "source_meaning": "there are plenty of fish in the sea",
+    "target_meaning": "it is common to fish in troubled waters"
+  },
+  {
+    "source_idiom": "auf Heller und Pfennig",
+    "target_idiom": "a la letra",
+    "source_meaning": "to the last penny",
+    "target_meaning": "to the letter"
+  },
+  {
+    "source_idiom": "auf Nummer sicher gehen",
+    "target_idiom": "curarse en salud",
+    "source_meaning": "to play it safe",
+    "target_meaning": "to play it safe; to be on the safe side"
+  },
+  {
+    "source_idiom": "auf Sand gebaut haben",
+    "target_idiom": "edificar sobre arena",
+    "source_meaning": "to have built on sand",
+    "target_meaning": "to build on sand"
+  },
+  {
+    "source_idiom": "auf Schusters Rappen",
+    "target_idiom": "coche de San Fernando",
+    "source_meaning": "on shanks' mare, on foot",
+    "target_meaning": "shanks' mare (one's feet, used for getting around, as opposed to a vehicle)"
+  },
+  {
+    "source_idiom": "auf Teufel komm raus",
+    "target_idiom": "de un modo u otro",
+    "source_meaning": "by hook or by crook",
+    "target_meaning": "somehow, one way or another"
+  },
+  {
+    "source_idiom": "auf dem Kriegspfad",
+    "target_idiom": "en pie de guerra",
+    "source_meaning": "on the warpath",
+    "target_meaning": "on a war footing (ready)"
+  },
+  {
+    "source_idiom": "auf dem Laufenden halten",
+    "target_idiom": "estar en el cuento",
+    "source_meaning": "to keep (someone) in the loop, to keep (someone) informed, to keep (someone) up-to-date",
+    "target_meaning": "to be in the loop; to be in the know"
+  },
+  {
+    "source_idiom": "auf dem Spiel",
+    "target_idiom": "en juego",
+    "source_meaning": "at stake, on the line, at issue, at risk",
+    "target_meaning": "at stake, on the line, at issue, at risk"
+  },
+  {
+    "source_idiom": "auf dem absteigenden Ast sein",
+    "target_idiom": "venir a menos",
+    "source_meaning": "to go south, to take a turn for the worse",
+    "target_meaning": "to go downhill"
+  },
+  {
+    "source_idiom": "auf dem falschen Dampfer",
+    "target_idiom": "con mal pie",
+    "source_meaning": "incorrect, on the wrong track, off the mark",
+    "target_meaning": "unsuccessfully, badly, on the wrong foot"
+  },
+  {
+    "source_idiom": "auf dem richtigen Dampfer",
+    "target_idiom": "llevar camino",
+    "source_meaning": "on the right track",
+    "target_meaning": "to be on track"
+  },
+  {
+    "source_idiom": "auf den Leim gehen",
+    "target_idiom": "hacer el primo",
+    "source_meaning": "to be fooled by someone",
+    "target_meaning": "to be a sucker; to be easily fooled"
+  },
+  {
+    "source_idiom": "auf den Sack gehen",
+    "target_idiom": "crispar los nervios",
+    "source_meaning": "to get on someone's nerves",
+    "target_meaning": "to get on someone's nerves"
+  },
+  {
+    "source_idiom": "auf den Zahn fühlen",
+    "target_idiom": "en profundidad",
+    "source_meaning": "to investigate or question (in depth)",
+    "target_meaning": "deeply; profoundly; in great detail"
+  },
+  {
+    "source_idiom": "auf den Zug aufspringen",
+    "target_idiom": "subirse al carro",
+    "source_meaning": "to jump on the bandwagon",
+    "target_meaning": "to jump on the bandwagon, to get in on the act"
+  },
+  {
+    "source_idiom": "auf der Bärenhaut liegen",
+    "target_idiom": "tumbarse a la bartola",
+    "source_meaning": "to laze",
+    "target_meaning": "to laze about; loaf; mope"
+  },
+  {
+    "source_idiom": "auf der Hand liegen",
+    "target_idiom": "vérsele el plumero",
+    "source_meaning": "to be obvious",
+    "target_meaning": "to be blindingly obvious"
+  },
+  {
+    "source_idiom": "auf der gleichen Wellenlänge",
+    "target_idiom": "a tono",
+    "source_meaning": "on the same wavelength",
+    "target_meaning": "in tune"
+  },
+  {
+    "source_idiom": "auf die Tränendrüse drücken",
+    "target_idiom": "dar pena",
+    "source_meaning": "to tug at the heartstrings",
+    "target_meaning": "to make somebody feel sorry for"
+  },
+  {
+    "source_idiom": "auf eigenen Beinen stehen",
+    "target_idiom": "caer de pie",
+    "source_meaning": "to stand on one's own two feet",
+    "target_meaning": "to land on one's feet"
+  },
+  {
+    "source_idiom": "auf einen Sprung vorbeikommen",
+    "target_idiom": "dejarse caer",
+    "source_meaning": "drop by, pop in",
+    "target_meaning": "to drop by; drop in; drop round"
+  },
+  {
+    "source_idiom": "auf etwas Gift nehmen können",
+    "target_idiom": "tener las de ganar",
+    "source_meaning": "to bet one's bottom dollar, to bet the farm (to be absolutely sure of something)",
+    "target_meaning": "to be highly likely to win; to be a dead cert"
+  },
+  {
+    "source_idiom": "auf ex trinken",
+    "target_idiom": "beber a morro",
+    "source_meaning": "to down, to drink up in one draught",
+    "target_meaning": "to drink straight from the tap/spout/bottle (i.e. without a cup)"
+  },
+  {
+    "source_idiom": "auf gut Deutsch",
+    "target_idiom": "claro está",
+    "source_meaning": "clearly, bluntly, possibly involving bad language",
+    "target_meaning": "clearly; blatantly"
+  },
+  {
+    "source_idiom": "auf gutem Fuß stehen",
+    "target_idiom": "a buenas",
+    "source_meaning": "to be on good terms",
+    "target_meaning": "on good terms"
+  },
+  {
+    "source_idiom": "auf keine Kuhhaut passen",
+    "target_idiom": "ser para mear y no echar gota",
+    "source_meaning": "to be unbelievable",
+    "target_meaning": "to be unfuckingbelievable"
+  },
+  {
+    "source_idiom": "auf keinen grünen Zweig kommen",
+    "target_idiom": "no poder hacer carrera",
+    "source_meaning": "to get nowhere, to not be able to accomplish anything",
+    "target_meaning": "to not get anywhere with"
+  },
+  {
+    "source_idiom": "auf offener Straße",
+    "target_idiom": "en plena luz del día",
+    "source_meaning": "in broad daylight",
+    "target_meaning": "in broad daylight (in a blatant and visible manner)"
+  },
+  {
+    "source_idiom": "auf taube Ohren stoßen",
+    "target_idiom": "caer en saco roto",
+    "source_meaning": "to fall on deaf ears",
+    "target_meaning": "to fall on deaf ears, to go in one ear and out the other"
+  },
+  {
+    "source_idiom": "aufs Korn nehmen",
+    "target_idiom": "poner en ridículo",
+    "source_meaning": "to satirize",
+    "target_meaning": "to ridiculize"
+  },
+  {
+    "source_idiom": "aus allen Wolken fallen",
+    "target_idiom": "caerse de culo",
+    "source_meaning": "to be flabbergasted",
+    "target_meaning": "to be flabbergasted"
+  },
+  {
+    "source_idiom": "aus blauem Himmel",
+    "target_idiom": "como llovido del cielo",
+    "source_meaning": "out of the blue",
+    "target_meaning": "out of the blue"
+  },
+  {
+    "source_idiom": "aus dem Handgelenk",
+    "target_idiom": "en dos patadas",
+    "source_meaning": "without much effort or preparation",
+    "target_meaning": "effortlessly"
+  },
+  {
+    "source_idiom": "aus dem Rahmen fallen",
+    "target_idiom": "de locura",
+    "source_meaning": "to be out of the ordinary",
+    "target_meaning": "extraordinary; out of this world"
+  },
+  {
+    "source_idiom": "aus dem Ruder laufen",
+    "target_idiom": "irse de las manos",
+    "source_meaning": "to get out of hand",
+    "target_meaning": "to get out of hand"
+  },
+  {
+    "source_idiom": "aus dem gleichen Holz geschnitzt sein",
+    "target_idiom": "dar el piné",
+    "source_meaning": "to be cut from the same cloth",
+    "target_meaning": "to be cut out for something"
+  },
+  {
+    "source_idiom": "aus der Art schlagen",
+    "target_idiom": "ser de lo que no hay",
+    "source_meaning": "to differ from the rest",
+    "target_meaning": "be like no other; be as ... as they come"
+  },
+  {
+    "source_idiom": "aus der Not eine Tugend machen",
+    "target_idiom": "hacer de la necesidad virtud",
+    "source_meaning": "to make a virtue of necessity (embrace something forced on one such that one pursues it to the full extent)",
+    "target_meaning": "to make a virtue of necessity"
+  },
+  {
+    "source_idiom": "aus der Portokasse zahlen",
+    "target_idiom": "pagar a tocateja",
+    "source_meaning": "to pay out of petty cash (to be able to pay a considerable sum easily)",
+    "target_meaning": "to pay a lot of money in cash"
+  },
+  {
+    "source_idiom": "aus der Reihe tanzen",
+    "target_idiom": "sacar los pies del plato",
+    "source_meaning": "to step out of line",
+    "target_meaning": "to step out of line"
+  },
+  {
+    "source_idiom": "aus einem Guss",
+    "target_idiom": "tal para cual",
+    "source_meaning": "of a piece; of the same kind",
+    "target_meaning": "like two peas in a pod, like two of a kind"
+  },
+  {
+    "source_idiom": "aus einer Mücke einen Elefanten machen",
+    "target_idiom": "hacer de una pulga un camello",
+    "source_meaning": "to make a mountain out of a mole hill",
+    "target_meaning": "to make a mountain out of a molehill"
+  },
+  {
+    "source_idiom": "aus etwas Kapital schlagen",
+    "target_idiom": "abusar de",
+    "source_meaning": "to capitalize on something",
+    "target_meaning": "to take advantage of"
+  },
+  {
+    "source_idiom": "aus seinem Herzen keine Mördergrube machen",
+    "target_idiom": "hablar en romance",
+    "source_meaning": "to speak openly and frankly",
+    "target_meaning": "to speak in plain English; to speak in a clear and straightforward manner"
+  },
+  {
+    "source_idiom": "außer Betracht lassen",
+    "target_idiom": "dejar en paz",
+    "source_meaning": "to leave out of consideration",
+    "target_meaning": "to leave alone"
+  },
+  {
+    "source_idiom": "außer Frage",
+    "target_idiom": "imposible de toda imposibilidad",
+    "source_meaning": "out of the question",
+    "target_meaning": "absolutely impossible"
+  },
+  {
+    "source_idiom": "außer Rand und Band geraten",
+    "target_idiom": "echar las campanas al vuelo",
+    "source_meaning": "to go wild",
+    "target_meaning": "to go wild; celebrate"
+  },
+  {
+    "source_idiom": "außer sich",
+    "target_idiom": "fuera de quicio",
+    "source_meaning": "beside oneself",
+    "target_meaning": "beside oneself"
+  },
+  {
+    "source_idiom": "bei jemandem sein",
+    "target_idiom": "seguir el rollo",
+    "source_meaning": "to be with, to agree (to understand someone's point of view)",
+    "target_meaning": "to go along with, play along with (something)"
+  },
+  {
+    "source_idiom": "bei sich sein",
+    "target_idiom": "volver en sí",
+    "source_meaning": "to have come to; to be calm or conscious (especially after having fainted or been in shock or rage)",
+    "target_meaning": "to come around; come to"
+  },
+  {
+    "source_idiom": "blind vor Wut sein",
+    "target_idiom": "estar que se sube por las paredes",
+    "source_meaning": "to be blind with rage",
+    "target_meaning": "to be enraged; to be raging mad"
+  },
+  {
+    "source_idiom": "böses Erwachen",
+    "target_idiom": "caérsele la venda de los ojos",
+    "source_meaning": "rude awakening (a spontaneous realization that one's previous assumptions (or illusions) were false)",
+    "target_meaning": "(idiomatic) scales fall from someone's eyes"
+  },
+  {
+    "source_idiom": "da haben wir den Salat",
+    "target_idiom": "manga por hombro",
+    "source_meaning": "now we're in a fine mess",
+    "target_meaning": "messy; in a right mess"
+  },
+  {
+    "source_idiom": "da liegt der Hase im Pfeffer",
+    "target_idiom": "la madre del cordero",
+    "source_meaning": "therein lies the rub",
+    "target_meaning": "the rub; the fact of the matter"
+  },
+  {
+    "source_idiom": "das Auge des Gesetzes",
+    "target_idiom": "franco de servicio",
+    "source_meaning": "police, police officer",
+    "target_meaning": "off duty (police, soldier)"
+  },
+  {
+    "source_idiom": "das Eis brechen",
+    "target_idiom": "romper el hielo",
+    "source_meaning": "to break the ice",
+    "target_meaning": "to break the ice"
+  },
+  {
+    "source_idiom": "das Gesicht wahren",
+    "target_idiom": "salvar la cara",
+    "source_meaning": "to save face",
+    "target_meaning": "to save face"
+  },
+  {
+    "source_idiom": "das Huhn, das goldene Eier legt, schlachten",
+    "target_idiom": "hacer el agosto",
+    "source_meaning": "to kill the goose that lays the golden eggs",
+    "target_meaning": "to make a killing"
+  },
+  {
+    "source_idiom": "das Kind beim Namen nennen",
+    "target_idiom": "llamar al pan, pan, y al vino, vino",
+    "source_meaning": "to call a spade a spade (to speak the truth)",
+    "target_meaning": "to call a spade a spade"
+  },
+  {
+    "source_idiom": "das Kind fällt in den Brunnen",
+    "target_idiom": "a estas alturas del partido",
+    "source_meaning": "a disaster happens or becomes inevitable; it is too late for precautions that should have been taken earlier",
+    "target_meaning": "at this point in the game; too late"
+  },
+  {
+    "source_idiom": "das Kraut fett machen",
+    "target_idiom": "venir al caso",
+    "source_meaning": "to make a difference, to matter",
+    "target_meaning": "to be relevant, to be to the point"
+  },
+  {
+    "source_idiom": "das Kriegsbeil ausgraben",
+    "target_idiom": "renovar la herida",
+    "source_meaning": "to dig up the hatchet",
+    "target_meaning": "to reopen old wounds"
+  },
+  {
+    "source_idiom": "das Kriegsbeil begraben",
+    "target_idiom": "hacer las paces",
+    "source_meaning": "bury the hatchet",
+    "target_meaning": "to make peace, to make amends, to make up"
+  },
+  {
+    "source_idiom": "das Rad neu erfinden",
+    "target_idiom": "descubrir el agua tibia",
+    "source_meaning": "to reinvent the wheel",
+    "target_meaning": "to reinvent the wheel"
+  },
+  {
+    "source_idiom": "das Weite suchen",
+    "target_idiom": "poner pies en polvorosa",
+    "source_meaning": "to take to one's heels",
+    "target_meaning": "to take to one's heels; flee"
+  },
+  {
+    "source_idiom": "das Zünglein an der Waage sein",
+    "target_idiom": "inclinar la balanza",
+    "source_meaning": "to tip the scales",
+    "target_meaning": "to tip the scales"
+  },
+  {
+    "source_idiom": "dem Braten nicht trauen",
+    "target_idiom": "oler a pólvora",
+    "source_meaning": "to suspect something fishy, to have doubts about something, e.g. a proposal or a seemingly advantageous development",
+    "target_meaning": "to smell fishy; to seem as though there's something fishy going on"
+  },
+  {
+    "source_idiom": "dem Frieden nicht trauen",
+    "target_idiom": "verlo todo negro",
+    "source_meaning": "to be pessimistic about a seemingly positive development, to expect that an apparent solution to a problem will not last",
+    "target_meaning": "to be pessimistic"
+  },
+  {
+    "source_idiom": "dem Volk aufs Maul schauen",
+    "target_idiom": "ciudadano de a pie",
+    "source_meaning": "to listen to the common man",
+    "target_meaning": "man on the street; member of the general public"
+  },
+  {
+    "source_idiom": "den Bach runtergehen",
+    "target_idiom": "pasar las de Caín",
+    "source_meaning": "to go to hell in a handbasket",
+    "target_meaning": "to go through hell"
+  },
+  {
+    "source_idiom": "den Bock zum Gärtner machen",
+    "target_idiom": "zamuro cuidando carne",
+    "source_meaning": "fox guarding the henhouse",
+    "target_meaning": "fox in the henhouse"
+  },
+  {
+    "source_idiom": "den Bogen überspannen",
+    "target_idiom": "pasarse de rosca",
+    "source_meaning": "to go too far, overstep the mark",
+    "target_meaning": "to go too far, overstep the mark, to overshoot"
+  },
+  {
+    "source_idiom": "den Braten riechen",
+    "target_idiom": "olerse la tostada",
+    "source_meaning": "to figure out someone’s plan or intent, to sense something, to smell a rat",
+    "target_meaning": "to smell a rat"
+  },
+  {
+    "source_idiom": "den Faden verlieren",
+    "target_idiom": "perder el norte",
+    "source_meaning": "to lose the thread, lose the plot",
+    "target_meaning": "to lose the plot"
+  },
+  {
+    "source_idiom": "den Geist aufgeben",
+    "target_idiom": "pedir papas",
+    "source_meaning": "to give up the ghost",
+    "target_meaning": "to give up"
+  },
+  {
+    "source_idiom": "den Herrgott einen guten Mann sein lassen",
+    "target_idiom": "pasarlo",
+    "source_meaning": "to indulge, to let oneself go, to revel, to have a good time with food, drink and merriment",
+    "target_meaning": "to enjoy (oneself in a certain way)"
+  },
+  {
+    "source_idiom": "den Hof machen",
+    "target_idiom": "la pelota está en el tejado de alguien",
+    "source_meaning": "to court  ",
+    "target_meaning": "the ball is in someone's court"
+  },
+  {
+    "source_idiom": "den Kopf hinhalten",
+    "target_idiom": "pagar el pato",
+    "source_meaning": "to take the blame",
+    "target_meaning": "to bear the brunt; to take the rap"
+  },
+  {
+    "source_idiom": "den Kopf in den Sand stecken",
+    "target_idiom": "táctica de avestruz",
+    "source_meaning": "to bury one's head in the sand",
+    "target_meaning": "the burying of one's head in the sand"
+  },
+  {
+    "source_idiom": "den Löffel abgeben",
+    "target_idiom": "pegar las mangas",
+    "source_meaning": "to die; to bite the dust; to kick the bucket",
+    "target_meaning": "to kick the bucket; snuff it"
+  },
+  {
+    "source_idiom": "den Nagel auf den Kopf treffen",
+    "target_idiom": "dar en la diana",
+    "source_meaning": "to hit the nail on the head",
+    "target_meaning": "to hit the nail on the head"
+  },
+  {
+    "source_idiom": "den Rubikon überschreiten",
+    "target_idiom": "llegar al llegadero",
+    "source_meaning": "to cross the Rubicon (to make an irreversible decision)",
+    "target_meaning": "to reach the point of no return"
+  },
+  {
+    "source_idiom": "den Schein wahren",
+    "target_idiom": "salvar las apariencias",
+    "source_meaning": "to keep up appearances",
+    "target_meaning": "to keep up appearances"
+  },
+  {
+    "source_idiom": "den Schwarzen Peter zuschieben",
+    "target_idiom": "pasar la bola",
+    "source_meaning": "to pass the buck",
+    "target_meaning": "to pass the buck"
+  },
+  {
+    "source_idiom": "den Tod erleiden",
+    "target_idiom": "quedar en el campo",
+    "source_meaning": "to die (in an accident or in battle)",
+    "target_meaning": "to die on the battlefield"
+  },
+  {
+    "source_idiom": "den Vogel abschießen",
+    "target_idiom": "llevarse la palma",
+    "source_meaning": "to take the cake",
+    "target_meaning": "to win, to bear the palm, to bear away the palm, to carry the day, to take the cake, to take the prize, to take the biscuit, to beat it all, to run away with the prize"
+  },
+  {
+    "source_idiom": "den Weg ebnen",
+    "target_idiom": "abrir camino",
+    "source_meaning": "to pave the way",
+    "target_meaning": "to pave the way"
+  },
+  {
+    "source_idiom": "dicht an dicht",
+    "target_idiom": "casi casi",
+    "source_meaning": "very close together, tightly packed (e.g. of people in a crowded space)",
+    "target_meaning": "very close, almost"
+  },
+  {
+    "source_idiom": "dicht auf den Fersen",
+    "target_idiom": "acto continuo",
+    "source_meaning": "hot on the heels",
+    "target_meaning": "right after; immediately afterwards"
+  },
+  {
+    "source_idiom": "die Bank sprengen",
+    "target_idiom": "tirar de talonario",
+    "source_meaning": "to break the bank",
+    "target_meaning": "to shell out a lot of money; to pay big bucks"
+  },
+  {
+    "source_idiom": "die Ecke",
+    "target_idiom": "por ahí",
+    "source_meaning": "thereabout, approximately, roughly",
+    "target_meaning": "roughly, thereabout, thereabouts (i.e. approximately)"
+  },
+  {
+    "source_idiom": "die Finger im Spiel haben",
+    "target_idiom": "tener algo que ver con",
+    "source_meaning": "to be involved in, to have a hand in",
+    "target_meaning": "to have something to do with, to concern, to have some relationship with"
+  },
+  {
+    "source_idiom": "die Flinte ins Korn werfen",
+    "target_idiom": "tirar la toalla",
+    "source_meaning": "to throw in the towel (to quit; to give up)",
+    "target_meaning": "to throw in the towel; to give up; to quit"
+  },
+  {
+    "source_idiom": "die Fäden ziehen",
+    "target_idiom": "cortar el bacalao",
+    "source_meaning": "to pull the strings",
+    "target_meaning": "to run the show; call the shots"
+  },
+  {
+    "source_idiom": "die Gunst der Stunde nutzen",
+    "target_idiom": "ver el cielo abierto",
+    "source_meaning": "to seize the moment",
+    "target_meaning": "to see an opportunity; see one's chance"
+  },
+  {
+    "source_idiom": "die Haare vom Kopf fressen",
+    "target_idiom": "tener buen saque",
+    "source_meaning": "to eat someone out of house and home",
+    "target_meaning": "to have a large appetite"
+  },
+  {
+    "source_idiom": "die Hoffnung stirbt zuletzt",
+    "target_idiom": "cuentas de la lechera",
+    "source_meaning": "hope springs eternal",
+    "target_meaning": "wishful thinking"
+  },
+  {
+    "source_idiom": "die Hosen anhaben",
+    "target_idiom": "llevar los pantalones",
+    "source_meaning": "to wear the trousers (UK), to wear the pants (US)",
+    "target_meaning": "to wear the pants, to wear the trousers"
+  },
+  {
+    "source_idiom": "die Hände in Unschuld waschen",
+    "target_idiom": "lavarse las manos",
+    "source_meaning": "to wash one's hands of",
+    "target_meaning": "to wash one's hands of"
+  },
+  {
+    "source_idiom": "die Hände in den Schoß legen",
+    "target_idiom": "tocar el violín",
+    "source_meaning": "to twiddle one's thumbs",
+    "target_meaning": "to twiddle one's thumbs"
+  },
+  {
+    "source_idiom": "die Hölle heißmachen",
+    "target_idiom": "mandar al cuerno",
+    "source_meaning": "to give (someone) hell  ",
+    "target_meaning": "to tell someone to go to hell"
+  },
+  {
+    "source_idiom": "die Katze aus dem Sack lassen",
+    "target_idiom": "dar un cuarto al pregonero",
+    "source_meaning": "to let the cat out of the bag",
+    "target_meaning": "to let the cat out of the bag"
+  },
+  {
+    "source_idiom": "die Katze beißt sich in den Schwanz",
+    "target_idiom": "pescadilla que se muerde la cola",
+    "source_meaning": "it's a vicious circle, every solution leads to a dead end or creates new problems",
+    "target_meaning": "vicious circle"
+  },
+  {
+    "source_idiom": "die Kirche im Dorf lassen",
+    "target_idiom": "ni tanto ni tan calvo",
+    "source_meaning": "to avoid exaggerating; not to get carried away",
+    "target_meaning": "don't exaggerate; don't get carried away"
+  },
+  {
+    "source_idiom": "die Klingen kreuzen",
+    "target_idiom": "venir a las manos",
+    "source_meaning": "to cross swords",
+    "target_meaning": "to come to blows"
+  },
+  {
+    "source_idiom": "die Krise kriegen",
+    "target_idiom": "irse la pinza",
+    "source_meaning": "to flip out, go nuts, lose one's cool",
+    "target_meaning": "to go nuts, go bonkers, lose the plot"
+  },
+  {
+    "source_idiom": "die Krätze kriegen",
+    "target_idiom": "dar asco",
+    "source_meaning": "to find something loathsome (highly offensive or uncomfortable)",
+    "target_meaning": "to revolt; disgust; to turn someone's stomach"
+  },
+  {
+    "source_idiom": "die Leviten lesen",
+    "target_idiom": "leer la cartilla",
+    "source_meaning": "to read (someone) the riot act, to reprimand  ",
+    "target_meaning": "to read the riot act; tick off; scold; reprimand"
+  },
+  {
+    "source_idiom": "die Nase voll haben",
+    "target_idiom": "estar hasta los huevos",
+    "source_meaning": "to be fed up (with something); to have had it up to here",
+    "target_meaning": "to have had it up to here; to be fed up"
+  },
+  {
+    "source_idiom": "die Nase vorn haben",
+    "target_idiom": "ley de la ventaja",
+    "source_meaning": "to have the advantage",
+    "target_meaning": "advantage law ()"
+  },
+  {
+    "source_idiom": "die Ohren spitzen",
+    "target_idiom": "aguzar las orejas",
+    "source_meaning": "to listen attentively; to prick up one's ears",
+    "target_meaning": "to prick up one's ears"
+  },
+  {
+    "source_idiom": "die Radieschen von unten betrachten",
+    "target_idiom": "criar malvas",
+    "source_meaning": "to push up daisies",
+    "target_meaning": "to push up daisies"
+  },
+  {
+    "source_idiom": "die Spreu vom Weizen trennen",
+    "target_idiom": "apartar el grano de la paja",
+    "source_meaning": "to separate the wheat from the chaff (to select only that which is of value)",
+    "target_meaning": "to separate the wheat from the chaff"
+  },
+  {
+    "source_idiom": "die Suppe auslöffeln",
+    "target_idiom": "aguantar el chaparrón",
+    "source_meaning": "to face the music",
+    "target_meaning": "to face the music"
+  },
+  {
+    "source_idiom": "die Zelte abbrechen",
+    "target_idiom": "echarse el pollo",
+    "source_meaning": "to pull up stakes",
+    "target_meaning": "to up and leave"
+  },
+  {
+    "source_idiom": "die Zähne zusammenbeißen",
+    "target_idiom": "enseñar los colmillos",
+    "source_meaning": "to grit one's teeth",
+    "target_meaning": "to bare one's teeth"
+  },
+  {
+    "source_idiom": "die erste Geige spielen",
+    "target_idiom": "llevar la delantera",
+    "source_meaning": "to play first fiddle",
+    "target_meaning": "to go first; to take the lead"
+  },
+  {
+    "source_idiom": "die zweite Geige spielen",
+    "target_idiom": "pasar a un segundo plano",
+    "source_meaning": "to take a back seat, to play second fiddle",
+    "target_meaning": "to take a back seat, to play second fiddle, to be on the back burner, to fade into the background"
+  },
+  {
+    "source_idiom": "drunter und drüber",
+    "target_idiom": "fuera de control",
+    "source_meaning": "chaotic, haywire, higgledy-piggledy",
+    "target_meaning": "haywire; out of control"
+  },
+  {
+    "source_idiom": "durch den Kakao ziehen",
+    "target_idiom": "sacar pica",
+    "source_meaning": "to pull someone's leg, to make fun of someone or something, to roast someone",
+    "target_meaning": "to pull someone's leg"
+  },
+  {
+    "source_idiom": "durch die Finger schauen",
+    "target_idiom": "faltar a la cita",
+    "source_meaning": "to be left emptyhanded, to come away empty, to miss out",
+    "target_meaning": "to miss out"
+  },
+  {
+    "source_idiom": "durch die Lappen gehen",
+    "target_idiom": "dar esquinazo",
+    "source_meaning": "to slip through one's fingers",
+    "target_meaning": "to slip away (from), give someone the slip, get past"
+  },
+  {
+    "source_idiom": "ein Auge zudrücken",
+    "target_idiom": "hacer la vista gorda",
+    "source_meaning": "to turn a blind eye",
+    "target_meaning": "to turn a blind eye, to shut one's eyes, to look the other way"
+  },
+  {
+    "source_idiom": "ein Fass aufmachen",
+    "target_idiom": "calentar motores",
+    "source_meaning": "to get worked up",
+    "target_meaning": "to get warmed up"
+  },
+  {
+    "source_idiom": "ein Gedächtnis wie ein Sieb",
+    "target_idiom": "memoria de pollo",
+    "source_meaning": "a mind like a sieve",
+    "target_meaning": "memory of a goldfish (forgetfulness)"
+  },
+  {
+    "source_idiom": "ein Hühnchen rupfen",
+    "target_idiom": "poner a caldo",
+    "source_meaning": "to take to task; to have a rebuking talk with; to have a bone to pick with",
+    "target_meaning": "to tell off, scold"
+  },
+  {
+    "source_idiom": "ein Machtwort sprechen",
+    "target_idiom": "echar la ley",
+    "source_meaning": "to decide a matter; to exercise one's authority",
+    "target_meaning": "to lay down the law"
+  },
+  {
+    "source_idiom": "ein abgebrochener Riese",
+    "target_idiom": "de cuenta",
+    "source_meaning": "small-statured person",
+    "target_meaning": "important; of stature"
+  },
+  {
+    "source_idiom": "ein für alle Mal",
+    "target_idiom": "de una vez para siempre",
+    "source_meaning": "once and for all",
+    "target_meaning": "once and for all"
+  },
+  {
+    "source_idiom": "eine Lanze brechen",
+    "target_idiom": "romper una lanza",
+    "source_meaning": "to take up the cudgel for, to support",
+    "target_meaning": "to stand up (for), to break a lance (for)"
+  },
+  {
+    "source_idiom": "eine Nase drehen",
+    "target_idiom": "mirar por encima del hombro",
+    "source_meaning": "to thumb one's nose",
+    "target_meaning": "to stick one's nose up"
+  },
+  {
+    "source_idiom": "eine Nummer schieben",
+    "target_idiom": "echar un palo",
+    "source_meaning": "to have sex",
+    "target_meaning": "to have sex"
+  },
+  {
+    "source_idiom": "eine Schraube locker haben",
+    "target_idiom": "tener flojos los tornillos",
+    "source_meaning": "to have a screw loose",
+    "target_meaning": "to have a screw loose"
+  },
+  {
+    "source_idiom": "einen Blick werfen",
+    "target_idiom": "echar un vistazo",
+    "source_meaning": "to take a look",
+    "target_meaning": "to glance, have a look"
+  },
+  {
+    "source_idiom": "einen Bären aufbinden",
+    "target_idiom": "meterla doblada",
+    "source_meaning": "to trick; to cheat someone",
+    "target_meaning": "to trick, deceive"
+  },
+  {
+    "source_idiom": "einen Frosch im Hals haben",
+    "target_idiom": "nudo en la garganta",
+    "source_meaning": "to have a frog in one's throat",
+    "target_meaning": "lump in one's throat"
+  },
+  {
+    "source_idiom": "einen Korb geben",
+    "target_idiom": "hacer un feo",
+    "source_meaning": "to jilt, to snub, to turn down (to decline someone's advances)",
+    "target_meaning": "to snub; turn down"
+  },
+  {
+    "source_idiom": "einen Korb kriegen",
+    "target_idiom": "comerse los mocos",
+    "source_meaning": "to be (romantically) rejected",
+    "target_meaning": "to fail, especially in flirting"
+  },
+  {
+    "source_idiom": "einen Lauf haben",
+    "target_idiom": "estar que se sale",
+    "source_meaning": "to be on a roll",
+    "target_meaning": "to be on fire; to be on a roll"
+  },
+  {
+    "source_idiom": "einen Neger abseilen",
+    "target_idiom": "hacer de cuerpo",
+    "source_meaning": "to defecate",
+    "target_meaning": "to move one's bowels (defecate)"
+  },
+  {
+    "source_idiom": "einen Schlussstrich ziehen",
+    "target_idiom": "poner coto",
+    "source_meaning": "to put an end to",
+    "target_meaning": "to put an end to"
+  },
+  {
+    "source_idiom": "einen Vogel haben",
+    "target_idiom": "tener pájaros en la cabeza",
+    "source_meaning": "To have a screw loose; be nuts; be crazy, to have bats in one's belfry",
+    "target_meaning": "to have a screw loose, to have bats in the belfry; to be feather-brained"
+  },
+  {
+    "source_idiom": "einen Zahn zulegen",
+    "target_idiom": "darse prisa",
+    "source_meaning": "to hurry up",
+    "target_meaning": "to hurry, to hurry up, to get a move on, to be quick, to make haste (to speed up the rate)"
+  },
+  {
+    "source_idiom": "einen fliegen lassen",
+    "target_idiom": "tirarse un pedo",
+    "source_meaning": "to flatulate",
+    "target_meaning": "to fart"
+  },
+  {
+    "source_idiom": "einen guten Draht haben",
+    "target_idiom": "tener enchufe",
+    "source_meaning": "to be on good terms with someone, to have a connection with someone or something, to be attuned to",
+    "target_meaning": "to have connections"
+  },
+  {
+    "source_idiom": "einen im Tee haben",
+    "target_idiom": "estar en pedo",
+    "source_meaning": "to be tipsy",
+    "target_meaning": "to be drunk"
+  },
+  {
+    "source_idiom": "einseifen",
+    "target_idiom": "cruzar la cara",
+    "source_meaning": "to rub snow on someone's face",
+    "target_meaning": "to slap (someone in the face)"
+  },
+  {
+    "source_idiom": "etwas Revue passieren lassen",
+    "target_idiom": "a toro pasado",
+    "source_meaning": "to review (some past event) in its entirety",
+    "target_meaning": "in hindsight; after the fact"
+  },
+  {
+    "source_idiom": "etwas an die große Glocke hängen",
+    "target_idiom": "a los cuatro vientos",
+    "source_meaning": "to shout from the rooftops",
+    "target_meaning": "from the rooftops"
+  },
+  {
+    "source_idiom": "etwas auf die lange Bank schieben",
+    "target_idiom": "dar largas",
+    "source_meaning": "to postpone something",
+    "target_meaning": "to put off, to delay, to give somebody the runaround"
+  },
+  {
+    "source_idiom": "etwas aus der Luft greifen",
+    "target_idiom": "llovido del cielo",
+    "source_meaning": "to pull out of thin air",
+    "target_meaning": "out of thin air"
+  },
+  {
+    "source_idiom": "etwas für bare Münze nehmen",
+    "target_idiom": "tomar la palabra",
+    "source_meaning": "to take something at face value",
+    "target_meaning": "to take someone's word for it; to believe what somebody says"
+  },
+  {
+    "source_idiom": "etwas im Keim ersticken",
+    "target_idiom": "cortar de raíz",
+    "source_meaning": "to nip (something) in the bud",
+    "target_meaning": "to nip in the bud"
+  },
+  {
+    "source_idiom": "etwas in den Wind schlagen",
+    "target_idiom": "hacer mangas y capirotes",
+    "source_meaning": "to ignore or disregard something",
+    "target_meaning": "to completely ignore; send to Coventry"
+  },
+  {
+    "source_idiom": "etwas zu Tage fördern",
+    "target_idiom": "sacar a la luz",
+    "source_meaning": "to bring something to light",
+    "target_meaning": "to bring to light, to expose, to unearth, to bring out, to bring into the open"
+  },
+  {
+    "source_idiom": "etwas zu den Akten legen",
+    "target_idiom": "dar carpetazo",
+    "source_meaning": "to file away; to shelve",
+    "target_meaning": "to shelve; put to bed"
+  },
+  {
+    "source_idiom": "ewig und drei Tage",
+    "target_idiom": "ir para largo",
+    "source_meaning": "a very long time",
+    "target_meaning": "to have a long time to go; to go on for a long time"
+  },
+  {
+    "source_idiom": "feucht hinter den Ohren",
+    "target_idiom": "en pañales",
+    "source_meaning": "wet behind the ears",
+    "target_meaning": "in the very early stages of something; still green; wet behind the ears"
+  },
+  {
+    "source_idiom": "fick dich",
+    "target_idiom": "a tomar por culo",
+    "source_meaning": "fuck you, screw you",
+    "target_meaning": "fuck you, screw you"
+  },
+  {
+    "source_idiom": "fix und fertig",
+    "target_idiom": "hecho pelota",
+    "source_meaning": "bushed, burnt out",
+    "target_meaning": "knackered; shattered; pooped"
+  },
+  {
+    "source_idiom": "flöten gehen",
+    "target_idiom": "más perdido que Carracuca",
+    "source_meaning": "to be lost, to be gone",
+    "target_meaning": "completely lost"
+  },
+  {
+    "source_idiom": "frei Haus",
+    "target_idiom": "de gratis",
+    "source_meaning": "without additional shipping/delivery cost",
+    "target_meaning": "for free, at no cost"
+  },
+  {
+    "source_idiom": "fündig werden",
+    "target_idiom": "hacerse de oro",
+    "source_meaning": "to hit paydirt, to strike it rich",
+    "target_meaning": "to strike it rich"
+  },
+  {
+    "source_idiom": "fürs Protokoll",
+    "target_idiom": "poner de manifiesto",
+    "source_meaning": "for the record",
+    "target_meaning": "to put on record; to set out; to make clear; to explain"
+  },
+  {
+    "source_idiom": "gang und gäbe",
+    "target_idiom": "moneda corriente",
+    "source_meaning": "to be commonplace",
+    "target_meaning": "(something) commonplace, a common thing"
+  },
+  {
+    "source_idiom": "ganz Ohr sein",
+    "target_idiom": "ser todo oídos",
+    "source_meaning": "to be all ears (to listen carefully or eagerly; to anticipate)",
+    "target_meaning": "to be all ears"
+  },
+  {
+    "source_idiom": "ganz dicht sein",
+    "target_idiom": "en sus cabales",
+    "source_meaning": "to be in one's right mind",
+    "target_meaning": "in one's right mind"
+  },
+  {
+    "source_idiom": "ganz schön",
+    "target_idiom": "que te cagas",
+    "source_meaning": "pretty, quite, rather (to an usual or surprising degree)",
+    "target_meaning": "(used as an intensifier)"
+  },
+  {
+    "source_idiom": "gelinde gesagt",
+    "target_idiom": "cuando menos",
+    "source_meaning": "to say the least",
+    "target_meaning": "at least; at the very least; to say the least"
+  },
+  {
+    "source_idiom": "gesagt, getan",
+    "target_idiom": "ni bien",
+    "source_meaning": "no sooner said than done",
+    "target_meaning": "as soon as"
+  },
+  {
+    "source_idiom": "gesund und munter",
+    "target_idiom": "vivito y coleando",
+    "source_meaning": "alive and kicking",
+    "target_meaning": "alive and kicking"
+  },
+  {
+    "source_idiom": "gesund wie ein Fisch im Wasser",
+    "target_idiom": "más sano que una pera",
+    "source_meaning": "as sound as a bell",
+    "target_meaning": "fit as a fiddle"
+  },
+  {
+    "source_idiom": "gut Ding will Weile haben",
+    "target_idiom": "tener más paciencia que el santo Job",
+    "source_meaning": "good things are worth patience",
+    "target_meaning": "to have the patience of Job"
+  },
+  {
+    "source_idiom": "guten Glaubens",
+    "target_idiom": "de buena fe",
+    "source_meaning": "bona fide",
+    "target_meaning": "in good faith"
+  },
+  {
+    "source_idiom": "guter Dinge",
+    "target_idiom": "de buen aire",
+    "source_meaning": "in good spirits, confident, optimistic",
+    "target_meaning": "in a good mood"
+  },
+  {
+    "source_idiom": "hart auf hart kommen",
+    "target_idiom": "en último término",
+    "source_meaning": "worst comes to worst",
+    "target_meaning": "as last resort"
+  },
+  {
+    "source_idiom": "harte Nuss",
+    "target_idiom": "hueso duro de roer",
+    "source_meaning": "tough nut to crack, hard nut to crack",
+    "target_meaning": "tough nut to crack"
+  },
+  {
+    "source_idiom": "heißes Eisen",
+    "target_idiom": "patata caliente",
+    "source_meaning": "hot potato",
+    "target_meaning": "hot potato (unwanted problem)"
+  },
+  {
+    "source_idiom": "hingehen, wo der Pfeffer wächst",
+    "target_idiom": "mandar a hacer puñetas",
+    "source_meaning": "to go jump in the lake",
+    "target_meaning": "tell someone to take a long walk on a short pier; go jump in the lake"
+  },
+  {
+    "source_idiom": "hinter den Kulissen",
+    "target_idiom": "entre bastidores",
+    "source_meaning": "behind the scenes",
+    "target_meaning": "behind the scenes (in secret)"
+  },
+  {
+    "source_idiom": "hinwegfegen",
+    "target_idiom": "mandar a otro mundo",
+    "source_meaning": "to sweep away",
+    "target_meaning": "to do away with; take out (kill)"
+  },
+  {
+    "source_idiom": "hochspielen",
+    "target_idiom": "sacar hierro",
+    "source_meaning": "to play up",
+    "target_meaning": "to play down"
+  },
+  {
+    "source_idiom": "i-Tüpfelchen",
+    "target_idiom": "dar la última pincelada",
+    "source_meaning": "the finishing touch.",
+    "target_meaning": "to give the finishing touches"
+  },
+  {
+    "source_idiom": "im Auftrag",
+    "target_idiom": "por poder",
+    "source_meaning": "per procurationem, per pro, p.p.; indicates that a signatory is not out of themself qualified to sign, but has been instructed or authorized to do so by someone responsible. Unlike English usage, the latter’s name is usually not indicated.",
+    "target_meaning": "by proxy"
+  },
+  {
+    "source_idiom": "im Auge behalten",
+    "target_idiom": "estar al loro",
+    "source_meaning": "to keep an eye on",
+    "target_meaning": "to watch out; to keep an eye out"
+  },
+  {
+    "source_idiom": "im Begriff sein",
+    "target_idiom": "estar al caer",
+    "source_meaning": "to want to begin doing something now; to be about to",
+    "target_meaning": "to be imminent; to be bound to happen any time now"
+  },
+  {
+    "source_idiom": "im Dunkeln tappen",
+    "target_idiom": "estar a oscuras",
+    "source_meaning": "to be in the dark",
+    "target_meaning": "To be in the dark"
+  },
+  {
+    "source_idiom": "im Gebälk rascheln",
+    "target_idiom": "estar que arde",
+    "source_meaning": "trouble is brewing",
+    "target_meaning": "to be getting heated; to be brewing; to be kicking off"
+  },
+  {
+    "source_idiom": "im Griff haben",
+    "target_idiom": "tener agarrado por los cojones",
+    "source_meaning": "to have under control",
+    "target_meaning": "to have someone by the balls"
+  },
+  {
+    "source_idiom": "im Sturm nehmen",
+    "target_idiom": "pasar el rodillo",
+    "source_meaning": "to take by storm",
+    "target_meaning": "to steamroller; to storm"
+  },
+  {
+    "source_idiom": "im selben Atemzug",
+    "target_idiom": "al tiempo",
+    "source_meaning": "in the same breath",
+    "target_meaning": "at the same time"
+  },
+  {
+    "source_idiom": "in Amt und Würden",
+    "target_idiom": "por su persona",
+    "source_meaning": "in office",
+    "target_meaning": "in person"
+  },
+  {
+    "source_idiom": "in Betracht ziehen",
+    "target_idiom": "tomar en cuenta",
+    "source_meaning": "to take into consideration",
+    "target_meaning": "to take into account; to keep in mind"
+  },
+  {
+    "source_idiom": "in Kauf nehmen",
+    "target_idiom": "dar abasto",
+    "source_meaning": "to put up with, accept (a negative secondary effect)",
+    "target_meaning": "to cope, manage (with a workload)"
+  },
+  {
+    "source_idiom": "in Ungnade fallen",
+    "target_idiom": "caer en desgracia",
+    "source_meaning": "to fall from grace",
+    "target_meaning": "to fall from grace"
+  },
+  {
+    "source_idiom": "in Zukunft",
+    "target_idiom": "en lo por venir",
+    "source_meaning": "hereafter, in future, in the future, for the future",
+    "target_meaning": "in future"
+  },
+  {
+    "source_idiom": "in aller Munde sein",
+    "target_idiom": "andar en lenguas",
+    "source_meaning": "to be on everyone's lips",
+    "target_meaning": "To be a common conversation topic; to be on many people's tongues"
+  },
+  {
+    "source_idiom": "in den Arsch kriechen",
+    "target_idiom": "lamer el culo",
+    "source_meaning": "to kiss arse",
+    "target_meaning": "to kiss ass (US), to kiss arse (UK); to brownnose, to suck up"
+  },
+  {
+    "source_idiom": "in den Himmel heben",
+    "target_idiom": "hacerse lenguas de",
+    "source_meaning": "to praise to the skies",
+    "target_meaning": "to praise to the skies"
+  },
+  {
+    "source_idiom": "in den Sand setzen",
+    "target_idiom": "joderla",
+    "source_meaning": "(of a project) to botch; (of money) to waste, to burn",
+    "target_meaning": "to screw up; mess up (a plan)"
+  },
+  {
+    "source_idiom": "in den Wind schlagen",
+    "target_idiom": "ponerse el mundo por montera",
+    "source_meaning": "to throw to the wind",
+    "target_meaning": "to throw caution to the wind"
+  },
+  {
+    "source_idiom": "in den letzten Zügen liegen",
+    "target_idiom": "a las puertas de la muerte",
+    "source_meaning": "to be on one's last legs; to be in one's death throes",
+    "target_meaning": "at death's door"
+  },
+  {
+    "source_idiom": "in den sauren Apfel beißen",
+    "target_idiom": "morder la bala",
+    "source_meaning": "to bite the bullet",
+    "target_meaning": "to bite the bullet"
+  },
+  {
+    "source_idiom": "in der Tinte sitzen",
+    "target_idiom": "bailar en un tusero",
+    "source_meaning": "to be in a fix; to be in trouble",
+    "target_meaning": "to be in a pickle; to be in a jam"
+  },
+  {
+    "source_idiom": "in der Weltgeschichte herumreisen",
+    "target_idiom": "aplanar calles",
+    "source_meaning": "to travel extensively (to different parts of the world), to be constantly on the move",
+    "target_meaning": "to wander; to roam"
+  },
+  {
+    "source_idiom": "in die Bresche springen",
+    "target_idiom": "llenar un hueco",
+    "source_meaning": "to step into the breach",
+    "target_meaning": "to fill in; to stand in"
+  },
+  {
+    "source_idiom": "in die Enge treiben",
+    "target_idiom": "echar el guante",
+    "source_meaning": "to trap, to scare, to corner",
+    "target_meaning": "to catch, glove, entrap"
+  },
+  {
+    "source_idiom": "in die Hand beißen, die einen füttert",
+    "target_idiom": "morder la mano que se da de comer",
+    "source_meaning": "to bite the hand that feeds one",
+    "target_meaning": "to bite the hand that feeds one"
+  },
+  {
+    "source_idiom": "in die Hose gehen",
+    "target_idiom": "venir mal dadas",
+    "source_meaning": "to go wrong, to go south",
+    "target_meaning": "To go wrong, to go pear-shaped"
+  },
+  {
+    "source_idiom": "in die Luft sprengen",
+    "target_idiom": "hacer papilla",
+    "source_meaning": "to blow up (literally: \"to blow (up) in the air\")",
+    "target_meaning": "to blow to smithereens, blow to bits, blow to pieces"
+  },
+  {
+    "source_idiom": "in die Pfanne hauen",
+    "target_idiom": "poner pingando",
+    "source_meaning": "to criticize or deride (someone) harshly, especially in a disloyal manner; to slam, to throw under the bus",
+    "target_meaning": "to slag off; rip to shreds"
+  },
+  {
+    "source_idiom": "in die Pflicht nehmen",
+    "target_idiom": "por compromiso",
+    "source_meaning": "to remind of one’s duty",
+    "target_meaning": "out of a sense of duty"
+  },
+  {
+    "source_idiom": "in die Quere kommen",
+    "target_idiom": "cerrar el paso",
+    "source_meaning": "to get in the way",
+    "target_meaning": "to get in the way"
+  },
+  {
+    "source_idiom": "in die Wege leiten",
+    "target_idiom": "echar a andar",
+    "source_meaning": "to initiate, launch, set in motion, line up for",
+    "target_meaning": "to launch, set up, set in motion"
+  },
+  {
+    "source_idiom": "in eine Schublade stecken",
+    "target_idiom": "meter con calzador",
+    "source_meaning": "to pigeonhole",
+    "target_meaning": "to shoehorn"
+  },
+  {
+    "source_idiom": "in höchstem Maße",
+    "target_idiom": "a raudales",
+    "source_meaning": "in spades",
+    "target_meaning": "in spades; galore; by the ton"
+  },
+  {
+    "source_idiom": "in puncto",
+    "target_idiom": "de cara a",
+    "source_meaning": "regarding",
+    "target_meaning": "when it comes to; as for"
+  },
+  {
+    "source_idiom": "in trockenen Tüchern",
+    "target_idiom": "en el bote",
+    "source_meaning": "final; safe; in the bag; said and done",
+    "target_meaning": "in the bag (virtually guaranteed)"
+  },
+  {
+    "source_idiom": "ins Bild setzen",
+    "target_idiom": "poner al tanto",
+    "source_meaning": "to inform, to fill someone in",
+    "target_meaning": "to brief, give a rundown"
+  },
+  {
+    "source_idiom": "ins Fettnäpfchen treten",
+    "target_idiom": "parirla",
+    "source_meaning": "to put one's foot in one's mouth",
+    "target_meaning": "to put one's foot in it"
+  },
+  {
+    "source_idiom": "ins Gras beißen",
+    "target_idiom": "morder el polvo",
+    "source_meaning": "to bite the dust, to die",
+    "target_meaning": "to bite the dust"
+  },
+  {
+    "source_idiom": "ins Kraut schießen",
+    "target_idiom": "dar rienda suelta",
+    "source_meaning": "to run rampant",
+    "target_meaning": "to give free rein"
+  },
+  {
+    "source_idiom": "ins Ohr gehen",
+    "target_idiom": "tener chispa",
+    "source_meaning": "to be catchy",
+    "target_meaning": "to be funnily clever, to be witty"
+  },
+  {
+    "source_idiom": "ins Reine bringen",
+    "target_idiom": "entendérselas",
+    "source_meaning": "to iron out, to sort out, to clean up",
+    "target_meaning": "to deal with (something); to sort things out"
+  },
+  {
+    "source_idiom": "ins Reine kommen",
+    "target_idiom": "salir del clóset",
+    "source_meaning": "to come clean",
+    "target_meaning": "to come out of the closet"
+  },
+  {
+    "source_idiom": "ins Visier nehmen",
+    "target_idiom": "poner la proa",
+    "source_meaning": "to target, to set sight on",
+    "target_meaning": "To aim for; to put in one's sights"
+  },
+  {
+    "source_idiom": "ins Wasser fallen",
+    "target_idiom": "irse al cuerno",
+    "source_meaning": "to fall through",
+    "target_meaning": "to fall through"
+  },
+  {
+    "source_idiom": "ins Wasser gehen",
+    "target_idiom": "ahogar las penas",
+    "source_meaning": "to drown oneself, commit suicide by drowning",
+    "target_meaning": "to drown one's sorrows"
+  },
+  {
+    "source_idiom": "ins kalte Wasser springen",
+    "target_idiom": "meterse de cabeza",
+    "source_meaning": "to jump in at the deep end",
+    "target_meaning": "to jump in head-first"
+  },
+  {
+    "source_idiom": "jemandem Sand in die Augen streuen",
+    "target_idiom": "pegar un parche",
+    "source_meaning": "to pull the wool over someone's eyes",
+    "target_meaning": "to pull the wool over someone's eyes, to pull a fast one"
+  },
+  {
+    "source_idiom": "jemandem Saures geben",
+    "target_idiom": "decir cuatro cosas",
+    "source_meaning": "to let someone have it",
+    "target_meaning": "to give [someone] a piece of one's mind"
+  },
+  {
+    "source_idiom": "jemandem ans Bein pinkeln",
+    "target_idiom": "tirar veneno",
+    "source_meaning": "to badmouth",
+    "target_meaning": "to badmouth; to talk shit"
+  },
+  {
+    "source_idiom": "jemandem die Stirn bieten",
+    "target_idiom": "tenérselas tiesas con",
+    "source_meaning": "to stand up to someone",
+    "target_meaning": "to stand up to; to affront"
+  },
+  {
+    "source_idiom": "jemandem eins auswischen",
+    "target_idiom": "colársela",
+    "source_meaning": "to put one over on somebody",
+    "target_meaning": "to trick, to put one over on"
+  },
+  {
+    "source_idiom": "jemandem etwas zur Last legen",
+    "target_idiom": "cargar el muerto",
+    "source_meaning": "to accuse, blame (someone for something)",
+    "target_meaning": "to pin the blame (on someone)"
+  },
+  {
+    "source_idiom": "jemandem fehlen die Worte",
+    "target_idiom": "sin palabras",
+    "source_meaning": "words fail someone, lost for words, at a loss for words",
+    "target_meaning": "speechless"
+  },
+  {
+    "source_idiom": "jemandem in Fleisch und Blut übergehen",
+    "target_idiom": "como pez en el agua",
+    "source_meaning": "to become second nature",
+    "target_meaning": "like a duck takes to water"
+  },
+  {
+    "source_idiom": "jemandem in den Kram passen",
+    "target_idiom": "venirle al pelo",
+    "source_meaning": "to suit someone",
+    "target_meaning": "to suit down to the ground"
+  },
+  {
+    "source_idiom": "jemandem in die Suppe spucken",
+    "target_idiom": "aguar la fiesta",
+    "source_meaning": "to rain on someone's parade",
+    "target_meaning": "to be a spoilsport; to be a party pooper"
+  },
+  {
+    "source_idiom": "jemandem nicht das Wasser reichen können",
+    "target_idiom": "llegar a la suela del zapato",
+    "source_meaning": "to not hold a candle to",
+    "target_meaning": "to not compare to, to have nothing on"
+  },
+  {
+    "source_idiom": "jemandem stehen die Haare zu Berge",
+    "target_idiom": "estar de los nervios",
+    "source_meaning": "someone is worked up, upset, or frightened to no end",
+    "target_meaning": "to be on edge; to be very nervous"
+  },
+  {
+    "source_idiom": "jemanden kreuzweise können",
+    "target_idiom": "con viento fresco",
+    "source_meaning": "expression of disdain",
+    "target_meaning": "with disgust or anger"
+  },
+  {
+    "source_idiom": "kalter Bauer",
+    "target_idiom": "mojar la cama",
+    "source_meaning": "ejaculate, especially resulting from ejaculation while sleeping; wet dream",
+    "target_meaning": "to wet the bed"
+  },
+  {
+    "source_idiom": "kein Blatt vor den Mund nehmen",
+    "target_idiom": "no tener pelos en la lengua",
+    "source_meaning": "to be outspoken; not to mince words; to call a spade a spade",
+    "target_meaning": "to not mince one's words, to speak one's mind"
+  },
+  {
+    "source_idiom": "kein Kommentar",
+    "target_idiom": "salida de tono",
+    "source_meaning": "no comment",
+    "target_meaning": "inappropriate comment"
+  },
+  {
+    "source_idiom": "kein Wässerchen trüben können",
+    "target_idiom": "pedazo de pan",
+    "source_meaning": "wouldn't hurt a fly",
+    "target_meaning": "a harmless fellow; an angel"
+  },
+  {
+    "source_idiom": "kein unbeschriebenes Blatt sein",
+    "target_idiom": "de marras",
+    "source_meaning": "to be a known quantity",
+    "target_meaning": "well-known"
+  },
+  {
+    "source_idiom": "keine Rolle spielen",
+    "target_idiom": "no ser para tanto",
+    "source_meaning": "to not matter, to not be important",
+    "target_meaning": "to not be that great, that important"
+  },
+  {
+    "source_idiom": "keinen Finger rühren",
+    "target_idiom": "no dar palo al agua",
+    "source_meaning": "to not lift a finger",
+    "target_meaning": "to not lift a finger"
+  },
+  {
+    "source_idiom": "keinen Pfifferling wert sein",
+    "target_idiom": "valer verga",
+    "source_meaning": "to not be worth a dime",
+    "target_meaning": "to to be worthless, not to care, to be not worth a damn fight"
+  },
+  {
+    "source_idiom": "kleine Brötchen backen",
+    "target_idiom": "bajarle los humos",
+    "source_meaning": "to dial down one's future plans and ambitions (often in response to a setback)",
+    "target_meaning": "to take down a notch"
+  },
+  {
+    "source_idiom": "kreidebleich",
+    "target_idiom": "blanco como el papel",
+    "source_meaning": "pale, especially pale-faced; white as a sheet",
+    "target_meaning": "white as a sheet"
+  },
+  {
+    "source_idiom": "leck mich am Arsch",
+    "target_idiom": "cómeme los huevos",
+    "source_meaning": "kiss my ass",
+    "target_meaning": "suck my balls, suck it, suck my cock, bite me, kiss my ass"
+  },
+  {
+    "source_idiom": "lieb und teuer",
+    "target_idiom": "como oro en paño",
+    "source_meaning": "cared about deeply, near and dear",
+    "target_meaning": "treating something precious with extreme care"
+  },
+  {
+    "source_idiom": "locker vom Hocker",
+    "target_idiom": "a medio gas",
+    "source_meaning": "easy, rested, without haste",
+    "target_meaning": "at a leisurely pace; not at full speed"
+  },
+  {
+    "source_idiom": "meines Wissens",
+    "target_idiom": "si mal no me acuerdo",
+    "source_meaning": "to my knowledge",
+    "target_meaning": "if my memory serves me correctly"
+  },
+  {
+    "source_idiom": "mit Ach und Krach",
+    "target_idiom": "por un pelo",
+    "source_meaning": "by the skin of one's teeth (barely and with great exertion)",
+    "target_meaning": "by the skin of one's teeth, by a hair"
+  },
+  {
+    "source_idiom": "mit Hängen und Würgen",
+    "target_idiom": "a trancas y barrancas",
+    "source_meaning": "with great effort",
+    "target_meaning": "with great difficulty"
+  },
+  {
+    "source_idiom": "mit Kind und Kegel",
+    "target_idiom": "como un solo hombre",
+    "source_meaning": "as a large group; with all of one's family, contents, and/or livestock",
+    "target_meaning": "as one; as one man"
+  },
+  {
+    "source_idiom": "mit allem Drum und Dran",
+    "target_idiom": "armar hasta los dientes",
+    "source_meaning": "lock, stock, and barrel",
+    "target_meaning": "to arm to the teeth"
+  },
+  {
+    "source_idiom": "mit allen Schikanen",
+    "target_idiom": "por todo lo alto",
+    "source_meaning": "with all the bells and whistles",
+    "target_meaning": "with pomp and circumstance; in all one's glory"
+  },
+  {
+    "source_idiom": "mit anderen Worten",
+    "target_idiom": "dicho de otro modo",
+    "source_meaning": "in other words",
+    "target_meaning": "in other words"
+  },
+  {
+    "source_idiom": "mit angehaltenem Atem",
+    "target_idiom": "a la expectativa",
+    "source_meaning": "with bated breath",
+    "target_meaning": "on tenterhooks"
+  },
+  {
+    "source_idiom": "mit dem Feuer spielen",
+    "target_idiom": "jugar con fuego",
+    "source_meaning": "to play with fire",
+    "target_meaning": "to play with fire"
+  },
+  {
+    "source_idiom": "mit dem linken Fuß zuerst aufgestanden sein",
+    "target_idiom": "levantarse con el pie izquierdo",
+    "source_meaning": "to get up on the wrong side of the bed",
+    "target_meaning": "to get out of bed on the wrong side"
+  },
+  {
+    "source_idiom": "mit einem blauen Auge davonkommen",
+    "target_idiom": "irse de rositas",
+    "source_meaning": "to get off with a slap on the wrist",
+    "target_meaning": "to get away with it; get away scot-free; get off scot-free (to escape punishment for doing something or avoid doing some work)"
+  },
+  {
+    "source_idiom": "mit etwas Schritt halten",
+    "target_idiom": "dar alcance",
+    "source_meaning": "to keep up with",
+    "target_meaning": "to catch up with"
+  },
+  {
+    "source_idiom": "mit jemandem Schlitten fahren",
+    "target_idiom": "tratar a patadas",
+    "source_meaning": "to treat someone hard and ruthless",
+    "target_meaning": "to treat like dirt"
+  },
+  {
+    "source_idiom": "mit jemandem ins Gericht gehen",
+    "target_idiom": "mirar de hito en hito",
+    "source_meaning": "to take a hard look at someone, to judge someone",
+    "target_meaning": "to stare at"
+  },
+  {
+    "source_idiom": "mit leeren Händen",
+    "target_idiom": "con lo puesto",
+    "source_meaning": "empty-handed",
+    "target_meaning": "with nothing but the clothes on one's back; without a penny; down and out"
+  },
+  {
+    "source_idiom": "mit offenen Augen schlafen",
+    "target_idiom": "estar en Babia",
+    "source_meaning": "to daydream, to be inattentive",
+    "target_meaning": "to have one's head in the clouds; be absent-minded"
+  },
+  {
+    "source_idiom": "mitgehen lassen",
+    "target_idiom": "vivir del cuento",
+    "source_meaning": "to steal, to pilfer (especially while being some place for some other purpose)",
+    "target_meaning": "to skimp off other people, go through life without working"
+  },
+  {
+    "source_idiom": "nach Adam Riese",
+    "target_idiom": "hacer números",
+    "source_meaning": "calculating correctly, by the rules of mathematics",
+    "target_meaning": "to do the math"
+  },
+  {
+    "source_idiom": "nach Lust und Laune",
+    "target_idiom": "como guste",
+    "source_meaning": "as one pleases",
+    "target_meaning": "as much as one likes, as one feels fit"
+  },
+  {
+    "source_idiom": "nach hinten losgehen",
+    "target_idiom": "salir el tiro por la culata",
+    "source_meaning": "to backfire",
+    "target_meaning": "to backfire (to fail in a manner that brings down further misfortune)"
+  },
+  {
+    "source_idiom": "nah am Wasser gebaut",
+    "target_idiom": "paño de lágrimas",
+    "source_meaning": "prone to crying, who tends to cry easily",
+    "target_meaning": "shoulder to cry on"
+  },
+  {
+    "source_idiom": "nasses Element",
+    "target_idiom": "aguas menores",
+    "source_meaning": "water",
+    "target_meaning": "number one, water (urine)"
+  },
+  {
+    "source_idiom": "nicht der Rede wert sein",
+    "target_idiom": "no ser moco de pavo",
+    "source_meaning": "to be nothing worth mentioning",
+    "target_meaning": "to be nothing to sneeze at"
+  },
+  {
+    "source_idiom": "nicht die Bohne",
+    "target_idiom": "ni a tres tirones",
+    "source_meaning": "not at all",
+    "target_meaning": "not at all; absolutely not"
+  },
+  {
+    "source_idiom": "nichts zu suchen haben",
+    "target_idiom": "ni ir ni venir",
+    "source_meaning": "to have no business.",
+    "target_meaning": "to be neither here nor there; to have nothing to do with it"
+  },
+  {
+    "source_idiom": "nie im Leben",
+    "target_idiom": "en su vida",
+    "source_meaning": "never ever",
+    "target_meaning": "never; ever; never ever"
+  },
+  {
+    "source_idiom": "noch in den Kinderschuhen stecken",
+    "target_idiom": "en mantillas",
+    "source_meaning": "to be in its infancy",
+    "target_meaning": "in its infancy"
+  },
+  {
+    "source_idiom": "näher",
+    "target_idiom": "puesto a precisar",
+    "source_meaning": "further, more precise or detailed",
+    "target_meaning": "precisely, specifically"
+  },
+  {
+    "source_idiom": "ob man will oder nicht",
+    "target_idiom": "mal que te pese",
+    "source_meaning": "willy-nilly; whether we like it or not",
+    "target_meaning": "like it or not, like it or lump it"
+  },
+  {
+    "source_idiom": "reinen Wein einschenken",
+    "target_idiom": "ir con la verdad por delante",
+    "source_meaning": "to come clean (to tell someone the plain truth)",
+    "target_meaning": "to speak the truth; to be totally honest"
+  },
+  {
+    "source_idiom": "ruhig Blut bewahren",
+    "target_idiom": "mantener el tipo",
+    "source_meaning": "to keep one's cool",
+    "target_meaning": "to keep one's cool"
+  },
+  {
+    "source_idiom": "rund um die Uhr",
+    "target_idiom": "a todas horas",
+    "source_meaning": "around the clock, 24/7",
+    "target_meaning": "around the clock, at all hours"
+  },
+  {
+    "source_idiom": "schmutzige Wäsche waschen",
+    "target_idiom": "sacar los trapitos al sol",
+    "source_meaning": "to air dirty laundry",
+    "target_meaning": "to wash one's dirty linen in public"
+  },
+  {
+    "source_idiom": "sein wahres Gesicht zeigen",
+    "target_idiom": "enseñar las cartas",
+    "source_meaning": "to show one's true colors",
+    "target_meaning": "to show one's cards"
+  },
+  {
+    "source_idiom": "seine Pappenheimer kennen",
+    "target_idiom": "conocer el percal",
+    "source_meaning": "to know who one's dealing with",
+    "target_meaning": "to know the score"
+  },
+  {
+    "source_idiom": "seinen Segen zu etwas geben",
+    "target_idiom": "ver con buenos ojos",
+    "source_meaning": "to give one's blessing to",
+    "target_meaning": "to look favourably on"
+  },
+  {
+    "source_idiom": "seinen Senf dazugeben",
+    "target_idiom": "arrimar el hombro",
+    "source_meaning": "to add one's two cents (literally: \"to add one's mustard\")",
+    "target_meaning": "to do one's bit; pitch in"
+  },
+  {
+    "source_idiom": "sich auf seinen Lorbeeren ausruhen",
+    "target_idiom": "dormirse en los laureles",
+    "source_meaning": "to rest on one's laurels",
+    "target_meaning": "to rest on one's laurels"
+  },
+  {
+    "source_idiom": "sich aus dem Fenster lehnen",
+    "target_idiom": "jugarse la cabeza",
+    "source_meaning": "stick one's neck out",
+    "target_meaning": "to risk one's neck"
+  },
+  {
+    "source_idiom": "sich aus den Fingern saugen",
+    "target_idiom": "tirar fruta",
+    "source_meaning": "to think of something, to make up, to make up out of thin air, to invent, to pull out of one's ass (fabricate a claim with no factual basis or evidence)",
+    "target_meaning": "to pull out of one's ass; make it up as one goes along"
+  },
+  {
+    "source_idiom": "sich den Kopf zerbrechen",
+    "target_idiom": "romperse la cabeza",
+    "source_meaning": "rack one's brain",
+    "target_meaning": "to rack one's brain"
+  },
+  {
+    "source_idiom": "sich den Strick nehmen",
+    "target_idiom": "pegarse un tiro",
+    "source_meaning": "to hang oneself",
+    "target_meaning": "to shoot oneself"
+  },
+  {
+    "source_idiom": "sich die Seele aus dem Leib scheißen",
+    "target_idiom": "irse por la patilla",
+    "source_meaning": "to shit one's gut out",
+    "target_meaning": "to shit oneself"
+  },
+  {
+    "source_idiom": "sich einen Reim auf etwas machen",
+    "target_idiom": "salir de dudas",
+    "source_meaning": "to find an explanation for something",
+    "target_meaning": "to find out the answer"
+  },
+  {
+    "source_idiom": "sich etwas hinter die Ohren schreiben",
+    "target_idiom": "traer a la memoria",
+    "source_meaning": "to commit something to memory",
+    "target_meaning": "to jog one's memory"
+  },
+  {
+    "source_idiom": "sich etwas unter den Nagel reißen",
+    "target_idiom": "cazar al vuelo",
+    "source_meaning": "to acquire, get one's hands on (especially in a forcible or questionable way, or something that one doesn't own)",
+    "target_meaning": "to snap up (take quickly)"
+  },
+  {
+    "source_idiom": "sich gehen lassen",
+    "target_idiom": "echar una cana al aire",
+    "source_meaning": "to let oneself go (to cease to care about one's appearance)",
+    "target_meaning": "to let one's hair down"
+  },
+  {
+    "source_idiom": "sich im Kreis drehen",
+    "target_idiom": "hacer el círculo",
+    "source_meaning": "to go round in circles",
+    "target_meaning": "to go round in circles"
+  },
+  {
+    "source_idiom": "sich in Luft auflösen",
+    "target_idiom": "hacerse humo",
+    "source_meaning": "to vanish into thin air",
+    "target_meaning": "to vanish into thin air; to disappear"
+  },
+  {
+    "source_idiom": "sich in die Brust werfen",
+    "target_idiom": "picársela",
+    "source_meaning": "to puff oneself up",
+    "target_meaning": "to act conceitedly"
+  },
+  {
+    "source_idiom": "sich ins Zeug legen",
+    "target_idiom": "volar riata",
+    "source_meaning": "to work hard (at something)",
+    "target_meaning": "to work hard at a job or task."
+  },
+  {
+    "source_idiom": "sich lieb Kind machen",
+    "target_idiom": "hacerse querer",
+    "source_meaning": "to curry favor",
+    "target_meaning": "to endear oneself (to someone)"
+  },
+  {
+    "source_idiom": "sich nicht vom Fleck rühren",
+    "target_idiom": "guardar la casa",
+    "source_meaning": "stay put",
+    "target_meaning": "to hold the fort (at home)"
+  },
+  {
+    "source_idiom": "sich vom Acker machen",
+    "target_idiom": "salir por patas",
+    "source_meaning": "to clear off, to scram",
+    "target_meaning": "to scram; to run off."
+  },
+  {
+    "source_idiom": "so tun, als ob",
+    "target_idiom": "hacer de cuenta",
+    "source_meaning": "to make believe",
+    "target_meaning": "to pretend"
+  },
+  {
+    "source_idiom": "spanisch sprechen",
+    "target_idiom": "salir por peteneras",
+    "source_meaning": "to say something unintelligible",
+    "target_meaning": "to come up with something odd; to say something inappropriate"
+  },
+  {
+    "source_idiom": "starker Tobak",
+    "target_idiom": "de cal y canto",
+    "source_meaning": "strong stuff, strong meat",
+    "target_meaning": "firm; tough"
+  },
+  {
+    "source_idiom": "tagein tagaus",
+    "target_idiom": "día sí, día también",
+    "source_meaning": "day in and day out",
+    "target_meaning": "day in day out"
+  },
+  {
+    "source_idiom": "tun, was man nicht lassen kann",
+    "target_idiom": "hacer de su capa un sayo",
+    "source_meaning": "to do what one thinks one must do; to do what one wants",
+    "target_meaning": "to do whatever one fancies, to do as one pleases"
+  },
+  {
+    "source_idiom": "um Rat fragen",
+    "target_idiom": "dar hora",
+    "source_meaning": "to consult",
+    "target_meaning": "to give an appointment"
+  },
+  {
+    "source_idiom": "um den Finger wickeln",
+    "target_idiom": "tener en el bote",
+    "source_meaning": "to wrap around one's little finger; but typically with the implication of winning someone over by one’s charms",
+    "target_meaning": "to have someone eat out of one's hand"
+  },
+  {
+    "source_idiom": "um den heißen Brei herumreden",
+    "target_idiom": "andarse por las ramas",
+    "source_meaning": "beat about the bush",
+    "target_meaning": "to beat around the bush"
+  },
+  {
+    "source_idiom": "um die Ecke denken",
+    "target_idiom": "tener cerebro",
+    "source_meaning": "to think outside the box, to think laterally",
+    "target_meaning": "to use one's head, to use one's noggin"
+  },
+  {
+    "source_idiom": "unter Dach und Fach",
+    "target_idiom": "de puño y letra",
+    "source_meaning": "signed and sealed",
+    "target_meaning": "written, penned (by)"
+  },
+  {
+    "source_idiom": "unter aller Kanone",
+    "target_idiom": "de mala muerte",
+    "source_meaning": "dreadful, abysmal",
+    "target_meaning": "crummy, shoddy, grotty, crappy, godforsaken, seedy"
+  },
+  {
+    "source_idiom": "unter die Gürtellinie gehen",
+    "target_idiom": "hacer leña del árbol caído",
+    "source_meaning": "to go below the belt",
+    "target_meaning": "to kick someone when they are down"
+  },
+  {
+    "source_idiom": "unter einer Decke stecken",
+    "target_idiom": "estar de manga",
+    "source_meaning": "to be in cahoots",
+    "target_meaning": "to be in cahoots"
+  },
+  {
+    "source_idiom": "unter vier Augen",
+    "target_idiom": "a escondidas",
+    "source_meaning": "in private",
+    "target_meaning": "in secret"
+  },
+  {
+    "source_idiom": "viel um die Ohren haben",
+    "target_idiom": "comerse la cabeza",
+    "source_meaning": "to be busy, to have a lot to worry about",
+    "target_meaning": "to fret, worry"
+  },
+  {
+    "source_idiom": "vom Hundertsten ins Tausendste kommen",
+    "target_idiom": "cambiar de tercio",
+    "source_meaning": "to jump from topic to topic",
+    "target_meaning": "to change topic"
+  },
+  {
+    "source_idiom": "vom Regen in die Traufe kommen",
+    "target_idiom": "de Guatemala a Guatepeor",
+    "source_meaning": "out of the frying pan, into the fire ‎(from a bad situation to a worse one‎)",
+    "target_meaning": "out of the frying pan into the fire; going from bad to worse"
+  },
+  {
+    "source_idiom": "von A bis Z",
+    "target_idiom": "hasta el carné de identidad",
+    "source_meaning": "from A to Z (comprehensively)",
+    "target_meaning": "absolutely everything; totally and utterly"
+  },
+  {
+    "source_idiom": "von Grund auf",
+    "target_idiom": "desde cero",
+    "source_meaning": "from scratch, from the ground up",
+    "target_meaning": "from scratch"
+  },
+  {
+    "source_idiom": "von Mann zu Mann",
+    "target_idiom": "a escondidillas",
+    "source_meaning": "in private and in total honesty (of two men; sometimes used to indicate that the person is familiar with the matter at hand, especially if concerning male topics)",
+    "target_meaning": "behind someone's back; on the hush-hush"
+  },
+  {
+    "source_idiom": "von Tuten und Blasen keine Ahnung haben",
+    "target_idiom": "estar pez",
+    "source_meaning": "to be clueless",
+    "target_meaning": "to not have a clue"
+  },
+  {
+    "source_idiom": "von der Hand in den Mund leben",
+    "target_idiom": "vivir al día",
+    "source_meaning": "to live paycheck to paycheck, hand-to-mouth",
+    "target_meaning": "to live from day to day; to scrape a living"
+  },
+  {
+    "source_idiom": "von etwas Wind bekommen",
+    "target_idiom": "oír hablar de",
+    "source_meaning": "to get wind of something",
+    "target_meaning": "to hear of, to hear about"
+  },
+  {
+    "source_idiom": "von ganzem Herzen",
+    "target_idiom": "en cuerpo y alma",
+    "source_meaning": "wholeheartedly",
+    "target_meaning": "with all one's heart"
+  },
+  {
+    "source_idiom": "von vorn",
+    "target_idiom": "dale que dale",
+    "source_meaning": "over again; from the start",
+    "target_meaning": "again and again; on and on"
+  },
+  {
+    "source_idiom": "vor der eigenen Tür kehren",
+    "target_idiom": "mirarse el ombligo",
+    "source_meaning": "to be self-critical",
+    "target_meaning": "to navel-gaze"
+  },
+  {
+    "source_idiom": "warm essen",
+    "target_idiom": "llevarse a la boca",
+    "source_meaning": "to eat a warm meal",
+    "target_meaning": "to have (something) to eat"
+  },
+  {
+    "source_idiom": "was Sie nicht sagen",
+    "target_idiom": "vete a saber",
+    "source_meaning": "you don't say",
+    "target_meaning": "you tell me"
+  },
+  {
+    "source_idiom": "was zum Kuckuck",
+    "target_idiom": "se come",
+    "source_meaning": "what the heck",
+    "target_meaning": "the hell?; the heck?; when it's at home?"
+  },
+  {
+    "source_idiom": "wenn Ostern und Pfingsten auf einen Tag fallen",
+    "target_idiom": "el día que las vacas vuelen",
+    "source_meaning": "when pigs fly (never, expressed idiomatically)",
+    "target_meaning": "that'll be the day; never; when pigs fly"
+  },
+  {
+    "source_idiom": "wenn man vom Teufel spricht, kommt er",
+    "target_idiom": "hablando del rey de Roma",
+    "source_meaning": "speak of the devil and he shall appear",
+    "target_meaning": "speak of the devil"
+  },
+  {
+    "source_idiom": "wider Erwarten",
+    "target_idiom": "todo lo contrario",
+    "source_meaning": "contrary to expectations, unexpectedly",
+    "target_meaning": "just the opposite, on the contrary"
+  },
+  {
+    "source_idiom": "wie Espenlaub zittern",
+    "target_idiom": "estar hecho un flan",
+    "source_meaning": "to shake like a leaf",
+    "target_meaning": "to be a nervous wreck; like jelly"
+  },
+  {
+    "source_idiom": "wie Gott ihn schuf",
+    "target_idiom": "en pelota",
+    "source_meaning": "in his birthday suit (naked)",
+    "target_meaning": "in the buff, nude"
+  },
+  {
+    "source_idiom": "wie Kastor und Pollux sein",
+    "target_idiom": "estar a partir un piñón",
+    "source_meaning": "to be very close friends",
+    "target_meaning": "to get on (with someone); be bosom buddies; to get on like a house on fire"
+  },
+  {
+    "source_idiom": "wie aus Eimern schütten",
+    "target_idiom": "llover más que cuando enterraron a Zafra",
+    "source_meaning": "to rain buckets, to rain cats and dogs",
+    "target_meaning": "to rain cats and dogs; to bucket down"
+  },
+  {
+    "source_idiom": "wie die Made im Speck leben",
+    "target_idiom": "vivir con desahogo",
+    "source_meaning": "to live a comfortable life",
+    "target_meaning": "to live comfortably; to be well-off"
+  },
+  {
+    "source_idiom": "wie die Ölsardinen",
+    "target_idiom": "de bote en bote",
+    "source_meaning": "packed like sardines",
+    "target_meaning": "packed; full; full to the gills"
+  },
+  {
+    "source_idiom": "wie gewonnen, so zerronnen",
+    "target_idiom": "ir y venir",
+    "source_meaning": "easy come, easy go",
+    "target_meaning": "coming and going"
+  },
+  {
+    "source_idiom": "zu Gesicht bekommen",
+    "target_idiom": "al primer golpe de vista",
+    "source_meaning": "to set eyes on",
+    "target_meaning": "as soon as one sets one's eyes on something"
+  },
+  {
+    "source_idiom": "zu Herzen nehmen",
+    "target_idiom": "tomar a pecho",
+    "source_meaning": "take to heart",
+    "target_meaning": "to take to heart"
+  },
+  {
+    "source_idiom": "zu kurz kommen",
+    "target_idiom": "echar en falta",
+    "source_meaning": "to be neglected, to fall short",
+    "target_meaning": "to miss, lack"
+  },
+  {
+    "source_idiom": "zum Narren halten",
+    "target_idiom": "dar el pego",
+    "source_meaning": "to fool",
+    "target_meaning": "to fool"
+  },
+  {
+    "source_idiom": "zum Saufüttern",
+    "target_idiom": "a tutiplén",
+    "source_meaning": "in abundance, plentiful",
+    "target_meaning": "in abundance"
+  },
+  {
+    "source_idiom": "zum Teufel schicken",
+    "target_idiom": "mandar a paseo",
+    "source_meaning": "to send someone packing",
+    "target_meaning": "to send packing"
+  },
+  {
+    "source_idiom": "zum Tragen kommen",
+    "target_idiom": "dar resultado",
+    "source_meaning": "to have an effect, to take effect",
+    "target_meaning": "to take effect; to do the trick"
+  },
+  {
+    "source_idiom": "zum einen Ohr hinein- und zum anderen wieder hinausgehen",
+    "target_idiom": "entrar por un oído y salir por el otro",
+    "source_meaning": "go in one ear and out the other",
+    "target_meaning": "to go in one ear and out the other"
+  },
+  {
+    "source_idiom": "zur Salzsäule erstarren",
+    "target_idiom": "trabarse la lengua",
+    "source_meaning": "to become immobilized with fear",
+    "target_meaning": "to become tongue-tied"
+  },
+  {
+    "source_idiom": "zur Schau tragen",
+    "target_idiom": "hacer alarde",
+    "source_meaning": "to flaunt, to show off, to sport, to put on display",
+    "target_meaning": "to flaunt, to show off"
+  },
+  {
+    "source_idiom": "zur Sprache kommen",
+    "target_idiom": "salir a colación",
+    "source_meaning": "to come up for discussion",
+    "target_meaning": "to come up (be mentioned)"
+  },
+  {
+    "source_idiom": "zur Strecke bringen",
+    "target_idiom": "dar caza",
+    "source_meaning": "to hunt down",
+    "target_meaning": "to give chase"
+  },
+  {
+    "source_idiom": "zwei Fliegen mit einer Klappe schlagen",
+    "target_idiom": "matar dos pájaros de un tiro",
+    "source_meaning": "kill two birds with one stone",
+    "target_meaning": "to kill two birds with one stone"
+  },
+  {
+    "source_idiom": "zweiter Sieger",
+    "target_idiom": "tener mal perder",
+    "source_meaning": "loser",
+    "target_meaning": "to be a bad loser"
+  },
+  {
+    "source_idiom": "zwischen Skylla und Charybdis sein",
+    "target_idiom": "entre Escila y Caribdis",
+    "source_meaning": "to be between Scylla and Charybdis",
+    "target_meaning": "between Scylla and Charybdis; between a rock and a hard place"
+  },
+  {
+    "source_idiom": "zwischen Tür und Angel",
+    "target_idiom": "sobre la marcha",
+    "source_meaning": "while standing; while in a hurry; in passing; in a situation where one does not have or take the time to do something properly",
+    "target_meaning": "on the fly, on the go, as one goes along"
+  },
+  {
+    "source_idiom": "über Gott und die Welt reden",
+    "target_idiom": "pegar la hebra",
+    "source_meaning": "to chit-chat (to engage in small talk, to discuss unimportant matters)",
+    "target_meaning": "to shoot the breeze; to chitchat"
+  },
+  {
+    "source_idiom": "über Nacht",
+    "target_idiom": "de la noche a la mañana",
+    "source_meaning": "overnight (within a short period of time)",
+    "target_meaning": "overnight (in a very short space of time)"
+  },
+  {
+    "source_idiom": "über den Berg sein",
+    "target_idiom": "escaparse en una tabla",
+    "source_meaning": "to turn the corner, to get out of the woods",
+    "target_meaning": "to have a lucky escape; to get out of a tight corner"
+  },
+  {
+    "source_idiom": "über den Jordan gehen",
+    "target_idiom": "colgar los tenis",
+    "source_meaning": "to die",
+    "target_meaning": "to die"
+  },
+  {
+    "source_idiom": "über die Dörfer",
+    "target_idiom": "en concepto de",
+    "source_meaning": "through the countryside; via country roads (as opposed to highways)",
+    "target_meaning": "by means of; by way of; through"
+  },
+  {
+    "source_idiom": "über die Runden kommen",
+    "target_idiom": "llegar a fin de mes",
+    "source_meaning": "to make ends meet",
+    "target_meaning": "to make ends meet"
+  },
+  {
+    "source_idiom": "über einen Kamm scheren",
+    "target_idiom": "meter en el mismo saco",
+    "source_meaning": "to tar with the same brush",
+    "target_meaning": "to tar with the same brush; lump together"
+  },
+  {
+    "source_idiom": "über seine Verhältnisse leben",
+    "target_idiom": "vivir por encima de sus posibilidades",
+    "source_meaning": "to live beyond one's means",
+    "target_meaning": "to live beyond one's means"
+  }
+]
