@@ -1,5 +1,7 @@
 ﻿# G-IdiomAlign
 
+[**Project website**](https://nlp2ct.github.io/G-IdiomAlign/) · [**Paper (ACL 2026)**](https://aclanthology.org/2026.acl-long.1794/)
+
 This repository is the open-source release package for the G-IdiomAlign, a gloss-pivoted benchmark for evaluating cross-lingual idiom alignment and generation with explicit semantic grounding.
 
 ## Abstract
